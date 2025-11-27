@@ -11,23 +11,3 @@ theme = 'paige'
 [params]
   # Paige theme params - customize as needed
   description = "Welcome to Sun Sea Sangria"
-
-[paige.pages]
-disable_authors = true
-disable_date = true
-disable_keywords = true
-disable_next = true
-disable_prev = true
-disable_reading_time = true
-disable_series = true
-disable_toc = true
-disable_word_count = true
-
-[paige.subpages]
-disable_authors = true
-disable_date = true
-disable_keywords = true
-disable_reading_time = true
-disable_series = true
-disable_summary = true
-disable_word_count = true
