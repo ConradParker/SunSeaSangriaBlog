@@ -7,7 +7,7 @@ Bienvenidos to SunSeaSangria.com – your sunny window into the very best of Cos
 
 Whether you’re lucky enough to live here or you’re planning your next escape to the beautiful coast, we’ve got everything you need: the latest events and fiestas, hidden gem restaurants, up-to-the-minute flight deals and airport info, weather forecasts that actually help you plan your beach day, things to do with the 
 
-![](/images/img_7977.jpeg)
+![]()
 
 kids , local tips, and of course… plenty of sangria-worthy recommendations.
 
