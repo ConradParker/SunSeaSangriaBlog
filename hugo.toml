@@ -1,0 +1,13 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Sun Sea Sangria'
+theme = 'paige'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  # Paige theme params - customize as needed
+  description = "Welcome to Sun Sea Sangria"
