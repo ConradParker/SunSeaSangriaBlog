@@ -7,10 +7,11 @@
         });
       }
     });
-    // Handle invite/recovery tokens - open the identity widget to set password
+    // Handle invite/recovery tokens - redirect to admin which handles it better
     const hash = window.location.hash;
     if (hash && (hash.includes("invite_token") || hash.includes("confirmation_token") || hash.includes("recovery_token"))) {
-      window.netlifyIdentity.open();
+      // Redirect to admin page with the hash - Decap CMS handles tokens better
+      window.location.href = "/admin/" + hash;
     }
   }
 </script>
