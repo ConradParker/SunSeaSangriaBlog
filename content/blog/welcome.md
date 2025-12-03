@@ -32,8 +32,4 @@ This isn’t a glossy tourist board brochure. It’s written by someone who’s 
 
 So whether you’re planning your first trip, already own a little place in the sun, or you’re just here for the pretty photos and a bit of Mediterranean escapism… pull up a chair, pour yourself something cold and stick around.
 
-Welcome,
-
-Joanne here,
-
 SunSeaSangria – Life on the Costa Blanca
