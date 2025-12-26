@@ -4,8 +4,10 @@ date: 2025-12-03T09:15:00.000+01:00
 draft: false
 paige:
   pages:
+    disable_collections: true
     disable_date: true
     disable_reading_time: true
+    disable_sections: true
   style: |
     #paige-page-content { text-align: center; }
 ---
