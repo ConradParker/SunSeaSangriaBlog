@@ -1,7 +1,7 @@
 ---
 title: "Winter on the Costa Blanca "
 date: 2025-12-16T10:14:00.000+01:00
-draft: true
+draft: false
 description: ""
 ---
 Winter in the northern Costa Blanca,  charming towns like Denia, Jávea (Xàbia), Altea, and Calpe, is remarkably mild and inviting compared to much of Europe. Enjoying a Mediterranean climate protected by surrounding mountains like Montgó, the region sees average daytime temperatures ranging from 15–18°C (59–64°F), often climbing to 20°C or more on sunny days, with nights cooling to around 7–10°C. Rainfall is occasional and light, mostly in autumn spillover or brief showers, while sunshine averages 5–6 hours daily—even in January—making it a popular escape for those seeking winter sun without extreme cold. Snow is virtually unheard of at sea level, though rare frosts can occur inland.
