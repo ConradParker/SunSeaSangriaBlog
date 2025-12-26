@@ -1,0 +1,16 @@
+{{- $src := .Destination -}}
+{{- $alt := .Text -}}
+{{- $title := .Title -}}
+
+{{- partial "paige/image.html" (dict
+    "alt" $alt
+    "breakpoints" true
+    "class" "object-fit-cover rounded-4 shadow"
+    "height" "20rem"
+    "loading" "lazy"
+    "page" .Page
+    "process" "webp"
+    "src" $src
+    "title" $title
+    "width" "100%"
+) -}}
