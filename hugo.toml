@@ -9,5 +9,7 @@ theme = 'paige'
       unsafe = true
 
 [params]
-  # Paige theme params - customize as needed
   description = "Welcome to Sun Sea Sangria"
+
+[params.paige.site]
+  disable_credit = true

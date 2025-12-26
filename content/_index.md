@@ -3,6 +3,9 @@ title: " "
 date: 2025-12-03T09:15:00.000+01:00
 draft: false
 paige:
+  pages:
+    disable_date: true
+    disable_reading_time: true
   style: |
     #paige-page-content { text-align: center; }
 ---
