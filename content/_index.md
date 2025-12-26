@@ -2,6 +2,9 @@
 title: " "
 date: 2025-12-03T09:15:00.000+01:00
 draft: false
+paige:
+  style: |
+    #paige-page-content { text-align: center; }
 ---
 
 Bienvenidos to SunSeaSangria.com — your sunny guide to Costa Blanca North!
