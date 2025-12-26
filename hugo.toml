@@ -12,4 +12,5 @@ theme = 'paige'
   description = "Welcome to Sun Sea Sangria"
 
 [params.paige.site]
+  disable_breadcrumbs = true
   disable_credit = true
