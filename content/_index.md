@@ -1,5 +1,5 @@
 ---
-title: Home
+title: " "
 date: 2025-12-03T09:15:00.000+01:00
 draft: false
 ---
