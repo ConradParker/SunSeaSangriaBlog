@@ -13,4 +13,14 @@ Welcome to the good life!
 
 
 
-![](/images/img_7977.jpeg)
+{{< paige/image
+    alt="Costa Blanca"
+    breakpoints=true
+    class="object-fit-cover rounded-4 shadow"
+    fetchpriority="high"
+    height="20rem"
+    loading="eager"
+    process="webp"
+    src="/images/img_7977.jpeg"
+    width="100%"
+>}}
