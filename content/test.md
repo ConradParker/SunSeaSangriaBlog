@@ -1,5 +1,5 @@
 ---
-title: Through the looking glass! weekly newsround
+title: "Through the looking glass, weekly news  roundup "
 date: 2025-12-28T11:20:00.000+01:00
 draft: false
 ---
@@ -11,14 +11,14 @@ This week, spanning the end-of-year holidays and the start of 2026, was dominate
 
 •  **New Year Celebrations and Transitions**: Spain welcomed 2026 with traditional festivities, including the eating of 12 grapes at midnight and family gatherings. The first babies of the year were born across the country, and attention turned to upcoming events like Three Kings’ Day (January 6). Political figures, including Prime Minister Pedro Sánchez, reflected on 2025 achievements, while opposition leaders critiqued the government.
 
-•  **Upcoming Changes Effective January 2026**:
+**Game-Changing Reforms Kick In for 2026**:
 
-	•  Drivers must now carry a **V-16 emergency beacon light** (replacing traditional warning triangles) for breakdowns or accidents.
+•  Road safety gets a high-tech upgrade: Drivers now **must** carry the glowing **V-16 connected emergency beacon** (ditching old warning triangles) to signal breakdowns safely and alert authorities instantly.
 
-	•  New rules for pensions, e-scooters (insurance likely delayed), bank transaction monitoring, and public holidays (14 national/regional days, including several long weekends).
+•  Commutes revolutionized with a shiny new nationwide **€60/month unlimited travel pass** for trains and buses across all regions.
 
-	•  A new nationwide €60/month travel pass for unlimited commuter trains and buses launches.
+•  Pensions rise, social contributions adjust, e-scooter insurance rules tighten (though possibly delayed), bank transactions face closer scrutiny, and a calendar packed with **14 holidays** promises epic long weekends.
 
-	•  Economic forecasts remain positive, with growth projections and pension spending hitting records.
+•  Brighter economic outlook with strong growth forecasts and record pension spending.
 
 Overall, a quiet holiday week disrupted by weather, with focus shifting to 2026 reforms and potential cold snaps ahead. Sports, politics, and year-end reviews filled lighter coverage.
