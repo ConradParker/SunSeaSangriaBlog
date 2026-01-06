@@ -22,3 +22,5 @@ This week, spanning the end-of-year holidays and the start of 2026, was dominate
 •  Brighter economic outlook with strong growth forecasts and record pension spending.
 
 Overall, a quiet holiday week disrupted by weather, with focus shifting to 2026 reforms and potential cold snaps ahead. Sports, politics, and year-end reviews filled lighter coverage.
+
+![](/images/img_8038.png)
