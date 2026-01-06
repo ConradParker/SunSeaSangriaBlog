@@ -1,0 +1,8 @@
+---
+title: "Barking Brilliant Beaches: Paws on the Costa Blanca."
+date: 2026-01-06T15:59:00.000+01:00
+draft: false
+---
+The Costa Blanca isn’t just a haven for sun-seekers and sangria lovers—it’s also a tail-wagging paradise for dogs and their owners. With the highest number of official dog-friendly beaches in Spain, this stunning stretch of Alicante coastline welcomes four-legged friends year-round to splash in crystal-clear waters, chase balls on golden sands, and soak up the Mediterranean breeze. Standouts include Playa de Agua Amarga near Alicante city—a well-equipped sandy spot with dog showers and calm shallows ideal for play; Punta del Riu in El Campello, a pebbly cove backed by a massive dog park for extra zoomies; and the scenic Caleta dels Gossets in Santa Pola, a tranquil rocky cala surrounded by cliffs and pines. Further south, Cala de Cabo Peñas (or Cala Mosca II) in Orihuela offers fine white sand and easy access, while northern gems like Playa Mar y Montaña in Altea provide pebble shores with epic views. Always pack poop bags, keep your pup under control, and check local rules—but with these spots, your Costa Blanca adventures just got a whole lot furrier!
+
+![](/images/img_8072.jpeg)
