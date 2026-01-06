@@ -19,4 +19,4 @@ Dive into the vibrant heart of Spain every week with *Through the Looking Glass*
 
 Welcome to the good life!
 
-![](/images/img_7987.jpeg)
+![](/images/img_8020.jpeg)
