@@ -16,9 +16,4 @@ Snoopy isn’t with us anymore—he left a massive hole in our hearts when he pa
 
 
 
-
-
-
-
-
-![](/images/img_8078.jpeg)
+![](/images/img_8083.jpeg)
