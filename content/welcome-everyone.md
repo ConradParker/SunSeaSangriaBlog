@@ -15,4 +15,4 @@ Oh, and because life's too short for boring blogs... you'll also find my giggle-
 
 Come on in — the sangria's chilled and the welcome mat's out. So glad you're here!
 
-![](/images/img_8075.jpeg)
+![](/images/img_8018.jpeg)
