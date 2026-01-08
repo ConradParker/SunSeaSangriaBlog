@@ -1,5 +1,5 @@
 ---
-title: Welcome to SunSeaSangria
+title: SunSeaSangria… and a Big Warm Welcome!
 date: 2025-11-27
 draft: false
 description: ""
