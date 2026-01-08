@@ -14,3 +14,5 @@ Every week, hop Through the Looking Glass for your bite-sized blast of what's re
 Oh, and because life's too short for boring blogs... you'll also find my giggle-out-loud tales of our legendary little rescue dog Snoopy (the tiny terror who stole our hearts and half our socks), the brand-new SunSeaSangria Book Club where we gossip about brilliant books over virtual vino, and whatever random joy I stumble across along the way.
 
 Come on in — the sangria's chilled and the welcome mat's out. So glad you're here!
+
+![](/images/img_8075.jpeg)
