@@ -2,6 +2,7 @@
 title: "Tales of a Tail-Wagging Troublemaker: Remembering Snoopy"
 date: 2026-01-08T10:01:00.000+01:00
 draft: false
+menu_weight: 40
 ---
 Meet Snoopy, our pint-sized rescue dog who crash-landed into our lives straight from a little town in Andalucía. His previous owner, a lovely lady who’d fallen ill, simply couldn’t bear to say goodbye to him. Our friend who lived in the mountains begged us to rescue the poor little doggy.  
 
