@@ -6,6 +6,7 @@ paige:
   pages:
     disable_collections: true
     disable_date: true
+    disable_pages: true
     disable_reading_time: true
     disable_sections: true
   style: |
