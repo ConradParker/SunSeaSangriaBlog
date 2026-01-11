@@ -1,0 +1,106 @@
+{{ $page := . }}
+
+{{ $basePath := path.Clean (urls.Parse (relLangURL "")).Path }}
+{{ $breadcrumbs := $page.Ancestors.Reverse | and ($page.Param "paige.site.disable_breadcrumbs" | not) }}
+{{ $description := $page.Param "paige.site.description" | markdownify | and ($page.Param "paige.site.disable_description" | not) }}
+{{ $first := templates.Exists "partials/paige/site-header-first.html" }}
+{{ $last := templates.Exists "partials/paige/site-header-last.html" }}
+{{ $links := false }}
+{{ $menu := $page.Param "paige.site.disable_menu" | not }}
+{{ $pills := false }}
+{{ $style := $page.Param "paige.site.menu_style" }}
+{{ $tabs := false }}
+{{ $title := site.Title | markdownify | and ($page.Param "paige.site.disable_title" | not) }}
+{{ $underline := false }}
+
+{{ if eq $basePath "/" }}
+    {{ $basePath = "" }}
+{{ end }}
+
+{{ $pagePath := strings.TrimPrefix $basePath $page.RelPermalink }}
+
+{{ with $style }}
+    {{ if eq . "pills" }}
+        {{ $pills = true }}
+    {{ else if eq . "tabs" }}
+        {{ $tabs = true }}
+    {{ else if eq . "underline" }}
+        {{ $underline = true }}
+    {{ else }}
+        {{ $links = true }}
+    {{ end }}
+{{ else }}
+    {{ $links = true }}
+{{ end }}
+
+{{ if or $breadcrumbs $description $first $last $menu $title }}
+    <header id="paige-site-header">
+        {{ partial "paige/func-include.html" (dict "name" "site-header-first%s.html" "page" $page) | safeHTML }}
+
+        {{ with $title }}
+            <div class="display-1 fw-bold {{ if not (or $breadcrumbs $description $menu) }} paige-row-tall {{ end }} text-center" id="paige-site-title">
+                <a class="text-body text-decoration-none" href="{{ relLangURL `` }}">{{ . }}</a>
+            </div>
+        {{ end }}
+
+        {{ with $description }}
+            <div class="lead paige-row-tall text-center" id="paige-site-description">{{ . }}</div>
+        {{ end }}
+
+        {{ if $menu }}
+            {{/* Build combined menu from config + pages with menu_weight */}}
+            {{ $menuItems := slice }}
+
+            {{/* Add items from site.Menus.main */}}
+            {{ range site.Menus.main }}
+                {{ $menuItems = $menuItems | append (dict "Name" .Name "URL" .URL "Weight" .Weight "IsPage" false) }}
+            {{ end }}
+
+            {{/* Add pages with menu_weight */}}
+            {{ range where site.RegularPages "Params.menu_weight" "!=" nil }}
+                {{ $menuItems = $menuItems | append (dict "Name" .Title "URL" .RelPermalink "Weight" .Params.menu_weight "IsPage" true) }}
+            {{ end }}
+
+            {{/* Sort by weight */}}
+            {{ $menuItems = sort $menuItems "Weight" }}
+
+            {{ if $menuItems }}
+                <nav aria-label="{{ i18n `paige_menu` }}" class="paige-row-tall" id="paige-site-menu">
+                    <ul class="align-items-center justify-content-center nav {{ if $pills }} nav-pills {{ else if $tabs }} nav-tabs {{ else if $underline }} nav-underline {{ end }}">
+                        {{ range $menuItems }}
+                            {{ $menuPath := strings.TrimPrefix $basePath .URL }}
+
+                            {{ $home := and (eq $menuPath "/") (eq $page.Section "") }}
+                            {{ $menuMatch := and (ne $menuPath "/") (hasPrefix $pagePath $menuPath) }}
+                            {{ $section := and (ne $menuPath "/") (hasPrefix $menuPath (printf "/%s/" $page.Section)) }}
+
+                            {{ $active := or $home $menuMatch $section }}
+
+                            <li class="nav-item">
+                                <a {{ if $active }} aria-current="page" {{ end }} class="{{ if $active }} active {{ if $links }} fw-bold text-body {{ end }} {{ end }} nav-link {{ if $links }} text-decoration-underline {{ end }}" href="{{ .URL }}" {{ with partial "paige/func-target.html" (dict "page" $page "url" .URL) }} target="{{ . }}" {{ end }}>{{ .Name | markdownify }}</a>
+                            </li>
+                        {{ end }}
+                    </ul>
+                </nav>
+            {{ end }}
+        {{ end }}
+
+        {{ with $breadcrumbs }}
+            <nav aria-label="{{ i18n `paige_breadcrumbs` }}" class="paige-row-tall" id="paige-site-breadcrumbs">
+                <div class="d-flex justify-content-center">
+                    <ol class="breadcrumb mb-0">
+                        {{ range . }}
+                            {{ $title := cond .IsHome (i18n "paige_home") .LinkTitle }}
+
+                            <li class="breadcrumb-item">
+                                <a href="{{ .RelPermalink }}">{{ $title | markdownify | plainify | htmlUnescape }}</a>
+                            </li>
+                        {{ end }}
+                    </ol>
+                </div>
+            </nav>
+        {{ end }}
+
+        {{ partial "paige/func-include.html" (dict "name" "site-header-last%s.html" "page" $page) | safeHTML }}
+    </header>
+{{ end }}

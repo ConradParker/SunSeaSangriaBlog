@@ -29,16 +29,9 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Draft", name: "draft", widget: "boolean", default: false }
-      - label: "Menu"
-        name: "menu"
-        widget: "object"
+      - label: "Menu Weight (leave empty to hide from menu, lower numbers appear first)"
+        name: "menu_weight"
+        widget: "number"
         required: false
-        collapsed: true
-        fields:
-          - label: "Main Menu"
-            name: "main"
-            widget: "object"
-            required: false
-            fields:
-              - { label: "Weight (lower = first)", name: "weight", widget: "number", default: 100, required: false }
+        hint: "Home=10, Blog=20. Set 30+ to appear after Blog."
       - { label: "Body", name: "body", widget: "markdown" }
