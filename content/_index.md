@@ -24,4 +24,4 @@ Come on in — the sangria's chilled and the welcome mat's out. So glad you're h
 
 Welcome to the good life!
 
-![](/images/img_7975.jpeg)
+![](/images/img_7987.jpeg)
