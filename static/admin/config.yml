@@ -8,6 +8,27 @@ media_folder: assets/images
 public_folder: /images
 
 collections:
+  - name: "series"
+    label: "Story Series"
+    folder: "content/series"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false }
+      - label: "Featured Image"
+        name: "image"
+        widget: "image"
+        required: false
+        hint: "Main image shown at the top of the series page"
+      - label: "Menu Weight (leave empty to hide from menu)"
+        name: "menu_weight"
+        widget: "number"
+        required: false
+        hint: "Home=10, Blog=20. Set 30+ to appear after Blog."
+      - { label: "Body", name: "body", widget: "markdown", hint: "Introduction to this story series" }
+
   - name: "blog"
     label: "Blog"
     folder: "content/blog"
@@ -18,6 +39,15 @@ collections:
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Draft", name: "draft", widget: "boolean", default: false }
       - { label: "Description", name: "description", widget: "string", required: false }
+      - label: "Series"
+        name: "series"
+        widget: "relation"
+        collection: "series"
+        search_fields: ["title"]
+        value_field: "{{slug}}"
+        display_fields: ["title"]
+        required: false
+        hint: "Optionally assign this post to a story series"
       - { label: "Body", name: "body", widget: "markdown" }
 
   - name: "pages"
