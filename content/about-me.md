@@ -4,31 +4,53 @@ date: 2026-01-15T16:37:00.000+01:00
 draft: false
 menu_weight: 10
 ---
-**About Me – Joanne from SunSeaSangria**
+**SunSeaSangria**
 
-¡Hola! I’m Joanne, and I’ve been living the Costa Blanca for over 20 years now. What began as “lets by a house in the sun” quickly turned into “sorry UK, we’ve have had enough of those great skies” and we’ve been living happily ever since.
+¡Hola! I’m Joanne, and I’ve called the Costa Blanca home for over 20 years. What started as a sunny “let’s buy a holiday house” dream quickly became a full-on “sorry, UK—we’re staying for the blue skies and never looking back” reality. And honestly? We’ve never been happier.
 
-Back in the day we ran two little apartments right here under the name **SunSeaSangria**. For 14+ years we welcomed hundreds of brilliant guests who came for the sea views and left with slightly pinker noses, fuller hearts, and probably a few too many stories about that one epic sangria session at sunset. Those apartments weren’t just a side hustle—they were our crash course in Spanish life, teaching us everything from how to navigate Spanish red tape, to making wonderful friends and bringing our children up here.
+For more than 14 years, my husband and I ran two little apartments under the name **SunSeaSangria**. We welcomed hundreds of amazing guests who arrived for the sea views and departed with sun-kissed noses, fuller hearts, and probably a few legendary stories from those epic sunset sangria sessions. Those apartments weren’t just a business—they were our immersive crash course in real Spanish life: mastering the endless red tape, building lifelong friendships, and raising our kids surrounded by almond blossoms and beach days.
 
-Since then life has been gloriously chaotic in the best way. I’ve:
+Life since then has been wonderfully, gloriously chaotic. Along the way I’ve:
 
-•  Cleaned more villas and apartments than I care to count (pro tip: never underestimate the power of a rogue flip-flop under the bed)
+•  Cleaned more villas and holiday lets than I ever thought possible (pro tip: a rogue flip-flop or mystery underwear under the bed can turn even the tidiest guest into a detective story).
 
-•  Hand-poured scented candles that smelled like orange blossom had a love child with the Mediterranean breeze
+•  Hand-poured hundreds of homemade scented candles that turned our home into a fragrant haven.
 
-•  Taught English online to students worldwide—usually while pretending the rooster next door wasn’t auditioning for the lead in a horror film, the joys of living in a Spanish village.
+•  Taught English online to students across the globe—sometimes mid-fiesta, with fireworks exploding outside and my poor students convinced World War III had begun.
 
-And now? I’m finally doing what I’ve wanted to do for ages: bringing you **SunSeaSangria** as a proper website and blog. No corporate gloss, no filtered nonsense—just real life on the Costa Blanca from someone who’s lived every glorious, ridiculous, almond-blossom-pink moment of it.
+Now, I’m finally turning that longtime dream into reality: relaunching **SunSeaSangria** as a proper website and blog. No corporate polish, no filtered perfection—just honest, lived-in stories from someone who’s experienced every almond-blossom-pink, ridiculously beautiful (and occasionally absurd) moment of Costa Blanca life.
 
-Here’s what you’ll find around here:
+Here’s what you’ll discover here:
 
-•  Insider guides to our favourite hidden beaches, mountain villages and towns (the ones even some locals have forgotten about)
+•  Secret insider guides to hidden beaches, forgotten mountain villages, and charming towns even some locals have overlooked.
 
-•  Where to get the best sunrise coffee, lazy long lunches and dangerously good late-night tapas
+•  The very best spots for sunrise coffee, long lazy lunches, and those dangerously addictive late-night tapas.
 
-•  The honest bits: the stunning views AND the “only in Spain” moments that make you laugh/cry/sigh simultaneously
+•  The real talk: breathtaking views alongside the classic “only in Spain” moments that make you laugh, cry, and sigh all at once.
 
-•  Practical tips for holidaymakers, expats, and anyone googling “can I really move to Spain and survive .
+•  Down-to-earth practical advice for holidaymakers, would-be expats, and anyone Googling “can we actually move to Spain and make it work?”
+
+Whether you’re planning your first trip, dreaming of a permanent move, or just craving a dose of Mediterranean sunshine from your screen—pull up a chair, grab a sangria (virtual or real), and let’s share the good life on the Costa Blanca.
+
+¡Bienvenidos! 🌞🍹
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![](/images/img_5205.jpeg)
 
 ![](/images/img_8062.jpeg)
 
