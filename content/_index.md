@@ -18,9 +18,7 @@ Whether you're already lounging here like a local, plotting your great escape to
 
 Every week, hop Through the Looking Glass for your bite-sized blast of what's really going on across Spain — politics (let’s keep that small), weather drama, fiestas, and all the quirky changes that keep things spicy. Perfect for nosy expats, trip-planners, or anyone who's a little bit obsessed with this gorgeous country. Hit subscribe and we'll slide it into your inbox like a friendly postcard - short, sweet, and zero boredom guaranteed!
 
-Oh, and because life's too short for boring blogs... you'll also find my giggle-out-loud tales of our legendary little rescue dog Snoopy (the tiny terror who had more asventures than we most dogs have in a lifetime. Join the brand-new SunSeaSangria Book Club where we gossip about brilliant books over virtual vino, and whatever book we find along the way.
-
-Come on in — the sangria's chilled and the welcome mat's out. So glad you're here!
+Oh, and because life's too short for boring blogs... you'll also find my giggle-out-loud tales of our legendary little rescue dog Snoopy (the tiny terror who was the accidental adventurer. Join the brand-new SunSeaSangria Book Club where we gossip about brilliant books over virtual vino, and whatever book we find along the way.
 
 Welcome to the good life!
 
