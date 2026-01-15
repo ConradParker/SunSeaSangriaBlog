@@ -1,5 +1,5 @@
 ---
-title: "Tales of a Tail-Wagging Troublemaker: Remembering Snoopy"
+title: Snoopy Chronicles
 date: 2026-01-08T10:01:00.000+01:00
 draft: false
 menu_weight: 40
