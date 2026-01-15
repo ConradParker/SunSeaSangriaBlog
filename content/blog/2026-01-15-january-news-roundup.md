@@ -6,7 +6,7 @@ series: through-the-looking-glass
 ---
 **Costa Blanca North Highlights: Quiet Post-Holiday Energy**
 
-The coast is easing back into routine after the New Year’s fireworks (Calpe’s seafront display by the Peñón was a stunner!). Towns like Javea, Moraira, Altea, Benissa, and Alfaz del Pi are quieter—perfect for locals and longer-stay visitors. Upcoming: Keep an eye on the **Fiesta de San Sebastián** vibes in Benissa (late January animal blessings and medieval market vibes from Jan 28–Feb 1). Property scene stays strong: International demand (Brits, Dutch, etc.) keeps pushing prices up 5–7% in premium spots like Altea Hills, Moraira, Calpe, and Benissa—yields 6–10% possible in high-season areas. Land shortages in those gems mean steady growth; if you’re buying or renting long-term, 2026 looks competitive but solid.
+The coast is easing back into routine after the New Year party’s. Towns like Javea, Moraira, Altea, Benissa, and Alfaz del Pi are quieter—perfect for locals and longer-stay visitors. Upcoming: Keep an eye on the **Fiesta de San Sebastián** vibes in Benissa (late January animal blessings and medieval market vibes from Jan 28–Feb 1). Property scene stays strong: International demand (Brits, Dutch, etc.) keeps pushing prices up 5–7% in premium spots like Altea Hills, Moraira, Calpe, and Benissa—yields 6–10% possible in high-season areas. Land shortages in those gems mean steady growth; if you’re buying or renting long-term, 2026 looks competitive but solid.
 
 **National Spain News for Expats: Transport Win & Other Shifts**
 
