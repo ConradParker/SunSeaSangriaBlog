@@ -1,5 +1,5 @@
 ---
-title: "Sun, Sea & Sangria Guide: Northern Costa Blanca"
+title: Sun, Sea & Sangria Guide
 date: 2026-01-15T18:12:00.000+01:00
 draft: false
 menu_weight: 10
