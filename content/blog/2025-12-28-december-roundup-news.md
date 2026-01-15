@@ -4,6 +4,9 @@ date: 2025-12-28T11:07:00.000+01:00
 draft: false
 series: through-the-looking-glass
 ---
+\
+Welcome to the very first edition of **Looking Through the Looking Glass** – your weekly snapshot of what’s happening across **Costa Blanca North**. As we head into 2026, the coast is shaking off the festive sparkle and getting back to its sunny, laid-back rhythm. From the dramatic Peñón de Ifach towering over us here in Calpe, to the charming streets of Javea, Moraira, Altea, Benissa, Alfaz del Pi, and Benidorm’s lively energy, here’s the key news and nuggets that matter to expats, residents, and holidaymakers.
+
 **Key News in Spain This Week (Late December 2025 – Early January 2026)**
 
 This week, spanning the end-of-year holidays and the start of 2026, was dominated by **weather events**, New Year celebrations, and forward-looking policy changes.
