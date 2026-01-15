@@ -39,11 +39,3 @@ Whether you’re planning your first trip, dreaming of a permanent move, or just
 ¡Bienvenidos! 🌞🍹
 
 ![](/images/img_8062.jpeg)
-
-I still pinch myself every February when the almond trees explode into pink perfection—like nature’s own Instagram filter. After 20+ years, the Costa Blanca still feels like magic… most days. The other days it’s just me yelling at the Wi-Fi while a lizard photobombs my Zoom lesson.
-
-So whether you’re booking your first trip, already have a little place in the sun, or you’re just here daydreaming with a cold drink in hand—pull up a virtual chair on the terraza. Pour something refreshing. Stay a while.
-
-¡Salud, mi amigo!
-
-Joanne
