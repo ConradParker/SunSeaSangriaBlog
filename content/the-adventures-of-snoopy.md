@@ -2,7 +2,7 @@
 title: Paws & Mischief
 date: 2026-01-08T10:01:00.000+01:00
 draft: false
-menu_weight: 100
+menu_weight: 10
 ---
 **Tails of a Tale Wagging Troublemaker - Remembering Snoopy**
 
