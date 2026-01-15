@@ -5,11 +5,11 @@ draft: false
 description: The Chief Territory Marker
 series: test-story
 ---
-It was late July, my son’s birthday, and the apartment was buzzing with laughter and excitement. We’d spent the previous week on a full doggie shopping spree: the fluffiest bed money could buy, a shiny bowl that screamed “I’m fancy,” and enough squeaky toys to start our own orchestra. We were equal parts thrilled and terrified—this tiny black-and-white tornado was about to crash-land into our lives.
+It was late July, my son’s birthday, and the apartment was buzzing with laughter and excitement. We’d spent the previous week on a full doggie shopping spree: the fluffiest bed money could buy, a shiny bowl and a lovely new collar and too many toys. We were equal parts thrilled and terrified—this tiny black-and-white tornado was about to crash-land into our lives.
 
-The doorbell rang. In burst Snoopy: a wriggling, tail-thrashing bundle of pure chaos wrapped in fur. He hit the floor like he owned the place, immediately launching a full inspection tour with the enthusiasm of a tiny real-estate agent. Sniff sniff, approve, claim—repeat.
+The doorbell rang. In burst Snoopy: a wriggling bundle of pure chaos wrapped in fur. He hit the floor like he owned the place, immediately launching a full inspection tour with the enthusiasm of a tiny real-estate agent. Sniff sniff, approve, claim—repeat.
 
-My son? Not sold yet. He parked himself on the sofa, methodically demolishing birthday presents while side-eyeing this furry invader like, “Who invited you to MY party?” Every time Snoopy trotted too close, my son would freeze mid-rip of wrapping paper, as if sudden stillness would make the newcomer disappear.
+My son? Not sold yet. He jumped on the sofa, methodically demolishing birthday presents while side-eyeing this furry invader like, “Who invited you to MY party?” Every time Snoopy trotted too close, my son would freeze mid-rip of wrapping paper, as if sudden stillness and a slight scream would make the newcomer disappear.
 
 My daughter, on the other hand, was all in. She turned into Snoopy’s personal shadow, chasing him for cuddles, scooping him up whenever he paused long enough to breathe. He tolerated it with the patience of a saint… or maybe he was just plotting.
 
@@ -23,4 +23,4 @@ We’d been promised a house-trained pup. Ha! What we got was a four-legged graf
 
 Snoopy didn’t just arrive that birthday—he announced his hostile takeover, one tiny puddle at a time. And somehow, in the middle of the chaos, the laughter started. Because what’s a birthday without a little unexpected splash?
 
-Welcome to the family, you wee-marking menace. We had no idea what we were in for… but we wouldn’t trade it for anything.
+Welcome to the family, you wee-marking menace. We had no idea what we were in for… but the adventures had only just begun.
