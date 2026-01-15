@@ -5,15 +5,13 @@ draft: false
 ---
 Rainy days on the **Costa Blanca North** (Calpe, Javea/Xàbia, Altea, Moraira, Benissa, Alfaz del Pi, and up to Benidorm vibes) don’t have to mean staying cooped up—especially since showers are usually short and the mild temps make indoor escapes easy. Here are some top **indoor-friendly places** perfect for expats, families, or anyone wanting to dodge the drizzle. These focus on the northern stretch, with easy drives from Calpe (most under 30-45 mins).
 
-**1. Shopping Centres & Malls – The Ultimate Rain-Proof Hangout**
+**1. Shopping Centres – The Ultimate Rain-Proof Hangout**
 
-Big, covered malls with shops, cinemas, cafes, play areas, and food courts—ideal for all ages.
+•  **La Marina Shopping Centre** (Ondara, ~30 mins from Calpe): Huge, shopping centre with tons of shops like Zara, Lefties, Pull and Bear, Berksha , Restaurants, Cinema IMF  Check Website for English Speaking Movies VO, and young  kid-friendly zones. Great for a full day out.
 
-•  **La Marina Shopping Centre** (Ondara, ~30 mins from Calpe): Huge, modern mall with tons of stores (Zara, Primark-style spots), restaurants, cinema, and kid-friendly zones. Great for a full day out.
+•  **Gran Vía or similar in nearby areas** (e.g., closer to Benidorm/Altea): Cinema with English speaking movies (VO), Childrens Club, Gran Via Kids, Trampolines and small rides , leisure, and cafes under one roof.
 
-•  **Gran Vía or similar in nearby areas** (e.g., closer to Benidorm/Altea): Fashion, leisure, and cafes under one roof.
 
-•  Bonus: Many have indoor play or arcade areas for kids.
 
 **2. Indoor Play & Adventure Centres – Kid Heaven**
 
