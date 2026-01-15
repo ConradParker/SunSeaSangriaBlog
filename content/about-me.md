@@ -4,7 +4,7 @@ date: 2026-01-15T16:37:00.000+01:00
 draft: false
 menu_weight: 10
 ---
-**SunSeaSangria**
+**The New SunSeaSangria** 
 
 ¡Hola! I’m Joanne, and I’ve called the Costa Blanca home for over 20 years. What started as a sunny “let’s buy a holiday house” dream quickly became a full-on “sorry, UK—we’re staying for the blue skies and never looking back” reality. And honestly? We’ve never been happier.
 
