@@ -8,7 +8,7 @@ series: test-story
 
 The summer flew by in a blur of apartment clean-ups, heroic potty-training attempts (with about 60% success rate—progress!), and the occasional sneaky “little splash” that reminded us perfection was still a work in progress. Then boom—early September arrived, kids were back-to-school bound, and suddenly we were part of the daily morning ritual.
 
-My daughter’s school was out on the outskirts of Villajoyosa (you know, that gorgeous colorful town on the Costa Blanca), so every day she caught the bus from the Main Street stop right in La Cala, Finestrat. Picture the scene: a parade of Spanish mams and dads rolling up with their pristine buggies, and that effortless Mediterranean vibe. And then there’s me—buggy in one hand, enthusiastic dog on the lead in the other, armed with an industrial-sized pack of baby wipes, disinfectant spray, and pure determination.
+My daughter’s school was out on the outskirts of Villajoyosa (you know, that gorgeous colorful town on the Costa Blanca). Everyday she caught the bus from the Main Street stop right in La Cala, Finestrat. Picture the scene: a parade of Spanish mams and dads rolling up with their pristine buggies, and that effortless Mediterranean vibe. And then there’s me—buggy in one hand, enthusiastic dog on the lead in the other, armed with an industrial-sized pack of baby wipes, disinfectant spray, and pure determination.
 
 The other mums? They gave me the classic side-eye: “Keep that furry menace away from our spotless buggies, por favor.” And honestly? I couldn’t blame them.
 
