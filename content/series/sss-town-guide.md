@@ -12,7 +12,4 @@ Each town gets its own dedicated page here on the blog, packed with what makes i
 
 Start exploring below with the town that calls to you most, or scroll through for the full lineup. ¡Salud to sunny adventures ahead! 🌞🍹
 
-
-
-
-![](/images/img_8017.jpeg)
+![](/images/whatsapp-image-2026-01-16-at-16.56.07-3-.jpeg)
