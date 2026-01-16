@@ -25,4 +25,4 @@ Snoopy didn’t just arrive that birthday—he announced his hostile takeover, o
 
 Welcome to the family, you wee-marking menace. We had no idea what we were in for… but the adventures had only just begun.
 
-![](/images/img_8097.png "Snoopys First Day ")
+![](/images/whatsapp-image-2026-01-16-at-14.38.34.jpeg "Snoopys First Day ")
