@@ -15,8 +15,10 @@ It’s not just a walk—it’s a full-sensory thrill ride: waves roaring, sun s
 
 End at **La Fustera**’s charming sandy-pebbly beach: reward yourself with a cold drink at the beach bar, a dip in those inviting waters, or just collapse in bliss watching the Mediterranean sparkle.
 
+![](/images/img_8104.jpeg "Benissa Paseo Ecológico")
 
+![](/images/img_8107.jpeg)
 
+![](/images/img_8103.jpeg "Benissa Paseo Ecológico")
 
-
-![](/images/img_8104.jpeg "Benissa Coastal Walk")
+![](/images/img_8105.jpeg "Benissa Paseo Ecológico")
