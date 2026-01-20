@@ -1,5 +1,5 @@
 ---
-title: Sun Sea Spotlight - Moraira
+title: SunSeaSeekers - Moraira
 date: 2026-01-20T14:12:00.000+01:00
 draft: false
 description: ""
