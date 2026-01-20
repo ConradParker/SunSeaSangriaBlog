@@ -2,6 +2,7 @@
 title: TIE and NIE Information
 date: 2026-01-08T10:01:00.000+01:00
 draft: false
+series: red-tape-tears
 ---
 Hey there, expat adventurers on the sunny Costa Blanca! Let’s talk about **renewing your TIE** (Tarjeta de Identidad de Extranjero) – that all-important little plastic card that’s your official “I’m legally here” badge in Spain.
 
