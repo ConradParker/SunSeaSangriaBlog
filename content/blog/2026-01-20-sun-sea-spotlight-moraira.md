@@ -29,20 +29,8 @@ Step into **the old town** and feel the pulse of classic Moraira charm! These na
 
 Browse boutique shops for stylish fashion, local crafts, and artisanal treats, then duck into cosy tapas bars or elegant restaurants for bites that wow: fresh Iberian ham, zesty salads, or innovative seafood plates paired with regional wines. The Friday market brings extra buzz with local produce, olives, and grilled goodies. Highlights include the pretty parish church and that unbeatable fountain promenade—great for people-watching or grabbing a gelato. The old town's blend of history, sophistication, and everyday local life creates an electric yet relaxed atmosphere that's impossible to resist. Get lost in the lanes; it's the ultimate way to uncover Moraira's soul!
 
-There you have it—Moraira in all its glamorous, sun-kissed glory! From the marina's yacht-filled buzz and beachy turquoise dreams to the old town's winding charm and gourmet feasts, this town's got that perfect upscale-yet-authentic energy that'll leave you buzzing. Grab your shades, your appetite, and your sense of wonder—Moraira is ready to steal your heart. What's calling you first? Drop a comment; the adventure awaits! 🌊🍤✨
+There you have it—Moraira in all its glamorous, sun-kissed glory! From the marina's yacht-filled buzz and beachy turquoise dreams to the old town's winding charm and gourmet feasts, this town's got that perfect upscale-yet-authentic energy that'll leave you buzzing. Grab your shades, your appetite, and your sense of wonder—Moraira is ready to steal your heart.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+ What's calling you first? Drop a comment; the adventure awaits!
 
 ![]()
