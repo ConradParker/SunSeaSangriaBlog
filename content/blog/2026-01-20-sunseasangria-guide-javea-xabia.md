@@ -1,5 +1,5 @@
 ---
-title: SunSeaSangria Guide - Javea/Xabia
+title: SunSeaSeekers - Javea/Xabia
 date: 2026-01-20T13:57:00.000+01:00
 draft: false
 description: ""
