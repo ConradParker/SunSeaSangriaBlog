@@ -13,7 +13,7 @@ paige:
     #paige-page-content { text-align: center; }
 menu_weight: 10
 ---
-Welcome to SunSeaSangria.com - your cheeky, sun-drenched guide to the fabulous Costa Blanca North!
+**Welcome to SunSeaSangria.com** - your cheeky, sun-drenched guide to the fabulous Costa Blanca North!
 
 Whether you're already living the dream here like a proper local, secretly plotting your big escape to this stunning coast, or just scrolling through pics dreaming of sandy toes and that salty Mediterranean breeze... pull up a lounger, grab an ice-cold sangria (or a proper cuppa if that's more your vibe-no shade!), and let's dive in.
 
@@ -21,7 +21,7 @@ We're serving up everything to make your Costa Blanca life absolutely sparkle: t
 
 Every week, slip through the Looking Glass for your quick, no-fluff roundup of what's really happening across Spain — a light touch on politics, the weather's latest drama, upcoming fiestas, and all those quirky little changes that keep life here so deliciously unpredictable. It's bite-sized, brilliant, and tailor-made for nosy expats, holiday planners, or anyone mildly obsessed with this gorgeous corner of the world. Hit subscribe, and we'll pop it straight into your inbox like a sunny postcard - short, sweet, and zero boredom allowed!
 
-And because life's way too short for dull blogs... come along for my laugh-out-loud stories about our legendary rescue dog Snoopy (the pint-sized terror turned accidental adventurer). Plus, join the brand-new **SunSeaSangria Book Club**, where we dish on brilliant books over virtual vino — whatever gem we stumble across next.
+And because life's way too short for dull blogs... come along for my laugh-out-loud stories about our legendary rescue dog Snoopy (the pint-sized terror turned accidental adventurer). Plus, join the brand-new SunSeaSangria Book Club, where we dish on brilliant books over virtual vino — whatever gem we stumble across next.
 
 Here's to the good life, mi amigo - bottoms up, and welcome aboard!
 
