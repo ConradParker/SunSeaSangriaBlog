@@ -5,7 +5,7 @@ draft: false
 series: through-the-looking-glass
 ---
 \
-Welcome to the very first edition of SunSeaNews – your weekly snapshot of what’s happening across **Costa Blanca North**. As we head into 2026, the coast is shaking off the festive sparkle and getting back to its sunny, laid-back rhythm. From the dramatic Peñón de Ifach towering over us here in Calpe, to the charming streets of Javea, Moraira, Altea, Benissa, Alfaz del Pi, and Benidorm’s lively energy, here’s the key news and nuggets that matter to expats, residents, and holidaymakers.
+Welcome to the very first edition of **SunSeaNews** – your weekly snapshot of what’s happening across **Costa Blanca North**. As we head into 2026, the coast is shaking off the festive sparkle and getting back to its sunny, laid-back rhythm. From the dramatic Peñón de Ifach towering over us here in Calpe, to the charming streets of Javea, Moraira, Altea, Benissa, Alfaz del Pi, and Benidorm’s lively energy, here’s the key news and nuggets that matter to expats, residents, and holidaymakers.
 
 **Key News in Spain This Week (Late December 2025 – Early January 2026)**
 
