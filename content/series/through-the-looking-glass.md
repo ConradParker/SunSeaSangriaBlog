@@ -5,9 +5,7 @@ draft: false
 image: /images/through-the-looking-glass.png
 menu_weight: 10
 ---
-**Looking Through the Looking Glass** 
-
-**Through the Looking Glass** is your friendly, no-nonsense weekly peek into life on the **Costa Blanca North** – think Calpe, Javea, Moraira, Altea, Benidorm, Benissa and our lovely nearby spots.
+**SunSeaNews** is your friendly, no-nonsense weekly peek into life on the **Costa Blanca North** – think Calpe, Javea, Moraira, Altea, Benidorm, Benissa and our lovely nearby spots.
 
 As a local in Calpe (with that unbeatable Peñón de Ifach backdrop!), I skip the big national headlines and zoom straight in on what actually affects expats, long-term residents, and holiday regulars: fresh Spanish news bites translated and explained in plain English – from the latest rental laws and property trends to healthcare changes, tax updates for pensioners, local council decisions, fiesta announcements, beach flags, transport perks, community spotlights, and any weather or travel curveballs.
 
