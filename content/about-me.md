@@ -10,15 +10,13 @@ menu_weight: 10
 
 For more than 14 years, my husband and I ran two little apartments under the name **SunSeaSangria**. We welcomed hundreds of amazing guests who arrived for the sea views and departed with sun-kissed noses, fuller hearts, and probably a few legendary stories from those epic sunset sangria sessions. Those apartments weren’t just a business—they were our immersive crash course in real Spanish life: mastering the endless red tape, building lifelong friendships, and raising our kids surrounded by almond blossoms and beach days.
 
-Life since then has been wonderfully, gloriously chaotic. Along the way I’ve:
+Life since then has been wonderfully, gloriously chaotic. Along the way, I’ve:
 
 •  Cleaned more villas and holiday lets than I ever thought possible (pro tip: a rogue flip-flop or mystery underwear under the bed can turn even the tidiest guest into a detective story).
 
 •  Hand-poured hundreds of homemade scented candles that turned our home into a fragrant haven.
 
 •  Taught English online to students across the globe—sometimes mid-fiesta, with fireworks exploding outside and my poor students convinced World War III had begun.
-
-
 
 ![](/images/img_5205.jpeg)
 
