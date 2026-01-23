@@ -2,7 +2,7 @@
 title: SunSeaNews
 date: 2026-01-15T10:58:00.000+01:00
 draft: false
-image: /images/through-the-looking-glass.png
+image: /images/your-paragraph-text.jpg
 menu_weight: 10
 ---
 **SunSeaNews** is your friendly, no-nonsense weekly peek into life on the **Costa Blanca North** – think Calpe, Javea, Moraira, Altea, Benidorm, Benissa and our lovely nearby spots.
