@@ -1,5 +1,5 @@
 ---
-title: 28th December Roundup News
+title: "SunSeaNews - 28th December Roundup "
 date: 2025-12-28T11:07:00.000+01:00
 draft: false
 series: through-the-looking-glass
