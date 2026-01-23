@@ -1,5 +1,5 @@
 ---
-title: Through The Looking Glass
+title: SunSeaNews
 date: 2026-01-15T10:58:00.000+01:00
 draft: false
 image: /images/through-the-looking-glass.png
