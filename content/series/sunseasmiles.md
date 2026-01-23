@@ -10,8 +10,8 @@ Your happy place on the blog for all those golden holiday moments and perfect da
 
 Whether it’s a lazy pool day with a cold drink, building sandcastles at Javea Arenal, sunset strolls in Altea, family fun in Benidorm, or a cheeky dip in Calpe’s clear waters—show us your smiles!
 
-Send in your photos (or a few favourites) from your holidays or recent days out. Just tell me roughly where it was (beach name, town, or spot like ‘Moraira cove’ or ‘Denia pool bliss’) and maybe a quick caption or what made it special.
+If you want to add to the smiles, send in your photos (or a few favourites) from your holidays or recent days out with a description? Just tell me roughly where it was (beach name, town, or spot like ‘Moraira cove’ or ‘Denia pool bliss’) and maybe a quick caption or what made it special.
 
 How to share:
 
-Email : jo@
+Email: jo@
