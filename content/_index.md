@@ -25,4 +25,4 @@ And because life's way too short for dull blogs... come along for my laugh-out-l
 
 Here's to the good life, mi amigo - bottoms up, and welcome aboard!
 
-![](/images/53218956_10155740765696642_5685240276910604288_n.jpg)
+![](/images/new-size.jpg)
