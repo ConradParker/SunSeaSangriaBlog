@@ -1,8 +1,8 @@
 ---
-title: "Costa Blanca on a Shoestring: Europe's Cheapest Sunny Escape in 2026"
+title: "Costa Blanca on a Shoestring: Flights and Accomodation"
 date: 2026-01-26T10:18:00.000+01:00
 draft: false
-description: Cheap Deals and Sunny Times
+description: Are you ready to find those deals?
 ---
 **Here** we are, nearly through January—whew, what a month! You’ve powered through the post-holiday slump, and now it’s time to reward yourself with a proper escape to the Costa Blanca. With its mild winter sunshine (around 16–18°C in February, plenty of blue skies, and far fewer crowds), this stretch of Spain’s coast is emerging as one of Europe’s smartest budget holiday picks for 2026—think affordable flights, low-season prices, and endless free adventures.
 
