@@ -1,5 +1,5 @@
 ---
-title: SunSea Reads & Sangría Sips
+title: SunSeaBooks
 date: 2026-01-15T16:26:00.000+01:00
 draft: false
 image: /images/1d0d3d16-320d-499e-bb8d-e2f6e6dc1e33.jpg
