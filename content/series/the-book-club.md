@@ -1,11 +1,11 @@
 ---
-title: Costa Reads & Sangría Sips
+title: SunSea Reads & Sangría Sips
 date: 2026-01-15T16:26:00.000+01:00
 draft: false
 image: /images/1d0d3d16-320d-499e-bb8d-e2f6e6dc1e33.jpg
 menu_weight: 10
 ---
-**¡Bienvenidos** to Costa Reads & Sangría Sips – your sunny, no-pressure virtual book club that mixes great stories with a splash of Mediterranean magic! 🌞🍹
+**¡Bienvenidos** to SunSea Reads & Sangría Sips – your sunny, no-pressure virtual book club that mixes great stories with a splash of Mediterranean magic! 🌞🍹
 
 Here’s how it works, super simple: Each month I pick one book that feels right for our vibe—think expat adventures, sun-soaked novels, Spanish culture, heartfelt memoirs, or anything that whisks you to the Costa Blanca or beyond. I’ll announce the monthly read right here on the blog with a dedicated post (title like “Costa Reads & Sangría Sips – January 2026 Pick: Spanish Lessons - Derek Lambert.
 
@@ -15,4 +15,4 @@ No fancy apps, no sign-ups, no deadlines—just pop in whenever you like, read a
 
 So grab your copy of this month’s book, pour yourself a drink (virtual sangría counts!), and head to the post to kick things off in the comments. Can’t wait to hear what you think—who’s diving in first? 📖🍊✨
 
-![](/images/whatsapp-image-2026-01-19-at-13.06.01.jpeg "Costa Reads & Sangria Sips")
+![](/images/whatsapp-image-2026-01-19-at-13.06.01.jpeg "SunSea Reads & Sangria Sips")
