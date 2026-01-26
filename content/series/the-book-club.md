@@ -1,10 +1,28 @@
 ---
-title: "SSS Book Club "
+title: Costa Reads & Sangría Sips
 date: 2026-01-15T16:26:00.000+01:00
 draft: false
 image: /images/1d0d3d16-320d-499e-bb8d-e2f6e6dc1e33.jpg
 menu_weight: 10
 ---
-“¡Bienvenidos to the Sun Sea Sangria Book Club – your sunny escape into stories that transport you straight to Spain’s golden beaches, bustling plazas, and hidden corners, one page and one sip of sangria (virtual or real!) at a time! 🌞🍷 Whether you’re an expat living la vida española, dreaming of your next adventure here, or simply craving tales infused with sun, sea, culture, and a dash of drama, this is the club for you. We’ll explore everything from heartfelt expat memoirs and charming novels about life abroad to gripping thrillers set in shadowy Spanish streets, historical epics, steamy romances, and more – no genre off-limits! Kick off the fun by sharing your favorite reads (especially those by expat authors or set in Spain), nominating books for our monthly picks, or even spotlighting your own published work for fellow readers to discover. Expect lively chats, honest reviews, laughs, and maybe a few plot-twist debates. Whether you’re lounging in Javea or rain soaked blighty, or just love a good book with a Mediterranean twist, join us! Head to the blog to sign up, drop a comment below with your first suggestion, and let’s raise a glass to new stories and new friends. Who’s ready to dive in? 📖✨
 
-![]()
+
+**¡Bienvenidos** to Costa Reads & Sangría Sips – your sunny, no-pressure virtual book club that mixes great stories with a splash of Mediterranean magic! 🌞🍹
+
+Here’s how it works, super simple: Each month I pick one book that feels right for our vibe—think expat adventures, sun-soaked novels, Spanish culture, heartfelt memoirs, or anything that whisks you to the Costa Blanca or beyond. I’ll announce the monthly read right here on the blog with a dedicated post (title like “Costa Reads & Sangría Sips – \[Month] 2026 Pick: \[Book Title]”).
+
+Once the post is live, just head straight to that specific book announcement, scroll to the comments box at the bottom, and share whatever’s on your mind: your first impressions, favourite quotes, how the story makes you feel, where you’re reading it (beach lounger in Jávea? Cozy sofa in the rain?), or even your own sangría pairing for the read. No long essays needed—just drop a quick thought, reply to others, or ask questions. I’ll be right there chatting back, and we’ll keep the conversation going all month long.
+
+No fancy apps, no sign-ups, no deadlines—just pop in whenever you like, read at your own pace, and enjoy the banter. When the month’s almost up, I’ll share the next pick, and we'll start fresh.
+
+So grab your copy of this month’s book, pour yourself a drink (virtual sangría counts!), and head to the post to kick things off in the comments. Can’t wait to hear what you think—who’s diving in first? 📖🍊✨
+
+
+
+
+
+
+
+
+
+![](/images/whatsapp-image-2026-01-19-at-13.06.01.jpeg)
