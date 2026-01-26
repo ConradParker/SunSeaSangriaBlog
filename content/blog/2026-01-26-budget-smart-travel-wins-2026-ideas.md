@@ -16,3 +16,6 @@ Use Skyscanner, Google Flights, or Kayak to compare—set price alerts, check mi
 SunSeaSangria Top Tip: Check Valencia Airport, sometimes they can be a lot cheaper.
 
 ![](/images/pexels-d123x-1730814.jpg "Find Cheap Airfares ")
+
+
+You have found your flight, money saved and now your ready to find some accommodation, here do you start? what s the best way to get comfotabe but inexpensive stay
