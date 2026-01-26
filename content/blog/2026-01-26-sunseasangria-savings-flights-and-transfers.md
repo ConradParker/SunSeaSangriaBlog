@@ -10,7 +10,7 @@ description: Affordable Flights and Transfers
 
 So where do you even start? Right here with these practical, wallet-friendly tips to make your trip feel luxurious without the luxury price tag.
 
-![](/images/pexels-d123x-1730814.jpg "SunSeaSangria - Flights Costa Blanca North")
+![](/images/andreas-strandman-flase0qu_c8-unsplash-1-.jpg "Photo by <a href=\"https://unsplash.com/@strandman?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Andreas Strandman</a> on <a href=\"https://unsplash.com/photos/people-walking-inside-building-during-daytime-fLase0QU_c8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText\">Unsplash</a>       ")
 
 **Step 1: Find the Cheap Flight** Head to Alicante-Elche Airport (ALC), the gateway to the north (Jávea, Denia, Altea, Calpe, Moraira). Budget airlines like Ryanair, easyJet, Jet2, and Vueling are flying from UK airports (London, Bristol, Manchester, Liverpool, Birmingham) with one-way fares often dipping to £15–£30, and returns under £50–£80 in February. Use Skyscanner, Google Flights, or Kayak to compare—set price alerts, check mid-week dates (Tue–Thu are usually cheapest), and peek directly on the airline sites for hidden deals. Regional UK airports often offer the lowest fares.
 
