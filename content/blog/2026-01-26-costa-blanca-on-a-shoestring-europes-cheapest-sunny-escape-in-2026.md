@@ -53,5 +53,3 @@ These choices keep transfers under €20 in most cases, leaving more for your fi
 ![](/images/494307547_10160544697731642_5062826420274661264_n.jpg "Tram going over Benissa Bridge")
 
 ![]( "Finding Budget Accommodation ")
-
-xxxxxx
