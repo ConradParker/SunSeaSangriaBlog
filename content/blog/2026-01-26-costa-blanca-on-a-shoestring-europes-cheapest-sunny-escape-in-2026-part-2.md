@@ -1,5 +1,5 @@
 ---
-title: "Costa Blanca on a Shoestring: Europe's Cheapest Sunny Escape in 2026 part 2"
+title: "Costa Blanca on a Shoestring: Flights And Accommodation Tips "
 date: 2026-01-26T10:18:00.000+01:00
 draft: false
 description: Cheap Deals and Sunny Times
