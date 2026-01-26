@@ -9,7 +9,7 @@ Many years ago, while browsing the shelves of a cosy second-hand bookshop in Já
 
 From the very first page, Derek had me hooked as he drove through fragrant orange groves in search of his family's new adventure and forever home on Spain's Costa Blanca. His warm, witty storytelling brings to life the colourful locals he encounters, the absurdly funny mishaps that ensue (from bungled Spanish lessons with a cheeky classmate to eccentric builders and quirky village characters), and the everyday joys and frustrations of settling into authentic Spanish life far from the tourist crowds.
 
-For anyone who's navigated the infamous Spanish red tape, battled bureaucracy, raised kids in a new culture, or simply fallen in love with the region's citrus-scented hills and tight-knit communities, this book is pure nostalgia gold. It captures the magic, the chaos, and the sheer delight of embracing "real" Spain with such genuine humour
+For anyone who's navigated the infamous Spanish red tape (lucky you), battled bureaucracy, raised kids in a new culture, or simply fallen in love with the region's citrus-scented hills and tight-knit communities, this book is pure nostalgia gold. It captures the magic, the chaos, and the sheer delight of embracing "real" Spain with such genuine humour.
 
 ![](/images/200573808_10157679066076642_5036628181701610731_n.jpg "Spanish Lessons - Derek Lambert")
 
