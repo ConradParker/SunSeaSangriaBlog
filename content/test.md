@@ -23,4 +23,4 @@ This week, spanning the end-of-year holidays and the start of 2026, was dominate
 
 Overall, a quiet holiday week was disrupted by weather, with focus shifting to 2026 reforms and potential cold snaps ahead. Sports, politics, and year-end reviews filled lighter coverage.
 
-![](/images/img_8038.png)
+![](/images/img_8037.png)
