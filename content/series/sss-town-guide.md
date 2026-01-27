@@ -2,7 +2,7 @@
 title: "SSS Town Guide "
 date: 2026-01-15T18:24:00.000+01:00
 draft: false
-image: /images/img_8083.jpeg
+image: /images/img_8098.jpeg
 menu_weight: 10
 ---
 Welcome to the **North Costa Blanca** section of **Sun Sea Sangria**!
