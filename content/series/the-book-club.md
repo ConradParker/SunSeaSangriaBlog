@@ -2,7 +2,6 @@
 title: SunSeaBooks
 date: 2026-01-15T16:26:00.000+01:00
 draft: false
-image: /images/1d0d3d16-320d-499e-bb8d-e2f6e6dc1e33.jpg
 menu_weight: 10
 ---
 **¡Bienvenidos** to SunSeaBooks – your sunny, no-pressure virtual book club that mixes great stories with a splash of Mediterranean magic! 🌞🍹
@@ -13,6 +12,4 @@ Once the post is live, just head straight to that specific book announcement, sc
 
 No fancy apps, no sign-ups, no deadlines—just pop in whenever you like, read at your own pace, and enjoy the banter. When the month’s almost up, I’ll share the next pick, and we'll start fresh.
 
-So grab your copy of this month’s book, pour yourself a drink (virtual sangría counts!), and head to the post to kick things off in the comments. Can’t wait to hear what you think—who’s diving in first? 📖🍊✨
-
-![](/images/whatsapp-image-2026-01-19-at-13.06.01.jpeg "SunSea Reads & Sangria Sips")
+So grab your copy of this month's book, pour yourself a drink (virtual sangría counts!), and head to the post to kick things off in the comments. Can't wait to hear what you think—who's diving in first? 📖🍊✨
