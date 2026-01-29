@@ -13,6 +13,4 @@ For anyone who's navigated the infamous Spanish red tape (lucky you), battled bu
 
 ![](/images/200573808_10157679066076642_5036628181701610731_n.jpg "Spanish Lessons - Derek Lambert")
 
-![](/images/whatsapp-image-2026-01-20-at-15.11.00.jpeg "Spanish Lessons - Derek Lambert")
-
- and affection that it transports you straight back to those early expat days. If you haven't read it yet, hunt down a copy—it's a gem that still sparkles after all these years! 📖🍊
+and affection that it transports you straight back to those early expat days. If you haven't read it yet, hunt down a copy—it's a gem that still sparkles after all these years! 📖🍊
