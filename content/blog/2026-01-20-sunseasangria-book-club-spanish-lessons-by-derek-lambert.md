@@ -11,6 +11,6 @@ From the very first page, Derek had me hooked as he drove through fragrant orang
 
 For anyone who's navigated the infamous Spanish red tape (lucky you), battled bureaucracy, raised kids in a new culture, or simply fallen in love with the region's citrus-scented hills and tight-knit communities, this book is pure nostalgia gold. It captures the magic, the chaos, and the sheer delight of embracing "real" Spain with such genuine humour.
 
-![](/images/200573808_10157679066076642_5036628181701610731_n.jpg "Spanish Lessons - Derek Lambert")
+![](/images/img_8179.jpeg "Spanish Lessons - Derek Lambert")
 
 and affection that it transports you straight back to those early expat days. If you haven't read it yet, hunt down a copy—it's a gem that still sparkles after all these years! 📖🍊
