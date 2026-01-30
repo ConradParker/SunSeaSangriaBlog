@@ -24,5 +24,3 @@ Every week, slip through the SunSeaNews for your quick, no-fluff roundup of what
 And because life's way too short for dull blogs... come along for my laugh-out-loud stories about our legendary rescue dog Snoopy (the pint-sized terror turned accidental adventurer). Plus, join the brand-new SunSeaReads, where we dish on brilliant books over virtual vino — whatever gem we stumble across next.
 
 Here's to the good life, mi amigo - bottoms up, and welcome aboard!
-
-![](/images/img_7987.jpeg)

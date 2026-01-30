@@ -11,15 +11,11 @@ First up: **Playa de Agua Amarga** near Alicante city — this sandy superstar c
 
 Check out Missy & Snoopy owning the sand and surf at Altea — tail wags guaranteed:
 
-![](/images/img_8072.jpeg "Snoopy & Missy Altea Mar y Montana")
-
 **Punta del Riu** in El Campello — a pebbly little cove that's backed by a **massive dog park** for extra off-leash adventures. Beach + park combo? It's like a full-day playdate upgrade!
 
 Altea, **Playa Mar y Montaña** brings those pebble shores with jaw-dropping mountain-and-sea views, your dog gets a scenic backdrop for every fetch throw!
 
 **Denia, Playa de la Escollera Norte** (Punta del Raset) — a handy 100m stretch right by the port, perfect for urban pups who love sniffing boats and splashing in calm waters. It's year-round fun, close to bars and promenades for post-play treats!
-
-![](/images/img_8078.jpeg "Snoopy & Missy Cumbre Del Sol")
 
 Doggie Tips: Always bring poop bags (be a responsible beach boss), keep your pup under voice control, and double-check the latest local rules (they can change with the seasons). But once you're there? It's all wags, waves, and zero drama.
 

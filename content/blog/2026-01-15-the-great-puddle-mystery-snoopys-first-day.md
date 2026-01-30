@@ -24,5 +24,3 @@ We’d been promised a house-trained pup. Ha! What we got was a four-legged graf
 Snoopy didn’t just arrive that birthday—he announced his hostile takeover, one tiny puddle at a time. And somehow, in the middle of the chaos, the laughter started. Because what’s a birthday without a little unexpected splash?
 
 Welcome to the family, you wee-marking menace. We had no idea what we were in for… but the adventures had only just begun.
-
-![](/images/whatsapp-image-2026-01-16-at-14.38.34.jpeg "Snoopys First Day ")

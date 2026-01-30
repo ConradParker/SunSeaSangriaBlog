@@ -21,5 +21,3 @@ Got a juicy tip about the best hidden beach or village bar around the Costa Blan
   </div>
   <button type="submit" class="btn btn-primary">Send Message</button>
 </form>
-
-![](/images/468035043_10159945857221642_3670613340372780108_n.jpg)

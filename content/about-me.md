@@ -18,9 +18,7 @@ Life since then has been wonderfully, gloriously chaotic. Along the way, I’ve:
 
 •  Taught English online to students across the globe—sometimes mid-fiesta, with fireworks exploding outside and my poor students convinced World War III had begun.
 
-![](/images/img_8041.jpeg)
-
-Now, I’m finally turning that longtime dream into reality: relaunching **SunSeaSangria** as a proper website and blog. No corporate polish, no filtered perfection—just honest, lived-in stories from someone who’s experienced every almond-blossom-pink, ridiculously beautiful (and occasionally absurd) moment of Costa Blanca life.
+Now, I'm finally turning that longtime dream into reality: relaunching **SunSeaSangria** as a proper website and blog. No corporate polish, no filtered perfection—just honest, lived-in stories from someone who’s experienced every almond-blossom-pink, ridiculously beautiful (and occasionally absurd) moment of Costa Blanca life.
 
 Here’s what you’ll discover here:
 
@@ -35,5 +33,3 @@ Here’s what you’ll discover here:
 Whether you’re planning your first trip, dreaming of a permanent move, or just craving a dose of Mediterranean sunshine from your screen—pull up a chair, grab a sangria (virtual or real), and let’s share the good life on the Costa Blanca.
 
 ¡Bienvenidos! 🌞🍹
-
-![](/images/img_8062.jpeg)
