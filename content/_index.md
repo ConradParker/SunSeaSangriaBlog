@@ -17,7 +17,7 @@ menu_weight: 10
 
 Whether you're already living the dream here like 
 
-![](/images/257371731_10157946483576642_5022558324571738190_n.jpg)
+![](/images/480965564_10160337798746642_6644424404533892324_n.jpg)
 
 a proper local, secretly plotting your big escape to this stunning coast, or just scrolling through pics dreaming of sandy toes and that salty Mediterranean breeze... pull up a lounger, grab an ice-cold sangria (or a proper cuppa if that's more your vibe-no shade!), and let's dive in.
 
