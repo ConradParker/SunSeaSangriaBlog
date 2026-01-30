@@ -33,3 +33,5 @@ Here’s what you’ll discover here:
 Whether you’re planning your first trip, dreaming of a permanent move, or just craving a dose of Mediterranean sunshine from your screen—pull up a chair, grab a sangria (virtual or real), and let’s share the good life on the Costa Blanca.
 
 ¡Bienvenidos! 🌞🍹
+
+![](/images/257371731_10157946483576642_5022558324571738190_n.jpg "About Me - SunSeaSangria.com")
