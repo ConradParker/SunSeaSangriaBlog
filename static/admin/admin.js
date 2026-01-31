@@ -1,5 +1,22 @@
 // Decap CMS Editor Components for Image Shortcodes
 
+// Clear Float - stops text wrapping around floating images
+CMS.registerEditorComponent({
+  id: "clear",
+  label: "Clear Float",
+  fields: [],
+  pattern: /{{<\s*clear\s*>}}/,
+  fromBlock: function(match) {
+    return {};
+  },
+  toBlock: function(data) {
+    return `{{< clear >}}`;
+  },
+  toPreview: function(data) {
+    return `<div style="clear: both; border-top: 1px dashed #ccc; margin: 1rem 0; padding-top: 0.5rem; color: #999; font-size: 0.8em; text-align: center;">↑ Float cleared ↑</div>`;
+  }
+});
+
 // Image Float
 CMS.registerEditorComponent({
   id: "image-float",

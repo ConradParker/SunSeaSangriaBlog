@@ -46,7 +46,7 @@ Here are some examples of our new image layouts. These will be removed once we'v
 
 This text wraps around the floating image on the left. The Costa Blanca offers some of the most stunning coastal views in all of Spain. From the rugged cliffs near Moraira to the golden sands of Calpe, there's always something breathtaking to discover. On mobile devices, this image will stack above the text instead of floating, making it easier to read on smaller screens.
 
-<div class="clear-float"></div>
+{{< clear >}}
 
 ### Floating Image (Right)
 
@@ -54,7 +54,7 @@ This text wraps around the floating image on the left. The Costa Blanca offers s
 
 And here's an image floating to the right! Perfect for breaking up longer text sections. Whether you're sipping your morning café con leche or enjoying an evening glass of local wine, the terrace life here is unbeatable. The weather allows for outdoor living nearly year-round, which is one of the many reasons we fell in love with this place.
 
-<div class="clear-float"></div>
+{{< clear >}}
 
 ### Full Width Image
 
