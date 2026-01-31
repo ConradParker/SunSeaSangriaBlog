@@ -34,6 +34,8 @@ Whether you’re planning your first trip, dreaming of a permanent move, or just
 
 ¡Bienvenidos! 🌞🍹
 
+![](/images/257371731_10157946483576642_5022558324571738190_n.jpg "About Me - SunSeaSangria.com")
+
 ---
 
 ## Image Shortcode Examples

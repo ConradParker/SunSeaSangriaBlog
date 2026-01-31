@@ -15,6 +15,8 @@ menu_weight: 10
 ---
 **Welcome to SunSeaSangria.com** - your cheeky, sun-drenched guide to the fabulous Costa Blanca North!
 
+![](/images/480965564_10160337798746642_6644424404533892324_n.jpg)
+
 Whether you're already living the dream here like a proper local, secretly plotting your big escape to this stunning coast, or just scrolling through pics dreaming of sandy toes and that salty Mediterranean breeze... pull up a lounger, grab an ice-cold sangria (or a proper cuppa if that's more your vibe-no shade!), and let's dive in.
 
 We're serving up everything to make your Costa Blanca life absolutely sparkle: the latest local scoop, mouthwatering restaurants worth bragging about back home, the smartest flight deals, spot-on beach weather forecasts (and genius rainy-day ideas for the little ones when the clouds roll in), plus heaps of insider tips, secret hidden gems, and plenty of excuses to raise a glass.
