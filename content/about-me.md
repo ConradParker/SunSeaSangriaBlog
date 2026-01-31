@@ -34,9 +34,7 @@ Whether you’re planning your first trip, dreaming of a permanent move, or just
 
 ¡Bienvenidos! 🌞🍹
 
-![](/images/257371731_10157946483576642_5022558324571738190_n.jpg "About Me - SunSeaSangria.com")
-
----
+- - -
 
 ## Image Shortcode Examples
 
@@ -44,7 +42,7 @@ Here are some examples of our new image layouts. These will be removed once we'v
 
 ### Floating Image (Left)
 
-{{< image-float src="/images/257371731_10157946483576642_5022558324571738190_n.jpg" position="left" alt="Costa Blanca view" caption="A beautiful Costa Blanca morning" width="40%" >}}
+{{< image-float src="/images/257371731_10157946483576642_5022558324571738190_n.jpg" position="left" alt="Costa Blanca view" caption="A beautiful Costa Blanca morning" >}}
 
 This text wraps around the floating image on the left. The Costa Blanca offers some of the most stunning coastal views in all of Spain. From the rugged cliffs near Moraira to the golden sands of Calpe, there's always something breathtaking to discover. On mobile devices, this image will stack above the text instead of floating, making it easier to read on smaller screens.
 
@@ -68,11 +66,11 @@ And here's an image floating to the right! Perfect for breaking up longer text s
 
 ### Centered Image with Caption
 
-{{< image-caption src="/images/img_8083.jpeg" alt="Our corner of paradise" caption="Photo taken from our favourite lookout spot" align="center" width="70%" >}}
+{{< image-caption src="/images/img_8083.jpeg" alt="Our corner of paradise" caption="Photo taken from our favourite lookout spot" width="70%" >}}
 
 ### Image Gallery
 
-{{< gallery columns="3" ratio="4/3" >}}
+{{< gallery columns="3" >}}
 /images/img_8083.jpeg | Beach view | Morning walk on the sand
 /images/img_8083.jpeg | Mountain path | Hiking in the Sierra
 /images/img_8083.jpeg | Local market | Fresh produce every week
