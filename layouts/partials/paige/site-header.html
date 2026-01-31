@@ -37,6 +37,20 @@
     <header id="paige-site-header">
         {{ partial "paige/func-include.html" (dict "name" "site-header-first%s.html" "page" $page) | safeHTML }}
 
+        {{/* Site Logo */}}
+        <div class="text-center mb-3" id="paige-site-logo">
+            <a href="{{ relLangURL `` }}">
+                {{- partial "paige/image.html" (dict
+                    "alt" "Sun Sea Sangria"
+                    "class" "img-fluid"
+                    "loading" "eager"
+                    "page" $page
+                    "src" "/images/logo.jpg"
+                    "style" "max-height: 150px; width: auto;"
+                ) -}}
+            </a>
+        </div>
+
         {{ with $title }}
             <div class="display-1 fw-bold {{ if not (or $breadcrumbs $description $menu) }} paige-row-tall {{ end }} text-center" id="paige-site-title">
                 <a class="text-body text-decoration-none" href="{{ relLangURL `` }}">{{ . }}</a>
