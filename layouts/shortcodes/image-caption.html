@@ -9,7 +9,15 @@
 {{- end -}}
 
 <figure class="image-caption image-caption--{{ $align }}" style="--image-caption-width: {{ $width }}">
-  <img src="{{ $src | relURL }}" alt="{{ $alt }}" loading="lazy">
+  {{- partial "paige/image.html" (dict
+    "alt" $alt
+    "class" "img-fluid rounded"
+    "loading" "lazy"
+    "page" .Page
+    "process" "webp"
+    "src" $src
+    "width" "100%"
+  ) -}}
   {{- with $caption -}}
   <figcaption>{{ . | markdownify }}</figcaption>
   {{- end -}}

@@ -1,6 +1,7 @@
 {{- $columns := .Get "columns" | default "3" -}}
 {{- $ratio := .Get "ratio" | default "4/3" -}}
 {{- $inner := .Inner | chomp -}}
+{{- $page := .Page -}}
 
 <div class="gallery" style="--gallery-columns: {{ $columns }}; --gallery-ratio: {{ $ratio }}">
   {{- range split $inner "\n" -}}
@@ -17,7 +18,15 @@
         {{- $caption = index $parts 2 | strings.TrimSpace -}}
       {{- end -}}
       <figure class="gallery__item">
-        <img src="{{ $src | relURL }}" alt="{{ $alt }}" loading="lazy">
+        {{- partial "paige/image.html" (dict
+          "alt" $alt
+          "class" "img-fluid"
+          "loading" "lazy"
+          "page" $page
+          "process" "webp"
+          "src" $src
+          "style" (printf "aspect-ratio: %s; object-fit: cover; width: 100%%" $ratio)
+        ) -}}
         {{- with $caption -}}
         <figcaption>{{ . }}</figcaption>
         {{- end -}}

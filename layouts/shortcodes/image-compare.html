@@ -4,6 +4,7 @@
 {{- $alt2 := .Get "alt2" | default "" -}}
 {{- $caption1 := .Get "caption1" | default "" -}}
 {{- $caption2 := .Get "caption2" | default "" -}}
+{{- $page := .Page -}}
 
 {{- if not $src1 -}}
   {{- errorf "image-compare: src1 parameter is required" -}}
@@ -14,13 +15,29 @@
 
 <div class="image-compare">
   <figure class="image-compare__item">
-    <img src="{{ $src1 | relURL }}" alt="{{ $alt1 }}" loading="lazy">
+    {{- partial "paige/image.html" (dict
+      "alt" $alt1
+      "class" "img-fluid rounded"
+      "loading" "lazy"
+      "page" $page
+      "process" "webp"
+      "src" $src1
+      "width" "100%"
+    ) -}}
     {{- with $caption1 -}}
     <figcaption>{{ . | markdownify }}</figcaption>
     {{- end -}}
   </figure>
   <figure class="image-compare__item">
-    <img src="{{ $src2 | relURL }}" alt="{{ $alt2 }}" loading="lazy">
+    {{- partial "paige/image.html" (dict
+      "alt" $alt2
+      "class" "img-fluid rounded"
+      "loading" "lazy"
+      "page" $page
+      "process" "webp"
+      "src" $src2
+      "width" "100%"
+    ) -}}
     {{- with $caption2 -}}
     <figcaption>{{ . | markdownify }}</figcaption>
     {{- end -}}

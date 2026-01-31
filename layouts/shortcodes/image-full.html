@@ -8,7 +8,15 @@
 {{- end -}}
 
 <figure class="image-full" style="--image-full-height: {{ $height }}">
-  <img src="{{ $src | relURL }}" alt="{{ $alt }}" loading="lazy">
+  {{- partial "paige/image.html" (dict
+    "alt" $alt
+    "class" "img-fluid"
+    "loading" "lazy"
+    "page" .Page
+    "process" "webp"
+    "src" $src
+    "style" (printf "height: %s; object-fit: cover; width: 100%%" $height)
+  ) -}}
   {{- with $caption -}}
   <figcaption>{{ . | markdownify }}</figcaption>
   {{- end -}}
