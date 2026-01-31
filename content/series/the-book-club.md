@@ -2,9 +2,13 @@
 title: SunSeaBooks
 date: 2026-01-15T16:26:00.000+01:00
 draft: false
-image: /images/200573808_10157679066076642_5036628181701610731_n-1-.jpg
+image: ""
 menu_weight: 10
 ---
+
+
+{{< image-float src="/images/200573808_10157679066076642_5036628181701610731_n-1-.jpg" position="left" >}}
+
 **¡Bienvenidos** to SunSeaBooks – your sunny, no-pressure virtual book club that mixes great stories with a splash of Mediterranean magic! 🌞🍹
 
 Here’s how it works, super simple: Each month I pick one book that feels right for our vibe—think expat adventures, sun-soaked novels, Spanish culture, heartfelt memoirs, or anything that whisks you to the Costa Blanca or beyond. I’ll announce the monthly read right here on the blog with a dedicated post (title like “SunSeaBooks – January 2026 Pick: Spanish Lessons - Derek Lambert.
