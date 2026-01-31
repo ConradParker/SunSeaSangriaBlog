@@ -236,6 +236,11 @@
 
 #paige-site-menu .navbar-nav {
   gap: 0.5rem;
+  flex-wrap: nowrap;
+}
+
+#paige-site-menu .nav-item {
+  white-space: nowrap;
 }
 
 #paige-site-menu .nav-link {
