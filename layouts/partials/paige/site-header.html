@@ -79,22 +79,32 @@
             {{ $menuItems = sort $menuItems "Weight" }}
 
             {{ if $menuItems }}
-                <nav aria-label="{{ i18n `paige_menu` }}" class="paige-row-tall" id="paige-site-menu">
-                    <ul class="align-items-center justify-content-center nav {{ if $pills }} nav-pills {{ else if $tabs }} nav-tabs {{ else if $underline }} nav-underline {{ end }}">
-                        {{ range $menuItems }}
-                            {{ $menuPath := strings.TrimPrefix $basePath .URL }}
+                <nav class="navbar navbar-expand-md paige-row-tall" id="paige-site-menu">
+                    <div class="container-fluid justify-content-center">
+                        {{/* Hamburger button - visible on mobile */}}
+                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMenu" aria-controls="navbarMenu" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
 
-                            {{ $home := and (eq $menuPath "/") (eq $page.Section "") }}
-                            {{ $menuMatch := and (ne $menuPath "/") (hasPrefix $pagePath $menuPath) }}
-                            {{ $section := and (ne $menuPath "/") (hasPrefix $menuPath (printf "/%s/" $page.Section)) }}
+                        {{/* Collapsible menu */}}
+                        <div class="collapse navbar-collapse justify-content-center" id="navbarMenu">
+                            <ul class="navbar-nav text-center">
+                                {{ range $menuItems }}
+                                    {{ $menuPath := strings.TrimPrefix $basePath .URL }}
 
-                            {{ $active := or $home $menuMatch $section }}
+                                    {{ $home := and (eq $menuPath "/") (eq $page.Section "") }}
+                                    {{ $menuMatch := and (ne $menuPath "/") (hasPrefix $pagePath $menuPath) }}
+                                    {{ $section := and (ne $menuPath "/") (hasPrefix $menuPath (printf "/%s/" $page.Section)) }}
 
-                            <li class="nav-item">
-                                <a {{ if $active }} aria-current="page" {{ end }} class="{{ if $active }} active {{ if $links }} fw-bold text-body {{ end }} {{ end }} nav-link {{ if $links }} text-decoration-underline {{ end }}" href="{{ .URL }}" {{ with partial "paige/func-target.html" (dict "page" $page "url" .URL) }} target="{{ . }}" {{ end }}>{{ .Name | markdownify }}</a>
-                            </li>
-                        {{ end }}
-                    </ul>
+                                    {{ $active := or $home $menuMatch $section }}
+
+                                    <li class="nav-item">
+                                        <a {{ if $active }} aria-current="page" {{ end }} class="nav-link {{ if $active }} active fw-bold {{ end }}" href="{{ .URL }}" {{ with partial "paige/func-target.html" (dict "page" $page "url" .URL) }} target="{{ . }}" {{ end }}>{{ .Name | markdownify }}</a>
+                                    </li>
+                                {{ end }}
+                            </ul>
+                        </div>
+                    </div>
                 </nav>
             {{ end }}
         {{ end }}

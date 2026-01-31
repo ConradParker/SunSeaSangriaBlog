@@ -224,3 +224,50 @@
     grid-template-columns: repeat(var(--gallery-columns, 3), 1fr);
   }
 }
+
+/* ==========================================================================
+   Hamburger Menu
+   ========================================================================== */
+
+#paige-site-menu .navbar-toggler {
+  border: 2px solid currentColor;
+  padding: 0.5rem 0.75rem;
+}
+
+#paige-site-menu .navbar-nav {
+  gap: 0.5rem;
+}
+
+#paige-site-menu .nav-link {
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  transition: background-color 0.2s ease;
+}
+
+#paige-site-menu .nav-link:hover {
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+#paige-site-menu .nav-link.active {
+  background-color: rgba(0, 0, 0, 0.08);
+}
+
+/* Mobile: full width menu items */
+@media (max-width: 767.98px) {
+  #paige-site-menu .navbar-collapse {
+    margin-top: 1rem;
+    padding: 1rem 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+  }
+
+  #paige-site-menu .nav-link {
+    padding: 0.75rem 1rem;
+    font-size: 1.1rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  #paige-site-menu .nav-link {
+    transition: none;
+  }
+}
