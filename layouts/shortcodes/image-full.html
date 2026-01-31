@@ -1,0 +1,15 @@
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" | default "" -}}
+{{- $caption := .Get "caption" | default "" -}}
+{{- $height := .Get "height" | default "500px" -}}
+
+{{- if not $src -}}
+  {{- errorf "image-full: src parameter is required" -}}
+{{- end -}}
+
+<figure class="image-full" style="--image-full-height: {{ $height }}">
+  <img src="{{ $src | relURL }}" alt="{{ $alt }}" loading="lazy">
+  {{- with $caption -}}
+  <figcaption>{{ . | markdownify }}</figcaption>
+  {{- end -}}
+</figure>

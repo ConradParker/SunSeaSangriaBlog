@@ -1,0 +1,226 @@
+/* ==========================================================================
+   Image Shortcodes
+   ========================================================================== */
+
+:root {
+  --image-caption-color: #666;
+  --image-caption-size: 0.9rem;
+  --image-border-radius: 4px;
+  --gallery-gap: 1rem;
+}
+
+/* Base image styles */
+.image-float img,
+.image-full img,
+.image-compare img,
+.image-caption img,
+.gallery img {
+  max-width: 100%;
+  height: auto;
+  border-radius: var(--image-border-radius);
+}
+
+/* Base figcaption styles */
+.image-float figcaption,
+.image-full figcaption,
+.image-compare figcaption,
+.image-caption figcaption,
+.gallery figcaption {
+  color: var(--image-caption-color);
+  font-size: var(--image-caption-size);
+  font-style: italic;
+  margin-top: 0.5rem;
+}
+
+/* ==========================================================================
+   Float Image
+   ========================================================================== */
+
+.image-float {
+  margin: 0 0 1rem 0;
+  width: 100%;
+}
+
+.image-float img {
+  width: 100%;
+}
+
+.image-float figcaption {
+  text-align: center;
+}
+
+/* Desktop: enable floating */
+@media (min-width: 600px) {
+  .image-float {
+    width: var(--image-float-width, 40%);
+    max-width: var(--image-float-width, 40%);
+  }
+
+  .image-float--left {
+    float: left;
+    margin: 0 1.5rem 1rem 0;
+  }
+
+  .image-float--right {
+    float: right;
+    margin: 0 0 1rem 1.5rem;
+  }
+}
+
+/* Clear utility */
+.clear-float {
+  clear: both;
+}
+
+/* ==========================================================================
+   Full Width Image
+   ========================================================================== */
+
+.image-full {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.image-full img {
+  width: 100%;
+  height: var(--image-full-height, 500px);
+  object-fit: cover;
+  border-radius: 0;
+}
+
+.image-full figcaption {
+  text-align: center;
+  padding: 0.5rem 1rem;
+}
+
+/* ==========================================================================
+   Compare (Side-by-Side)
+   ========================================================================== */
+
+.image-compare {
+  display: flex;
+  flex-direction: column;
+  gap: var(--gallery-gap);
+  margin: 1.5rem 0;
+}
+
+.image-compare__item {
+  flex: 1;
+  margin: 0;
+}
+
+.image-compare__item img {
+  width: 100%;
+}
+
+.image-compare__item figcaption {
+  text-align: center;
+}
+
+/* Desktop: side by side */
+@media (min-width: 600px) {
+  .image-compare {
+    flex-direction: row;
+  }
+}
+
+/* ==========================================================================
+   Image with Caption
+   ========================================================================== */
+
+.image-caption {
+  margin: 1.5rem 0;
+  max-width: var(--image-caption-width, 100%);
+}
+
+.image-caption img {
+  width: 100%;
+}
+
+.image-caption figcaption {
+  text-align: center;
+}
+
+.image-caption--left {
+  margin-left: 0;
+  margin-right: auto;
+}
+
+.image-caption--center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.image-caption--right {
+  margin-left: auto;
+  margin-right: 0;
+}
+
+/* ==========================================================================
+   Gallery
+   ========================================================================== */
+
+.gallery {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--gallery-gap);
+  margin: 1.5rem 0;
+}
+
+.gallery__item {
+  margin: 0;
+  position: relative;
+  overflow: hidden;
+}
+
+.gallery__item img {
+  width: 100%;
+  aspect-ratio: var(--gallery-ratio, 4/3);
+  object-fit: cover;
+}
+
+.gallery__item figcaption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.7));
+  color: #fff;
+  padding: 2rem 0.75rem 0.75rem;
+  font-style: normal;
+  text-align: center;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.gallery__item:hover figcaption,
+.gallery__item:focus-within figcaption {
+  opacity: 1;
+}
+
+/* Respect reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  .gallery__item figcaption {
+    transition: none;
+  }
+}
+
+/* Tablet: 2 columns */
+@media (min-width: 600px) {
+  .gallery {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Desktop: user-specified columns */
+@media (min-width: 900px) {
+  .gallery {
+    grid-template-columns: repeat(var(--gallery-columns, 3), 1fr);
+  }
+}

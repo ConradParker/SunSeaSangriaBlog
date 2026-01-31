@@ -1,0 +1,16 @@
+{{- $src := .Get "src" -}}
+{{- $position := .Get "position" | default "left" -}}
+{{- $alt := .Get "alt" | default "" -}}
+{{- $caption := .Get "caption" | default "" -}}
+{{- $width := .Get "width" | default "40%" -}}
+
+{{- if not $src -}}
+  {{- errorf "image-float: src parameter is required" -}}
+{{- end -}}
+
+<figure class="image-float image-float--{{ $position }}" style="--image-float-width: {{ $width }}">
+  <img src="{{ $src | relURL }}" alt="{{ $alt }}" loading="lazy">
+  {{- with $caption -}}
+  <figcaption>{{ . | markdownify }}</figcaption>
+  {{- end -}}
+</figure>

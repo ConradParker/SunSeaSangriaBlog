@@ -1,0 +1,16 @@
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" | default "" -}}
+{{- $caption := .Get "caption" | default "" -}}
+{{- $width := .Get "width" | default "100%" -}}
+{{- $align := .Get "align" | default "center" -}}
+
+{{- if not $src -}}
+  {{- errorf "image-caption: src parameter is required" -}}
+{{- end -}}
+
+<figure class="image-caption image-caption--{{ $align }}" style="--image-caption-width: {{ $width }}">
+  <img src="{{ $src | relURL }}" alt="{{ $alt }}" loading="lazy">
+  {{- with $caption -}}
+  <figcaption>{{ . | markdownify }}</figcaption>
+  {{- end -}}
+</figure>

@@ -1,0 +1,28 @@
+{{- $src1 := .Get "src1" -}}
+{{- $src2 := .Get "src2" -}}
+{{- $alt1 := .Get "alt1" | default "" -}}
+{{- $alt2 := .Get "alt2" | default "" -}}
+{{- $caption1 := .Get "caption1" | default "" -}}
+{{- $caption2 := .Get "caption2" | default "" -}}
+
+{{- if not $src1 -}}
+  {{- errorf "image-compare: src1 parameter is required" -}}
+{{- end -}}
+{{- if not $src2 -}}
+  {{- errorf "image-compare: src2 parameter is required" -}}
+{{- end -}}
+
+<div class="image-compare">
+  <figure class="image-compare__item">
+    <img src="{{ $src1 | relURL }}" alt="{{ $alt1 }}" loading="lazy">
+    {{- with $caption1 -}}
+    <figcaption>{{ . | markdownify }}</figcaption>
+    {{- end -}}
+  </figure>
+  <figure class="image-compare__item">
+    <img src="{{ $src2 | relURL }}" alt="{{ $alt2 }}" loading="lazy">
+    {{- with $caption2 -}}
+    <figcaption>{{ . | markdownify }}</figcaption>
+    {{- end -}}
+  </figure>
+</div>

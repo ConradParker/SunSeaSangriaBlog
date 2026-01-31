@@ -33,3 +33,45 @@ Here’s what you’ll discover here:
 Whether you’re planning your first trip, dreaming of a permanent move, or just craving a dose of Mediterranean sunshine from your screen—pull up a chair, grab a sangria (virtual or real), and let’s share the good life on the Costa Blanca.
 
 ¡Bienvenidos! 🌞🍹
+
+---
+
+## Image Shortcode Examples
+
+Here are some examples of our new image layouts. These will be removed once we've confirmed they work!
+
+### Floating Image (Left)
+
+{{< image-float src="/images/img_8083.jpeg" position="left" alt="Costa Blanca view" caption="A beautiful Costa Blanca morning" width="40%" >}}
+
+This text wraps around the floating image on the left. The Costa Blanca offers some of the most stunning coastal views in all of Spain. From the rugged cliffs near Moraira to the golden sands of Calpe, there's always something breathtaking to discover. On mobile devices, this image will stack above the text instead of floating, making it easier to read on smaller screens.
+
+<div class="clear-float"></div>
+
+### Floating Image (Right)
+
+{{< image-float src="/images/img_8083.jpeg" position="right" alt="Sunny terrace" caption="Terrace life" width="35%" >}}
+
+And here's an image floating to the right! Perfect for breaking up longer text sections. Whether you're sipping your morning café con leche or enjoying an evening glass of local wine, the terrace life here is unbeatable. The weather allows for outdoor living nearly year-round, which is one of the many reasons we fell in love with this place.
+
+<div class="clear-float"></div>
+
+### Full Width Image
+
+{{< image-full src="/images/img_8083.jpeg" alt="Panoramic Costa Blanca" caption="The stunning Costa Blanca coastline stretches for miles" height="400px" >}}
+
+### Side-by-Side Comparison
+
+{{< image-compare src1="/images/img_8083.jpeg" src2="/images/img_8083.jpeg" alt1="Morning light" alt2="Evening glow" caption1="Morning" caption2="Evening" >}}
+
+### Centered Image with Caption
+
+{{< image-caption src="/images/img_8083.jpeg" alt="Our corner of paradise" caption="Photo taken from our favourite lookout spot" align="center" width="70%" >}}
+
+### Image Gallery
+
+{{< gallery columns="3" ratio="4/3" >}}
+/images/img_8083.jpeg | Beach view | Morning walk on the sand
+/images/img_8083.jpeg | Mountain path | Hiking in the Sierra
+/images/img_8083.jpeg | Local market | Fresh produce every week
+{{< /gallery >}}

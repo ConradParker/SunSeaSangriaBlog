@@ -1,0 +1,27 @@
+{{- $columns := .Get "columns" | default "3" -}}
+{{- $ratio := .Get "ratio" | default "4/3" -}}
+{{- $inner := .Inner | chomp -}}
+
+<div class="gallery" style="--gallery-columns: {{ $columns }}; --gallery-ratio: {{ $ratio }}">
+  {{- range split $inner "\n" -}}
+    {{- $line := . | strings.TrimSpace -}}
+    {{- if $line -}}
+      {{- $parts := split $line "|" -}}
+      {{- $src := index $parts 0 | strings.TrimSpace -}}
+      {{- $alt := "" -}}
+      {{- $caption := "" -}}
+      {{- if gt (len $parts) 1 -}}
+        {{- $alt = index $parts 1 | strings.TrimSpace -}}
+      {{- end -}}
+      {{- if gt (len $parts) 2 -}}
+        {{- $caption = index $parts 2 | strings.TrimSpace -}}
+      {{- end -}}
+      <figure class="gallery__item">
+        <img src="{{ $src | relURL }}" alt="{{ $alt }}" loading="lazy">
+        {{- with $caption -}}
+        <figcaption>{{ . }}</figcaption>
+        {{- end -}}
+      </figure>
+    {{- end -}}
+  {{- end -}}
+</div>
