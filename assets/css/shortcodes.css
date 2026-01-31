@@ -236,7 +236,8 @@
 
 #paige-site-menu .navbar-nav {
   gap: 0.5rem;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 #paige-site-menu .nav-item {
