@@ -7,3 +7,7 @@ menu_weight: 1
 {{< image-float src="/images/200573808_10157679066076642_5036628181701610731_n-1-.jpg" position="left" >}}
 
 place what text you want by the image left or right.
+
+{{< image-float src="/images/200573808_10157679066076642_5036628181701610731_n-1-.jpg" position="right" >}}
+
+float right image
