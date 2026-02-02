@@ -10,6 +10,8 @@ menu_weight: 10
 
 For more than 14 years, my husband and I ran two little apartments under the name **SunSeaSangria**. We welcomed hundreds of amazing guests who arrived for the sea views and departed with sun-kissed noses, fuller hearts, and probably a few legendary stories from those epic sunset sangria sessions. Those apartments weren’t just a business—they were our immersive crash course in real Spanish life: mastering the endless red tape, building lifelong friendships, and raising our kids surrounded by almond blossoms and beach days.
 
+{{< image-float src="/images/257371731_10157946483576642_5022558324571738190_n.jpg" position="left" >}}
+
 Life since then has been wonderfully, gloriously chaotic. Along the way, I’ve:
 
 •  Cleaned more villas and holiday lets than I ever thought possible. From Villas full of bugs to apartments full of junk you name it ive cleaned it.
@@ -34,6 +36,6 @@ Whether you’re planning your first trip, dreaming of a permanent move, or just
 
 ¡Bienvenidos! 🌞🍹
 
-This text wraps around the floating image on the left. The Costa Blanca offers some of the most stunning coastal views in all of Spain. From the rugged cliffs near Moraira to the golden sands of Calpe, there's always something breathtaking to discover. On mobile devices, this image will stack above the text instead of floating, making it easier to read on smaller screens.
 
-{{< image-caption src="/images/257371731_10157946483576642_5022558324571738190_n.jpg" caption="Benissa Walks, we made it!" >}}
+
+{{< image-float src="/images/54518626_10155745709601642_8671203847210795008_n.jpg" position="left" >}}
