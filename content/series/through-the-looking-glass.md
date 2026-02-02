@@ -9,3 +9,5 @@ menu_weight: 10
 As a local in Calpe (with that unbeatable Peñón de Ifach backdrop!), I skip the big national headlines and zoom straight in on what actually affects expats, long-term residents, and holiday regulars: fresh Spanish news bites translated and explained in plain English – from the latest rental laws and property trends to healthcare changes, tax updates for pensioners, local council decisions, fiesta announcements, beach flags, transport perks, community spotlights, and any weather or travel curveballs.
 
 Short, practical, and packed with that sunny Costa vibe to help you stay ahead, settle in easier, and make the most of this beautiful corner of Spain. ☀️🏖️
+
+{{< image-caption src="/images/your-paragraph-text.jpg" caption="SunSeaNews - SunSeaSangria" >}}
