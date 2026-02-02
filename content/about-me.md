@@ -35,3 +35,5 @@ Whether you’re planning your first trip, dreaming of a permanent move, or just
 ¡Bienvenidos! 🌞🍹
 
 This text wraps around the floating image on the left. The Costa Blanca offers some of the most stunning coastal views in all of Spain. From the rugged cliffs near Moraira to the golden sands of Calpe, there's always something breathtaking to discover. On mobile devices, this image will stack above the text instead of floating, making it easier to read on smaller screens.
+
+{{< image-caption src="/images/257371731_10157946483576642_5022558324571738190_n.jpg" caption="Benissa Walks, we made it!" >}}
