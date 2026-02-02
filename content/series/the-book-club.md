@@ -15,4 +15,4 @@ No fancy apps, no sign-ups, no deadlines—just pop in whenever you like, read a
 
 So grab your copy of this month's book, pour yourself a drink (virtual sangría counts!), and head to the post to kick things off in the comments. Can't wait to hear what you think—who's diving in first? 📖🍊✨
 
-{{< image-caption src="/images/1d0d3d16-320d-499e-bb8d-e2f6e6dc1e33.jpg" caption="SunSeaBooks - SunSeaSangria" >}}
+{{< image-caption src="/images/img_8191.jpeg" caption="SunSeaBooks - SunSeaSangria" >}}
