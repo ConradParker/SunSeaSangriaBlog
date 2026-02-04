@@ -13,7 +13,7 @@ Here’s the real truth, though—Spanish bureaucracy can feel like trying to or
 
 That’s why most expats and newbies in the Costa Blanca North swear by hiring a **gestor** (your personal paperwork helper) or even a tax lawyer if things get fancy. A good gestor handles registrations, crunches your numbers, submits everything on time, spots deductions (hello, home office with sea view!), and saves you from epic headaches. Think of them as your sangria-sidekick: they keep the party going while you focus on growing your gig. 
 
-***SunSeaTip: Trust but Verify!** ☀️🔍*
+***SunSeaTip: Check your documents!** ☀️🔍*
 
 *Your gestor might be brilliant, but it’s **your** tax account and **your** potential fines. Stay smart: after forms are submitted, quickly check your **Agencia Tributaria** account (or ask for copies) to confirm everything looks right.*
 
