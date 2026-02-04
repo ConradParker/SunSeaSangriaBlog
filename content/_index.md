@@ -17,8 +17,6 @@ Welcome Everyone to your cheeky, sun-drenched guide to the fabulous **Costa Blan
 
 ![](/images/480965564_10160337798746642_6644424404533892324_n.jpg "SunSeaSangria - Welcome Everyone")
 
-
-
 Whether you’re already living the dream here like a proper local, secretly plotting your escape to this stunning coast, or just scrolling pics dreaming of sandy toes and that salty Med breeze… pull up a lounger, grab an ice-cold sangria (or a proper cuppa – no shade!), and let’s dive in.
 
 **What you’ll find here on Sun Sea Sangria**
@@ -43,7 +41,9 @@ Drop your thoughts in the comments, hit reply on the newsletter, or message me i
 
 Quick heads-up: the writing here isn’t always perfect (life’s gloriously chaotic, even without a photobombing pup these days), but every word comes straight from the heart and soul of this sun-soaked adventure.
 
-And that’s **exactly** how I want you to join in – typos, half-formed thoughts, rants, raves, all of it. No filters needed. This place sparkles brightest when it’s a proper, real conversation between all of us who adore (or dream of) this corner of Spain. Your voice matters, imperfections and all. 💛
+And that’s **exactly** how I want you to join in – typos, half-formed thoughts, rants, raves, all of it.
+
+This place sparkles brightest when it’s a proper, real conversation between all of us who adore (or dream of) this corner of Spain. Your voice matters, imperfections and all. 💛
 
 Let’s keep it real, raise a glass to the good (and gloriously imperfect) life — and to Snoopy, our forever legend — and chat away!
 ¡Salud, mi amigo – bottoms up and welcome aboard! 🍹🐾imperfect) life, and chat away!
