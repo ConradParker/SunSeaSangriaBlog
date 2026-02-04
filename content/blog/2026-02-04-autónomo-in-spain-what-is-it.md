@@ -1,5 +1,5 @@
 ---
-title: Autónomo in Spain - What is it?
+title: Working Self Employed - Autonomo
 date: 2026-02-04T09:28:00.000+01:00
 draft: false
 series: red-tape-tears
