@@ -35,6 +35,8 @@ Most importantly, this is **your** space too. I want you to feel right at home �
 
 Got a favourite hidden beach bar? Discovered an amazing new tapas spot? Read a book that made you laugh/cry/want to move to Spain? Spotted something hilarious or heartwarming in daily life here? **Please share it!** Drop your thoughts in the comments on any post, hit reply on the newsletter, or even send me a message if you’d like to contribute a guest story or photo. The best bits of this blog come from all of us chatting together — expats, holiday planners, dreamers, and locals alike.
 
-Let’s make this the friendliest spot on the Costa Blanca web. Your stories, tips, and laughs are what make it sparkle. 💛
+What you’ll find here is real talk from someone who’s living it every day — no fancy filters or perfect English. The words might wobble a bit (blame the old age kicking in or kids wanting their tea) but they come straight from the heart and soul of this sun-soaked adventure.
 
-¡Salud y bienvenidos de verdad!
+And that’s exactly how I want you to join in too. Share your stories, tips, rants, or raves in the comments — typos, half-formed thoughts, all of it. This blog is better when it’s a proper conversation between all of us who adore (or dream of) this corner of Spain. Your voice matters, imperfections and all. 💛
+
+Let’s keep it real, raise a glass to the good (and gloriously imperfect) life, and chat away!
