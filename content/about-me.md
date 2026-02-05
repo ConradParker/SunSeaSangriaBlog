@@ -14,7 +14,7 @@ For more than 14 years, my husband and I ran two little apartments under the nam
 
 Life since then has been wonderfully, gloriously chaotic. Along the way, I’ve:
 
-•  Cleaned more villas and holiday lets than I ever thought possible. From Villas full of bugs to apartments full of junk you name it ive cleaned it.
+•  Cleaned more villas and holiday lets than I ever thought possible—from villas full of bugs to apartments full of junk, you name it, I've cleaned it.
 
 •  Hand-made and poured homemade scented candles that turned our home into a fragrant haven.
 
@@ -22,20 +22,20 @@ Life since then has been wonderfully, gloriously chaotic. Along the way, I’ve:
 
 Now, I'm finally turning that longtime dream into reality: relaunching **SunSeaSangria** as a proper website and blog. No corporate polish, no filtered perfection—just honest, lived-in stories from someone who’s experienced every almond-blossom-pink, ridiculously beautiful (and occasionally absurd) moment of Costa Blanca life.
 
-Here’s what you’ll discover here:
+Here’s what you’ll discover:
 
-•  Secret insider guides to hidden beaches, forgotten mountain villages, and charming towns even some locals have overlooked.
+\- Secret insider guides to hidden beaches, forgotten mountain villages, and charming towns that even some locals have overlooked.
 
-•  The very best spots for sunrise coffee, long lazy lunches, and those dangerously addictive late-night tapas.
+\- The best spots for enjoying sunrise coffee, leisurely lunches, and those irresistibly addictive late-night tapas.
 
-•  The real talk: breathtaking views alongside the classic “only in Spain” moments that make you laugh, cry, and sigh all at once.
+\- Authentic experiences: breathtaking views alongside the classic “only in Spain” moments that will make you laugh, cry, and sigh all at once.
 
-•  Down-to-earth practical advice for holidaymakers, would-be expats, and anyone Googling “can we actually move to Spain and make it work?”
+\- Practical advice for holidaymakers, aspiring expats, and anyone searching for, “Can we actually move to Spain and make it work?”
 
-Whether you’re planning your first trip, dreaming of a permanent move, or just craving a dose of Mediterranean sunshine from your screen—pull up a chair, grab a sangria (virtual or real), and let’s share the good life on the Costa Blanca.
+Whether you’re planning your first trip, dreaming of a permanent move, or simply craving some Mediterranean sunshine from your screen—pull up a chair, grab a sangria (virtual or real), and let’s celebrate the good life on the Costa Blanca. 
+
+
 
 ¡Bienvenidos! 🌞🍹
-
-
 
 {{< image-float src="/images/54518626_10155745709601642_8671203847210795008_n.jpg" position="left" >}}
