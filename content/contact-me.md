@@ -4,7 +4,18 @@ date: 2026-01-06T13:09:00.000+01:00
 draft: false
 menu_weight: 30
 ---
-Got a juicy tip about the best hidden beach or village bar around the Costa Blanca? Spotted a fabulous new tapas spot? Fancy recommending an expat-penned Spanish gem for the SunSeaSangria Book Club? Or just want to say hola and share your own sun-soaked stories? I'd love to hear from you! Drop me a message—I'm usually somewhere between a glass of chilled sangria and the sound of waves crashing, but I promise I'll reply faster than you can say '¡salud!' Pour your thoughts into the form below or email me directly. Let's keep the conversation as lively as a fiesta under the stars! 🌞🍷✉️"
+
+**¡Hola from the Costa Blanca! Let's Chat 🌞🍹**
+
+Hey there! Whether you're dreaming up your next getaway or plotting a full-on move to Spain. (I've got the red-tape war stories to prove it), or just want to swap tales about the best hidden tapas spots... I'm all ears!
+
+Drop me a message below—tell me about your plans, ask for insider tips on beaches that even the locals keep quiet about, share your own "only in Spain" moment, or say hi if you're passing through Benissa way. I reply personally (usually within a day or two, unless I'm mid-sunset sangria—kidding... mostly 😉).
+
+Can't wait to hear from you—grab that virtual sangria and let's make some plans!
+
+Joanne xx
+
+✉️"
 
 <form name="contact" method="POST" data-netlify="true" class="my-4">
   <div class="mb-3">
