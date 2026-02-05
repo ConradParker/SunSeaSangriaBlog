@@ -31,7 +31,7 @@ This little corner of the internet celebrates the **real** Costa Blanca North li
 
 •  Fond, laugh-out-loud tales and memories from our late rescue dog **Snoopy** (tiny terror turned accidental legend – he’ll always be basically famous in our hearts)
 
-•  **SunSeaReads** – cozy book chats over virtual vino, because sharing a cracking read with like-minded souls is pure joy
+•  **SunSeaReads** – cosy book chats over virtual vino, because sharing a cracking read with like-minded souls is pure joy
 
 Most importantly… **this is your space too**. I want you to feel right at home – like you’ve just pulled up a chair on the terrace with a cold drink and the best company.
 
