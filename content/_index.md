@@ -15,7 +15,7 @@ menu_weight: 10
 ---
 Welcome Everyone to your cheeky, sun-drenched guide to the fabulous **Costa Blanca North**! 🌞🍷
 
-![](/images/img_8207.jpeg "SunSeaSangria - Welcome Everyone")
+![](/images/img_8203.jpeg "SunSeaSangria - Welcome Everyone")
 
 Whether you’re already living the dream here like a proper local, secretly plotting your escape to this stunning coast, or just scrolling pics dreaming of sandy toes and that salty Med breeze… pull up a lounger, grab an ice-cold sangria (or a proper cuppa – no shade!), and let’s dive in.
 
