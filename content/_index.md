@@ -15,7 +15,7 @@ menu_weight: 10
 ---
 Welcome Everyone to your cheeky, sun-drenched guide to the fabulous **Costa Blanca North**! 🌞🍷
 
-![](/images/img_7987.jpeg)
+![](/images/img_8142.jpeg)
 
 Whether you’re already living the dream here like a proper local, secretly plotting your escape to this stunning coast, or just scrolling pics dreaming of sandy toes and that salty Med breeze… pull up a lounger, grab an ice-cold sangria (or a proper cuppa – no shade!), and let’s dive in.
 
