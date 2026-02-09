@@ -17,4 +17,7 @@ A few days later, Clyde, our friend, heroically drove all the way to Andalucía 
 
 {{< image-float src="/images/img_8392.jpeg" position="right" caption="Look at that face, our naughty Snoopy - SunSeaSangria" >}}
 
+{{< clear >}}
+
+\
 Snoopy isn't with us anymore—he left a massive hole in our hearts when he passed away—but his spirit is still very much alive in the ridiculous, joyful chaos he brought to our family. He wasn't just a dog; he was a dog on a mission—an accidental adventurer, a chaos coordinator, and a professional maker-of-memories. His exploits still have us crying with laughter years later, and I can't keep them to myself any longer. So buckle up—these are the true(ish) tales of Snoopy that will almost certainly make you giggle, snort, or at the very least smile like an idiot at your screen… and maybe shed a happy-sad tear too.
