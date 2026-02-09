@@ -3,7 +3,11 @@ title: Benissa Paseo Ecológico / ecological coastal path
 date: 2026-01-18T17:58:00.000+01:00
 draft: false
 ---
-One of the most enjoyable coastal walks in the northern Costa Blanca is the scenic path that connects **Playa La Fossa** in Calpe to **La Fustera** in Benissa. Known locally as part of the **Camino Ecológico** or Ecological Path, this route follows the shoreline closely, combining beautiful sea views, fragrant pine woodland, and access to several charming hidden coves.
+One of the most enjoyable coastal walks in the northern Costa Blanca is the scenic path that connects **Playa La Fossa** in Calpe to **La Fustera** in Benissa. Known locally as part of the **Camino Ecológico** or Ecological Path, this route follows the shoreline closely, combining beautiful sea views, fragrant pine woodland, and access to several charming hidden 
+
+{{< clear >}}
+
+
 
 The walk begins at **Playa La Fossa**, a long stretch of golden sand with the dramatic silhouette of the Peñón de Ifach rock rising prominently in the background. From here, the trail heads north along a well-defined, easy-to-follow path that hugs the cliffs and offers continuous panoramas of the Mediterranean.
 
