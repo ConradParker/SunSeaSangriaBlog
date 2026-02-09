@@ -21,9 +21,9 @@ Snow at sea level? Basically a myth. (Unless the rare "beast from the east" deci
 
 {{< image-float src="/images/568583630_10161267892706642_3691476208993974608_n-1-.jpg" position="right" caption="Beast from the East 2017 - Javea " >}}
 
-Let these views convince you that winter here is anything but winter:
+{{< clear >}}
 
-{{< image-float src="/images/82558751_10156418260031642_2387287769673105408_n.jpg" position="left" caption="SunSeaSangria Winter Sun - Benidorm" >}}
+Let these views convince you that winter here is anything but winter:
 
 Winter in the northern Costa Blanca doesn't just survive — it **glows**. While the rest of Europe is still bundled up and dreaming of spring, this corner of Spain turns into a peaceful, sun-kissed playground that's perfect for actually enjoying the great outdoors (without sweating or freezing!).
 
