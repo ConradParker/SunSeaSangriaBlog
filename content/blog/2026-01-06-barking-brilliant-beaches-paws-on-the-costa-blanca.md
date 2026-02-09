@@ -24,3 +24,5 @@ So grab the leash, pack the treats, and head to the Costa Blanca — because you
 **Trust Resort Canino** in Ondara! This massive doggy wonderland (we're talking over 63,000 m² of pure pup paradise) isn't just a fancy boarding spot; it's a full-on resort where dogs get VIP treatment while their humans soak up the sun nearby. Think spacious kennels, splashy pools designed just for four-legged fun, training areas, grooming salons, on-site vets, and even beachy vibes close to Denia and Jávea. It's the ultimate guilt-free fun solution for pet parents who want their furry bestie to have as much adventure as they do — complete with daily cleanings, playtime galore, and that sunny Mediterranean energy!
 
 Who's booking the next trip with their four-legged co-pilot? 🐕✈️🌊 Let's make some paws-in-the-sand memories! 🐾
+
+{{< image-caption src="/images/img_8072.jpeg" caption="Snoopy and Missy have in Splashing Time" >}}
