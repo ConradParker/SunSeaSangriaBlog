@@ -15,15 +15,15 @@ Picture this: while half the continent is buried under scarves and hot chocolate
 Here’s the juicy forecast lowdown:
 Daytime temperatures usually hover between 15–18°C (59–64°F) — perfect for a light jacket or a cute, long-sleeve tee. On those glorious sunny days? Easily **20°C+** and you're suddenly debating whether shorts are socially acceptable in January (spoiler: they are). Nights dip to a crisp **7–10°C**, just cool enough for cosy blankets and zero guilt about that extra glass of vino tinto.
 
+{{< image-compare src1="/images/417.jpg" src2="/images/611678668_17850926499617621_3045226377407150976_n.jfif" caption1="Calpe La Fossa Winter Sun" caption2="Denia Marina Winter Sun" >}}
+
 And rain? A few light showers here and there (mostly autumn leftovers), then back to business as usual. Even in the depths of January, you're still getting a generous **5–6 hours of sunshine** every day. **Yes, really.**
 
 Snow at sea level? Basically a myth. (Unless the rare "beast from the east" decides to crash the party like it did back in 2017 — but that's like winning the weather lottery in reverse.) You might spot a dusting up in the mountains, and the occasional inland frost for the dramatic flair, but down by the sea? Pure, palm-tree paradise.
 
-{{< image-float src="/images/568583630_10161267892706642_3691476208993974608_n-1-.jpg" position="right" caption="Beast from the East 2017 - Javea " >}}
-
-{{< clear >}}
-
 Let these views convince you that winter here is anything but winter:
+
+{{< image-caption src="/images/615910232_10161604078386642_7642467589536709029_n.jpg" caption="Benissa Winter Sun" >}}
 
 Winter in the northern Costa Blanca doesn't just survive — it **glows**. While the rest of Europe is still bundled up and dreaming of spring, this corner of Spain turns into a peaceful, sun-kissed playground that's perfect for actually enjoying the great outdoors (without sweating or freezing!).
 
@@ -31,18 +31,18 @@ The beaches? They're yours. No towel wars, no crowds — just wide-open sand, ge
 
 Here's that serene winter beach magic in Calpe — pure peace:
 
-{{< image-float src="/images/480785077_10160337799851642_2133376179380167001_n.jpg" position="left" caption="Winter Bliss in Calpe( view from Skybar)" >}}
+{{< image-full src="/images/whatsapp-image-2026-01-16-at-16.56.07-3-.jpeg" caption="Calpe Winter Sun 2025" >}}
 
-But the real show-stealer? Late winter brings the **almond blossom explosion** — seriously, it's like nature hit the confetti cannon. Entire valleys (especially magical Jalon Valley nearby) transform into seas of pink and white fluffy clouds. It’s one of the prettiest natural spectacles in Spain, and it happens right when most people aren’t even thinking about visiting.
+But the real show-stealer? Late winter brings the **almond blossom explosion** — seriously, it's like nature hit the confetti cannon. Entire valleys (especially the magical Jalon Valley nearby) transform into seas of pink and white fluffy clouds. It’s one of the prettiest natural spectacles in Spain, and it happens right when most people aren’t even thinking about visiting.
 
 Prepare to fall in love with these dreamy almond blossom fields.
 
-{{< image-float src="/images/51196941_10155646619701642_3257681089983938560_n-1-.jpg" position="right" caption="Almond Blossoms - Senija benissa Dog Walk" >}}
+{{< image-full src="/images/471415719_10160203332911642_3883605857449009242_n.jpg" caption="Almond Blossom Senija " >}}
 
 Historic old towns? Seafront promenades? All yours to explore at a leisurely pace, with that golden winter light making everything look extra photogenic.
 
 So if you're craving a winter that feels like a gentle reset — active days, blooming landscapes, quiet beaches, and zero stress — the northern Costa Blanca is basically begging you to come play.
 
-Almond blossoms, sea breezes, and sangria on a sunny terrace await. Who's ready to make winter their favorite season? 🌸🏖️🚶‍♀️
+Almond blossoms, sea breezes, and sangria on a sunny terrace await. Who's ready to make winter their favourite season? 🌸🏖️🚶‍♀️
 
 See you on the trails (or the blossom route)! 😍
