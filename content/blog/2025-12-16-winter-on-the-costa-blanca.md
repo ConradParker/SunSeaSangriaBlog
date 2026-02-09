@@ -10,10 +10,6 @@ If you're dreaming of ditching the dark, dreary winter blues (you know, the ones
 
 Picture this: while half the continent is buried under scarves and hot chocolate emergencies, towns like **Denia**, **Jávea (Xàbia)**, **Altea**, and **Calpe** are casually serving up sweater-weather perfection. Thanks to the Mediterranean hugging the coast and those protective mountain guardians (hello, Montgó and the Altea Hills!), the weather here is like that chill friend who never lets things get too dramatic.
 
-{{< image-float src="/images/417.jpg" position="left" caption="Calpe Winter Sun February " >}}
-
-{{< clear >}}
-
 Here’s the juicy forecast lowdown:
 Daytime temperatures usually hover between 15–18°C (59–64°F) — perfect for a light jacket or a cute, long-sleeve tee. On those glorious sunny days? Easily **20°C+** and you're suddenly debating whether shorts are socially acceptable in January (spoiler: they are). Nights dip to a crisp **7–10°C**, just cool enough for cosy blankets and zero guilt about that extra glass of vino tinto.
 
@@ -22,10 +18,6 @@ And rain? A few light showers here and there (mostly autumn leftovers), then bac
 Snow at sea level? Basically a myth. (Unless the rare "beast from the east" decides to crash the party like it did back in 2017 — but that's like winning the weather lottery in reverse.) You might spot a dusting up in the mountains, and the occasional inland frost for the dramatic flair, but down by the sea? Pure, palm-tree paradise.
 
 Let these views convince you that winter here is anything but winter:
-
-{{< image-float src="/images/611678668_17850926499617621_3045226377407150976_n.jfif" position="right" caption="Denia Marina January Winter Sun" >}}
-
-{{< clear >}}
 
 Winter in the northern Costa Blanca doesn't just survive — it **glows**. While the rest of Europe is still bundled up and dreaming of spring, this corner of Spain turns into a peaceful, sun-kissed playground that's perfect for actually enjoying the great outdoors (without sweating or freezing!).
 
@@ -36,8 +28,6 @@ Here's that serene winter beach magic in Calpe — pure peace:
 But the real show-stealer? Late winter brings the **almond blossom explosion** — seriously, it's like nature hit the confetti cannon. Entire valleys (especially the magical Jalon Valley nearby) transform into seas of pink and white fluffy clouds. It’s one of the prettiest natural spectacles in Spain, and it happens right when most people aren’t even thinking about visiting.
 
 Prepare to fall in love with these dreamy almond blossom fields.
-
-{{< image-float src="undefined" position="left" >}}
 
 Historic old towns? Seafront promenades? All yours to explore at a leisurely pace, with that golden winter light making everything look extra photogenic.
 
