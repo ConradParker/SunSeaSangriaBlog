@@ -19,6 +19,8 @@ Snow at sea level? Basically a myth. (Unless the rare "beast from the east" deci
 
 Let these views convince you that winter here is anything but winter:
 
+{{< image-float src="/images/417.jpg" position="left" caption="Calpe La Fossa February Winter Sun" >}}
+
 Winter in the northern Costa Blanca doesn't just survive — it **glows**. While the rest of Europe is still bundled up and dreaming of spring, this corner of Spain turns into a peaceful, sun-kissed playground that's perfect for actually enjoying the great outdoors (without sweating or freezing!).
 
 The beaches? They're yours. No towel wars, no crowds — just wide-open sand, gentle waves, and that crisp sea breeze that makes brisk coastal walks feel downright therapeutic. Stroll along the promenade in Calpe or Altea, breathe in the salty air, and feel like you've stolen the whole coastline for yourself:
