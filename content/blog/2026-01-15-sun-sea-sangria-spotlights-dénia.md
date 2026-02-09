@@ -8,6 +8,12 @@ series: sss-town-guide
 ---
 Are you ready, Sun Sea seekers? Let's explore the beautiful town of historic **Dénia**, where old meets new. If you're craving a slice of Spanish paradise that mixes sun-soaked vibes with a dash of mystery and a whole lot of mouthwatering eats, Denia is your ultimate playground. Nestled on the Costa Blanca, this lively town pulses with energy—from its glittering marina to hidden historic nooks. Picture yourself sipping sangria under a fiery sunset, weaving through charming alleys, or uncovering ancient tales atop a dramatic castle. Trust me, Denia isn't just a destination; it's an adrenaline-fueled adventure waiting to sweep you off your feet. Let's dive in!
 
+{{< image-compare src1="/images/img_8131.jpeg" src2="/images/img_8018.jpeg" caption1="Denia Marina " caption2="Denia Marina" >}}
+
+
+
+{{< clear >}}
+
 Kick off your Denia escapade at the marina. This bustling waterfront hub is alive with the clink of yacht masts and the salty tang of the Mediterranean air. Imagine strolling along the docks, where sleek boats bob gently, and the mighty Montgo mountain looms like a guardian giant in the background, its rugged peaks glowing golden at dusk. The views? Absolutely jaw-dropping—think panoramic sweeps of azure waves crashing against the shore, with Montgo's dramatic silhouette stealing the show every time.
 
 But the real excitement ramps up when hunger strikes. The marina is a foodie's dream, boasting vibrant restaurants that serve fresh seafood straight from the sea. Grab a spot at a terrace overlooking the water and indulge in grilled prawns dripping with garlic, or a paella so flavorful it'll make your taste buds dance. Spots like these turn a simple meal into a feast for the senses, with live music drifting on the breeze and sunsets that paint the sky in fiery oranges and pinks. Whether you're toasting with friends or savouring a solo cocktail, the marina's energy is infectious—pure bliss!
