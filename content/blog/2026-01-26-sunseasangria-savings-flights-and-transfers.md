@@ -12,6 +12,8 @@ So where do you even start? Right here with these practical, wallet-friendly tip
 
 ***SunSeaSangria Top Tip: Check Valencia Airport, sometimes they can be a lot cheaper.***
 
+{{< image-compare src1="/images/untitled-design.png" src2="/images/untitled-design.png" >}}
+
 **Getting to the Northern Costa Blanca on a Budget (From the UK)**
 
 **The Northern Costa Blanca**—places like Jávea/Xàbia, Denia, Altea, Calpe, and Moraira—remains one of the easiest and most affordable sunny getaways in Europe during winter 2026. Almost everyone flies into Alicante-Elche Airport (ALC), followed by a fast, inexpensive ride north to your chosen town.
