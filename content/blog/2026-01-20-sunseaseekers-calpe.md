@@ -27,6 +27,11 @@ Head to **the port and marina** for that authentic coastal pulse—Calpe's worki
 
 This is seafood paradise: waterfront restaurants line Avenida del Puerto, displaying sizzling platters of fresh prawns, grilled octopus, razor clams, and massive paellas loaded with local treasures. Grab a terrace table, toast with chilled regional wine or sangria, and dig in while yachts glide past and the rock glows in golden light. The vibe is electric yet relaxed—locals chatting, visitors toasting sunsets, and that unbeatable combo of ultra-fresh flavors with harbor views that make every bite feel like a celebration. Whether it's a casual lunch or epic dinner, the port delivers pure Mediterranean magic!
 
+{{< image-compare src1="/images/img_8197.jpeg" src2="/images/img_8127.jpeg" caption1="Peñón de Ifach Calpe " caption2="Calpe" >}}
+
+{{< clear >}}
+
+\
 **Stroll the Old Town: Narrow Lanes, Historic Gems, and Everyday Charm**
 
 Wrap up with **the old town** (Casco Antiguo)—a tucked-away treasure of winding narrow streets, whitewashed houses, and flower-draped balconies that ooze timeless Spanish soul! Perched on a small hill away from the main tourist rush, it's a peaceful maze where every turn uncovers murals, cozy plazas, and family-run spots serving tapas, local wines, and hearty Mediterranean plates.
