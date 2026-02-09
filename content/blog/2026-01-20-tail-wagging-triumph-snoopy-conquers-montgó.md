@@ -31,7 +31,7 @@ I opened it to find our neighbour standing there, holding Snoopy in his arms. My
 
 What? Relief hit me like a wave.The kids rushed forward, squealing with joy, wrapping their arms around him as he licked every face in reach. The house filled with laughter, barks, and pure happiness.
 
-He hadn’t got lost in the wild at all. He’d trotted down the mountain on his own, found his way to Mercadona—our everyday spot—and simply sat there, loyal as ever, waiting for his family.
+He hadn’t got lost in the wild at all. He’d trotted down the mountain on his own, found his way to Mercadona, where after dropping the kids to school daily, I would pick up my shopping with him on morning walks, he simply sat there, loyal as ever, waiting for his family.
 
 That day on Montgó Mountain taught us so much about trust, love, and how even the scariest moments can end with the biggest wag of a tail.
 
