@@ -4,13 +4,20 @@ date: 2026-01-20T14:20:00.000+01:00
 draft: false
 series: sss-town-guide
 ---
-**Lets get ready to adventure in Calpe (or Calp)?** 
+**Lets get ready to adventure in Calpe**
 
 This Costa Blanca townis an absolute gem—dominated by the jaw-dropping Peñón de Ifach rock that towers like a natural skyscraper, splitting the skyline and stealing every glance. With epic beaches, a lively fishing port packed with fresh seafood magic, and a charming old town full of hidden history, Calpe blends raw natural drama with coastal buzz that's impossible to resist. Whether you're hiking to dizzying heights, feasting on the catch of the day, or wandering sunlit streets, this town's got that electric energy that'll have you hooked from the first view. Let's dive straight in!
 
+{{< image-compare src1="/images/480965564_10160337798746642_6644424404533892324_n.jpg" src2="/images/481675129_10160337800086642_1076895538579878814_n.jpg" caption1="Calpe SunSeaSangria" caption2="Calpe SunSeaSangria" >}}
+
+{{< clear >}}
+
+\
 **Conquer the Icon: Peñón de Ifach – The Ultimate Rock Adventure**
 
 No trip to Calpe is complete without tackling the legendary **Peñón de Ifach**—this massive 332-meter limestone giant is the town's undisputed star and Spain's smallest natural park! Rising straight from the sea like a prehistoric sentinel, it's been a landmark for mariners since ancient times, a watchtower against pirates, and now a hiker’s paradise bursting with wildlife, rare plants, and unbeatable thrills.
+
+
 
 The hike to the summit is pure adrenaline: start easy through the base with sea breezes and stunning coastal views, then punch through a hand-dug tunnel (carved in 1918!) before the real challenge kicks in—steep, chain-assisted scrambles over polished rock that demand good grip and fitness. Reach the top, and boom: 360-degree panoramas explode across the Mediterranean, from Benidorm's skyline to distant cliffs and endless blue. The wind roars, eagles soar overhead, and that sense of conquest hits hard—it's not just a view; it's a heart-pounding victory lap over one of Spain's most iconic natural wonders!
 
