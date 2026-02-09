@@ -17,3 +17,7 @@ Snoopy slipped away so gently, without pain—his breathing slowing until it bec
 We still talk about Snoopy all the time, and we laugh—because he was such a lovable rogue, full of mischief and adventure right to his core. His big heart, goofy grin, and gentle spirit live on in every story we share.
 
 Goodnight, Snoopy. Until we meet again… woo woo wooooooo. 🌈🐾❤️
+
+{{< image-compare src1="/images/img_8391.jpeg" src2="/images/img_8078.jpeg" caption1="Snoopy the Adventurer  " caption2="Snoopy do where are you ?" >}}
+
+{{< image-compare src1="/images/img_8380.jpeg" src2="undefined" >}}
