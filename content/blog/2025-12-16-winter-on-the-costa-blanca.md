@@ -35,7 +35,7 @@ But the real show-stealer? Late winter brings the **almond blossom explosion** â
 
 Prepare to fall in love with these dreamy almond blossom fields.
 
-{{< image-float src="/images/513655728_10160755408401642_2856552127131039198_n-1-.jpg" position="left" caption="Almond Blossom Winter Sun Spain" >}}
+{{< image-float src="/images/50876696_10155646619726642_8554250216998436864_n.jpg" position="left" caption="Almond Blossom Winter Sun Spain" >}}
 
 {{< clear >}}
 
