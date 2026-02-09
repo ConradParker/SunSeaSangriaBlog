@@ -20,4 +20,4 @@ German Shepherds are stunning, graceful creatures… until adolescence hits like
 
 What a whirlwind she turned out to be!
 
-{{< image-compare src1="undefined" src2="undefined" >}}
+{{< image-compare src1="/images/img_8409.jpeg" src2="/images/img_8408.jpeg" caption1="Best buddies, Missy and Snoopy" caption2="Best buddies (for now)" >}}
