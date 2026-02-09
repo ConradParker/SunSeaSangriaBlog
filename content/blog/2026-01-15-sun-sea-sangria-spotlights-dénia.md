@@ -28,6 +28,8 @@ Walking through feels like a mini-adventure—cool, echoing, and steeped in stor
 
 No trip to Denia is complete without conquering the castle—a towering fortress that's been standing guard since the 11th century, whispering tales of conquerors and kings. Built during the Islamic era as a mighty citadel, this bad boy has seen it all: from Arab palaces and mosques to Christian reconquests that reshaped its walls. Picture ramparts echoing with the footsteps of ancient warriors, and an archaeological museum inside packed with artefacts that bring the past roaring to life—Roman ruins, Moorish designs, and even remnants from the Napoleonic era. It's like a time machine with a killer view!
 
+{{< image-compare src1="/images/img_8137.jpeg" src2="/images/img_8136.jpeg" caption1="Denia Castle" caption2="Denia " >}}
+
 Climb to the top (it's an easy hike, promise!), and boom—360-degree panoramas of the town, sea, and Montgo that will leave you breathless. The history hits hard: once a bustling Arab stronghold, it later became a Christian Vila Vella, evolving through wars and rebuilds. Feel the thrill of standing where history unfolded, with the wind whipping through your hair and the sun warming ancient stones. It's not just a site; it's a heart-pounding journey through centuries!
 
 Denia in all its glorious, pulse-racing glory! From marina feasts with Montgo magic to old-town wanders, castle conquests, and tunnel thrills, this town packs endless excitement. Grab your sunnies, pack your appetite, and hit the road—Denia's calling, and it's ready to wow you. What's your first stop? Drop a comment below; I'd love to hear! Safe travels and viva la aventura!
