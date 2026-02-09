@@ -8,7 +8,7 @@ series: sss-town-guide
 ---
 Are you ready, Sun Sea seekers? Let's explore the beautiful town of historic **Dénia**, where old meets new. If you're craving a slice of Spanish paradise that mixes sun-soaked vibes with a dash of mystery and a whole lot of mouthwatering eats, Denia is your ultimate playground. Nestled on the Costa Blanca, this lively town pulses with energy—from its glittering marina to hidden historic nooks. Picture yourself sipping sangria under a fiery sunset, weaving through charming alleys, or uncovering ancient tales atop a dramatic castle. Trust me, Denia isn't just a destination; it's an adrenaline-fueled adventure waiting to sweep you off your feet. Let's dive in!
 
-{{< image-compare src1="/images/img_8131.jpeg" src2="/images/img_8018.jpeg" caption1="Denia Marina " caption2="Denia Marina" >}}
+{{< image-compare src1="/images/img_8131.jpeg" src2="/images/img_8138.jpeg" caption1="Denia Marina " caption2="Denia Food Street Market" >}}
 
 
 
