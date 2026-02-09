@@ -27,6 +27,10 @@ The beaches? They're yours. No towel wars, no crowds — just wide-open sand, ge
 
 Here's that serene winter beach magic in Calpe — pure peace:
 
+{{< image-float src="/images/513196288_10160766852101642_5303614460102755212_n.jpg" position="right" caption="Javea October Winter Sun " >}}
+
+{{< clear >}}
+
 But the real show-stealer? Late winter brings the **almond blossom explosion** — seriously, it's like nature hit the confetti cannon. Entire valleys (especially the magical Jalon Valley nearby) transform into seas of pink and white fluffy clouds. It’s one of the prettiest natural spectacles in Spain, and it happens right when most people aren’t even thinking about visiting.
 
 Prepare to fall in love with these dreamy almond blossom fields.
