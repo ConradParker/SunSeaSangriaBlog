@@ -18,4 +18,7 @@ We still talk about Snoopy all the time, and we laugh—because he was such a lo
 
 Goodnight, Snoopy. Until we meet again… woo woo wooooooo. 🌈🐾❤️
 
+\
+© Joanne Parker 2026 
+
 {{< image-compare src1="/images/img_8391.jpeg" src2="/images/img_8380.jpeg" caption1="Snoopy the Adventurer  " caption2="Goodnight old friend x" >}}
