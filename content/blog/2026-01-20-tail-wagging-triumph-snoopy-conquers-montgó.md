@@ -9,8 +9,6 @@ series: test-story
 
 It was a beautiful warm day, the kind that begs for an adventure. The sun was high, the sky a perfect royal blue, and we decided to head up to the historic windmills on the Montgó. Snoopy, as always, led the way with his lead on, full of energy and confidence, just like so many times before.
 
-
-
 We followed the familiar paths, soaking in the views and the fresh air. When we reached a safe spot, I slipped off his lead—as we’d done countless times—and off he bounded, happy and free, usually circling back quickly for his treats.
 
 But this time… he didn’t come back.
@@ -36,3 +34,5 @@ He hadn’t got lost in the wild at all. He’d trotted down the mountain on his
 That day on Montgó Mountain taught us so much about trust, love, and how even the scariest moments can end with the biggest wag of a tail.
 
 What a legend you are, Snoopy. ❤️
+
+© Joanne Parker 2026
