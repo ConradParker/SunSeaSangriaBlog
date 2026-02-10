@@ -35,3 +35,6 @@ Only Snoopy could turn a potential dognapping into a hilarious case of “too mu
 We scooped him up from the pound, tail wagging like a helicopter, zero regrets. Hugs, kisses, treats for days. He was home, safe, and probably already eyeing the next tree.
 
 What a legend. Even his “snatches” ended with the biggest reunion.  Snoopy, You never failed to make life an adventure. 🐾❤️
+
+\
+© Joanne Parker 2026
