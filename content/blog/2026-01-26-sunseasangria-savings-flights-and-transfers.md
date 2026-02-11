@@ -40,6 +40,8 @@ Skip the expensive taxi rides from Alicante-Elche Airport (ALC), which can easil
 
 **BlaBlaCar Rideshares & Shared Shuttles: For Extra Savings** If you're open to flexible timing, BlaBlaCar offers community-driven rideshares from the airport area north—often €5–€15 depending on the destination and driver (check the app for real-time listings). Shared shuttle services like Beniconnect or similar providers connect to Benidorm and beyond, with drop-offs toward Calpe, Altea, or Jávea for around €10–€20 per person—book online in advance for the best rates and door-to-door convenience.
 
-**Scenic & Relaxed Option: The TRAM** For a slower, more picturesque journey (if you're not rushed), take the TRAM from Alicante city center (a short bus or walk from the airport) toward Denia. It hugs the coast with lovely views, takes up to 2–3.5 hours with a change at Benidorm, and costs €8–€12 total. Great if you want to soak in the scenery and stop off along the way—perfect for a laid-back arrival.
+**Scenic & Relaxed Option: The TRAM** For a slower, more picturesque journey (if you're not rushed), take the TRAM from Alicante city center last stop, Denia. The tram hugs the coast with lovely views, takes up to 2–3.5 hours with a change at Benidorm, and costs €8–€12 total. Great if you want to soak in the scenery and stop off along the way—perfect for a laid-back arrival.
+
+***SunSeaSangria Tips:** Hop on the Bus (C6) from the airport to Alicante, this takes 15 Minutes.*
 
 These choices keep transfers under €20 in most cases, leaving more for your first beach walk or local tapas. Which town are you heading to first? Let me know. 🌞🚌🍊
