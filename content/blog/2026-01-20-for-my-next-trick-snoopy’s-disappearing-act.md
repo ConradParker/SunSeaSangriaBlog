@@ -6,7 +6,7 @@ series: test-story
 ---
 **The Great Snoopy Vanishing Act: The Boot Edition**
 
-It started like every other school run in our little corner of the world. Snoopy, our allegedly very good dog (emphasis on *allegedly*), trotted up to the school gates like the furry rockstar he is. Kids waved, parents grinned, and he lapped up every second of the attention with that unstoppable tail wag. Routine perfection.
+It started like every other school run in our little corner of the world. Snoopy, our allegedly very good dog (emphasis on *allegedly*), trotted up to the school gates like the furry Rockstar he is. Kids waved, parents grinned, and he lapped up every second of the attention with that unstoppable tail wag. Routine perfection.
 
 We popped him in the boot—he hopped in like it was his personal throne, curled up, windows up, doors shut, engine humming. Kids piled in after school, gave him a quick “Hey, Snoops!” pat through the seats, and off we zoomed—homeward bound, same as always.
 
@@ -16,7 +16,7 @@ No Snoopy. No lead. No rogue paw prints. Just an empty boot staring back at us l
 
 We turned into instant detectives: flipping seats, rummaging bags, checking crevices like we’d find a hidden trapdoor. Nothing. No open windows. No signs of a daring escape. Had he finally cracked the code to canine teleportation?
 
-Panic level: maximum. We jumped back in the car and cruised the neighborhood like a low-budget crime show—windows down, calling his name, peering into bushes, knocking on doors. Vets: “No dog heists today.” Police: “We handle lost socks, not lost dogs… good luck!
+Panic level: maximum. We jumped back in the car and cruised the neighbourhood like a low-budget crime show—windows down, calling his name, peering into bushes, knocking on doors. Vets: “No dog heists today.” Police: “We handle lost socks, not lost dogs… good luck!
 
 The wild theories started flying:
 
@@ -42,7 +42,7 @@ We scooped him up in a chaos of hugs, kisses, squeals, and tail-thumps. The kids
 
 But even amid the celebration, one question lingered: Why on earth would he cram himself into such a bizarre hiding spot? It wasn’t his usual style.
 
-Next morning: straight to the vet for a check-up (better safe than sorry after the Houdini routine). Verdict? Perfect health. The vet just shrugged: “Probably thought it was the coziest nap nook in the car that day.” Classic Snoopy—always one surprise ahead.
+Next morning: straight to the vet for a check-up (better safe than sorry after the Houdini routine). Verdict? Perfect health. The vet just shrugged: “Probably thought it was the cosiest nap nook in the car that day.” Classic Snoopy—always one surprise ahead.
 
 From total meltdown to pure bliss in minutes. Our sneaky, clever, loveable troublemaker is safe, sound, and probably already plotting his next “grand exit.”
 
