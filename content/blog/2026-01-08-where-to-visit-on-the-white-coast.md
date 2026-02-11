@@ -30,10 +30,6 @@ Here's a refreshed and confirmed take on your suggestions, with current details 
 * **Ozone Bowling (Av. del Mediterráneo, Benidorm)**: 10 lanes, simulators, arcades, sports games, and a snack bar/café. Affordable and entertaining for groups. Holiday seasons its best to book online.
 * **Megazone (next to Ozone, Benidorm)**: Laser tag and indoor paintball—perfect for older kids/teens wanting action-packed competition.
 
-{{< image-float src="/images/514676173_10160796712586642_6221874357221534437_n.jpg" position="left" caption="Ozone Bowling Benidorm" >}}
-
-{{< clear >}}
-
 ###  **Other Cosy Options**
 
 * **Spa/Wellness Centres**: Many in Benidorm (and some in Calpe/Jàvea) offer heated indoor pools, saunas, jacuzzis, and massages—pure relaxation on a drizzly day.
