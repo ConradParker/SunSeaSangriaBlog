@@ -11,8 +11,6 @@ Meet Snoopy, our pint-sized rescue dog who crash-landed into our lives straight 
 
 Cue the daily bombardment of dog emojis, cute photos, and pleading texts: “He’s tiny! He loves kids! Look at that face!” We lasted about a week before caving. “Fine,” we said. “How much trouble can one small dog be?” (Spoiler: a lot. The best kind.)
 
-© Joanne Parker 2026 
-
 {{< image-compare src1="/images/img_8392.jpeg" src2="/images/img_8083.jpeg" caption1="How could we say no that face - Snoopy" caption2="Cheeky Monkey Snoopy " >}}
 
 A few days later, Clyde, our friend, heroically drove all the way to Andalucía and delivered Snoopy to our door—just in time for one of the kids’ birthdays. Talk about perfect timing for a furry surprise! The moment he arrived, this Jack Russell–Chihuahua cross (think big personality in a tiny body) bounced in like he’d been waiting for us his whole life. Tail wagging like a helicopter blade, zooming around, sniffing everything, and instantly winning hearts with his hilarious little quirks.
