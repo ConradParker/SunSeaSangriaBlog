@@ -2,6 +2,7 @@
 title: Rainy Day Rescue - Surviving (and Thriving) with Bored Kids
 date: 2026-01-15T12:13:00.000+01:00
 draft: false
+description: '"Im bored" Right let go....'
 ---
 
 Rainy days on the Costa Blanca North don't have to slow you down—short showers and mild temperatures (often 15-20°C even in cooler months) make it easy to pop indoors without much hassle. Your list captures some excellent options perfectly suited for expats, families, and visitors around Calpe, Jàvea/Xàbia, Altea, Moraira, Benissa, Alfaz del Pi, and up toward Benidorm. These spots are mostly within a 30-45 minutes' drive from Calpe and stay dry and fun.
