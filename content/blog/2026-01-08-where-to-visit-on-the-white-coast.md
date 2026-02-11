@@ -40,3 +40,5 @@ Rainy days on the **Costa Blanca North** (Calpe, Javea/Xàbia, Altea, Moraira, B
 •  **Cinema or Covered Markets**: Catch a movie or wander through indoor markets.
 
 Pro tip: Rain here is often patchy—check forecasts; if it’s light, a quick umbrella walk in Altea’s old town or Moraira’s harbour can still be magical. Pair with a hot chocolate or tapas stop in Javea Arenal Beach front, or check out the beautiful Denia harbour with plenty of great restaurants to choose from whilst looking over the harbour.
+
+{{< image-caption src="/images/rainy-day-rescue-with-bored-kids.png" >}}
