@@ -27,7 +27,7 @@ Here's a refreshed and confirmed take on your suggestions, with current details 
 ### **4. Bowling, Arcades & Laser Tag – Fun Group Activities**
 
 * **Virtual Reality Club Calpe (Another World)**: Immersive VR gaming for all ages—full-body tracking, multi-level arenas, and a variety of adventures. Book ahead via calpe.another-world.com—great for teens/adults and even family sessions.
-* **Ozone Bowling (Av. del Mediterráneo, Benidorm)**: 10 lanes, simulators, arcades, sports games, and a snack bar/café. Affordable and entertaining for groups.
+* **Ozone Bowling (Av. del Mediterráneo, Benidorm)**: 10 lanes, simulators, arcades, sports games, and a snack bar/café. Affordable and entertaining for groups. Holiday seasons its best to book online.
 * **Megazone (next to Ozone, Benidorm)**: Laser tag and indoor paintball—perfect for older kids/teens wanting action-packed competition.
 
 {{< image-float src="/images/514676173_10160796712586642_6221874357221534437_n.jpg" position="left" caption="Ozone Bowling Benidorm" >}}
