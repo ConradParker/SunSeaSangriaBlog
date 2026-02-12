@@ -4,7 +4,6 @@ date: 2026-01-15T12:13:00.000+01:00
 draft: false
 description: '"Im bored" Right let go....'
 ---
-
 Rainy days on the Costa Blanca North don't have to slow you down—short showers and mild temperatures (often 15-20°C even in cooler months) make it easy to pop indoors without much hassle. Your list captures some excellent options perfectly suited for expats, families, and visitors around Calpe, Jàvea/Xàbia, Altea, Moraira, Benissa, Alfaz del Pi, and up toward Benidorm. These spots are mostly within a 30-45 minutes' drive from Calpe and stay dry and fun.
 
 Here's a refreshed and confirmed take on your suggestions, with current details as of 2026:
@@ -31,7 +30,9 @@ Here's a refreshed and confirmed take on your suggestions, with current details 
 * **Ozone Bowling (Av. del Mediterráneo, Benidorm)**: 10 lanes, simulators, arcades, sports games, and a snack bar/café. Affordable and entertaining for groups. Holiday seasons its best to book online.
 * **Megazone (next to Ozone, Benidorm)**: Laser tag and indoor paintball—perfect for older kids/teens wanting action-packed competition.
 
-###  **Other Cosy Options**
+{{< image-compare src1="/images/bowling-btter.jpg" src2="/images/bowling-btter.jpg" >}}
+
+### **Other Cosy Options**
 
 * **Spa/Wellness Centres**: Many in Benidorm (and some in Calpe/Jàvea) offer heated indoor pools, saunas, jacuzzis, and massages—pure relaxation on a drizzly day.
 * **Live Music Cafés or Artisan Shops**: Altea's old town has covered boutiques for ceramics, jewellery, and local crafts. Moraira has lovely Quint Street browsing too.
