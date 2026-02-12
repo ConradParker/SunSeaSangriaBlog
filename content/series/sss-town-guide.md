@@ -14,6 +14,20 @@ Each town gets its own dedicated page here on the blog, packed with what makes i
 
 {{< image-float src="/images/513196288_10160766852101642_5303614460102755212_n.jpg" position="right" caption="SunSeaSangria - Javea" >}}
 
+
+I have to share some of my favourates places to eat in Javea after living there for many years. From meeting friends for breakfast to enjoying the arenal for lunch or  heading to the port and old town for evening. There is so many great places to choose from.
+
+
+
+
+
+
+
+
+
+
+
+
  Whether you’re planning a beach escape, a foodie adventure, or just want to time your trip for the biggest parties, these pages will help you soak up the real essence of this beautiful corner of Spain—sangria in hand, of course!
 
 Start exploring below with the town that calls to you most, or scroll through for the full lineup. ¡Salud to sunny adventures ahead! 🌞🍹
