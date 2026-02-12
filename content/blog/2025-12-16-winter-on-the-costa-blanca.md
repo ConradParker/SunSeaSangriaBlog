@@ -1,5 +1,5 @@
 ---
-title: "Spending Winter on the Costa Blanca "
+title: "Costa Blanca Winter Guide: Sunny Days, Fewer Crowds & Year-Round Magic"
 date: 2025-12-16T10:14:00.000+01:00
 draft: false
 description: ""
