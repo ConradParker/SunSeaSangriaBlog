@@ -36,3 +36,7 @@ That day on Montgó Mountain taught us so much about the little rascal and even 
 What a legend you are, Snoopy. ❤️
 
 © Joanne Parker 2026
+
+
+
+![](/images/img_8417.jpeg)
