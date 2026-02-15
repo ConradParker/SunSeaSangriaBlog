@@ -17,7 +17,7 @@ As the afternoon wore on, strange things started happening. Tiny puddles appeare
 
 But the puddles kept multiplying. One on the edge of the sofa cushion. One near the birthday cake (thankfully missed the icing). One that looked suspiciously fresh on my son’s discarded birthday card. The evidence was mounting, and denial was getting harder to maintain.
 
-Then it hit me like a wet slap: these weren’t spills. These were declarations. Official Snoopy pee-mail. “Property of Snoopy – claim stamped July 22nd.
+Then it hit me like a wet slap: these weren’t spills. These were declarations. Official Snoopy pee-mail. “Property of Snoopy – claim stamped and all made by him.
 
 We’d been promised a house-trained pup. Ha! What we got was a four-legged graffiti artist who viewed every vertical surface (and some horizontal ones) as his personal canvas. He sniffed, he lifted that little leg with dramatic flair, he delivered—and he showed zero signs of slowing down. If anything, he was just warming up. By evening, our house looked like it had been hit by a very targeted rain shower… indoors.
 
