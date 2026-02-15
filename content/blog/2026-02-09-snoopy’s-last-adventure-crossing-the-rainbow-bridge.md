@@ -16,7 +16,7 @@ As the illness deepened, we knew the kindest thing was to let him go peacefully.
 
 Snoopy slipped away so gently, without pain—his breathing slowing until it became the softest sigh, like he was simply drifting into the deepest, most restful sleep of his life. In that moment, the room overflowed with love rather than emptiness. He looked so peaceful, so content, as if he’d fallen asleep dreaming of chasing balls through endless fields or marking the perfect trees.
 
-We still talk about Snoopy all the time, and we laugh—because he was such a lovable rogue, full of mischief and adventure right to his core. His big heart, goofy grin, and gentle spirit live on in every story we share.
+We still talk about Snoopy all the time, and we laugh—because he was such a lovable rogue, full of mischief and adventure right to his core. His big heart, goofy grin, and gentle spirit lives on in every story we share.
 
 Goodnight, Snoopy. Until we meet again… woo woo wooooooo. 🌈🐾❤️
 
