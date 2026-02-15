@@ -12,7 +12,7 @@ We arrived, I tied him securely to the usual tree outside—like I’d done a hu
 
 I stepped out, bags swinging, already planning dinner… and bam. Heart. Dropped.
 
-No Snoopy. Like a Home Alone moment, Not again!
+No Snoopy. Like a Home Alone moment, “SNOOPY”
 
 Instant déjà vu from the Montgó mountain madness. I called his name until my voice cracked, spun like a top, checked under every car, behind every trolley—nothing. Had someone untied him? Walked off with him? My brain went straight to worst-case scenarios.
 
