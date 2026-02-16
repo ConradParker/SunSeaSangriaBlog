@@ -17,9 +17,9 @@ Welcome Everyone to your cheeky, sun-drenched guide to the fabulous **Costa Blan
 
 ![](/images/480965564_10160337798746642_6644424404533892324_n.jpg "SunSeaSangria - Calpe ")
 
-Whether you’re already living the dream here like a proper local, or planning your escape to this stunning coast, scrolling pics dreaming of sandy toes and that salty Med breeze… pull up a lounger, grab an ice-cold sangria (or a proper cuppa!), and let’s dive in.
+Whether you’re already living the dream here like a true local or planning your escape to this stunning coast while scrolling through pictures and dreaming of sandy toes and a salty Mediterranean breeze, pull up a lounger, grab an ice-cold sangria (or a proper cup of tea!), and let’s dive in. 
 
-**What you’ll find here on Sun Sea Sangria**
+**What you’ll find here on Sun Sea Sangria:**
 
 This little corner of the internet celebrates the **real** Costa Blanca North life – the sunny bits, the quirky bits, and all the gloriously messy bits in between. Expect:
 
