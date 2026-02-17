@@ -22,4 +22,5 @@ From that moment on, we were officially not welcome at the bus stop. The other p
 
 Moral of the story? Potty training a toddler is hard… but potty training your dog while trying to blend in with the school-run crowd? That’s next-level chaos. And somehow, it’s become one of our family’s favourite embarrassing legends.
 
-(c) Joanne Maddison 2026
+
+© Joanne Parker 2026
