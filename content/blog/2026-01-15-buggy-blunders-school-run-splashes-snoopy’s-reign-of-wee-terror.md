@@ -18,6 +18,8 @@ Because on Day One—the very first morning—we made an unforgettable entrance.
 
 I mumbled something like “¡Lo siento mucho! while frantically spraying and wiping, my face the colour of a ripe tomato. Snoopy  just wagged his tail like “Job well done, team!”
 
+{{< image-caption src="/images/200573808_10157679066076642_5036628181701610731_n-1-.jpg" >}}{{< /image-caption >}}
+
 From that moment on, we were officially not welcome at the bus stop. The other parents formed a human shield around their buggies whenever we appeared—like we were walking biohazards. I swear they’d shuffle sideways, eyes wide, as if one wrong move and the pee apocalypse would strike again.
 
 Moral of the story? Potty training a toddler is hard… but potty training your dog while trying to blend in with the school-run crowd? That’s next-level chaos. And somehow, it’s become one of our family’s favourite embarrassing legends.
