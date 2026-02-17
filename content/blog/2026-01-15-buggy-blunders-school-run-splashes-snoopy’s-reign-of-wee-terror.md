@@ -21,3 +21,5 @@ I mumbled something like “¡Lo siento mucho! while frantically spraying and wi
 From that moment on, we were officially not welcome at the bus stop. The other parents formed a human shield around their buggies whenever we appeared—like we were walking biohazards. I swear they’d shuffle sideways, eyes wide, as if one wrong move and the pee apocalypse would strike again.
 
 Moral of the story? Potty training a toddler is hard… but potty training your dog while trying to blend in with the school-run crowd? That’s next-level chaos. And somehow, it’s become one of our family’s favourite embarrassing legends.
+
+(c) Joanne Maddison 2026
