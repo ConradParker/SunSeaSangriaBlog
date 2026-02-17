@@ -20,21 +20,14 @@ Life since then has been wonderfully, gloriously chaotic. Along the way, I’ve:
 
 •  Taught English online to students across the globe—sometimes mid-fiesta, with fireworks exploding outside and my poor students convinced World War III had begun.
 
-{{< image-compare src1="/images/img_8361.jpeg" src2="/images/img_8421.jpeg" caption1="Online Teaching" caption2="Making Candles at home" >}}
+{{< image-compare src1="/images/img_8361.jpeg" src2="/images/img_8062.jpeg" caption1="Online Teaching" caption2="Making Candles at home" >}}
 
-Now, I'm finally turning that longtime dream into reality: relaunching **SunSeaSangria** as a proper website and blog. No corporate polish, no filtered perfection—just honest, lived-in stories from someone who’s experienced every almond-blossom-pink, ridiculously beautiful (and occasionally absurd) moment of Costa Blanca life.
 
-Here’s what you’ll discover:
+Now, I'm finally turning that longtime dream into reality: relaunching **Sun Sea Sangria** as a proper website and blog. No corporate polish, no filtered perfection — just honest, lived-in stories from someone who’s experienced every almond-blossom-pink, ridiculously beautiful (and occasionally absurd) moment of Costa Blanca North life.
 
-\- Secret insider guides to hidden beaches, forgotten mountain villages, and charming towns that even some locals have overlooked.
+Whether it's juggling the red tape with a cuppa in one hand and a NIE form in the other, chasing the perfect sunset photo, or simply surviving another gloriously chaotic fiesta, this is the real deal — the sunny highs, the quirky lows, and all the gloriously messy bits in between.
 
-\- The best spots for enjoying sunrise coffee, leisurely lunches, and those irresistibly addictive late-night tapas.
-
-\- Authentic experiences: breathtaking views alongside the classic “only in Spain” moments that will make you laugh, cry, and sigh all at once.
-
-\- Practical advice for holidaymakers, aspiring expats, and anyone searching for, “Can we actually move to Spain and make it work?”
-
-Whether you’re planning your first trip, dreaming of a permanent move, or simply craving some Mediterranean sunshine from your screen—pull up a chair, grab a sangria (virtual or real), and let’s celebrate the good life on the Costa Blanca. 
+I'd really love you to join me on this new adventure. Pop over to the comments, hit reply on the newsletter, or drop me a message to say hello — and while you're at it, tell me: what jobs (or mad side hustles!) have you tackled here in Spain? Bar work in Benidorm? Teaching English with a side of beach? Running a little holiday rental empire? Real estate viewings in the blazing sun? Or something completely off-the-wall? Your stories make this place sparkle, so please share — I'd love to feature some (with your permission, of course!) alongside photos of my own escapades. 💛
 
 ¡Bienvenidos! 🌞🍹
 
