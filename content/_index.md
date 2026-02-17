@@ -23,13 +23,13 @@ Whether you’re already living the dream here in the Costa Blanca like a proper
 
 **What you’ll find here on Sun Sea Sangria:**
 
-This little corner of the internet celebrates the **real** Costa Blanca North life – the sunny bits, the quirky bits, and all the gloriously messy bits in between. Expect:
+This little corner of the internet celebrates the **real** Costa Blanca North life – the sunny bits, the quirky bits, and all the gloriously messy bits in between. **Expect:**
 
-•  Weekly **SunSeaNews** roundups straight to your inbox (zero fluff, all the good stuff: weather drama, upcoming fiestas, sneaky flight hacks, and those little Spain-life twists that make us go “¡ay caramba!”)
+• Your weekly **SunSeaNews** fix straight to your inbox: weather highs & lows (because who doesn't love a bit of weather drama?), what's on, Fiestas, Market days and more. The juiciest local chatter, and all the news that keeps this expat life properly exciting. No waffle, just the good stuff! 🍹
 
 •  Honest restaurant raves (and the odd gentle warning) so you know exactly where to book that special dinner.
 
-•  Beach guides, secret hidden coves, and rainy-day backups when the clouds decide to gatecrash.
+•  Beach guides, secret hidden coves, and rainy-day backups when the clouds decide to gatecrash the holiday.
 
 •  Fond, laugh-out-loud tales and memories from our late rescue dog **Snoopy** (tiny terror turned accidental legend – he’ll always be basically famous in our hearts).
 
@@ -40,10 +40,6 @@ Most importantly… **this is your space too**. I want you to feel right at home
 Got a favourite hidden beach bar? Discovered an epic new tapas spot? Read a book that made you laugh/cry/book a one-way ticket to Spain? Spotted something hilarious or heart-melting in daily life here? **Please share it!**
 
 Drop your thoughts in the comments, hit reply on the newsletter, or message me if you’d like to contribute a guest story or photo. The best bits of this blog come from all of us chatting together – expats, holiday dreamers, locals, and everyone in between.
-
-Quick heads-up: the writing here isn’t always perfect (life’s gloriously chaotic, even without a photobombing Snoopy these days), but every word comes straight from the heart and soul of this sun-soaked adventure.
-
-And that’s **exactly** how I want you to join in – typos, half-formed thoughts, rants, raves, all of it.
 
 This place sparkles brightest when it’s a proper, real conversation between all of us who adore (or dream of) this corner of Spain. Your voice matters, imperfections and all. 💛
 
