@@ -29,6 +29,8 @@ I opened it to find our neighbour standing there, holding Snoopy in his arms. My
 
 What? Relief hit me like a wave. The kids rushed forward, squealing with joy, wrapping their arms around him as he licked every face in reach. The house filled with laughter, barks, and pure happiness.
 
+{{< image-caption src="/images/whatsapp-image-2026-02-13-at-16.56.23.jpeg" caption="Montgo Adventures" >}}
+
 He hadn’t got lost in the wild at all. He’d trotted down the mountain on his own, found his way to Mercadona, where, after dropping the kids off at school daily, I would pick up my shopping with him on morning walks. He simply sat there, loyal as ever, waiting for his family.
 
 That day on Montgó Mountain taught us so much about the little rascal and even how some of the scariest moments can end with the biggest wag of a tail.
@@ -36,7 +38,3 @@ That day on Montgó Mountain taught us so much about the little rascal and even 
 What a legend you are, Snoopy. ❤️
 
 © Joanne Parker 2026
-
-
-
-![](/images/img_8417.jpeg)
