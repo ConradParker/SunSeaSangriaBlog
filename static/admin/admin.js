@@ -43,7 +43,8 @@ CMS.registerEditorComponent({
     if (data.alt) shortcode += ` alt="${data.alt}"`;
     if (data.width && data.width !== "40%") shortcode += ` width="${data.width}"`;
     shortcode += ` >}}`;
-    if (data.caption) shortcode += `${data.caption}{{< /image-float >}}`;
+    if (data.caption) shortcode += data.caption;
+    shortcode += `{{< /image-float >}}`;
     return shortcode;
   },
   toPreview: function(data) {
@@ -79,7 +80,8 @@ CMS.registerEditorComponent({
     if (data.alt) shortcode += ` alt="${data.alt}"`;
     if (data.height && data.height !== "500px") shortcode += ` height="${data.height}"`;
     shortcode += ` >}}`;
-    if (data.caption) shortcode += `${data.caption}{{< /image-full >}}`;
+    if (data.caption) shortcode += data.caption;
+    shortcode += `{{< /image-full >}}`;
     return shortcode;
   },
   toPreview: function(data) {
@@ -164,7 +166,8 @@ CMS.registerEditorComponent({
     if (data.align && data.align !== "center") shortcode += ` align="${data.align}"`;
     if (data.width) shortcode += ` width="${data.width}"`;
     shortcode += ` >}}`;
-    if (data.caption) shortcode += `${data.caption}{{< /image-caption >}}`;
+    if (data.caption) shortcode += data.caption;
+    shortcode += `{{< /image-caption >}}`;
     return shortcode;
   },
   toPreview: function(data) {
