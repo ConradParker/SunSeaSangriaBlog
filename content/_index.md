@@ -13,11 +13,11 @@ paige:
     #paige-page-content { text-align: center; }
 menu_weight: 10
 ---
-Welcome Everyone to your cheeky, sun-drenched guide to the fabulous **Costa Blanca North**! 🌞🍷
+# Welcome Everyone to your cheeky, sun-drenched guide to the fabulous **Costa Blanca North**! 🌞🍷
 
 ![](/images/480965564_10160337798746642_6644424404533892324_n.jpg "SunSeaSangria - Calpe ")
 
-Whether you’re already living the dream here like a true local or planning your escape to this stunning coast while scrolling through pictures and dreaming of sandy toes and a salty Mediterranean breeze, pull up a lounger, grab an ice-cold sangria (or a proper cup of tea!), and let’s dive in. 
+## Whether you’re already living the dream here in the Costa Blanca or planning your escape to this stunning coast while scrolling through pictures and dreaming of sandy toes and a salty Mediterranean breeze. Why not pull up a lounger, grab an ice-cold sangria (or a proper cup of tea!), and let’s dive in. 
 
 **What you’ll find here on Sun Sea Sangria:**
 
