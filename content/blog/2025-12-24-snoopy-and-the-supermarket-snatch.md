@@ -1,6 +1,6 @@
 ---
 title: "Snoopy and the  Supermarket Snatch "
-date: 2025-01-20T20:19:00.000+01:00
+date: 2026-02-17T10:38:00.000+01:00
 draft: false
 series: test-story
 ---
