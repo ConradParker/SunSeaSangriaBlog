@@ -14,11 +14,9 @@ The other mums? They gave me the classic side-eye: “Keep that furry menace awa
 
 Because on Day One—the very first morning—we made an unforgettable entrance. My little four-legged troublemaker struts up, spots a particularly fancy buggy, lifts his leg like he’s claiming territory in the most dramatic way possible… and unleashes. Right there. In front of everyone. A perfect golden arc. The poor dad attached to that buggy froze. I froze. The whole bus stop froze.
 
-{{< image-caption src="/images/img_8418.jpeg" >}}{{< /image-caption >}}
+{{< image-caption src="/images/img_8418.jpeg" >}}Nooo Snoopy, don’t you dare{{< /image-caption >}}
 
 I mumbled something like “¡Lo siento mucho! while frantically spraying and wiping, my face the colour of a ripe tomato. Snoopy  just wagged his tail like “Job well done, team!”
-
-{{< image-caption src="/images/200573808_10157679066076642_5036628181701610731_n-1-.jpg" >}}{{< /image-caption >}}
 
 From that moment on, we were officially not welcome at the bus stop. The other parents formed a human shield around their buggies whenever we appeared—like we were walking biohazards. I swear they’d shuffle sideways, eyes wide, as if one wrong move and the pee apocalypse would strike again.
 
