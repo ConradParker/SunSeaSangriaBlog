@@ -27,4 +27,4 @@ Welcome to the family, you wee-marking menace. We had no idea what we were in fo
 
 © Joanne Parker 2026
 
-{{< image-caption src="/images/img_8419.jpeg" caption="The Great Puddle Mystery : Paws and Mischief " >}}
+{{< image-caption src="/images/img_8419.jpeg" >}}The Great Puddle Mystery : Paws and Mischief {{< /image-caption >}}

@@ -19,7 +19,7 @@ Snow at sea level? Basically a myth. (Unless the rare "beast from the east" deci
 
 Let these views convince you that winter here is anything but winter:
 
-{{< image-float src="/images/417.jpg" position="left" caption="Calpe La Fossa February Winter Sun" >}}
+{{< image-float src="/images/417.jpg" position="left" >}}Calpe La Fossa February Winter Sun{{< /image-float >}}
 
 Winter in the northern Costa Blanca doesn't just survive — it **glows**. While the rest of Europe is still bundled up and dreaming of spring, this corner of Spain turns into a peaceful, sun-kissed playground that's perfect for actually enjoying the great outdoors (without sweating or freezing!).
 
@@ -27,7 +27,7 @@ The beaches? They're yours. No towel wars, no crowds — just wide-open sand, ge
 
 Here's that serene winter beach magic in Calpe — pure peace:
 
-{{< image-float src="/images/513196288_10160766852101642_5303614460102755212_n.jpg" position="right" caption="Javea October Winter Sun " >}}
+{{< image-float src="/images/513196288_10160766852101642_5303614460102755212_n.jpg" position="right" >}}Javea October Winter Sun {{< /image-float >}}
 
 {{< clear >}}
 
@@ -35,7 +35,7 @@ But the real show-stealer? Late winter brings the **almond blossom explosion** �
 
 Prepare to fall in love with these dreamy almond blossom fields.
 
-{{< image-float src="/images/549.jpg" position="left" caption="Almond Blossom Winter Sun Spain" >}}
+{{< image-float src="/images/549.jpg" position="left" >}}Almond Blossom Winter Sun Spain{{< /image-float >}}
 
 {{< clear >}}
 

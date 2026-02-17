@@ -31,4 +31,4 @@ I'd really love you to join me on this new adventure. Pop over to the comments, 
 
 ¡Bienvenidos! 🌞🍹
 
-{{< image-caption src="/images/img_5205.jpeg" caption="Loving the Costa Blanca and all it offers ❤️" >}}
+{{< image-caption src="/images/img_5205.jpeg" >}}Loving the Costa Blanca and all it offers ❤️{{< /image-caption >}}

@@ -10,4 +10,4 @@ As a local in Calpe (with that unbeatable Peñón de Ifach backdrop!), I skip th
 
 Short, practical, and packed with that sunny Costa vibe to help you stay ahead, settle in easier, and make the most of this beautiful corner of Spain. ☀️🏖️
 
-{{< image-caption src="/images/your-paragraph-text.jpg" caption="SunSeaNews - SunSeaSangria" >}}
+{{< image-caption src="/images/your-paragraph-text.jpg" >}}SunSeaNews - SunSeaSangria{{< /image-caption >}}

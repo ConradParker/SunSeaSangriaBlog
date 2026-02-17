@@ -1,6 +1,7 @@
 {{- $src := .Get "src" -}}
 {{- $alt := .Get "alt" | default "" -}}
 {{- $caption := .Get "caption" | default "" -}}
+{{- with .Inner -}}{{- $caption = . -}}{{- end -}}
 {{- $height := .Get "height" | default "500px" -}}
 
 {{- if not $src -}}

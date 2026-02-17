@@ -2,6 +2,7 @@
 {{- $position := .Get "position" | default "left" -}}
 {{- $alt := .Get "alt" | default "" -}}
 {{- $caption := .Get "caption" | default "" -}}
+{{- with .Inner -}}{{- $caption = . -}}{{- end -}}
 {{- $width := .Get "width" | default "40%" -}}
 
 {{- if not $src -}}

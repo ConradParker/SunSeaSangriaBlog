@@ -17,4 +17,4 @@ Because surviving Spanish bureaucracy isn’t just paperwork — it’s a full-c
 
 
 
-{{< image-caption src="/images/red-tape-and-tears.jpeg" caption="Red Tape & Tears - SunSeaSangria" >}}
+{{< image-caption src="/images/red-tape-and-tears.jpeg" >}}Red Tape & Tears - SunSeaSangria{{< /image-caption >}}

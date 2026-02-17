@@ -8,11 +8,11 @@ Welcome to the **North Costa Blanca** section of **Sun Sea Sangria**!
 
 If you’re dreaming of sun-drenched days, crystal-clear Mediterranean waters, charming whitewashed towns, fresh seafood paella, and the infectious energy of authentic Spanish fiestas, you’ve come to the right place. This series dives deep into the highlights of the northern stretch of the Costa Blanca (the more relaxed, scenic part from Dénia down through Jávea/Xàbia, Moraira, Calpe, and Altea), where dramatic cliffs meet hidden coves, historic castles overlook bustling harbours, and every town has its own unique personality.
 
-{{< image-float src="/images/481675129_10160337800086642_1076895538579878814_n.jpg" position="left" caption="SunSeaSangria - Calpe" >}}
+{{< image-float src="/images/481675129_10160337800086642_1076895538579878814_n.jpg" position="left" >}}SunSeaSangria - Calpe{{< /image-float >}}
 
 Each town gets its own dedicated page here on the blog, packed with what makes it special—think unbeatable beaches and hiking spots, top spots for sangria and tapas, cultural gems, and insider tips on the best time to visit for peak vibes. We’ll spotlight the standout fiestas that bring the streets alive: from epic Moors and Christians parades with colorful costumes and mock battles (spring through autumn in places like Moraira, Calpe, and beyond), wild Bous a la Mar bull runs by the sea in summer (Dénia and Jávea style), spectacular fireworks like Altea’s Castell de l’Olla over the water in August, San Juan bonfires in June, patron saint celebrations with processions and music, and more seasonal magic throughout the year.
 
-{{< image-float src="/images/513196288_10160766852101642_5303614460102755212_n.jpg" position="right" caption="SunSeaSangria - Javea" >}}
+{{< image-float src="/images/513196288_10160766852101642_5303614460102755212_n.jpg" position="right" >}}SunSeaSangria - Javea{{< /image-float >}}
 
 
 I have to share some of my favourates places to eat in Javea after living there for many years. From meeting friends for breakfast to enjoying the arenal for lunch or  heading to the port and old town for evening. There is so many great places to choose from.

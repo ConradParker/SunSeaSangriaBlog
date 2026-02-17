@@ -25,4 +25,4 @@ So grab the leash, pack the treats, and head to the Costa Blanca — because you
 
 Who's booking the next trip with their four-legged co-pilot? 🐕✈️🌊 Let's make some paws-in-the-sand memories! 🐾
 
-{{< image-caption src="/images/img_8072.jpeg" caption="Snoopy and Missy have in Splashing Time" >}}
+{{< image-caption src="/images/img_8072.jpeg" >}}Snoopy and Missy have in Splashing Time{{< /image-caption >}}

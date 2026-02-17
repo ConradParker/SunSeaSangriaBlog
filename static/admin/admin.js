@@ -28,22 +28,22 @@ CMS.registerEditorComponent({
     { name: "caption", label: "Caption", widget: "string", required: false },
     { name: "width", label: "Width", widget: "string", required: false, default: "40%", hint: "e.g. 40%, 300px" }
   ],
-  pattern: /{{<\s*image-float\s+src="([^"]+)"\s+position="([^"]+)"(?:\s+alt="([^"]*)")?(?:\s+caption="([^"]*)")?(?:\s+width="([^"]*)")?\s*>}}/,
+  pattern: /{{<\s*image-float\s+src="([^"]+)"\s+position="([^"]+)"(?:\s+alt="([^"]*)")?(?:\s+caption="([^"]*)")?(?:\s+width="([^"]*)")?\s*>}}(?:([\s\S]*?){{<\s*\/image-float\s*>}})?/,
   fromBlock: function(match) {
     return {
       src: match[1],
       position: match[2],
       alt: match[3] || "",
-      caption: match[4] || "",
+      caption: (match[6] || "").trim() || match[4] || "",
       width: match[5] || "40%"
     };
   },
   toBlock: function(data) {
     let shortcode = `{{< image-float src="${data.src}" position="${data.position}"`;
     if (data.alt) shortcode += ` alt="${data.alt}"`;
-    if (data.caption) shortcode += ` caption="${data.caption}"`;
     if (data.width && data.width !== "40%") shortcode += ` width="${data.width}"`;
     shortcode += ` >}}`;
+    if (data.caption) shortcode += `${data.caption}{{< /image-float >}}`;
     return shortcode;
   },
   toPreview: function(data) {
@@ -65,21 +65,21 @@ CMS.registerEditorComponent({
     { name: "caption", label: "Caption", widget: "string", required: false },
     { name: "height", label: "Height", widget: "string", required: false, default: "500px", hint: "e.g. 500px, 50vh" }
   ],
-  pattern: /{{<\s*image-full\s+src="([^"]+)"(?:\s+alt="([^"]*)")?(?:\s+caption="([^"]*)")?(?:\s+height="([^"]*)")?\s*>}}/,
+  pattern: /{{<\s*image-full\s+src="([^"]+)"(?:\s+alt="([^"]*)")?(?:\s+caption="([^"]*)")?(?:\s+height="([^"]*)")?\s*>}}(?:([\s\S]*?){{<\s*\/image-full\s*>}})?/,
   fromBlock: function(match) {
     return {
       src: match[1],
       alt: match[2] || "",
-      caption: match[3] || "",
+      caption: (match[5] || "").trim() || match[3] || "",
       height: match[4] || "500px"
     };
   },
   toBlock: function(data) {
     let shortcode = `{{< image-full src="${data.src}"`;
     if (data.alt) shortcode += ` alt="${data.alt}"`;
-    if (data.caption) shortcode += ` caption="${data.caption}"`;
     if (data.height && data.height !== "500px") shortcode += ` height="${data.height}"`;
     shortcode += ` >}}`;
+    if (data.caption) shortcode += `${data.caption}{{< /image-full >}}`;
     return shortcode;
   },
   toPreview: function(data) {
@@ -114,11 +114,12 @@ CMS.registerEditorComponent({
     };
   },
   toBlock: function(data) {
+    const sanitize = (s) => (s || "").replace(/[\u201C\u201D\u201E\u201F"]/g, "'");
     let shortcode = `{{< image-compare src1="${data.src1}" src2="${data.src2}"`;
-    if (data.alt1) shortcode += ` alt1="${data.alt1}"`;
-    if (data.alt2) shortcode += ` alt2="${data.alt2}"`;
-    if (data.caption1) shortcode += ` caption1="${data.caption1}"`;
-    if (data.caption2) shortcode += ` caption2="${data.caption2}"`;
+    if (data.alt1) shortcode += ` alt1="${sanitize(data.alt1)}"`;
+    if (data.alt2) shortcode += ` alt2="${sanitize(data.alt2)}"`;
+    if (data.caption1) shortcode += ` caption1="${sanitize(data.caption1)}"`;
+    if (data.caption2) shortcode += ` caption2="${sanitize(data.caption2)}"`;
     shortcode += ` >}}`;
     return shortcode;
   },
@@ -147,12 +148,12 @@ CMS.registerEditorComponent({
     { name: "align", label: "Alignment", widget: "select", options: ["left", "center", "right"], default: "center" },
     { name: "width", label: "Width", widget: "string", required: false, hint: "e.g. 80%, 600px" }
   ],
-  pattern: /{{<\s*image-caption\s+src="([^"]+)"(?:\s+alt="([^"]*)")?(?:\s+caption="([^"]*)")?(?:\s+align="([^"]*)")?(?:\s+width="([^"]*)")?\s*>}}/,
+  pattern: /{{<\s*image-caption\s+src="([^"]+)"(?:\s+alt="([^"]*)")?(?:\s+caption="([^"]*)")?(?:\s+align="([^"]*)")?(?:\s+width="([^"]*)")?\s*>}}(?:([\s\S]*?){{<\s*\/image-caption\s*>}})?/,
   fromBlock: function(match) {
     return {
       src: match[1],
       alt: match[2] || "",
-      caption: match[3] || "",
+      caption: (match[6] || "").trim() || match[3] || "",
       align: match[4] || "center",
       width: match[5] || ""
     };
@@ -160,10 +161,10 @@ CMS.registerEditorComponent({
   toBlock: function(data) {
     let shortcode = `{{< image-caption src="${data.src}"`;
     if (data.alt) shortcode += ` alt="${data.alt}"`;
-    if (data.caption) shortcode += ` caption="${data.caption}"`;
     if (data.align && data.align !== "center") shortcode += ` align="${data.align}"`;
     if (data.width) shortcode += ` width="${data.width}"`;
     shortcode += ` >}}`;
+    if (data.caption) shortcode += `${data.caption}{{< /image-caption >}}`;
     return shortcode;
   },
   toPreview: function(data) {

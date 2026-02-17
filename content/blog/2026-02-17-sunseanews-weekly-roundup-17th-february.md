@@ -6,7 +6,7 @@ series: through-the-looking-glass
 ---
 This week (mid-February 2026), along the Costa Blanca from Denia down to Alicante, things are buzzing with carnival vibes, unseasonably warm weather, and a few local headlines keeping everyone chatting.
 
-{{< image-caption src="/images/img_8423.jpeg" caption="Carnaval 2026" >}}
+{{< image-caption src="/images/img_8423.jpeg" >}}Carnaval 2026{{< /image-caption >}}
 
 The big highlight is **Carnival season** in full swing — Alicante's Carnival is running from February 12 to 22, with street parades, correfocs (fiery fire parades), live music, DJ sets, costume madness, and family-friendly events in the city centre (though some outdoor bits have been tweaked or postponed due to strong wind warnings earlier in the week). The peak was Sábado Ramblero on February 14, full of energy and dancing on the Rambla. Up in Denia, Carnival wrapped up over the weekend of February 13-15 with activities for all ages, including kids' fun, young people's parties, and a special afternoon of dancing for the older crowd at the social centre. Benidorm's Carnival kicks off around February 21 with parades and fancy dress across neighbourhoods. If you're near Benidorm, the **Benidorm Fest** (Spain's Eurovision selection showdown) just wrapped up its semis and final from February 10-14 at Palau d’Esports l’Illa — massive crowds, live music, and all the glitz!
 

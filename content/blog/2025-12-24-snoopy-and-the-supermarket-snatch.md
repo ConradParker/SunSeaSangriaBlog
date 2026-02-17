@@ -16,7 +16,7 @@ I stepped out, bags swinging, already planning dinner… and bam. Heart. Dropped
 
 No Snoopy. Like a Home Alone moment, “SNOOPY”
 
-{{< image-caption src="/images/whatsapp-image-2026-02-14-at-14.50.00.jpeg" caption=""Snoopy Doo Where are You" again!," >}}
+{{< image-caption src="/images/whatsapp-image-2026-02-14-at-14.50.00.jpeg" >}}"Snoopy Doo Where are You" again!,{{< /image-caption >}}
 
 Instant déjà vu from the Montgó mountain madness. I called his name until my voice cracked, spun like a top, checked under every car, behind every trolley—nothing. Had someone untied him? Walked off with him? My brain went straight to worst-case scenarios.
 
