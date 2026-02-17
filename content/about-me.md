@@ -37,3 +37,5 @@ Here’s what you’ll discover:
 Whether you’re planning your first trip, dreaming of a permanent move, or simply craving some Mediterranean sunshine from your screen—pull up a chair, grab a sangria (virtual or real), and let’s celebrate the good life on the Costa Blanca. 
 
 ¡Bienvenidos! 🌞🍹
+
+{{< image-caption src="/images/img_5205.jpeg" caption="Loving the Costa Blanca and all it offers ❤️" >}}
