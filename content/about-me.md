@@ -10,8 +10,6 @@ menu_weight: 10
 
 For more than 14 years, my husband and I ran two little apartments under the name **SunSeaSangria**. We welcomed hundreds of amazing guests who arrived for the sea views and departed with sun-kissed noses, fuller hearts, and probably a few legendary stories from those epic sunset sangria sessions. Those apartments weren’t just a business—they were our immersive crash course in real Spanish life: mastering the endless red tape, building lifelong friendships, and raising our kids surrounded by almond blossoms and beach days.
 
-{{< image-float src="/images/257371731_10157946483576642_5022558324571738190_n.jpg" position="left" >}}
-
 Life since then has been wonderfully, gloriously chaotic. Along the way, I’ve:
 
 •  Cleaned more villas and holiday lets than I ever thought possible—from villas full of bugs to apartments full of junk, you name it, I've cleaned it.
@@ -34,8 +32,4 @@ Here’s what you’ll discover:
 
 Whether you’re planning your first trip, dreaming of a permanent move, or simply craving some Mediterranean sunshine from your screen—pull up a chair, grab a sangria (virtual or real), and let’s celebrate the good life on the Costa Blanca. 
 
-
-
 ¡Bienvenidos! 🌞🍹
-
-{{< image-float src="/images/54518626_10155745709601642_8671203847210795008_n.jpg" position="left" >}}
