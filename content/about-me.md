@@ -10,6 +10,8 @@ menu_weight: 10
 
 For more than 14 years, my husband and I ran two little apartments under the name **SunSeaSangria**. We welcomed hundreds of amazing guests who arrived for the sea views and departed with sun-kissed noses, fuller hearts, and probably a few legendary stories from those epic sunset sangria sessions. Those apartments weren’t just a business—they were our immersive crash course in real Spanish life: mastering the endless red tape, building lifelong friendships, and raising our kids surrounded by almond blossoms and beach days.
 
+{{< image-compare src1="/images/img_8376.jpeg" src2="/images/img_8384.jpeg" caption1="Cumbre Del Sol Apartment" caption2="Golden Beach 2 Apartment" >}}
+
 Life since then has been wonderfully, gloriously chaotic. Along the way, I’ve:
 
 •  Cleaned more villas and holiday lets than I ever thought possible—from villas full of bugs to apartments full of junk, you name it, I've cleaned it.
@@ -17,6 +19,8 @@ Life since then has been wonderfully, gloriously chaotic. Along the way, I’ve:
 •  Hand-made and poured homemade scented candles that turned our home into a fragrant haven.
 
 •  Taught English online to students across the globe—sometimes mid-fiesta, with fireworks exploding outside and my poor students convinced World War III had begun.
+
+{{< image-compare src1="/images/img_8361.jpeg" src2="/images/img_8062.jpeg" >}}
 
 Now, I'm finally turning that longtime dream into reality: relaunching **SunSeaSangria** as a proper website and blog. No corporate polish, no filtered perfection—just honest, lived-in stories from someone who’s experienced every almond-blossom-pink, ridiculously beautiful (and occasionally absurd) moment of Costa Blanca life.
 
