@@ -1,5 +1,5 @@
 ---
-title: Welcome, Everyone! 🌞 Your Cheeky Costa Blanca Adventure Starts Here 🍷
+title: "Welcome, Everyone! "
 date: 2025-12-03T09:15:00.000+01:00
 draft: false
 paige:
@@ -13,9 +13,9 @@ paige:
     #paige-page-content { text-align: center; }
 menu_weight: 10
 ---
-Welcome Everyone to your cheeky, sun-drenched guide to the fabulous **Costa Blanca North**! 🌞🍷
+🌞 Your Cheeky Costa Blanca Adventure Starts Here 🍷
 
-![](/images/480965564_10160337798746642_6644424404533892324_n.jpg "SunSeaSangria - Calpe ")
+![](/images/480965564_10160337798746642_6644424404533892324_n.jpg "SunSeaSangria - Calpe View From Suitopia (SkyBar)")
 
 
 Whether you’re already living the dream here in the Costa Blanca like a proper local, or planning your escape while scrolling pics and dreaming of sandy toes and that salty Med breeze… pull up a lounger, grab an ice-cold sangria (or a proper cuppa!), and let’s dive in.
