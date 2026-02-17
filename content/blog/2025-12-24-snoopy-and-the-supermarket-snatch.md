@@ -8,11 +8,17 @@ series: test-story
 
 It was one of those gloriously sunny days where the sky is that impossible blue and everything feels good. I needed a few essentials from the local shop, so lead on, and off we trotted—Snoopy leading the way like the boss he always was. Tail high, nose to the ground, ready for his classic “pea on every tree” routine (because why walk past a tree without claiming it?).
 
-We arrived, I tied him securely to the usual tree outside—like I’d done a hundred times before—gave him a loving ear scratch, whispered “Be good, I’ll be quick,” and dashed inside for milk, bread, and whatever else was calling my name. Quick shop, zero drama. Famous last words.
+We arrived, I tied him securely to the usual tree outside
+
+{{< image-caption src="/images/whatsapp-image-2026-02-14-at-14.50.00.jpeg" caption="No Snoopy. Like a Home Alone moment, “SNOOPY”" >}}
+
+—like I’d done a hundred times before—gave him a loving ear scratch, whispered “Be good, I’ll be quick,” and dashed inside for milk, bread, and whatever else was calling my name. Quick shop, zero drama. Famous last words.
 
 I stepped out, bags swinging, already planning dinner… and bam. Heart. Dropped.
 
 No Snoopy. Like a Home Alone moment, “SNOOPY”
+
+
 
 Instant déjà vu from the Montgó mountain madness. I called his name until my voice cracked, spun like a top, checked under every car, behind every trolley—nothing. Had someone untied him? Walked off with him? My brain went straight to worst-case scenarios.
 
