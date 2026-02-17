@@ -5,10 +5,9 @@
 {{- $width := .Get "width" | default "100%" -}}
 {{- $align := .Get "align" | default "center" -}}
 
-{{- if not $src -}}
-  {{- errorf "image-caption: src parameter is required" -}}
-{{- end -}}
-
+{{- if or (not $src) (eq $src "undefined") -}}
+  {{- warnf "image-caption: skipping — no valid src in %s" .Page.File.Path -}}
+{{- else -}}
 <figure class="image-caption image-caption--{{ $align }}" style="--image-caption-width: {{ $width }}">
   {{- partial "paige/image.html" (dict
     "alt" $alt
@@ -23,3 +22,4 @@
   <figcaption>{{ . | markdownify }}</figcaption>
   {{- end -}}
 </figure>
+{{- end -}}

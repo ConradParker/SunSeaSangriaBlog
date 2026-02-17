@@ -14,7 +14,7 @@ The other mums? They gave me the classic side-eye: “Keep that furry menace awa
 
 Because on Day One—the very first morning—we made an unforgettable entrance. My little four-legged troublemaker struts up, spots a particularly fancy buggy, lifts his leg like he’s claiming territory in the most dramatic way possible… and unleashes. Right there. In front of everyone. A perfect golden arc. The poor dad attached to that buggy froze. I froze. The whole bus stop froze.
 
-{{< image-caption src="undefined" >}}
+{{< image-caption src="undefined" >}}{{< /image-caption >}}
 
 I mumbled something like “¡Lo siento mucho! while frantically spraying and wiping, my face the colour of a ripe tomato. Snoopy  just wagged his tail like “Job well done, team!”
 
