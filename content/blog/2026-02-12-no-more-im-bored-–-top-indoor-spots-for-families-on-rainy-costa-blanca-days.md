@@ -48,11 +48,7 @@ Key perks:
 
 •  Free parking and easy access (near the train/bus for non-drivers)
 
-If the rain eases up, you can even pop out to nearby spots like the Alicante Castle for epic views and a leg-stretch to tire out the kids (and dad!).
-
-{{< image-compare src1="undefined" src2="undefined" >}}
-
-
+If the rain eases up, you can even pop out to nearby spots like the Alicante Castle for epic views and a leg-stretch to tire out the kids (and dad!). See my Alicante guide for more information.
 
 
 **Indoor Play & Adventure Centres – Kid Heaven**
