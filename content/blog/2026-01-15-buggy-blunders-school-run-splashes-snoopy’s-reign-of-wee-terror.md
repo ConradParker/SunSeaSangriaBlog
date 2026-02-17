@@ -5,12 +5,12 @@ draft: false
 description: Snoopys Reign of Wee Terror
 series: test-story
 ---
-![](/images/img_8418.jpeg)
-
 \
 The summer flew by in a blur of apartment clean-ups, heroic potty-training attempts (with about 60% success rate—progress!), and the occasional sneaky “little splash” that reminded us perfection was still a work in progress. Then boom—early September arrived, kids were back-to-school bound, and suddenly we were part of the daily morning ritual.
 
 My daughter’s school was out on the outskirts of Villajoyosa (you know, that gorgeous, colourful town on the Costa Blanca). Every day, she caught the bus from the Main Street. Picture the scene: a parade of Spanish mam’s and dads rolling up with their pristine buggies, with that effortless Mediterranean vibe. And then there’s me—buggy in one hand, enthusiastic dog on the lead in the other, armed with an industrial-sized pack of baby wipes, disinfectant spray, and pure determination.
+
+{{< image-caption src="/images/img_8418.jpeg" caption="Don’t you dare! Snoopy" >}}
 
 The other mums? They gave me the classic side-eye: “Keep that furry menace away from our spotless buggies, por favor.” And honestly? I couldn’t blame them.
 
