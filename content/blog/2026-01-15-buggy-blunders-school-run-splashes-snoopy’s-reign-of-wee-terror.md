@@ -10,7 +10,7 @@ The summer flew by in a blur of apartment clean-ups, heroic potty-training attem
 
 My daughter’s school was out on the outskirts of Villajoyosa (you know, that gorgeous, colourful town on the Costa Blanca). Every day, she caught the bus from the Main Street. Picture the scene: a parade of Spanish mam’s and dads rolling up with their pristine buggies, with that effortless Mediterranean vibe. And then there’s me—buggy in one hand, enthusiastic dog on the lead in the other, armed with an industrial-sized pack of baby wipes, disinfectant spray, and pure determination.
 
-{{< image-caption src="/images/img_8418.jpeg" caption="Don’t you dare! Snoopy" >}}
+{{< image-caption src="/images/img_8418.jpeg" >}}Don’t you dare  Snoopy{{< /image-caption >}}
 
 The other mums? They gave me the classic side-eye: “Keep that furry menace away from our spotless buggies, por favor.” And honestly? I couldn’t blame them.
 
