@@ -25,11 +25,11 @@ That unmistakable bark: woooo wooo woooo. Only Snoopy made that sound. My heart 
 
 Then came the knock at the door.
 
-I opened it to find our neighbour standing there, holding Snoopy in his arms. My boy’s tail was wagging furiously, that silly grin on his face as if he’d just popped out for a quick adventure. “Hi,” the neighbour said with a smile. “Did you leave your dog at the supermarket? I found him waiting patiently right at the entrance—like he knew you’d come back for him.”
+I opened it to find our neighbour standing there, holding Snoopy in his arms. Snoopy's tail was wagging furiously, that silly grin on his face as if he’d just popped out for a quick adventure. “Hi,” the neighbour said with a smile. “Did you leave your dog at the supermarket? I found him waiting patiently right at the entrance—like he knew you’d come back for him.”
 
 What? Relief hit me like a wave. The kids rushed forward, squealing with joy, wrapping their arms around him as he licked every face in reach. The house filled with laughter, barks, and pure happiness.
 
-{{< image-caption src="/images/whatsapp-image-2026-02-13-at-16.56.23.jpeg" >}}Montgo Adventures{{< /image-caption >}}
+{{< image-caption src="/images/whatsapp-image-2026-02-13-at-16.56.23.jpeg" caption="Snoopy Conquers Montgo " >}}
 
 He hadn’t got lost in the wild at all. He’d trotted down the mountain on his own, found his way to Mercadona, where, after dropping the kids off at school daily, I would pick up my shopping with him on morning walks. He simply sat there, loyal as ever, waiting for his family.
 
