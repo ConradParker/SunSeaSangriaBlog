@@ -4,15 +4,56 @@ date: 2026-02-12T10:31:00.000+01:00
 draft: false
 description: Rainy Day Spots for Kids and the Family
 ---
-Rainy days on the Costa Blanca North don't have to slow you down—short showers and mild temperatures (often 15-20°C even in cooler months) make it easy to pop indoors without much hassle. Your list captures some excellent options perfectly suited for expats, families, and visitors around Calpe, Jàvea/Xàbia, Altea, Moraira, Benissa, Alfaz del Pi, and up toward Benidorm. These spots are mostly within a 30-45 minutes' drive from Calpe and stay dry and fun.
+**Rainy Days on the Costa Blanca North: Fun Doesn’t Have to Stop!**
+
+Rainy days here are usually short and mild—think quick showers and comfy 15-20°C temps even in the cooler months—so you can dash indoors without much fuss. Whether you’re holidaying in Calpe, Moraira, or nearby, here are some top indoor (and semi-indoor) ideas to keep the whole family entertained… yes, even the dads who claim they’re “just along for the ride.”
+
+**Shopping Centres – The Perfect Rain-Proof Family Escape**
+
+These massive indoor shopping center's offer hours of shopping, eating, movies, and play—zero weather worries!
+
+**Portal de la Marina (Ondara, ~25-30 mins drive from Calpe)**
+
+Often just called “La Marina,” this is the go-to spot in the Marina Alta area.
+
+Highlights include:
+
+•  Major fashion brands like Zara, Massimo Dutti, Pull&Bear, Bershka, Lefties, H&M, C&A, and more
+
+•  Carrefour Market for easy groceries or treats
+
+•  10+ restaurant options (from quick bites to sit-down meals) plus cafés
+
+•  Multi-screen cinema with VO (original version) films—great for everyone
+
+•  Dedicated family zones, kids’ events, and occasional fun happenings (like immersive games or seasonal activities)
+
+•  Plenty of free parking and wide, easy-to-navigate walkways
+
+It’s easy to spend a full day here—shop, eat, catch a movie, and let the kids burn energy without stepping outside.
+
+**Plaza Mar 2 (Alicante, ~45-50 mins drive)**
+
+A modern, spacious favourite with a great mix of everything under one roof—ideal if you’re heading south or want variety.
+
+Key perks:
+
+•  Over 120 shops, including big names like Zara, Mango, H&M, Pull&Bear, and specialist stores (sports, cosmetics, home, pets, and more)
+
+•  Large hypermarket for any essentials
+
+•  A fantastic food court and 16+ restaurants offering everything from tapas and international chains to local favourites
+
+•  16-screen Kinepolis cinema with Dolby sound—many films in VOSE (original version with Spanish subtitles) for non-Spanish speakers
+
+•  Free parking and easy access (near the train/bus for non-drivers)
+
+If the rain eases up, you can even pop out to nearby spots like the Alicante Castle for epic views and a leg-stretch to tire out the kids (and dad!).
+
+{{< image-compare src1="undefined" src2="undefined" >}}
 
 
 
-**Shopping Centres – The Ultimate Rain-Proof Hangout**
-
-Portal de la Marina (Ondara, ~25-30 mins from Calpe): Often called La Marina, this massive indoor mall remains a top pick. It features major brands (Zara, Pull&Bear, Bershka, Lefties), Carrefour supermarket, plenty of restaurants/cafés, and a cinema (check for VO—original version—movies). Family zones and events keep it lively for hours—perfect for a full day out.
-
-Plaza Mar 2 (Alicante, ~45-50 mins): Great for variety with Kinépolis cinema showing VOSE (original with Spanish subtitles) films on select screens (often 15-16). Over a dozen restaurants, diverse shops, and free parking make it a solid all-day escape.
 
 **Indoor Play & Adventure Centres – Kid Heaven**
 
