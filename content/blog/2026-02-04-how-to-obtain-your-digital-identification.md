@@ -1,5 +1,5 @@
 ---
-title: "How to obtain your Digital Identification "
+title: "No More Queueing in the Heat: Get Your Digital Spanish Superpower"
 date: 2026-02-04T10:49:00.000+01:00
 draft: false
 series: red-tape-tears
