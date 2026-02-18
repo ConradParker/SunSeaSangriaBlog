@@ -20,6 +20,9 @@ We still talk about Snoopy all the time, and we laugh – because he was such a 
 
 Goodnight, Snoopy. Until we meet again… woo woo wooooooo. 🌈🐾❤️
 
+
+**Got your own pet legend story? Share in the comments or newsletter reply – let's keep the mischief alive! 💛"**
+
 © Joanne Parker 2026 
 
 {{< image-compare src1="/images/img_8391.jpeg" src2="/images/img_8380.jpeg" caption1="Snoopy the Adventurer  " caption2="Goodnight old friend x" >}}
