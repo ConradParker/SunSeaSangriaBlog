@@ -6,7 +6,7 @@ series: test-story
 ---
 **The Great Snoopy Vanishing Act: The Boot Edition**
 
-It started like every other school run in our little corner of the world. Snoopy, our allegedly very good dog (emphasis on *allegedly*), trotted up to the school gates like the furry Rockstar he is. Kids waved, parents grinned, and he lapped up every second of the attention with that unstoppable tail wag. Routine perfection.
+It started like every other school run in our little corner of the world. Snoopy, our allegedly very good dog (heavy emphasis on allegedly), trotted up to the school gates like the furry rock star he is. Kids smiled and petted him, parents grinned nervously (whispering prayers of “please no peeing on trainers today”), and he lapped up every second of the adoration with that unstoppable propeller-tail wag. Routine perfection… or so we thought.
 
 We popped Snoopy in the boot—he hopped in like always, glanced out the window, gave the “school mams” a final adios, windows up, doors shut, engine humming.
 The kids piled in after school, reached through for their quick “Hey, Snoops!” pat, and off we zoomed—homeward bound, same as ever.
@@ -36,7 +36,7 @@ Back in the driveway, we didn’t even make it inside. Deflated in the car, Isab
 
 Then… we all heard it. A low, unmistakable “woooo wo” from the back.
 
-We exploded out, yanked the boot open, and started ripping up mats and lining. And there—curled impossibly tight by the spare wheel—was Snoopy. Sheepish, dusty, but 100% safe. How had he folded himself into that crevice without a single peep the whole drive? Absolute wizardry.
+We jumped out, yanked the boot open, and started ripping up mats and lining. And there—curled impossibly tight by the spare wheel—was Snoopy. Sheepish, dusty, but 100% safe. How had he folded himself into that crevice without a single peep the whole drive? Absolute wizardry.
 
 We scooped him up in a frenzy of hugs, squeals, and tail-wags. The kids buried their faces in his fur, laughing and puzzled. Relief crashed over us like a tidal wave of joy.
 
