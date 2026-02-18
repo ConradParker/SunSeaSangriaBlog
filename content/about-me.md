@@ -20,8 +20,7 @@ Life since then has been wonderfully, gloriously chaotic. Along the way, I’ve:
 
 •  Taught English online to students across the globe—sometimes mid-fiesta, with fireworks exploding outside and my poor students convinced World War III had begun.
 
-{{< image-compare src1="/images/img_8361.jpeg" src2="/images/img_8062.jpeg" caption1="Online Teaching" caption2="Making Candles at home" >}}
-
+{{< image-compare src1="/images/img_8361.jpeg" src2="/images/img_8421.jpeg" caption1="Online Teaching" caption2="Making Candles at home" >}}
 
 Now, I'm finally turning that longtime dream into reality: relaunching **Sun Sea Sangria** as a proper website and blog. No corporate polish, no filtered perfection — just honest, lived-in stories from someone who’s experienced every almond-blossom-pink, ridiculously beautiful (and occasionally absurd) moment of Costa Blanca North life.
 
