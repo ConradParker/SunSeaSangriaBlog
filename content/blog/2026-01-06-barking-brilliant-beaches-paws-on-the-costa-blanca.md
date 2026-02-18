@@ -11,11 +11,32 @@ First up: **Playa de Agua Amarga** near Alicante city — this sandy superstar c
 
 Check out Missy & Snoopy owning the sand and surf at Altea — tail wags guaranteed:
 
+{{< image-compare src1="/images/img_8072.jpeg" src2="/images/dog-friendly-beaches-2026.png" caption1="Snoopy's & Missy's Sun Sea Sand Adventure " >}}
+
 **Punta del Riu** in El Campello — a pebbly little cove that's backed by a **massive dog park** for extra off-leash adventures. Beach + park combo? It's like a full-day playdate upgrade!
 
-Altea, **Playa Mar y Montaña** brings those pebble shores with jaw-dropping mountain-and-sea views, your dog gets a scenic backdrop for every fetch throw!
+Altea, **Playa Mar y Montaña** brings those pebble shores with jaw-dropping mountain-and-sea views, and your dog gets a scenic backdrop for every fetch throw!
 
 **Denia, Playa de la Escollera Norte** (Punta del Raset) — a handy 100m stretch right by the port, perfect for urban pups who love sniffing boats and splashing in calm waters. It's year-round fun, close to bars and promenades for post-play treats!
+
+**If you fancy heading further south:**
+
+* **La Caleta dels Gossets (Santa Pola)**
+
+  : A rocky cove just south of Alicante — calm waters, year-round access, and super scenic with nearby parking. Great for chilled swims without crowds; it's been upgraded with better signage and bins since 2025.
+
+* **Barranc d’Aigües (El Campello)**
+
+  : Right near your Punta del Riu mention — a semi-natural gravel/sand stretch with off-leash space and a wilder vibe. It gained popularity in 2026 for being less touristy, perfect for adventurous pups.
+
+* **Playa del Xarco (Villajoyosa)**
+
+  : Pebble/sand beach with stunning cliff views — year-round, dog showers, and easy access. It's been touted as a "hidden upgrade" in recent expat guides for its family-friendly (and pup-friendly) atmosphere.
+
+* **Cala Rocío (Torrevieja)**
+
+  : In the southern Costa Blanca, a small, sandy cove with shallow waters and nearby promenades. Officially dog-friendly since 2023, but got better facilities (like waste stations) in 2025; ideal for a quick dip with treats from local bars.
+
 
 Doggie Tips: Always bring poop bags (be a responsible beach boss), keep your pup under voice control, and double-check the latest local rules (they can change with the seasons). But once you're there? It's all wags, waves, and zero drama.
 
