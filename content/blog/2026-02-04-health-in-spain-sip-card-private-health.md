@@ -19,9 +19,7 @@ How to get yours? It’s a touch of classic Spanish admin (bring patience and a 
 3. After around a year of residency, some access it via the **Convenio Especial** — a voluntary monthly payment (around €60 for under-65s or €157 for 65+ in 2026) to join the system.
 4. Visit your local centro de salud (health centre) with passport, NIE, padrón certificate, and supporting documents. They’ll register you with a GP and send your SIP card (expect a few weeks to a couple of months).
 
-
 **Public vs Private: The Real Choice for Expats:**
-
 
 The public system shines for emergencies and basics — it’s reliable, well-equipped, and kind to the purse. But non-urgent waits (e.g., specialists or elective procedures) can stretch out.
 
@@ -32,3 +30,5 @@ Many savvy folks mix both: use the SIP for serious issues (like free hospital st
 In short, sun-lovers: GHIC for breaks, SIP for living here, and private if waiting isn’t your style. Spain’s healthcare ranks among Europe’s best — stay well, enjoy the rays, and sip responsibly! ☀️🥂
 
 (Quick reminder: Details can vary by region and situation, so always check official sources like GOV.UK, your local health centre, or a trusted advisor. ¡Buena suerte!
+
+{{< image-caption src="/images/img_8430.jpeg" >}}{{< /image-caption >}}
