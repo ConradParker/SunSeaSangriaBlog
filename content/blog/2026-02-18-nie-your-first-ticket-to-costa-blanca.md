@@ -21,3 +21,5 @@ Alicante province is busy — expect waits for citas (weeks to months), so book 
 There you go — not as scary as it sounds, eh? Get that NIE sorted, then get back to the terrace, the sea views, and the good life. Life’s too short for queues when the sun is shining! 🌅🍷🐾
 
 (Quick note: Rules can shift slightly by province or updates, so always double-check official sites like sede.administracionespublicas.gob.es for cita previa, or your local Oficina de Extranjería. ¡Buena suerte, and welcome to the sunny side!) ☀️
+
+{{< image-caption src="/images/img_8439.jpeg" >}}NIE: Your First Ticket to the Costa Blanca{{< /image-caption >}}
