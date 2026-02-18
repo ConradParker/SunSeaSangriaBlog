@@ -28,4 +28,4 @@ Not as daunting as it seems, eh?
 
 Here’s to smoother renewals and more sunny adventures with your updated card in pocket! 🌞🍷
 
-{{< image-caption src="/images/tie-2026.png" >}}TIE Yourself in Knots No More{{< /image-caption >}}
+{{< image-caption src="/images/img_8426.jpeg" >}}TIE Yourself in Knots No More{{< /image-caption >}}
