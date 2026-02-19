@@ -10,7 +10,7 @@ If you're living the Costa Blanca North dream in places like Jávea, Moraira, or
 
 Why this walk? It's authentic Costa Blanca North — quiet paths, zero Benidorm crowds, and that perfect mix of exercise and "¡qué bonito!" moments. Whether you're a casual stroller or moderate hiker, it's doable year-round (best in spring for almond blossoms or autumn for milder temps).
 
-{{< image-compare src1="/images/img_5753.jpg" src2="/images/504030086_10160670060386642_4888967349157086814_n.jpg" caption1="Walking with Missy " caption2="Xalo/Jalon " >}}
+{{< image-compare src1="/images/img_5753.jpg" src2="/images/9e282548-a042-4c4f-9099-cd5a571cc44e.jpg" caption1="Walking with Missy " caption2="Lliber " >}}
 
 **The Classic Jalón–Parcent Loop (or a Relaxed One-Way Stroll)**
 
