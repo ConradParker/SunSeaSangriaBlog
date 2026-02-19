@@ -12,6 +12,8 @@ Our daughter (born in England) started school here at just 4 years old, full of 
 
 Every child is unique, though, and while the experience built her independence beautifully, we had a few challenges with some classmates (as can happen when little ones are adjusting to a new environment). We decided a different school in another own town would suit our family even better. Switching meant we could walk her to the gate each day and be right there if she needed us. It brought such peace of mind, and she thrived even more-making dear friends she still has today.
 
+{{< image-caption src="/images/img_8389.jpeg" >}}Spanish School fun{{< /image-caption >}}
+
 Two years later, we enrolled our son too, and now he's in his final year of secondary school. Our two children are so different, and they've each had their own little challenges along the way (as kids do anywhere!), but with love and support, they've come through it stronger and happier. The Spanish system has given them real roots here-fluent Spanish and memories of sunny school days they'll always treasure.
 
 {{< image-caption src="/images/img_8386.jpeg" >}}School Carnaval Show {{< /image-caption >}}
