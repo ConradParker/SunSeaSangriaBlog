@@ -18,7 +18,7 @@ This route from Jalón to Parcent — and back again if you're up for a loop —
 
 Elevation-wise, expect around 200 to 450 metres of ascent in total, depending on which path you choose. The basic out-and-back is fairly gentle, with just a few rolling hills through the valley, but if you fancy proper panoramic views, you can add a detour up towards Coll de Rates — that bumps the climb by an extra 200–300 metres and makes the effort worthwhile for those sweeping valley shots.
 
-{{< image-compare src1="/images/2f83ff03-5215-4de4-9071-0ecab9c766dd.jpg" src2="/images/471382638_10160193418271642_1496862340486782343_n.jpg" caption1="Jalon/Xalo " caption2="Dont Get Lost" >}}
+{{< image-compare src1="/images/2f83ff03-5215-4de4-9071-0ecab9c766dd.jpg" src2="/images/img_5778.jpg" caption1="Jalon/Xalo " caption2="Dont Get Lost" >}}
 
 Most walkers take 3 to 4 hours of actual moving time, but allow 4.5 to 5.5 hours overall to include pauses for photos, a breather on a shady bench, or that cheeky café stop. It's rated moderate: you'll be on easy country lanes, wide dirt tracks through orchards and vineyards, and the odd stony or forested bit, with some gentle inclines that reward good fitness but don't require any scrambling or fancy gear. Fit beginners manage it fine, especially with walking poles for the steeper patches.
 
