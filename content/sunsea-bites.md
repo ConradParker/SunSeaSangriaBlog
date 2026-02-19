@@ -12,4 +12,4 @@ Picture this: golden sand under your toes (or just the vibe of it), waves crashi
 
 Got a favourite hidden gem, beachside bistro, or sunset sangria spot that captures that sun-sea-sangria magic? We’d love to hear about it! Drop the name, location, and what makes it special in the comments below (or email us if you’d rather keep it private)—your tips could feature in the next SunSea Bites roundup. Let’s build this coastal feast guide together! 🍹🌅🦐
 
-{{< image-caption src="/images/img_8212.jpeg" >}}{{< /image-caption >}}
+{{< image-caption src="/images/img_8212.jpeg" >}}Altea Pizzería with great views{{< /image-caption >}}
