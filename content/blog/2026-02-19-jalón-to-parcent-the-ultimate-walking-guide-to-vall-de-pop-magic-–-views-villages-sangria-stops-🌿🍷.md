@@ -6,13 +6,11 @@ draft: false
 description: Escape those crowds for Vine trees and Vino
 series: sss-town-guide
 ---
-
 If you're living the Costa Blanca North dream in places like Jávea, Moraira, or Denia, one of the quickest ways to escape the coast (especially in the warmest months ) is to dive into real inland Spain, a walk through the **Vall de Pop** (Jalon Valley). This lush, green valley — dotted with almond groves, vineyards, olive trees, and small villages — feels like stepping into a postcard. And the classic route from **Jalón (Xaló)** to **Parcent** (or a loop back) is perfect for expats: not too brutal, stunning views, and plenty of excuses to stop for a chilled tinto de verano or sangria picnic
 
 Why this walk? It's authentic Costa Blanca North — quiet paths, zero Benidorm crowds, and that perfect mix of exercise and "¡qué bonito!" moments. Whether you're a casual stroller or moderate hiker, it's doable year-round (best in spring for almond blossoms or autumn for milder temps).
 
-{{< image-compare src1="/images/img_5753.jpg" src2="/images/497457233_10160594082111642_2280912357054239405_n.jpg" caption1="Walking with Missy " >}}
-
+{{< image-compare src1="/images/img_5753.jpg" src2="/images/504030086_10160670060386642_4888967349157086814_n.jpg" caption1="Walking with Missy " caption2="Xalo/Jalon " >}}
 
 **The Classic Jalón–Parcent Loop (or a Relaxed One-Way Stroll)**
 
@@ -37,7 +35,6 @@ Spring brings the almond blossom spectacle, while autumn offers cooler weather a
 Make a day of it by timing your walk around Jalón's famous Saturday rastro (the flea and antiques market) for a browse before or after, or finish with a spot of wine tasting — the valley's bodegas produce lovely sweet moscatel that's well worth sampling. If you're feeling energetic, extend towards nearby Alcalalí or Llíber for extra village charm, or link up with the flatter Via Verde Vent (an old railway path) for a gentler alternative.
 
 The paths are popular and well-used, so they're generally safe, but always check the weather beforehand (flash floods are rare in the riverbeds but possible after heavy rain). If you're heading out solo, let someone know your plans — standard sensible stuff.
-
 
 This walk isn't just exercise — it's therapy. Fresh air, mountain views, village peace, and that "I'm really living here" feeling. Pair it with a picnic sangria at sunset, and you've got the perfect Costa Blanca North day.
 
