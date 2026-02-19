@@ -6,8 +6,9 @@
 
 {{- if not $src -}}
   {{- errorf "image-full: src parameter is required" -}}
-{{- end -}}
-
+{{- else -}}
+  {{- $resource := resources.Get (strings.TrimPrefix "/" $src) -}}
+  {{- if $resource -}}
 <figure class="image-full" style="--image-full-height: {{ $height }}">
   {{- partial "paige/image.html" (dict
     "alt" $alt
@@ -22,3 +23,8 @@
   <figcaption>{{ . | markdownify }}</figcaption>
   {{- end -}}
 </figure>
+  {{- else -}}
+    {{- warnf "image-full: missing image %q in %s" $src .Page.File.Path -}}
+    {{- partial "missing-image.html" (dict "src" $src) -}}
+  {{- end -}}
+{{- end -}}

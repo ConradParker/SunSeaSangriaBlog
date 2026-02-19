@@ -8,6 +8,8 @@
 {{- if or (not $src) (eq $src "undefined") -}}
   {{- warnf "image-caption: skipping — no valid src in %s" .Page.File.Path -}}
 {{- else -}}
+  {{- $resource := resources.Get (strings.TrimPrefix "/" $src) -}}
+  {{- if $resource -}}
 <figure class="image-caption image-caption--{{ $align }}" style="--image-caption-width: {{ $width }}">
   {{- partial "paige/image.html" (dict
     "alt" $alt
@@ -22,4 +24,8 @@
   <figcaption>{{ . | markdownify }}</figcaption>
   {{- end -}}
 </figure>
+  {{- else -}}
+    {{- warnf "image-caption: missing image %q in %s" $src .Page.File.Path -}}
+    {{- partial "missing-image.html" (dict "src" $src) -}}
+  {{- end -}}
 {{- end -}}

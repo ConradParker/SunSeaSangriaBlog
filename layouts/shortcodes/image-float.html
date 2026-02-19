@@ -7,8 +7,9 @@
 
 {{- if not $src -}}
   {{- errorf "image-float: src parameter is required" -}}
-{{- end -}}
-
+{{- else -}}
+  {{- $resource := resources.Get (strings.TrimPrefix "/" $src) -}}
+  {{- if $resource -}}
 <figure class="image-float image-float--{{ $position }}" style="--image-float-width: {{ $width }}">
   {{- partial "paige/image.html" (dict
     "alt" $alt
@@ -23,3 +24,8 @@
   <figcaption>{{ . | markdownify }}</figcaption>
   {{- end -}}
 </figure>
+  {{- else -}}
+    {{- warnf "image-float: missing image %q in %s" $src .Page.File.Path -}}
+    {{- partial "missing-image.html" (dict "src" $src) -}}
+  {{- end -}}
+{{- end -}}

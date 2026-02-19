@@ -13,8 +13,12 @@
   {{- errorf "image-compare: src2 parameter is required" -}}
 {{- end -}}
 
+{{- $res1 := resources.Get (strings.TrimPrefix "/" $src1) -}}
+{{- $res2 := resources.Get (strings.TrimPrefix "/" $src2) -}}
+
 <div class="image-compare">
   <figure class="image-compare__item">
+    {{- if $res1 -}}
     {{- partial "paige/image.html" (dict
       "alt" $alt1
       "class" "img-fluid rounded"
@@ -24,11 +28,16 @@
       "src" $src1
       "width" "100%"
     ) -}}
+    {{- else -}}
+      {{- warnf "image-compare: missing image %q in %s" $src1 $page.File.Path -}}
+      {{- partial "missing-image.html" (dict "src" $src1) -}}
+    {{- end -}}
     {{- with $caption1 -}}
     <figcaption>{{ . | markdownify }}</figcaption>
     {{- end -}}
   </figure>
   <figure class="image-compare__item">
+    {{- if $res2 -}}
     {{- partial "paige/image.html" (dict
       "alt" $alt2
       "class" "img-fluid rounded"
@@ -38,6 +47,10 @@
       "src" $src2
       "width" "100%"
     ) -}}
+    {{- else -}}
+      {{- warnf "image-compare: missing image %q in %s" $src2 $page.File.Path -}}
+      {{- partial "missing-image.html" (dict "src" $src2) -}}
+    {{- end -}}
     {{- with $caption2 -}}
     <figcaption>{{ . | markdownify }}</figcaption>
     {{- end -}}
