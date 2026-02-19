@@ -28,6 +28,8 @@ The walking itself is gentle valley strolling at its best, surrounded by almond 
 
 For the return, you have options: follow the woodland paths like Camí Segador Benibrai for a shady, scenic loop, or push on with that Coll de Rates climb if you're after those epic views. Either way, you'll end up back in Jalón, where the main square is perfect for celebrating with tapas or a well-earned sangria.
 
+{{< image-compare src1="/images/_mg_5787.jpg" src2="/images/504157489_10160670060841642_5599217360129830650_n.jpg" caption1="Family walks through Senija to Jalon" caption2="Find Surprises on your way Xalo River" >}}
+
 ***SunSeaSangria Tips to stay Safe:***
 
 Pack comfortable walking shoes (a few sections are stony underfoot), plenty of water since there aren't fountains along the way, sun cream, and a hat — even in winter, the sun can sneak up on you. Download offline maps via apps like Wikiloc or AllTrails; they have GPX files for this exact route to keep you on track without signal worries.
