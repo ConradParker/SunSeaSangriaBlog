@@ -13,6 +13,8 @@ The kids piled in after school, reached through for their quick “Hey, Snoops!�
 
 Ten minutes later… school run done. Boot popped open.
 
+{{< image-caption src="/images/2624.jpg" >}}{{< /image-caption >}}
+
 No Snoopy. No lead. No rogue paw prints. Just an empty boot staring back at us like, “What dog?”
 
 We turned into instant detectives: flipping seats, rummaging bags, checking crevices like we’d find a hidden trapdoor. Nothing. No open windows. No signs of a daring escape. Had he finally cracked the code to canine teleportation?
