@@ -40,3 +40,5 @@ No SIP yet? Still no panic—emergencies get handled in public hospitals first. 
 Bottom line, amigos: Spain’s emergency response is quick, professional, and welcoming to all. Stay safe, but don’t let worry steal your joy—grab that extra sangria (responsibly!), slather on the sunscreen, and know help is just a call away. You’ve got this! 🌞🚑🥂
 
 (As always, rules can twirl like a flamenco dancer—check GOV.UK or your local health spot for the latest. ¡Cuídate mucho!)
+
+{{< image-caption src="/images/img_8448.jpeg" >}}Emergency in Spain SunSeaSangria {{< /image-caption >}}
