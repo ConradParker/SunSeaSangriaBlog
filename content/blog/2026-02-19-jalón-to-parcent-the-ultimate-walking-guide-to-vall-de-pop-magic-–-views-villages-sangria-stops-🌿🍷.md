@@ -51,6 +51,8 @@ Senija is another tiny gem (Lucky to have lived here), tucked away with village 
 
 The beauty of the Jalon Valley towns is how they complement each other: pop into Jalón for the market and buzz, then escape to Parcent, Alcalalí, Llíber, or Senija for that deep sense of calm. Whether you're day-tripping from the coast or thinking of settling inland, it's hard not to fall for the scenery, the wine, and the unhurried pace. Pair any visit with a picnic of local cheese, bread, and sangria – the perfect Costa Blanca North recipe for happiness.
 
+{{< image-caption src="/images/51196941_10155646619701642_3257681089983938560_n-1-.jpg" >}}{{< /image-caption >}}
+
 Have you explored these villages? Which one's your favourite for a quiet escape or a cheeky wine stop? Share your tips (or best market finds) in the comments – I'd love to hear! ¡Salud y buen provecho! 🌞🍹
 
 **Disclaimer:** Info based on the valley's scene in early 2026. Things like events, markets, or local spots can change due to weather or Fiestas – always check locally or online for the latest before heading out.
