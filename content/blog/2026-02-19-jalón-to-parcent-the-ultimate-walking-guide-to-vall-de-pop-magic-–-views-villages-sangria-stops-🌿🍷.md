@@ -40,6 +40,8 @@ Llíber is one of the smallest villages in the valley (around 500–800 resident
 
 **\*Thirsty or Peckish?** Bar Varetes in the square, enjoy tapas and that perfect Cerveza.*
 
+{{< image-caption src="/images/img_8468.jpeg" >}}Lliber{{< /image-caption >}}
+
 **Senija – Quiet Corners and Valley Serenity**
 Senija is another tiny gem (Lucky to have lived here), tucked away with village houses, a charming church, and lovely views across the green landscape. Like the others, it has Moorish influences in its name and layout, and it's surrounded by the valley's signature almond trees and vines. It's ultra-peaceful – ideal for those who want to feel miles from anywhere while being only minutes from Jalón's market or amenities. 
 
