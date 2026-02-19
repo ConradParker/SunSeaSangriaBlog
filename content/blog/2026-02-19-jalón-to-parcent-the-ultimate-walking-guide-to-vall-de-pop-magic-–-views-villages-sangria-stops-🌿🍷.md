@@ -1,47 +1,48 @@
 ---
-title: "Jalón to Parcent: The Ultimate Walking Guide to Vall de Pop Magic –
-  Views, Villages & Sangria Stops! 🌿🍷"
+title: "Inland Costa Blanca Magic: Exploring the Towns of the Jalon Valley
+  (Sangria Stops Included!)🌿🍷"
 date: 2026-02-19T09:53:00.000+01:00
 draft: false
 description: Escape those crowds for Vine trees and Vino
 series: sss-town-guide
 ---
-If you're living the Costa Blanca North dream in places like Jávea, Moraira, or Denia, one of the quickest ways to escape the coast (especially in the warmest months ) is to dive into real inland Spain, a walk through the **Vall de Pop** (Jalon Valley). This lush, green valley — dotted with almond groves, vineyards, olive trees, and small villages — feels like stepping into a postcard. And the classic route from **Jalón (Xaló)** to **Parcent** (or a loop back) is perfect for expats: not too brutal, stunning views, and plenty of excuses to stop for a chilled tinto de verano or sangria picnic
 
-Why this walk? It's authentic Costa Blanca North — quiet paths, zero Benidorm crowds, and that perfect mix of exercise and "¡qué bonito!" moments. Whether you're a casual stroller or moderate hiker, it's doable year-round (best in spring for almond blossoms or autumn for milder temps).
+Costa Blanca North – perhaps in Jávea, Moraira, or Denia – one of the quickest ways to feel like you've truly escaped the coast is a short drive inland to the **Jalon Valley**, or Vall de Pop as the locals call it. This peaceful, green valley is surrounded by rugged mountains, filled with almond groves, vineyards, olive trees, and a handful of charming whitewashed towns and villages. It's proper, authentic Spain: quiet lanes, local bodegas producing sweet Moscatel wine, and that slower pace that makes expat life feel like a permanent holiday.
 
-{{< image-compare src1="/images/img_5753.jpg" src2="/images/9e282548-a042-4c4f-9099-cd5a571cc44e.jpg" caption1="Walking with Missy " caption2="Lliber " >}}
+The valley's main towns are small, friendly places with a mix of Spanish tradition and a growing expat community (mostly Brits and other Northern Europeans who've fallen for the scenery and value). No big crowds or tourist traps here – just real village life, stunning spring almond blossoms, and plenty of excuses for a chilled glass of local wine. Here's a quick tour of the key spots, perfect for a day out or even as places to consider putting down roots.
 
-**The Classic Jalón–Parcent Loop (or a Relaxed One-Way Stroll)**
+**Jalón (Xaló) – The Bustling Heart of the Valley**
+Jalón is the biggest and liveliest town in the Vall de Pop, acting as the unofficial capital. It's got a lovely old quarter with narrow streets, a beautiful neo-classical church with its striking blue dome, and a main square that's perfect for people-watching over a coffee or tapa. The real draw is the famous Saturday rastro – one of the area's largest flea and antiques markets, where you can pick up everything from vintage bits to fresh local produce. The valley's wine heritage shines here too, with several bodegas offering tastings of Moscatel and robust reds. For expats, it's handy with good amenities, restaurants serving proper Spanish food at reasonable prices, and that welcoming mix of locals and newcomers. If you're after the "hub" feel without losing the rural charm, Jalón delivers. 
 
-This route from Jalón to Parcent — and back again if you're up for a loop — is one of the loveliest ways to explore the Vall de Pop without overdoing it. The full circular version clocks in at roughly 12 to 13 kilometres (about 7.5 to 8 miles), though you can shorten it by turning back early or doing it one way with a taxi return if your legs fancy a rest.
+***SunSeaSangriaTips: Are you thirsty? Fancy a snack?***
 
-Elevation-wise, expect around 200 to 450 metres of ascent in total, depending on which path you choose. The basic out-and-back is fairly gentle, with just a few rolling hills through the valley, but if you fancy proper panoramic views, you can add a detour up towards Coll de Rates — that bumps the climb by an extra 200–300 metres and makes the effort worthwhile for those sweeping valley shots.
+***Casa Aleuya:** Just reopened after a refurb, lovely family-run cafe with a courtyard.*
 
-{{< image-compare src1="/images/2f83ff03-5215-4de4-9071-0ecab9c766dd.jpg" src2="/images/img_5778.jpg" caption1="Jalon/Xalo " caption2="Dont Get Lost" >}}
+**Casa Claudia**: Snacks, drinks and a friendly vibe.
 
-Most walkers take 3 to 4 hours of actual moving time, but allow 4.5 to 5.5 hours overall to include pauses for photos, a breather on a shady bench, or that cheeky café stop. It's rated moderate: you'll be on easy country lanes, wide dirt tracks through orchards and vineyards, and the odd stony or forested bit, with some gentle inclines that reward good fitness but don't require any scrambling or fancy gear. Fit beginners manage it fine, especially with walking poles for the steeper patches.
+**Bistro Selene**: Lovely food for lunch or evening meals (check Menu del Dia).
 
-Start from the heart of Jalón town centre or the outskirts near the CV-750 road or along the river Gorgos — parking is straightforward and free. From there, wander through the charming old quarter, grab a quick coffee to set you up, and head out along paths like Camí Molló or the river trails towards Parcent.
 
-The walking itself is gentle valley strolling at its best, surrounded by almond groves, olive trees, and vineyards. Come January to March, the almond blossoms turn the whole place into a sea of pink and white — pure magic that makes every photo look like a postcard. You'll arrive in tiny, peaceful Parcent with its pretty church, quiet square, and perhaps a local bar for a quick glass of vino to toast your progress.
+**Parcent – Peaceful and Picturesque**
+Tucked on a gentle hill overlooking the valley, Parcent is one of the smaller, quieter spots – population around 1,100 – and it feels wonderfully off the beaten track. The village has a pretty church, a calm central square, and winding streets lined with traditional houses. It's surrounded by vineyards, so expect plenty of opportunities to sample the local wine (there's even a small bodega or two worth a visit). Expats love it for the tranquillity – ideal if you want to escape even the mild buzz of Jalón – and the views across the valley are stunning, especially at sunset with a glass in hand. A few good local eateries serve hearty Spanish dishes, and it's close enough to the coast for day trips but far enough to feel like a proper getaway.
 
-For the return, you have options: follow the woodland paths like Camí Segador Benibrai for a shady, scenic loop, or push on with that Coll de Rates climb if you're after those epic views. Either way, you'll end up back in Jalón, where the main square is perfect for celebrating with tapas or a well-earned sangria.
+**Alcalalí – Medieval Charm with Mountain Views**
+Alcalalí sits a bit higher up, giving it fantastic views over the valley and towards the surrounding sierras. With a population under 1,500, it's compact and full of character: think ancient stone wells, narrow side streets, and a sense of stepping back in time (its name hints at Moorish roots from centuries ago). The parish church is a focal point, and the village has a peaceful, unhurried feel. Spring brings incredible almond blossom displays that blanket the hillsides. For walkers or photographers, it's a gem; for expats, it's one of those places where community still matters, with local events and a handful of friendly bars. Pop in for a wander and end up staying longer than planned – it happens a lot!
 
-{{< image-compare src1="/images/img_5804.jpg" src2="/images/504157489_10160670060841642_5599217360129830650_n.jpg" caption1="Se" caption2="Find Surprises on your way Xalo River" >}}
+**Peckish?** *Try ChaCha Bistro for a lovely lunch or Seis Feixes for their lovely tapas*.
 
-***SunSeaSangria Tips to stay Safe:***
 
-Pack comfortable walking shoes (a few sections are stony underfoot), plenty of water since there aren't fountains along the way, sun cream, and a hat — even in winter, the sun can sneak up on you. Download offline maps via apps like Wikiloc or AllTrails; they have GPX files for this exact route to keep you on track without signal worries.
+**Llíber – Tiny but Full of Heart**
+Llíber is one of the smallest villages in the valley (around 500–800 residents depending on the season), and that's part of its appeal. It's got quaint side streets, an old stone well as a nod to its history, and a relaxed, rural vibe with vineyards and orchards right on the doorstep. Once linked more closely to nearby Jalón, it now stands on its own as a peaceful spot for those wanting total quiet. Expats often rave about the authentic feel – no pretension, just genuine Spanish village life with a few good places to eat simple, delicious food. It's perfect for a short drive-through or as a base if you're after seclusion with easy access to the rest of the valley.
 
-Spring brings the almond blossom spectacle, while autumn offers cooler weather and fewer bugs — both are brilliant. Steer clear of midday in summer when it gets properly toasty. The trail is dog-friendly too (Snoopy would give it paws up!), though keep them on the lead near any roads.
 
-Make a day of it by timing your walk around Jalón's famous Saturday rastro (the flea and antiques market) for a browse before or after, or finish with a spot of wine tasting — the valley's bodegas produce lovely sweet moscatel that's well worth sampling. If you're feeling energetic, extend towards nearby Alcalalí or Llíber for extra village charm, or link up with the flatter Via Verde Vent (an old railway path) for a gentler alternative.
+**Senija – Quiet Corners and Valley Serenity**
+Senija is another tiny gem (Lucky to have lived here), tucked away with village houses, a charming church, and lovely views across the green landscape. Like the others, it has Moorish influences in its name and layout, and it's surrounded by the valley's signature almond trees and vines. It's ultra-peaceful – ideal for those who want to feel miles from anywhere while being only minutes from Jalón's market or amenities. 
 
-The paths are popular and well-used, so they're generally safe, but always check the weather beforehand (flash floods are rare in the riverbeds but possible after heavy rain). If you're heading out solo, let someone know your plans — standard sensible stuff.
+***Thirsty? Try Casa Manolo for that perfect starting drink or tapas.***
 
-This walk isn't just exercise — it's therapy. Fresh air, mountain views, village peace, and that "I'm really living here" feeling. Pair it with a picnic sangria at sunset, and you've got the perfect Costa Blanca North day.
+The beauty of the Jalon Valley towns is how they complement each other: pop into Jalón for the market and buzz, then escape to Parcent, Alcalalí, Llíber, or Senija for that deep sense of calm. Whether you're day-tripping from the coast or thinking of settling inland, it's hard not to fall for the scenery, the wine, and the unhurried pace. Pair any visit with a picnic of local cheese, bread, and sangria – the perfect Costa Blanca North recipe for happiness.
 
-Have you walked from Jalón to Parcent? What's your favourite stop or variation? Drop your tips (or horror stories of getting lost chasing views) in the comments — the best ones might get featured next! ¡Buen camino y salud! 🌞🥾🍹
+Have you explored these villages? Which one's your favourite for a quiet escape or a cheeky wine stop? Share your tips (or best market finds) in the comments – I'd love to hear! ¡Salud y buen provecho! 🌞🍹
 
-**Disclaimer:** Routes and conditions based on 2026 info from sources like AllTrails, Wikiloc, and local guides. Paths can change with weather or maintenance — always check apps/maps on the day, and verify with locals if unsure.
+**Disclaimer:** Info based on the valley's scene in early 2026. Things like events, markets, or local spots can change – always check locally or online for the latest before heading out.
