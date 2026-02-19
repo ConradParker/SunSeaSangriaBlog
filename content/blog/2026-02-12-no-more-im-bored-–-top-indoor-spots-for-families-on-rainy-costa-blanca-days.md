@@ -74,7 +74,7 @@ Other nearby options: The Valour Chocolate Museum (Villajoyosa) for sweet treats
 
 **Megazone** (next to Ozone, Benidorm): Laser tag and indoor paintball—perfect for older kids/teens wanting action-packed competition.
 
-{{< image-compare src1="/images/bowling-btter.jpg" src2="/images/507503607_10160718957186642_4876382975091612661_n.jpg" caption1="Bowling Ozone Benidorm" caption2="Rainy Costa Blanca - Castell de Santa Barbera Alicante" >}}
+{{< image-compare src1="/images/bowling-btter.jpg" src2="/images/img_8358.jpeg" caption1="Bowling Ozone Benidorm" caption2="Discover the narrow streets " >}}
 
 **Other Cosy Options**
 
