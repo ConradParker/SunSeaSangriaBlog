@@ -1,5 +1,5 @@
 ---
-title: Working Self Employed - Autonomo
+title: "So You Want to Be an Autónomo in the Costa Blanca? "
 date: 2026-02-04T09:28:00.000+01:00
 draft: false
 series: red-tape-tears
@@ -22,3 +22,5 @@ Even with a top-notch gestor, it’s your tax account and your fines on the line
 Don’t just grab the first gestor you find—shop around like you’re choosing the best chiringuito on the beach! Ask in local expat Facebook groups (Costa Blanca North ones are brilliant), check Trustpilot or forums for reviews, and get quotes from a few. Look for ones who are online-savvy (ideal for remote workers), fluent in English, and experienced with freelancers/digital nomads. A brilliant gestor feels like a mate who’s secretly a tax ninja—they keep the fiesta going while you grow your gig.
 
 ¡Salud to new beginnings, zero stress, and plenty of sangria along the way! 🍹💼
+
+**"Bureaucracy in Spain changes faster than the weather — this series is based on current rules (as of 2026). Check GOV.UK, Seguridad Social, or a local gestor for the latest changes before acting!"**
