@@ -8,6 +8,8 @@ description: Rainy Day Spots for Kids and the Family
 
 Rainy days here are usually short and mild—think quick showers and comfy 15-20°C temps even in the cooler months—so you can dash indoors without much fuss. Whether you’re holidaying in Calpe, Moraira, or nearby, here are some top indoor (and semi-indoor) ideas to keep the whole family entertained… yes, even the dads who claim they’re “just along for the ride.”
 
+{{< image-caption src="/images/img_8449.jpeg" >}}Let’s go bowling {{< /image-caption >}}
+
 **Shopping Centres – The Perfect Rain-Proof Family Escape**
 
 These massive indoor shopping center's offer hours of shopping, eating, movies, and play—zero weather worries!
@@ -49,7 +51,6 @@ Key perks:
 •  Free parking and easy access (near the train/bus for non-drivers)
 
 If the rain eases up, you can even pop out to nearby spots like the Alicante Castle for epic views and a leg-stretch to tire out the kids (and dad!). See my Alicante guide for more information.
-
 
 **Indoor Play & Adventure Centres – Kid Heaven**
 
