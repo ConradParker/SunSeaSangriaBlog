@@ -4,8 +4,6 @@ date: 2026-01-28T16:01:00.000+01:00
 draft: false
 series: red-tape-tears
 ---
-
-
 **Choosing the Spanish Education System**
 
 We chose the Spanish public education system for our children because we wanted them to become fluent in the language and feel truly at home here on the beautiful Costa Blanca. It's turned out to be one of the best decisions we've made-their confidence, friendships, and sense of belonging have grown so much, and we're grateful every day.
@@ -45,3 +43,5 @@ Public schools emphasize inclusion, with support for newcomers (like “aulas de
 •  **Pros We’ve Seen**: Full immersion = fluent Spanish (a lifelong gift!), exposure to Valencian culture/history, free education, outdoor time in the sun, and strong local roots.
 
 •  **Challenges**: Early language barriers, some bureaucracy for enrollment (NIE, padrón/residency registration needed), varying school quality, and fewer structured extracurriculars than in some countries. Repeating a year is possible if needed, but support is there. Look for a good gestor that can help you with your paperwork.
+
+{{< image-caption src="/images/img_8443.jpeg" >}}{{< /image-caption >}}
