@@ -8,14 +8,15 @@ series: test-story
 
 It started like every other school run in our little corner of the world. Snoopy, our allegedly very good dog (heavy emphasis on allegedly), trotted up to the school gates like the furry rock star he is. Kids smiled and petted him, parents grinned nervously (whispering prayers of “please no peeing on trainers today”), and he lapped up every second of the adoration with that unstoppable propeller-tail wag. Routine perfection… or so we thought.
 
-We popped Snoopy in the boot—he hopped in like always, glanced out the window, gave the “school mams” a final adios, windows up, doors shut, engine humming.
-The kids piled in after school, reached through for their quick “Hey, Snoops!” pat, and off we zoomed—homeward bound, same as ever.
+We popped Snoopy in the boot—he hopped in like always, glanced out the window, gave the “school parents” a final adios, windows up, doors shut, engine on, and off we zoomed—homeward bound, same as ever.
 
 Ten minutes later… school run done. Boot popped open.
 
-{{< image-caption src="/images/2624.jpg" >}}{{< /image-caption >}}
+{{< image-caption src="/images/2624.jpg" >}}The Great Snoopy Houdini{{< /image-caption >}}
 
 No Snoopy. No lead. No rogue paw prints. Just an empty boot staring back at us like, “What dog?”
+
+Just like in Home Alone we shouted “SNOOPY”
 
 We turned into instant detectives: flipping seats, rummaging bags, checking crevices like we’d find a hidden trapdoor. Nothing. No open windows. No signs of a daring escape. Had he finally cracked the code to canine teleportation?
 
