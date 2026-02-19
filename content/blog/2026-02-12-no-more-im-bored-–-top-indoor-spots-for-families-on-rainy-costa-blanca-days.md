@@ -8,7 +8,7 @@ description: Rainy Day Spots for Kids and the Family
 
 Rainy days here are usually short and mild—think quick showers and comfy 15-20°C temps even in the cooler months—so you can dash indoors without much fuss. Whether you’re holidaying in Calpe, Moraira, or nearby, here are some top indoor (and semi-indoor) ideas to keep the whole family entertained… yes, even the dads who claim they’re “just along for the ride.”
 
-{{< image-caption src="/images/img_8449.jpeg" >}}Let’s go bowling {{< /image-caption >}}
+{{< image-caption src="/images/img_8449.jpeg" >}}Let’s go bowling{{< /image-caption >}}
 
 **Shopping Centres – The Perfect Rain-Proof Family Escape**
 
@@ -74,7 +74,7 @@ Other nearby options: The Valour Chocolate Museum (Villajoyosa) for sweet treats
 
 **Megazone** (next to Ozone, Benidorm): Laser tag and indoor paintball—perfect for older kids/teens wanting action-packed competition.
 
-{{< image-compare src1="/images/bowling-btter.jpg" src2="/images/bowling-btter.jpg" >}}
+{{< image-compare src1="/images/bowling-btter.jpg" src2="/images/507503607_10160718957186642_4876382975091612661_n.jpg" caption1="Bowling Ozone Benidorm" caption2="Rainy Costa Blanca - Castell de Santa Barbera Alicante" >}}
 
 **Other Cosy Options**
 
