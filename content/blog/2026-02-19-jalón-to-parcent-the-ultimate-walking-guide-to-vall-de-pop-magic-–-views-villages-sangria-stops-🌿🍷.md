@@ -10,7 +10,7 @@ If you're living the Costa Blanca North dream in places like Jávea, Moraira, or
 
 Why this walk? It's authentic Costa Blanca North — quiet paths, zero Benidorm crowds, and that perfect mix of exercise and "¡qué bonito!" moments. Whether you're a casual stroller or moderate hiker, it's doable year-round (best in spring for almond blossoms or autumn for milder temps).
 
-{{< image-compare src1="/images/img_5753.jpg" src2="/images/471415719_10160203332911642_3883605857449009242_n.jpg" caption1="Almond Blossom" caption2="Lliber " >}}
+{{< image-compare src1="/images/img_5753.jpg" src2="/images/9e282548-a042-4c4f-9099-cd5a571cc44e.jpg" caption1="Walking with Missy " caption2="Lliber " >}}
 
 **The Classic Jalón–Parcent Loop (or a Relaxed One-Way Stroll)**
 
@@ -28,7 +28,7 @@ The walking itself is gentle valley strolling at its best, surrounded by almond 
 
 For the return, you have options: follow the woodland paths like Camí Segador Benibrai for a shady, scenic loop, or push on with that Coll de Rates climb if you're after those epic views. Either way, you'll end up back in Jalón, where the main square is perfect for celebrating with tapas or a well-earned sangria.
 
-{{< image-compare src1="/images/_mg_5787.jpg" src2="/images/504157489_10160670060841642_5599217360129830650_n.jpg" caption1="Family walks through Senija to Jalon" caption2="Find Surprises on your way Xalo River" >}}
+{{< image-compare src1="/images/img_5804.jpg" src2="/images/504157489_10160670060841642_5599217360129830650_n.jpg" caption1="Se" caption2="Find Surprises on your way Xalo River" >}}
 
 ***SunSeaSangria Tips to stay Safe:***
 
