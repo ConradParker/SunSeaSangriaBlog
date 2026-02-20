@@ -44,7 +44,7 @@ Once the sun starts dipping and the sky turns that gorgeous pinky-orange, it’s
 
 **Moraira**
 
-* **Mexigo** — just outside town towards Benitachell. If you fancy a change from Spanish classics, the Mexican food here is a proper winner — always lively and delicious.
+* **Mex Y Go** — just outside town towards Benitachell. If you fancy a change from Spanish classics, the Mexican food here is a proper winner — always lively and delicious.
 * **Chamizo** — seafront spot that delivers every time. Great for a relaxed dinner with waves in the background.
 * **Kathmandu** — Friday-night Indian fix sorted. Proper curry and friendly service — a nice change of pace.
 * **The Olive Tree** — for that special night out. Lovely fresh, home-cooked food in a warm setting — feels like someone’s house (but better).
