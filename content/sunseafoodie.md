@@ -71,6 +71,10 @@ Calpe’s seafronts and Pueblo are rammed with great places — impossible to li
 * **Capri** — seafood lovers’ dream. Fresh, simple, and spot-on.
 * **Taco de Paco** — my personal favourite. Happiness wrapped in tortillas — proper Mexican street-food vibes that never fail to put a smile on your face.
 
+
+
+{{< image-caption src="undefined" >}}{{< /image-caption >}}
+
 These restaurants are the ones that make evenings in the North feel like a permanent holiday — good food, good views, and good company (or just a quiet table for two). Prices stay sensible, portions are generous, and the welcome is always warm.
 
 Now it’s your turn, amigos! What’s your go-to evening place? That hidden tapas bar, the paella that’s worth the wait, or the spot that does the best sunset sangria? Drop your recommendations in the comments — let’s make this the ultimate shared list for all of us living the Costa Blanca dream. 🍷🌙
