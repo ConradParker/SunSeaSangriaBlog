@@ -57,6 +57,10 @@ Denia’s got so many brilliant choices it’s hard to narrow down, but these th
 * **Republic** (in the marina) — stylish without being pretentious. Great for a marina-side evening.
 * **El Baret de Miquel** — one for special nights. Book ahead — it’s tiny, magical, and the food is spot-on.
 
+  {{< image-caption src="/images/img_8272.jpeg" >}}View from Casa Vital Restaurant Altea{{< /image-caption >}}
+
+
+
 **Altea**
 
 * **Casa Vital** — a hidden gem up in the white streets of the pueblo. Tapas-style sharing plates, grilled meats, and veggie options that actually taste good (not just an afterthought). The twinkly lights after dark make it feel extra special, and you get those lovely Calpe and sea glimpses.
