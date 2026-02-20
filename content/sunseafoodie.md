@@ -2,7 +2,7 @@
 title: SunSeaFoodie
 date: 2026-02-20T08:23:00.000+01:00
 draft: false
-menu_weight: 5
+menu_weight: 8
 ---
 [](https://sunseasangriablog.netlify.app/admin/#/collections/pages)
 
