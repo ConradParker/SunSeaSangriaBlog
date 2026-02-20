@@ -14,6 +14,8 @@ Nothing beats kicking off the day (or sneaking in a lazy lunch) in the Costa Bla
 
 **Desayuno** (breakfast) is usually light and early-ish (before 10 AM). Think a quick café con leche (milky coffee), maybe a croissant, toast with tomato and olive oil (pan con tomate), or fresh zumo de naranja (orange juice—proper, freshly squeezed here, thanks to all those local groves). No massive plates unless you're at an expat-friendly spot. **Almuerzo** (mid-morning snack/lunch) happens around 10:30 AM–noon. This is when things get more substantial: a bocadillo (sandwich), tortilla, or even a small tapa plate with your second coffee. It's the perfect bridge to a late lunch (comida) around 2–3 PM.
 
+{{< image-caption src="/images/6cb7ccf0-1fce-4944-86c1-b2ac9e767b6e.jpg" >}}My Unhealthy but lovely Bacon y Queso Tostada{{< /image-caption >}}
+
 Living here, I've found my go-to spots that nail both the authentic Spanish vibe and a bit of comfort-food familiarity. These are personal favourites in our patch (Jávea, Moraira, Denia, Altea, Calpe area)—nothing fancy, just places that make you smile:
 
 **In Jávea**: That little café **Nostro** near the Arenal (also one in the port), the best coffee and snacks —perfect for a post-beach desayuno when you're feeling peckish. Chabada, lovely staff, and a great breakfast menu (egg/bacon muffin, my favourite) to help start the day. 
