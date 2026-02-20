@@ -6,12 +6,9 @@ menu_weight: 8
 ---
 [](https://sunseasangriablog.netlify.app/admin/#/collections/pages)
 
-
 **SunSeaFoodie – Let's Eat Our Way Through Costa Blanca North** 🌅☕🍤🌙
 
 Pull up a chair, grab a coffee (or something stronger), and welcome to **SunSeaFoodie** — my personal roundup of the cafés, bars, and restaurants I keep going back to in our sunny corner of the Costa Blanca North. From that perfect morning café con leche and fresh-zumo desayuno, through a cheeky almuerzo bocadillo, right up to sunset tapas and seafood feasts that make you feel like you're on holiday forever — these are the spots that make everyday life here taste so good. But here's the best bit: this isn't just my list. I know you've all got your own absolute gems — the hidden terrace with killer views, the tapas place that does patatas bravas like nowhere else, the seafood spot where the fish is so fresh it practically jumps on your plate. So let's make this page our shared treasure map! Drop your recommendations in the comments, tell me why you love them (the views, the value, the owner who remembers your order...), and we'll build the ultimate go-to guide together. Your turn, amigos — what's on your plate? 🍹
-
-
 
 {{< image-caption src="/images/image.jpg" >}}Arte Calpe{{< /image-caption >}}
 
@@ -31,7 +28,7 @@ Living here, I've found my go-to spots that nail both the authentic Spanish vibe
 
 **Calpe**: **Arte** —simple, friendly, and does a cracking tostada con bacon & Queso (my not-so-healthy go-to) for that mid-morning fuel-up.
 
-{{< image-caption src="/images/471793674_10160210990126642_5329561801944217581_n.jpg" >}}{{< /image-caption >}}
+{{< image-caption src="/images/img_8272.jpeg" >}}Casa Vital Altea with views over to Calpe{{< /image-caption >}}
 
 **Sunset Sessions: My Go-To Evening Spots in Costa Blanca North** 🌅🍤🥂
 
