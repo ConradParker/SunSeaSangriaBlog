@@ -10,6 +10,8 @@ Welcome to **SunSeaFoodie** – my little corner of Costa Blanca North where I s
 
 Nothing beats kicking off the day (or sneaking in a lazy lunch) in the Costa Blanca North. But let's be honest—Spanish mealtimes can catch you out if you're used to a full English fry-up at 8 AM sharp.
 
+{{< image-caption src="/images/20260203_094445.jpg" >}}Arte Calpe - Americano {{< /image-caption >}}
+
 **Desayuno** (breakfast) is usually light and early-ish (before 10 AM). Think a quick café con leche (milky coffee), maybe a croissant, toast with tomato and olive oil (pan con tomate), or fresh zumo de naranja (orange juice—proper, freshly squeezed here, thanks to all those local groves). No massive plates unless you're at an expat-friendly spot. **Almuerzo** (mid-morning snack/lunch) happens around 10:30 AM–noon. This is when things get more substantial: a bocadillo (sandwich), tortilla, or even a small tapa plate with your second coffee. It's the perfect bridge to a late lunch (comida) around 2–3 PM.
 
 Living here, I've found my go-to spots that nail both the authentic Spanish vibe and a bit of comfort-food familiarity. These are personal favourites in our patch (Jávea, Moraira, Denia, Altea, Calpe area)—nothing fancy, just places that make you smile:
@@ -23,11 +25,6 @@ Living here, I've found my go-to spots that nail both the authentic Spanish vibe
 **Altea**: Whitewashed streets call for a quick café stop at **Por Flavor** —Pastries, Fresh fruits and a milky coffee that tastes like home (but better). 
 
 **Calpe**: **Arte** —simple, friendly, and does a cracking tostada con bacon & Queso (my not-so-healthy go-to) for that mid-morning fuel-up.
-
-
-
-
-
 
 **Sunset Sessions: My Go-To Evening Spots in Costa Blanca North** 🌅🍤🥂
 
