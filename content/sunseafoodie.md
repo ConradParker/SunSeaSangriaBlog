@@ -28,6 +28,10 @@ Living here, I've found my go-to spots that nail both the authentic Spanish vibe
 
 **Calpe**: **Arte** —simple, friendly, and does a cracking tostada con bacon & Queso (my not-so-healthy go-to) for that mid-morning fuel-up.
 
+
+
+{{< image-caption src="/images/471793674_10160210990126642_5329561801944217581_n.jpg" >}}{{< /image-caption >}}
+
 **Sunset Sessions: My Go-To Evening Spots in Costa Blanca North** 🌅🍤🥂
 
 Once the sun starts dipping and the sky turns that gorgeous pinky-orange, it’s time for cena — late, laid-back, and full of sharing plates, fresh seafood, and a glass (or three) of something nice. These are the places myself or friends enjoy to go in our patch —  lovely places that feel right for expat life.
