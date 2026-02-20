@@ -34,6 +34,8 @@ Living here, I've found my go-to spots that nail both the authentic Spanish vibe
 
 Once the sun starts dipping and the sky turns that gorgeous pinky-orange, it’s time for cena — late, laid-back, and full of sharing plates, fresh seafood, and a glass (or three) of something nice. These are the places that my friends enjoy going in our patch —  lovely places that feel right for expat life.
 
+{{< image-caption src="/images/513196288_10160766852101642_5303614460102755212_n.jpg" >}}View from Hotel Attico Restaurant{{< /image-caption >}}
+
 **Jávea**
 
 * **Hotel Ático** — cracking views over the port, especially at sunset. The food’s solid, the atmosphere relaxed — best to book ahead or you’ll be gutted when they’re full.
