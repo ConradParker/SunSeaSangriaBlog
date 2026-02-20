@@ -34,7 +34,7 @@ Living here, I've found my go-to spots that nail both the authentic Spanish vibe
 
 **Sunset Sessions: My Go-To Evening Spots in Costa Blanca North** 🌅🍤🥂
 
-Once the sun starts dipping and the sky turns that gorgeous pinky-orange, it’s time for cena — late, laid-back, and full of sharing plates, fresh seafood, and a glass (or three) of something nice. These are the places myself or friends enjoy to go in our patch —  lovely places that feel right for expat life.
+Once the sun starts dipping and the sky turns that gorgeous pinky-orange, it’s time for cena — late, laid-back, and full of sharing plates, fresh seafood, and a glass (or three) of something nice. These are the places that my friends enjoy going in our patch —  lovely places that feel right for expat life.
 
 **Jávea**
 
@@ -59,12 +59,12 @@ Denia’s got so many brilliant choices it’s hard to narrow down, but these th
 
 **Altea**
 
-* **Casa Vital** — hidden gem up in the white streets of the pueblo. Tapas-style sharing plates, grilled meats, and veggie options that actually taste good (not just an afterthought). The twinkly lights after dark make it feel extra special, and you get those lovely Calpe and sea glimpses.
+* **Casa Vital** — a hidden gem up in the white streets of the pueblo. Tapas-style sharing plates, grilled meats, and veggie options that actually taste good (not just an afterthought). The twinkly lights after dark make it feel extra special, and you get those lovely Calpe and sea glimpses.
 * **La Cena by Nola** — right on the seafront. Lovely food, cracking value Menu del Día, and a relaxed vibe — perfect for when you want quality without fuss.
 
 **Calpe**
 
-Calpe’s seafronts and pueblo are rammed with great places — impossible to list them all — but these are the ones we keep returning to:
+Calpe’s seafronts and Pueblo are rammed with great places — impossible to list them all — but these are the ones we keep returning to:
 
 * **Patio de la Fuente** — beautiful setting, three-course menu, and food that’s always a treat. Proper special-occasion feel.
 * **Bambero** — seafront stunner for that extra-special meal. Consistently brilliant.
