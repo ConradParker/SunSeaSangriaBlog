@@ -10,7 +10,7 @@ Welcome to **SunSeaFoodie** – my little corner of Costa Blanca North where I s
 
 Nothing beats kicking off the day (or sneaking in a lazy lunch) in the Costa Blanca North. But let's be honest—Spanish mealtimes can catch you out if you're used to a full English fry-up at 8 AM sharp.
 
-{{< image-caption src="/images/20260203_094445.jpg" >}}Arte Calpe - Americano {{< /image-caption >}}
+{{< image-caption src="/images/image.jpg" >}}Arte Calpe - Americano{{< /image-caption >}}
 
 **Desayuno** (breakfast) is usually light and early-ish (before 10 AM). Think a quick café con leche (milky coffee), maybe a croissant, toast with tomato and olive oil (pan con tomate), or fresh zumo de naranja (orange juice—proper, freshly squeezed here, thanks to all those local groves). No massive plates unless you're at an expat-friendly spot. **Almuerzo** (mid-morning snack/lunch) happens around 10:30 AM–noon. This is when things get more substantial: a bocadillo (sandwich), tortilla, or even a small tapa plate with your second coffee. It's the perfect bridge to a late lunch (comida) around 2–3 PM.
 
