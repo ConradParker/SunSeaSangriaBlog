@@ -8,7 +8,7 @@ menu_weight: 8
 
 **SunSeaFoodie – Let's Eat Our Way Through Costa Blanca North** 🌅☕🍤🌙
 
-Pull up a chair, grab a coffee (or something stronger), and welcome to **SunSeaFoodie** — my personal roundup of the cafés, bars, and restaurants I keep going back to in our sunny corner of the Costa Blanca North. From that perfect morning café con leche and fresh-zumo desayuno, through a cheeky almuerzo bocadillo, right up to sunset tapas and seafood feasts that make you feel like you're on holiday forever — these are the spots that make everyday life here taste so good. But here's the best bit: this isn't just my list. I know you've all got your own absolute gems — the hidden terrace with killer views, the tapas place that does patatas bravas like nowhere else, the seafood spot where the fish is so fresh it practically jumps on your plate. So let's make this page our shared treasure map! Drop your recommendations in the comments, tell me why you love them (the views, the value, the owner who remembers your order...), and we'll build the ultimate go-to guide together. Your turn, amigos — what's on your plate? 🍹
+Pull up a chair, grab a coffee (or something stronger), and welcome to **SunSeaFoodie** — my personal roundup of the cafés, bars, and restaurants I keep going back to in our sunny corner of the Costa Blanca North. From that perfect morning café con leche and fresh-zumo desayuno, through a cheeky almuerzo bocadillo, right up to sunset tapas and seafood feasts that make you feel like you're on holiday forever — these are the spots that make everyday life here taste so good. But here's the best bit: this isn't just my list. I know you've all got your own absolute gems — the hidden terrace with killer views, the tapas place that does patatas bravas like nowhere else, the seafood spot where the fish is so fresh it practically jumps on your plate. So let's make this page our shared treasure map! 
 
 {{< image-caption src="/images/image.jpg" >}}Arte Calpe{{< /image-caption >}}
 
@@ -71,10 +71,13 @@ Calpe’s seafronts and Pueblo are rammed with great places — impossible to li
 * **Capri** — seafood lovers’ dream. Fresh, simple, and spot-on.
 * **Taco de Paco** — my personal favourite. Happiness wrapped in tortillas — proper Mexican street-food vibes that never fail to put a smile on your face.
 
-{{< image-caption src="/images/img_8355.jpeg" >}}Steak Nights {{< /image-caption >}}
+{{< image-caption src="/images/img_8355.jpeg" >}}Steak Nights{{< /image-caption >}}
 
-These restaurants are the ones that make evenings in the North feel like a permanent holiday — good food, good views, and good company (or just a quiet table for two). Prices stay sensible, portions are generous, and the welcome is always warm.
+These restaurants are the ones that make evenings in the North feel like a permanent holiday — good food, good views, and good company (or just a quiet table for two). Prices stay sensible (sometimes) portions are generous, and the welcome is always warm.
 
-Now it’s your turn, amigos! What’s your go-to evening place? That hidden tapas bar, the paella that’s worth the wait, or the spot that does the best sunset sangria? Drop your recommendations in the comments — let’s make this the ultimate shared list for all of us living the Costa Blanca dream. 🍷🌙
+
+Drop your recommendations in the comments, tell me why you love them (the views, the value, the owner who remembers your order...), and we'll build the ultimate go-to guide together. Your turn, amigos — what's on your plate? 🍹
+
+
 
 ¡Buenas noches y buen provecho!
