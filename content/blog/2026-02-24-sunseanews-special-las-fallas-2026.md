@@ -18,4 +18,9 @@ Closer to our coastal stomping grounds (Calpe, Jávea/Xàbia, Denia, and the Mar
 
 The whole region feels alive with spring fever: mild temps (20–25°C days), blooming vibes, and that unmistakable pólvora scent mixing with sea air. Whether you’re heading to Valencia for the mega spectacle (about 1–1.5 hours north) or keeping it coastal in Denia/Calpe, it’s the ultimate excuse to extend those walks into all-night fiestas.
 
-Pro tip: Pack earplugs for the mascletàs, comfy shoes for wandering, and an open mind for the satire—some ninots are hilariously spicy! Who’s ready to trade quiet coastal strolls for a bit of fiery chaos? Drop your plans in the comments—best tapas spot during Fallas? 🔥🌊🍷
+***SunSeaSangria Tips:*** Pack earplugs for the mascletàs.
+
+ \
+Who’s ready to trade quiet coastal strolls for a bit of fiery chaos?
+
+ Drop your plans in the comments—best tapas spot during Fallas? 🔥🌊🍷
