@@ -8,6 +8,8 @@ Las Fallas 2026 are lighting up the Costa Blanca with that signature mix of fire
 
 Right now (late February 2026), the build-up is in full swing after the official kick-off on February 22 with **La Crida** at Valencia’s Serranos Towers. The real fireworks (literal and figurative) explode from March 1–19, with daily **mascletàs** (those thunderous midday firecracker shows that rattle your bones in the best way) starting March 1 at 2 PM in Valencia’s main square. The peak madness hits during **Semana Fallera** (March 15–19): monuments get planted overnight, parades strut, flower offerings honor the Virgin, and everything culminates in **La Cremà** on March 19—when the fallas go up in flames around 10 PM (later for the big ones), symbolizing renewal and a killer way to end winter.
 
+{{< image-caption src="/images/img_8478.jpeg" >}}2026 Las Fallas{{< /image-caption >}}
+
 Closer to our coastal stomping grounds (Calpe, Jávea/Xàbia, Denia, and the Marina Alta vibe), things are more intimate and laid-back—no Valencia-scale crowds, but still full of local charm and that SunSeaSangria spirit:
 
 •  **Denia** steals the show in the north with its own lively program. Expect fallas monuments popping up in plazas, parades, mascletàs, music, and the big cremà on March 19. Key days ramp up March 17–19 with street parties, fireworks, and community feasts—ideal for a quick drive or train hop from Calpe/Jávea. It’s got that perfect seaside twist: imagine watching ninots burn with the Mediterranean twinkling in the background, then grabbing fresh seafood and a cold tinto de verano to celebrate.
