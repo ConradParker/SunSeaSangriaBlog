@@ -4,6 +4,9 @@ date: 2026-02-24T20:13:00.000+01:00
 draft: false
 series: through-the-looking-glass
 ---
+\
+**The Burning Carnival: Fallas 2026 in Glorious Chaos**
+
 Las Fallas 2026 are lighting up the Costa Blanca with that signature mix of fire, satire, street parties, and pure Valencian energy—perfect for adding some extra sparkle to your sun-soaked days from Alicante up to Denia! This UNESCO-listed fiesta honors Saint Joseph with towering, cheeky cardboard-and-wood sculptures (ninots) that get built, paraded, admired, and then dramatically torched in a bonfire spectacle. Think epic street vibes, gunpowder symphonies, and enough sangria to keep the party flowing.
 
 Right now (late February 2026), the build-up is in full swing after the official kick-off on February 22 with **La Crida** at Valencia’s Serranos Towers. The real fireworks (literal and figurative) explode from March 1–19, with daily **mascletàs** (those thunderous midday firecracker shows that rattle your bones in the best way) starting March 1 at 2 PM in Valencia’s main square. The peak madness hits during **Semana Fallera** (March 15–19): monuments get planted overnight, parades strut, flower offerings honor the Virgin, and everything culminates in **La Cremà** on March 19—when the fallas go up in flames around 10 PM (later for the big ones), symbolizing renewal and a killer way to end winter.
