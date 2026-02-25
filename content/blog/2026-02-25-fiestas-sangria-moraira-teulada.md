@@ -4,7 +4,6 @@ date: 2026-02-25T09:00:00.000+01:00
 draft: false
 series: fiestas-sangria
 ---
-
 **Moraira-Teulada 2026: Fiestas That Blend Seaside Charm with Inland Tradition in the Northern Costa Blanca**
 
 Moraira and Teulada form one charming duo—Moraira hugs the sparkling Mediterranean with its yacht-filled marina, rocky coves, and relaxed vibe. At the same time, Teulada sits a short drive inland amid vineyards and olive groves, keeping that classic Valencian village feel. Together, they share a fiesta calendar that's intimate, authentic, and full of heart: no massive crowds like in bigger towns, but plenty of local pride, street dinners, fireworks, and traditions that feel genuinely lived-in.
@@ -15,61 +14,38 @@ Here's your **2026 fiesta guide** for Moraira-Teulada (dates based on confirmed 
 
 * **January 6: Cabalgata de Reyes Magos**
 
-
   Three Kings parade (often arriving by sea in Moraira), floats, lights, and sweets thrown to kids— a joyful family start to the year in both towns.
-
 * **January (mid-to-late, e.g., 16–18 or 23–24 pattern): Fiestas de Sant Antoni**
 
-
-  Bonfires (hogueras), blessing of animals, traditional music, parades, and street parties. Cozy winter tradition with pet processions and community warmth—strong in both Teulada and Moraira.
-
+  Bonfires (hogueras), blessing of animals, traditional music, parades, and street parties. Cosy winter tradition with pet processions and community warmth—strong in both Teulada and Moraira.
 * **January/February (e.g., late Jan–early Feb): Fiesta de Sant Blai**
 
-
   "Fiesta de la Dama" with parades, cultural acts, and events for all ages—lively and traditional in Teulada-Moraira.
-
 * **February (around mid-Feb, e.g., Feb 14 pattern): Carnaval**
 
-
-  Costume parades, giant paellas, pasacalles, music tardeos, and fun for families—colorful disguises and street energy in Moraira especially.
-
+  Costume parades, giant paellas, pasacalles, music tardeos, and fun for families—colourful disguises and street energy in Moraira, especially.
 * **March/April (late March–early April): Semana Santa**
 
-
-  Solemn Holy Week processions: Palm Sunday blessings, silent nights, Good Friday burials, and Easter encounters—beautiful and moving in the old streets of Teulada and port of Moraira.
-
+  Solemn Holy Week processions: Palm Sunday blessings, silent nights, Good Friday burials, and Easter encounters—beautiful and moving in the old streets of Teulada and the port of Moraira.
 * **April 8–19 (approx.): Fiestas Patronales de Teulada in Honor of Sant Vicent Ferrer**
 
-
   Teulada's big spring week! Coronation of queens, flower offerings, children's day, main procession and fireworks on April 13 (Sant Vicent day), float parades, heifer bull runs (vaquetes), giant paella for "Día de les Quintades," and pilgrimage to Font Santa. Processions, verbenas, and community feasts—pure local pride.
-
 * **April 13: Día de Sant Vicent Ferrer**
 
-
-  Highlight of the patronales: religious procession, fireworks, and celebrations centered in Plaza de la Constitución, Teulada.
-
+  Highlight of the patronales: religious procession, fireworks, and celebrations centred in Plaza de la Constitución, Teulada.
 * **June (second/third week, e.g., early–mid June): Moros y Cristianos in Moraira**
 
-
-  Dramatic and colorful! Parades of filaes, mock battles, medieval market openings, concerts at the castle, "conquista" reenactments, and gala desfile. Gunpowder, drums, stunning costumes—peaks with street energy and brotherhood meals.
-
+  Dramatic and colourful! Parades of filaes, mock battles, medieval market openings, concerts at the castle, "conquista" reenactments, and a gala desfile. Gunpowder, drums, stunning costumes—peaks with street energy and brotherhood meals.
 * **June 23–24: Nit de Sant Joan**
 
-
   Bonfires on the beach/port, jumping flames for luck, fireworks over the sea—summer's fiery welcome in Moraira.
-
 * **July (early–mid, e.g., July 3–19 pattern): Fiestas Patronales de Moraira**
 
-
-  In honor of Virgen de los Desamparados and Virgen del Carmen. Highlights: flower offerings (ofrenda), maritime processions with boats carrying the Virgin, concerts, street parties, and fireworks. Día grande around July 15–16—seaside gratitude and sparkle.
-
+  En honor de Virgen de los Desamparados y Virgen del Carmen. Highlights: flower offerings (ofrenda), maritime processions with boats carrying the Virgin, concerts, street parties, and fireworks. Día grande around July 15–16—seaside gratitude and sparkle.
 * **July 29–30 (approx.): Fiestas de Els Sants de la Pedra (in Teulada's El Raval area)**
 
-
-  Outdoor dinners, masses, and lively nights—traditional and neighborhood-focused.
-
+  Outdoor dinners, masses, and lively nights—traditional and neighbourhood-focused.
 * **Other yearly highlights**
-
 
   Santa Catalina (late Nov, e.g., Nov 27–29): Parades and cultural events in Teulada.
   Virgen del Carmen (mid-July): Fishermen's sea tributes in Moraira.
