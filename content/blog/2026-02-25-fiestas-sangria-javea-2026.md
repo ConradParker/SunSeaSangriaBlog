@@ -10,6 +10,8 @@ Xàbia (or Jávea) is the northern Costa Blanca's picture-perfect gem—whitewas
 
 These aren't flashy tourist events—they're woven into daily life. The Moros y Cristianos echo the coast's Reconquista past, the Fogueres bonfires light up midsummer like a Valencian rite of passage, and the port's Virgen del Loreto fiestas honour fishermen with flower-strewn boats and fireworks over the bay. In 2026, expect streets alive with parades, bull runs through narrow alleys (a revived tradition that's thrilling but safe), live music until dawn, and locals of all ages dancing under the stars.
 
+{{< image-caption src="undefined" >}}{{< /image-caption >}}
+
 Xàbia's calendar mixes winter warmth, spring fun, explosive summer highs, and autumn gratitude. Here's your **2026 fiesta guide** (dates confirmed where possible; religious/movable ones follow traditions—check xabia.org, javea.com, or the Ayuntamiento for full programs as they drop).
 
 * **January 9 – February 1: Fiestas de Sant Antoni Abad & Sant Sebastià** Winter highlight! Blessing of animals, parades, music, and the dramatic **Cremà del Pi** (burning of the giant pine) on January 17—fire, sparks, and community cheers in the old town. Extended events with fairground rides and street parties make it a cosy kick-off to the year.
