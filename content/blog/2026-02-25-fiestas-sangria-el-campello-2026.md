@@ -28,7 +28,7 @@ Here's your **2026 fiesta guide** for El Campello (dates based on confirmed loca
 
   Occasional medieval markets or cultural acts scattered throughout the year.
 
-  **Visitor tips for El Campello fiestas 2026**
+  ***Visitor tips for El Campello fiestas 2026***
 
   October Moros y Cristianos get busy—book beachside or town-centre accommodation early.
 
