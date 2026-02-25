@@ -19,7 +19,7 @@ Here's your **2026 fiesta guide** for Alicante (dates based on confirmed officia
 * **April 16 (Thursday, local holiday): Romería de la Santa Faz** Massive pilgrimage to the Santa Faz sanctuary—thousands walk or join buses from the city centre, with music, food stalls, and a joyful, faith-filled atmosphere. One of Alicante's most beloved traditions.
 * **June 20–24: Hogueras de San Juan (Les Fogueres de Sant Joan)** The city's biggest fiesta! Giant satirical hogueras (monuments) built and displayed, daily mascletà fireworks, plantà setups, street parties, and the dramatic cremà burnings on the night of 24 June. Pregón, Bellea del Foc elections earlier in the year, galas, and pure Valencian fire and art—explosive summer energy.
 
-  **Other yearly highlights**
+  ***Other yearly highlights***
 
   Moros y Cristianos (various dates in barrios like San Blas, Altozano, Villafranqueza, Rebolledo—often spring/summer/autumn weekends): Parades, mock battles, gunpowder, and filaes in stunning costumes.
 
@@ -27,7 +27,7 @@ Here's your **2026 fiesta guide** for Alicante (dates based on confirmed officia
 
   Smaller events: Fiestas de barrio, Corpus Christi, May Crosses, and neighbourhood gatherings throughout the year.
 
-**Visitor tips for Alicante fiestas 2026**
+***Visitor tips for Alicante fiestas 2026***
 
 * Hogueras (June) and Semana Santa draw huge crowds—book central or beach accommodation well ahead.
 * Best spots: Explanada de España or Rambla for Hogueras fireworks/mascletà; old town and castle views for processions; Playa del Postiguet for summer vibes.
