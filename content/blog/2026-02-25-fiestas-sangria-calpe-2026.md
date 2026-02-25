@@ -4,9 +4,6 @@ date: 2026-02-25T09:06:00.000+01:00
 draft: false
 series: fiestas-sangria
 ---
-
-
-
 **Calpe 2026: Fiestas That Light Up the Rock and Sea in the Northern Costa Blanca**
 
 Calpe stands out on the northern Costa Blanca map like no other—dominated by the iconic Peñón de Ifach rising straight from the sea, with golden beaches, ancient salt flats, and a bustling old town full of character. Its fiestas match that dramatic landscape: explosive summer patronales with fireworks bursting over the bay, historic Moros y Cristianos battles that echo the town's past, and midsummer bonfires that welcome the heat. These aren't just events—they're the pulse of a community that blends fishing heritage, mountain spirit, and Valencian fire-loving traditions.
@@ -40,3 +37,5 @@ Here's your **2026 fiesta guide** for Calpe (dates drawn from confirmed patterns
 * Local flavours: Fresh fish, arroz a banda, and horchata during the fiestas.
 
 Calpe's fiestas capture why this spot feels so alive—dramatic scenery, deep roots, and a community that celebrates with open arms and plenty of fire.
+
+{{< image-caption src="/images/img_8492.jpeg" >}}{{< /image-caption >}}
