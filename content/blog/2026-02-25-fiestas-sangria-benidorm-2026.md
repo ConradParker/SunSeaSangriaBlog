@@ -42,3 +42,5 @@ Here's your 2026 fiesta guide for Benidorm (dates confirmed from official source
 * Local eats: Paella, fresh seafood, tapas—plenty during street feasts.
 
 Benidorm's fiestas show why this town is unbeatable—high-energy fun, deep traditions, and a welcome that never stops.
+
+{{< image-caption src="/images/img_8492.jpeg" >}}{{< /image-caption >}}
