@@ -4,8 +4,6 @@ date: 2026-02-25T09:25:00.000+01:00
 draft: false
 series: fiestas-sangria
 ---
-
-
 **Villajoyosa (La Vila Joiosa) 2026: Fiestas That Bring Colourful History and Chocolate Charm to the Northern Costa Blanca**
 
 Villajoyosa—often called La Vila—is a delightful coastal gem in the northern Costa Blanca, famous for its brightly painted fishermen's houses along the beach, ancient Roman ruins, and world-class chocolate factories. Its fiestas are a perfect reflection of this vibrant personality: grand Moros y Cristianos with a unique seaside twist (including a dramatic Moorish landing at dawn), winter bonfires, and patronal celebrations that honour Santa Marta with parades, music, and community feasts.
@@ -22,14 +20,20 @@ Here's your **2026 fiesta guide** for Villajoyosa (dates based on confirmed patt
 * **July 24–31: Fiestas de Moros y Cristianos (in honour of Santa Marta).** The town's absolute highlight! Declared Fiesta of International Tourist Interest. Highlights include the spectacular **Desembarco Moro** (Moorish landing at dawn on the beach), epic parades of filaes (Moorish and Christian troupes) in stunning costumes, mock battles, gunpowder displays, embassies, music bands, and a grand reconquista finale. Peaks around 29 July (Santa Marta day, a local holiday)—dramatic, colourful, and unforgettable seaside spectacle.
 * **July 29: Festividad de Santa Marta,** Patron saint's day: religious acts, processions, fireworks, and community celebrations tied to the main Moros y Cristianos—gratitude and pride for the town's protector.
 * **September 29: Festividad de San Miguel** Local holiday with events in the Ermita neighbourhood (oldest fiestas in town): masses, parades, street parties, and traditional gatherings—smaller but deeply rooted.
-* **Other yearly highlights**
-* * Virgen del Carmen (mid-July, around 16th): Maritime processions and sea tributes for fishermen.
 
-  * Smaller barrio fiestas (neighbourhood events) throughout summer/autumn.
 
-  * Chocolate-related events and markets (year-round, but often tied to fiestas).
 
-  * Christmas markets and smaller saints' days.
+  ***Other yearly highlights***
+
+  Virgen del Carmen (mid-July, around 16th): Maritime processions and sea tributes for fishermen.
+
+  Smaller barrio fiestas (neighbourhood events) throughout summer/autumn.
+
+  Chocolate-related events and markets (year-round, but often tied to fiestas).
+
+  Christmas markets and smaller saints’ days.
+
+
 
 **Visitor tips for Villajoyosa fiestas 2026**
 
