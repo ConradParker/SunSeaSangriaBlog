@@ -4,9 +4,6 @@ date: 2026-02-25T09:27:00.000+01:00
 draft: false
 series: fiestas-sangria
 ---
-
-
-
 **El Campello 2026: Fiestas That Mix Seaside Drama and Historic Pride in the Northern Costa Blanca**
 
 El Campello is a welcoming coastal spot just a short hop from Alicante—think long sandy beaches, the ancient Torre de la Illeta watching over the waves, and a relaxed mix of locals and visitors enjoying the Mediterranean lifestyle. Its fiestas capture that easy charm: spectacular Moros y Cristianos with a dawn beach landing that feels straight out of history, summer maritime processions for the Virgen del Carmen, and year-round events that bring the community together with music, fireworks, and street feasts.
@@ -23,7 +20,6 @@ These celebrations are rooted in real events—like the 16th-century defence aga
 * **October 11–15 (approx., around mid-October):** Fiestas Mayores de Moros y Cristianos (in honour of Virgen de los Desamparados and Santa Teresa de Jesús) The town's biggest spectacle! Declared of tourist interest. Starts with evening acts on the 11th (like castle events or pregón), then the dramatic **Desembarco Moro** at dawn on the 12th (Moorish landing on Platja del Carrer la Mar, with battles and Christian defence), followed by parades of filaes, embassies by the Torre de la Illeta, mock combats, gunpowder, music bands, flower offerings, and a grand finale with fireworks. Peaks on the 15th (local holiday) with religious acts, redoble de campanas, and a magnificent castle of fireworks—colourful, historic, and thrilling.
 * **October 15 (local holiday): Festividad de Santa Teresa de Jesús.** Tied to the patronales: solemn masses, processions, and community celebrations—gratitude to the co-patron.
 
-
 ***Other yearly highlights***
 
 Virgen del Carmen maritime tributes (mid-July buildup).
@@ -31,7 +27,6 @@ Virgen del Carmen maritime tributes (mid-July buildup).
 Smaller events: Fiestas de la Cruz (May), 9 de Octubre (Día de la Comunitat Valenciana), neighbourhood gatherings, and Christmas markets.
 
 Occasional medieval markets or cultural acts scattered throughout the year.
-
 
 ***Visitor tips for El Campello fiestas 2026***
 
@@ -48,3 +43,5 @@ Practical: Comfy shoes for walking, earplugs for fireworks/gunpowder, and sun pr
 Local flavours: Fresh seafood, arroz dishes, and tapas—ideal during street parties.
 
 El Campello’s fiestas show the northern Costa Blanca’s quieter side—beautiful beaches, rich history, and traditions that feel warm and real.
+
+{{< image-caption src="/images/img_8492.jpeg" >}}{{< /image-caption >}}
