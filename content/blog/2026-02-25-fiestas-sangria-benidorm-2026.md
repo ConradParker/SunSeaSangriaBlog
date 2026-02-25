@@ -12,23 +12,27 @@ These aren't quiet village affairs—Benidorm's fiestas are big, bold, and inclu
 
 Here's your 2026 fiesta guide for Benidorm (dates confirmed from official sources, tourism sites like visitbenidorm.es, and local guides; patronales run from 6–11 November with Fancy Dress Day on the 12th, Moros y Cristianos early October, Benidorm Fest in February—always check visitbenidorm.es, benidorm.org, or benidormseriously.com for full programmes and any updates).
 
-* January 5–6: Cabalgata de Reyes Magos Three Kings arrive (often by sea), with a huge parade through the streets tossing sweets to kids. Magical lights, floats, and family excitement to start the year.
-* January (mid-to-late): Fiestas de Sant Antoni Abad Blessing of animals, bonfires, parades, and street parties—warm winter tradition with a nod to the town's heritage.
-* February 10–14: Benidorm Fest, Spain's big Eurovision pre-selection! Semi-finals on 10th and 12th, grand final on 14th at Palau d’Esports l’Illa—live music, performances, and massive crowds.
-* February 21 (approx.): Carnaval Adult and kids' parades, costume contests, street music, and the symbolic burial of the sardine. Colourful, participatory, and hugely fun—Benidorm does Carnival big.
-* March 14–19: Fallas Giant satirical ninots on display, daily mascletà fireworks, plantà setups, and the dramatic cremà burnings on the 19th night. Street parties and fire everywhere—Valencian spectacle at its best.
-* March/April: Semana Santa Solemn Holy Week processions: religious floats, candles, and quiet nights through the old town—a moving contrast to the usual energy.
-* June 23–24: Hogueras de Sant Joan Bonfires on the beaches, jumping flames for luck, fireworks over the sea, and all-night parties—summer officially ignites.
-* July 15–19 (approx.): Fiestas del Carmen, Fishermen's patron saint week: maritime processions, flower offerings to the sea, masses, street parties, and fireworks. Emotional boat parades honour the Virgen del Carmen.
-* July 25: San Jaime (patron saint day). Acts in honour of Benidorm's patron: religious services, parades, and celebrations tied to the town's history.
-* October 1–4 (approx.): Moros y Cristianos Epic battles on Levante beach! "Invasion" reenactments, parades of filaes in stunning costumes, mock combats, gunpowder, embassies, and a grand reconquista finale with mascletà and fireworks. Dramatic, colourful, and beachside unique.
-* November 6–11: Fiestas Mayores Patronales The absolute highlight—six days in honour of Virgen del Sufragio and San Jaime Apóstol. Parades, flower offerings, concerts, street feasts, and a spectacular fireworks finale on the 11th. The town explodes with pride, music, and non-stop partying. British Fancy Dress Day often follows on Thursday 12th—costumes galore!
-* Other yearly highlights
-* * Virgen del Sufragio discovery commemoration (March).
-  * Oktoberfest and Fiestas del Roser (October).
-  * Smaller events: St Patrick's Day (March), May Crosses, Corpus Christi, and neighbourhood fiestas.
+* **January 5–6: Cabalgata de Reyes Magos Three Kings arrive (often by sea)**, with a huge parade through the streets tossing sweets to kids. Magical lights, floats, and family excitement to start the year.
+* **January (mid-to-late): Fiestas de Sant Antoni Abad Blessing of animals**, bonfires, parades, and street parties—warm winter tradition with a nod to the town's heritage.
+* **February 10–14: Benidorm Fest, Spain's big Eurovision pre-selection!** Semi-finals on 10th and 12th, grand final on 14th at Palau d’Esports l’Illa—live music, performances, and massive crowds.
+* **February 21 (approx.):** Carnaval Adult and kids' parades, costume contests, street music, and the symbolic burial of the sardine. Colourful, participatory, and hugely fun—Benidorm does Carnival big.
+* **March 14–19: Fallas Giant satirical ninots on display,** daily mascletà fireworks, plantà setups, and the dramatic cremà burnings on the 19th night. Street parties and fire everywhere—Valencian spectacle at its best.
+* **March/April: Semana Santa Solemn Holy Week processions:** religious floats, candles, and quiet nights through the old town—a moving contrast to the usual energy.
+* **June 23–24: Hogueras de Sant Joan Bonfires on the beaches**, jumping flames for luck, fireworks over the sea, and all-night parties—summer officially ignites.
+* **July 15–19 (approx.): Fiestas del Carmen, Fishermen's patron saint week:** maritime processions, flower offerings to the sea, masses, street parties, and fireworks. Emotional boat parades honour the Virgen del Carmen.
+* **July 25: San Jaime (patron saint day).** Acts in honour of Benidorm's patron: religious services, parades, and celebrations tied to the town's history.
+* **October 1–4 (approx.): Moros y Cristianos Epic battles on Levante beach! "Invasion"** reenactments, parades of filaes in stunning costumes, mock combats, gunpowder, embassies, and a grand reconquista finale with mascletà and fireworks. Dramatic, colourful, and beachside unique.
+* **November 6–11: Fiestas Mayores Patronales The absolute highlight**—six days in honour of Virgen del Sufragio and San Jaime Apóstol. Parades, flower offerings, concerts, street feasts, and a spectacular fireworks finale on the 11th. The town explodes with pride, music, and non-stop partying. British Fancy Dress Day often follows on Thursday 12th—costumes galore!
 
-Visitor tips for Benidorm fiestas 2026
+  ***Other yearly highlights***
+
+  Virgen del Sufragio discovery commemoration (March).
+
+  Oktoberfest and Fiestas del Roser (October).
+
+  Smaller events: St Patrick's Day (March), May Crosses, Corpus Christi, and neighbourhood fiestas.
+
+***Visitor tips for Benidorm fiestas 2026***
 
 * November patronales and summer peaks fill hotels fast—book early, especially for central areas or Levante beach.
 * Best spots: Levante promenade for Moros y Cristianos "invasion" and fireworks; old town church for processions; beaches for Sant Joan bonfires.
