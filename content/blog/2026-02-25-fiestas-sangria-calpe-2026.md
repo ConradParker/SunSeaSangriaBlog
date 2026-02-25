@@ -23,12 +23,12 @@ Here's your **2026 fiesta guide** for Calpe (dates drawn from confirmed patterns
 * **July 31 – August 10 (approx.): Fiestas Patronales de la Virgen de las Nieves** Calpe's big summer highlight! Flower offerings (ofrenda), maritime processions, concerts, street dinners, Bous al Carrer (bull runs in the streets), and spectacular fireworks. Día grande around August 5 (Virgen de las Nieves)—the town explodes with pride, music, and seaside sparkle.
 * **August 15: Virgen de la Asunción** Often ties into patronales with additional masses, parades, and celebrations—gratitude to the sea and community.
 * **October 18–22 (approx.): Moros y Cristianos** The autumn blockbuster, honouring Santísimo Cristo del Sudor (patron saint, local fiesta day October 22). Raising of banners at the castle, epic parades of filaes in stunning costumes, mock battles, gunpowder, drums, and gala desfiles. Dramatic, colourful, and deeply historic—views from the Peñón are unbeatable.
-* **Other yearly highlights**
-* * Cruz de Mayo (early May): Flower crosses and spring vibes.
 
-  * Virgen del Carmen (mid-July): Fishermen's sea processions.
+***Other yearly highlights***
 
-  * Smaller events: Sant Antoni bonfires (January), local saints' days, and Christmas markets.
+* Cruz de Mayo (early May): Flower crosses and spring vibes.
+* Virgen del Carmen (mid-July): Fishermen's sea processions.
+* Smaller events: Sant Antoni bonfires (January), local saints' days, and Christmas markets.
 
 **Visitor tips for Calpe fiestas 2026**
 
