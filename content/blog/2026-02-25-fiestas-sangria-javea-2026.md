@@ -26,6 +26,9 @@ Xàbia's calendar mixes winter warmth, spring fun, explosive summer highs, and a
 * **July (third week, approx. mid-July): Moros y Cristianos** Spectacular battles! Vistosos desfiles of Moorish and Christian filaes, mock combats, gunpowder, drums, and parades through the historic centre and port. Colourful, loud, and deeply proud—don't miss the street energy.
 * **August 28 – September 8 (approx.): Festes en Honour a la Mare de Déu de Loreto.** Port fiesta at its best! Maritime processions with the Virgin's image on boats, flower offerings to the sea, fireworks, concerts, and street feasts. Día grande around September 8—celebrates the fishermen's patron with gratitude and seaside sparkle.
 * **Other yearly gems**
+
+
+
 * * Virgen del Carmen (mid-July): Boat processions and sea tributes.
 
   * Smaller events: International festivals, folk music, or food fairs scattered throughout the year.
