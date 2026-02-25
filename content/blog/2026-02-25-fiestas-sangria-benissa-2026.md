@@ -10,8 +10,6 @@ Benissa sits like a hidden treasure in the northern Costa Blanca—perched on ge
 
 These celebrations highlight Benissa's identity—the Fira i Porrat de Sant Antoni kicks off the year with winter bonfires and medieval markets, the Moros y Cristianos in late June bring dramatic parades and battles echoing the Reconquista era, and the patronal fiestas in honour of the Puríssima Xiqueta (around late April/early May) fill the streets with processions, fireworks, and street feasts. It's a place where neighbours share massive paellas, kids join in parades, and the whole town pulses with music and colour year-round.
 
-{{< image-caption src="/images/503813677_10160669077541642_7458584552831885437_n.jpg" >}}{{< /image-caption >}}
-
 Here's your 2026 fiesta guide for Benissa (dates based on confirmed local holidays, official patterns, and announcements from the Ayuntamiento and tourism sites; the Puríssima Xiqueta patronales typically span late April to early May, Moros y Cristianos centre on the weekend nearest 29 June—always verify full programmes on benissa.es, turisme.benissa.es, or local posters as the year progresses).
 
 January 6: Cabalgata de Reyes Magos
