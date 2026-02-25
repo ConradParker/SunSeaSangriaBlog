@@ -31,11 +31,16 @@ Here's your **2026 fiesta guide** for El Campello (dates based on confirmed loca
 
   **Visitor tips for El Campello fiestas 2026**
 
-  * October Moros y Cristianos get busy—book beachside or town-centre accommodation early.
-  * Best spots: Platja del Carrer la Mar for the dawn Desembarco (arrive super early!); Torre de la Illeta area for embassies; Plaza de la Iglesia or seafront for parades and fireworks.
-  * Family-friendly: Parades and daytime events suit all ages; supervise kids near crowds or gunpowder.
-  * Join in: Street tapas, verbenas, and offerings—locals are friendly and welcoming.
-  * Practical: Comfy shoes for walking, earplugs for fireworks/gunpowder, and sun protection for beach acts.
-  * Local flavours: Fresh seafood, arroz dishes, and tapas—ideal during street parties.
+  October Moros y Cristianos get busy—book beachside or town-centre accommodation early.
+
+  Best spots: Platja del Carrer la Mar for the dawn Desembarco (arrive super early!); Torre de la Illeta area for embassies; Plaza de la Iglesia or seafront for parades and fireworks.
+
+  Family-friendly: Parades and daytime events suit all ages; supervise kids near crowds or gunpowder.
+
+  Join in: Street tapas, verbenas, and offerings—locals are friendly and welcoming.
+
+  Practical: Comfy shoes for walking, earplugs for fireworks/gunpowder, and sun protection for beach acts.
+
+  Local flavours: Fresh seafood, arroz dishes, and tapas—ideal during street parties.
 
   El Campello’s fiestas show the northern Costa Blanca’s quieter side—beautiful beaches, rich history, and traditions that feel warm and real.
