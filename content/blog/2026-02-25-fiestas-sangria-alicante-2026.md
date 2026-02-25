@@ -4,8 +4,6 @@ date: 2026-02-25T09:30:00.000+01:00
 draft: false
 series: fiestas-sangria
 ---
-
-
 **Alicante 2026: Fiestas That Bring a Great City with a Great Vibe to Life in the Northern Costa Blanca**
 
 Alicante is the beating heart of the Costa Blanca—a lively, sun-soaked city with a stunning castle overlooking the sea, palm-lined promenades, sandy beaches, and an unbeatable buzz that mixes historic charm with modern energy. Its fiestas are legendary: the world-famous Hogueras de San Juan that turn the streets into a canvas of fire and satire, solemn Semana Santa processions, the colourful Moros y Cristianos in various barrios, and the massive Romería de la Santa Faz pilgrimage. These aren't just events—they're the soul of the city, where locals and visitors come together for fireworks, music, street feasts, and that special Alicante vibe of warmth, pride, and non-stop celebration.
@@ -20,12 +18,14 @@ Here's your **2026 fiesta guide** for Alicante (dates based on confirmed officia
 * **March/April (around Easter, e.g., late March–early April):** Semana Santa. One of Spain's most impressive Holy Weeks: solemn processions with ornate religious floats (pasos), candles, music bands, and quiet devotion through historic streets—moving, atmospheric, and deeply felt.
 * **April 16 (Thursday, local holiday): Romería de la Santa Faz** Massive pilgrimage to the Santa Faz sanctuary—thousands walk or join buses from the city centre, with music, food stalls, and a joyful, faith-filled atmosphere. One of Alicante's most beloved traditions.
 * **June 20–24: Hogueras de San Juan (Les Fogueres de Sant Joan)** The city's biggest fiesta! Giant satirical hogueras (monuments) built and displayed, daily mascletà fireworks, plantà setups, street parties, and the dramatic cremà burnings on the night of 24 June. Pregón, Bellea del Foc elections earlier in the year, galas, and pure Valencian fire and art—explosive summer energy.
-* **Other yearly highlights**
-* * Moros y Cristianos (various dates in barrios like San Blas, Altozano, Villafranqueza, Rebolledo—often spring/summer/autumn weekends): Parades, mock battles, gunpowder, and filaes in stunning costumes.
 
-  * Virgen del Carmen (mid-July): Maritime processions in coastal areas.
+  **Other yearly highlights**
 
-  * Smaller events: Fiestas de barrio, Corpus Christi, May Crosses, and neighbourhood gatherings throughout the year.
+  Moros y Cristianos (various dates in barrios like San Blas, Altozano, Villafranqueza, Rebolledo—often spring/summer/autumn weekends): Parades, mock battles, gunpowder, and filaes in stunning costumes.
+
+  Virgen del Carmen (mid-July): Maritime processions in coastal areas.
+
+  Smaller events: Fiestas de barrio, Corpus Christi, May Crosses, and neighbourhood gatherings throughout the year.
 
 **Visitor tips for Alicante fiestas 2026**
 
