@@ -10,7 +10,7 @@ menu_weight: 8
 
 Pull up a chair, grab a coffee (or something stronger), and welcome to **SunSeaFoodie** — my personal roundup of the cafés, bars, and restaurants I keep going back to in our sunny corner of the Costa Blanca North. From that perfect morning café con leche and fresh-zumo desayuno, through a cheeky almuerzo bocadillo, right up to sunset tapas and seafood feasts that make you feel like you're on holiday forever — these are the spots that make everyday life here taste so good. But here's the best bit: this isn't just my list. I know you've all got your own absolute gems — the hidden terrace with killer views, the tapas place that does patatas bravas like nowhere else, the seafood spot where the fish is so fresh it practically jumps on your plate. So let's make this page our shared treasure map! 
 
-{{< image-caption src="/images/image.jpg" >}}Arte Calpe{{< /image-caption >}}
+{{< image-caption src="/images/2815.jpg" >}}Hotel Attico Javea{{< /image-caption >}}
 
 **Desayuno** (breakfast) is usually light and early-ish (before 10 AM). Think a quick café con leche (milky coffee), maybe a croissant, toast with tomato and olive oil (pan con tomate), or fresh zumo de naranja (orange juice—proper, freshly squeezed here, thanks to all those local groves). No massive plates unless you're at an expat-friendly spot. **Almuerzo** (mid-morning snack/lunch) happens around 10:30 AM–noon. This is when things get more substantial: a bocadillo (sandwich), tortilla, or even a small tapa plate with your second coffee. It's the perfect bridge to a late lunch (comida) around 2–3 PM.
 
@@ -75,9 +75,6 @@ Calpe’s seafronts and Pueblo are rammed with great places — impossible to li
 
 These restaurants are the ones that make evenings in the North feel like a permanent holiday — good food, good views, and good company (or just a quiet table for two). Prices stay sensible (sometimes) portions are generous, and the welcome is always warm.
 
-
 Drop your recommendations in the comments, tell me why you love them (the views, the value, the owner who remembers your order...), and we'll build the ultimate go-to guide together. Your turn, amigos — what's on your plate? 🍹
-
-
 
 ¡Buenas noches y buen provecho!
