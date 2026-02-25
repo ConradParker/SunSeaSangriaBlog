@@ -22,4 +22,4 @@ And let’s be honest – they’re also brilliant for the soul of these places.
 
 So when you see the fireworks over the Mediterranean or hear the drums echoing through the narrow streets of Jávea or Benidorm this year, you’re not just watching a show. You’re stepping into a tradition that has survived wars, plagues, dictatorships and tourism booms – and still chooses to celebrate life with open arms, loud music and a whole lot of colour.
 
-***That’s the magic of the Costa Blanca North fiestas.***
+{{< image-caption src="/images/img_8483.jpeg" >}}That’s the magic of the Costa Blanca North fiestas.{{< /image-caption >}}
