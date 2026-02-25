@@ -4,22 +4,30 @@ date: 2026-02-25T07:58:00.000+01:00
 draft: false
 menu_weight: 10
 ---
-**Where the Fiestas Come From – And Why They Still Set the Costa Blanca North Alight**
 
-Every summer the streets of Altea, Calpe and Moraira explode into colour, music and fire. But these aren’t just big parties for the tourists – they’re the living heartbeat of the region, passed down through centuries of Spanish life.
 
-Fiestas in Spain have deep, layered roots. Many began as pagan celebrations of the sun, the harvest and the changing seasons. When Christianity arrived, the Church cleverly wove its own saints’ days into those ancient rhythms. Add the dramatic history of the Reconquista – the long struggle between Moors and Christians that ended in 1492 – and you get the spectacular “Moros y Cristianos” battles that still light up the Costa Blanca today.
 
-In the northern Costa Blanca the story feels especially personal. This stretch of coast changed hands many times between Muslim and Christian rulers, so the re-enactments aren’t just fancy dress – they’re a proud reminder of who the towns once were and how they became what they are now. The fishing villages added their own flavour too: the beautiful maritime processions for **Virgen del Carmen** every July honour the patron saint of seafarers and keep the old seafaring soul of places like Calpe and Moraira alive.
+**Where the Fiestas Come From – And Why They Still Set the Northern Costa Blanca Alight**
+
+Every summer, the streets of Altea, Calpe, Moraira, Jávea, and beyond explode into a riot of colour, music, and fire. But these aren’t just big parties put on for tourists—they’re the living heartbeat of the region, passed down through centuries of Spanish life.
+
+Fiestas in Spain have deep, layered roots. Many began as pagan celebrations marking the sun, the harvest, and the turning of the seasons. When Christianity swept in, the Church smartly overlaid its saints’ days onto those ancient rhythms. Then came the dramatic history of the Reconquista—the centuries-long struggle between Moors and Christians that finally ended in 1492. From that epic clash sprang the spectacular “Moros y Cristianos” battles that still thunder across the Costa Blanca today.
+
+Here in the northern stretch—from Dénia down through Xàbia, Moraira-Teulada, Calpe, Altea, and Benissa—the story feels especially personal. This rugged coastline changed hands repeatedly between Muslim and Christian rulers, so those re-enactments aren’t mere fancy dress. They’re a proud, living reminder of who these towns once were and how fiercely they became what they are now. The old fishing villages layered in their own traditions too: the beautiful maritime processions for the Virgen del Carmen every July honour the patron saint of seafarers, keeping the seafaring soul of places like Calpe and Moraira alive with flower offerings to the sea and candlelit boats gliding across the bay.
 
 But why do these traditional towns still throw themselves into fiestas with such passion in 2026?
 
 Because they’re the glue that holds everything together.
 
-For the locals they’re a chance to reconnect with neighbours, grandparents and children in one glorious, noisy, glitter-covered week. The whole town gets involved – from the tiniest kids in their first costume to the abuelas cooking mountains of paella for the street parties. It’s where young people learn the old dances, where stories are told, and where everyone remembers they belong to something bigger than themselves.
+For locals, it’s a precious chance to reconnect—with neighbours, grandparents, children—all in one glorious, noisy, glitter-dusted week. The whole town pitches in: from toddlers in their first costumes to abuelas cooking mountains of paella for street feasts. It’s where young people learn the old dances, where family stories are retold, and where everyone remembers they belong to something far bigger than themselves.
 
-And let’s be honest – they’re also brilliant for the soul of these places. In an age when so many coastal towns could easily turn into identikit holiday resorts, the fiestas keep the real Spanish character burning bright. They bring families back from the cities, fill the bars and restaurants, and remind every visitor that there’s a warm, proud, centuries-old community behind the sunbeds and sangria.
+And honestly? The fiestas are brilliant for the soul of these places. In an era when so many coastal spots risk becoming cookie-cutter holiday resorts, these celebrations keep the authentic Spanish character burning bright. They draw families back from the cities, pack the bars and restaurants, and remind every visitor that behind the sunbeds and sangria stands a warm, proud, centuries-old community.
 
-So when you see the fireworks over the Mediterranean or hear the drums echoing through the narrow streets of Jávea or Benidorm this year, you’re not just watching a show. You’re stepping into a tradition that has survived wars, plagues, dictatorships and tourism booms – and still chooses to celebrate life with open arms, loud music and a whole lot of colour.
+So when you catch the fireworks bursting over the Mediterranean, or hear drums echoing through the narrow streets of Jávea, Altea, or Calpe this year, you’re not just watching a show. You’re stepping into a tradition that has survived wars, plagues, dictatorships, and tourism booms—and still chooses, year after year, to celebrate life with open arms, loud music, and a whole lot of colour.
+
+In this series, we’ll explore that living tradition town by town: full annual calendars of dates (with notes on recurring or moveable feasts), what makes each fiesta unique, insider tips for watching or joining in, and the stories that make them unforgettable. Whether you’re timing a visit, rediscovering your local home, or simply curious about the rhythm of life here, come along—we’re starting the party!
+
+¡Que comience la fiesta!
+
 
 {{< image-caption src="/images/img_8483.jpeg" >}}That’s the magic of the Costa Blanca North fiestas.{{< /image-caption >}}
