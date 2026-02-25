@@ -56,3 +56,5 @@ The highlight of the year! In honour of the town's patrons (Cristo del Sagrario,
 * Local treats: Horchata, turrón, or fresh market produce during fiestas.
 
 Altea's fiestas show why this town feels so enchanting—it's the mix of artistic spirit, seaside serenity, and traditions that bind everyone together with warmth and colour.
+
+{{< image-caption src="/images/img_8492.jpeg" >}}{{< /image-caption >}}
