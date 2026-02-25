@@ -4,8 +4,6 @@ date: 2026-02-25T08:51:00.000+01:00
 draft: false
 series: fiestas-sangria
 ---
-
-
 **Xàbia/Jávea 2026: Fiestas That Bring the Magic of Sea, Mountains, and Tradition to Life**
 
 Xàbia (or Jávea) is the northern Costa Blanca's picture-perfect gem—whitewashed old town streets tumbling down to golden beaches and the dramatic Montgó mountain watching over it all. Its fiestas capture that perfect blend: seafaring soul in the port, historic pride in the historic centre, and a joyful, family-driven energy that makes every celebration feel like a big village party.
@@ -43,3 +41,5 @@ Christmas/Nativity markets in December.
 * Eat local: Fresh seafood, arroz a banda, or sweets during fiestas.
 
 Xàbia's fiestas remind us why this stretch of coast feels so alive—it's the people, the sea, the mountains, and traditions that refuse to fade.
+
+{{< image-caption src="/images/img_8492.jpeg" >}}{{< /image-caption >}}
