@@ -21,8 +21,6 @@ Here's your **2026 fiesta guide** for Villajoyosa (dates based on confirmed patt
 * **July 29: Festividad de Santa Marta,** Patron saint's day: religious acts, processions, fireworks, and community celebrations tied to the main Moros y Cristianos—gratitude and pride for the town's protector.
 * **September 29: Festividad de San Miguel** Local holiday with events in the Ermita neighbourhood (oldest fiestas in town): masses, parades, street parties, and traditional gatherings—smaller but deeply rooted.
 
-
-
   ***Other yearly highlights***
 
   Virgen del Carmen (mid-July, around 16th): Maritime processions and sea tributes for fishermen.
@@ -33,9 +31,7 @@ Here's your **2026 fiesta guide** for Villajoyosa (dates based on confirmed patt
 
   Christmas markets and smaller saints’ days.
 
-
-
-**Visitor tips for Villajoyosa fiestas 2026**
+***Visitor tips for Villajoyosa fiestas 2026***
 
 * July Moros y Cristianos draw big crowds—book beachside or old-town accommodation early.
 * Best spots: Beach for the Desembarco Moro at dawn; historic centre streets for parades; viewpoints for fireworks.
