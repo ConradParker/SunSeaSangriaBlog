@@ -13,7 +13,7 @@ Fiestas in Spain have deep, layered roots. Many began as pagan celebrations mark
 
 Here in the northern stretch—from Dénia down through Xàbia, Moraira-Teulada, Calpe, Altea, and Benissa—the story feels especially personal. This rugged coastline changed hands repeatedly between Muslim and Christian rulers, so those re-enactments aren’t mere fancy dress. They’re a proud, living reminder of who these towns once were and how fiercely they became what they are now. The old fishing villages layered in their own traditions too: the beautiful maritime processions for the Virgen del Carmen every July honour the patron saint of seafarers, keeping the seafaring soul of places like Calpe and Moraira alive with flower offerings to the sea and candlelit boats gliding across the bay.
 
-{{< image-caption src="/images/514499121_10160784327011642_8695252064198911084_n.jpg" >}}Benissa Moors & Christians 24{{< /image-caption >}}
+{{< image-caption src="/images/119260592_10157105423801642_603905312166918028_n.jpg" >}}Benissa Church{{< /image-caption >}}
 
 But why do these traditional towns still throw themselves into fiestas with such passion?
 
