@@ -10,17 +10,19 @@ If you’re planning a trip to the northern stretch of the Costa Blanca this yea
 
 We’ve pulled together the key dates and highlights for 2026, focusing on **Alicante**, **El Campello**, **Villajoyosa**, **Benidorm**, **Altea**, **Calpe**, **Moraira** (and Teulada), **Jávea/Xàbia**, **Dénia**, and **Jalón/Xaló**. Dates are based on official local holidays and longstanding annual traditions (some shift slightly for weekends or weather, so always double-check with town hall websites closer to the time).
 
-{{< image-caption src="undefined" >}}{{< /image-caption >}}
+{{< image-caption src="/images/img_8483.jpeg" >}}Let’s Party {{< /image-caption >}}
 
 **Early Year Vibes: Carnival and Winter Warm-Ups (January–February)**
 
 •  **Carnival season** kicks off across the coast in mid-February. Expect flamboyant costumes, street parades, and non-stop music.
 
-	•  **Benidorm**: Main parade around Saturday 21 February – one of the liveliest, with adult and kids’ events.
+```
+•  **Benidorm**: Main parade around Saturday 21 February – one of the liveliest, with adult and kids’ events.
 
-	•  **Villajoyosa**: Colourful parades mid-February (around 13–14 February in similar years).
+•  **Villajoyosa**: Colourful parades mid-February (around 13–14 February in similar years).
 
-	•  Other spots like Altea, Calpe, and Alicante join in with fancy-dress fun and beachside parties.
+•  Other spots like Altea, Calpe, and Alicante join in with fancy-dress fun and beachside parties.
+```
 
 •  **Three Kings parades** (Cabalgata de Reyes) light up 5 January everywhere – a magical start to the year with sweets thrown to kids.
 
@@ -28,31 +30,41 @@ We’ve pulled together the key dates and highlights for 2026, focusing on **Ali
 
 •  **Semana Santa (Holy Week)** runs from Sunday 29 March to Sunday 5 April. Solemn processions with dramatic floats, candles, and music fill the streets.
 
-	•  Strong in Alicante, Benidorm, Altea, and Calpe – atmospheric evenings not to miss.
+```
+•  Strong in Alicante, Benidorm, Altea, and Calpe – atmospheric evenings not to miss.
+```
 
 •  Local patron saint days add extra bank holidays:
 
-	•  Many towns celebrate **San Vicente Ferrer** on Monday 13 April.
+```
+•  Many towns celebrate **San Vicente Ferrer** on Monday 13 April.
 
-	•  **Alicante**: Santa Faz pilgrimage on Thursday 16 April – a big regional draw with processions heading out of town.
+•  **Alicante**: Santa Faz pilgrimage on Thursday 16 April – a big regional draw with processions heading out of town.
+```
 
 **Summer Heat: Bonfires, Sea Saints, and Epic Battles (June–August)**
 
 •  **Hogueras/Fogueres de Sant Joan** (Bonfires of St John) – the big summer kick-off around 23–24 June. Beach bonfires, fireworks, and all-night partying.
 
-	•  Alicante has its famous Hogueras (local holiday 23 June); echoes in Benidorm, Jávea, and others.
+```
+•  Alicante has its famous Hogueras (local holiday 23 June); echoes in Benidorm, Jávea, and others.
+```
 
 •  **Virgen del Carmen** (patron of seafarers) on Thursday 16 July – boat processions at sea, fireworks over the water.
 
-	•  Coastal favourites in Benidorm, Calpe, Moraira, Altea, Dénia, and more.
+```
+•  Coastal favourites in Benidorm, Calpe, Moraira, Altea, Dénia, and more.
+```
 
 •  Moors and Christians fiestas (Moros y Cristianos) – dramatic historical reenactments with parades, mock battles, and stunning costumes.
 
-	•  **Villajoyosa**: Late July (around 24–31 July) – includes a famous dawn naval battle on the beach.
+```
+•  **Villajoyosa**: Late July (around 24–31 July) – includes a famous dawn naval battle on the beach.
 
-	•  **Calpe**: Mid-October (around 18–22 October), but summer prep vibes.
+•  **Calpe**: Mid-October (around 18–22 October), but summer prep vibes.
 
-	•  Others like Jávea and Dénia have their versions in summer months.
+•  Others like Jávea and Dénia have their versions in summer months.
+```
 
 •  Music and modern twists: Benidorm often hosts big events like the Low Festival in late July.
 
@@ -60,13 +72,15 @@ We’ve pulled together the key dates and highlights for 2026, focusing on **Ali
 
 •  Patronal fiestas continue into autumn.
 
-	•  **Benidorm**: Major patronal celebrations mid-November (around 9–10 November onwards) – parades, flowers, humour, and fireworks.
+```
+•  **Benidorm**: Major patronal celebrations mid-November (around 9–10 November onwards) – parades, flowers, humour, and fireworks.
 
-	•  **Altea**: Late September (around 26–30 September).
+•  **Altea**: Late September (around 26–30 September).
 
-	•  **Calpe**: October Moors and Christians.
+•  **Calpe**: October Moors and Christians.
 
-	•  **Dénia** and **Moraira/Teulada**: Various summer-to-autumn patron saints.
+•  **Dénia** and **Moraira/Teulada**: Various summer-to-autumn patron saints.
+```
 
 •  **Christmas markets** and lights from late November, culminating in Three Kings parades on 5 January 2027 (but festive build-up starts in December).
 
