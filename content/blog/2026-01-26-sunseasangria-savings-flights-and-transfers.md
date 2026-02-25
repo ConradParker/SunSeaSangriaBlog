@@ -10,9 +10,9 @@ So where do you even start? Right here with these practical, wallet-friendly tip
 
 **Step 1: Find the Cheap Flight** Head to Alicante-Elche Airport (ALC), the gateway to the north (Jávea, Denia, Altea, Calpe, Moraira). Budget airlines like Ryanair, easyJet, Jet2, and Vueling are flying from UK airports (London, Bristol, Manchester, Liverpool, Birmingham) with one-way fares often dipping to £15–£30, and returns under £50–£80 in February. Use Skyscanner, Google Flights, or Kayak to compare—set price alerts, check mid-week dates (Tue–Thu are usually cheapest), and peek directly on the airline sites for hidden deals. Regional UK airports often offer the lowest fares.
 
-***SunSeaSangria Top Tip: Check Valencia Airport, sometimes they can be a lot cheaper.***
+{{< image-caption src="/images/img_8495.jpeg" >}}{{< /image-caption >}}
 
-{{< image-compare src1="/images/untitled-design.png" src2="/images/untitled-design.png" >}}
+***SunSeaSangria Top Tip: Check Valencia Airport, sometimes they can be a lot cheaper.***
 
 **Getting to the Northern Costa Blanca on a Budget (From the UK)**
 
@@ -43,8 +43,6 @@ Skip the expensive taxi rides from Alicante-Elche Airport (ALC), which can easil
 **Scenic & Relaxed Option: The TRAM** For a slower, more picturesque journey (if you're not rushed), take the TRAM from Alicante city center last stop, Denia. The tram hugs the coast with lovely views, takes up to 2–3.5 hours with a change at Benidorm, and costs €8–€12 total. Great if you want to soak in the scenery and stop off along the way—perfect for a laid-back arrival.
 
 {{< image-caption src="/images/2676.jpg" >}}{{< /image-caption >}}
-
-
 
 **\*SunSeaSangria Tips:** Hop on the Bus (C6) from the airport to Alicante, this takes 15 Minutes.*
 
