@@ -19,7 +19,6 @@ Here's your **2026 fiesta guide** for El Campello (dates based on confirmed loca
 * **July 16 (Thursday, local holiday): Fiestas de la Virgen del Carmen,** Fishermen's patron saint week: maritime processions with boats carrying the Virgin, flower offerings to the sea, masses, street feasts, concerts, and fireworks. Culminates with the emotional marinera procession and Salve by the water—seaside gratitude at its best.
 * **October 11–15 (approx., around mid-October):** Fiestas Mayores de Moros y Cristianos (in honour of Virgen de los Desamparados and Santa Teresa de Jesús) The town's biggest spectacle! Declared of tourist interest. Starts with evening acts on the 11th (like castle events or pregón), then the dramatic **Desembarco Moro** at dawn on the 12th (Moorish landing on Platja del Carrer la Mar, with battles and Christian defence), followed by parades of filaes, embassies by the Torre de la Illeta, mock combats, gunpowder, music bands, flower offerings, and a grand finale with fireworks. Peaks on the 15th (local holiday) with religious acts, redoble de campanas, and a magnificent castle of fireworks—colourful, historic, and thrilling.
 * **October 15 (local holiday): Festividad de Santa Teresa de Jesús.** Tied to the patronales: solemn masses, processions, and community celebrations—gratitude to the co-patron.
-* October 15 (local holiday): Festividad de Santa Teresa de Jesús. Tied to the patronales: solemn masses, processions, and community celebrations—gratitude to the co-patron.
 
   ***Other yearly highlights***
 
