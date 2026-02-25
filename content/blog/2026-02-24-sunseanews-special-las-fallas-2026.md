@@ -2,7 +2,7 @@
 title: "SunSeaNews Special: Las Fallas 2026"
 date: 2026-02-24T20:13:00.000+01:00
 draft: false
-series: through-the-looking-glass
+series: fiestas-sangria
 ---
 \
 **The Burning Carnival: Fallas 2026 in Glorious Chaos**
