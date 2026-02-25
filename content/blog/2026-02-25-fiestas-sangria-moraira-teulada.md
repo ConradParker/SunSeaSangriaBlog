@@ -4,8 +4,6 @@ date: 2026-02-25T09:00:00.000+01:00
 draft: false
 series: fiestas-sangria
 ---
-
-
 **Moraira-Teulada 2026: Fiestas That Blend Seaside Charm with Inland Tradition in the Northern Costa Blanca**
 
 Moraira and Teulada form one charming duo—Moraira hugs the sparkling Mediterranean with its yacht-filled marina, rocky coves, and relaxed vibe. At the same time, Teulada sits a short drive inland amid vineyards and olive groves, keeping that classic Valencian village feel. Together, they share a fiesta calendar that's intimate, authentic, and full of heart: no massive crowds like in bigger towns, but plenty of local pride, street dinners, fireworks, and traditions that feel genuinely lived-in.
@@ -59,9 +57,7 @@ July 29–30 (approx.): Fiestas de Els Sants de la Pedra (in Teulada's El Raval 
 * Outdoor dinners, masses, and lively nights—traditional and neighbourhood-focused.
 * Other yearly highlights
 * * Santa Catalina (late Nov, e.g., Nov 27–29): Parades and cultural events in Teulada.
-
   * Virgen del Carmen (mid-July): Fishermen's sea tributes in Moraira.
-
   * Smaller events: Festa del Moscatell (wine harvest vibes), Corpus Christi processions with dances, Christmas markets, and local ferias.
 
 Visitor tips for Moraira-Teulada fiestas 2026
@@ -74,3 +70,5 @@ Visitor tips for Moraira-Teulada fiestas 2026
 * Local eats: Fresh seafood in Moraira, arroz dishes, moscatel wine—perfect during fiestas.
 
 Moraira-Teulada's fiestas prove that the northern Costa Blanca's magic lies in its balance—sea and mountains, big energy and small-town warmth.
+
+{{< image-caption src="/images/img_8492.jpeg" >}}{{< /image-caption >}}
