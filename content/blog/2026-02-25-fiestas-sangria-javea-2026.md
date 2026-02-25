@@ -6,7 +6,6 @@ series: fiestas-sangria
 ---
 
 
-
 **Xàbia/Jávea 2026: Fiestas That Bring the Magic of Sea, Mountains, and Tradition to Life**
 
 Xàbia (or Jávea) is the northern Costa Blanca's picture-perfect gem—whitewashed old town streets tumbling down to golden beaches and the dramatic Montgó mountain watching over it all. Its fiestas capture that perfect blend: seafaring soul in the port, historic pride in the historic centre, and a joyful, family-driven energy that makes every celebration feel like a big village party.
@@ -24,14 +23,15 @@ Xàbia's calendar mixes winter warmth, spring fun, explosive summer highs, and a
 * **April/May: Fiestas en honor a Jesús Nazareno.** Around late April/early May—religious processions and community gatherings.
 * **June 13–24 (approx.): Fogueres de Sant Joan** Xàbia's summer blockbuster! Bonfires (fogueres), bull-running in the streets, parades, flower offerings, sports, discos, and the epic **Nit dels Focs** on June 23—fireworks synced to music over the sea. Culminates June 24 with mass, mascletà, float parade, and emotional burnings. Pure midsummer joy.
 * **July (third week, approx. mid-July): Moros y Cristianos** Spectacular battles! Vistosos desfiles of Moorish and Christian filaes, mock combats, gunpowder, drums, and parades through the historic centre and port. Colourful, loud, and deeply proud—don't miss the street energy.
-* **August 28 – September 8 (approx.): Festes en Honour a la Mare de Déu de Loreto.** Port fiesta at its best! Maritime processions with the Virgin's image on boats, flower offerings to the sea, fireworks, concerts, and street feasts. Día grande around September 8—celebrates the fishermen's patron with gratitude and seaside sparkle.
+* **August 28 – September 8 (approx.): Festes en Honour a la Mare de Déu de Loreto** Port fiesta at its best! Maritime processions with the Virgin's image on boats, flower offerings to the sea, fireworks, concerts, and street feasts. Día grande around September 8—celebrates the fishermen's patron with gratitude and seaside sparkle.
 
-  **Other yearly gems**
-* * Virgen del Carmen (mid-July): Boat processions and sea tributes.
+***Other yearly gems***
 
-  * Smaller events: International festivals, folk music, or food fairs scattered throughout the year.
+Virgen del Carmen (mid-July): Boat processions and sea tributes.
 
-  * Christmas/Nativity markets in December.
+Smaller events: International festivals, folk music, or food fairs scattered throughout the year.
+
+Christmas/Nativity markets in December.
 
 **Visitor tips for Xàbia fiestas 2026**
 
