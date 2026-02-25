@@ -4,9 +4,6 @@ date: 2026-02-25T09:30:00.000+01:00
 draft: false
 series: fiestas-sangria
 ---
-
-
-
 **Alicante 2026: Fiestas That Bring a Great City with a Great Vibe to Life in the Northern Costa Blanca**
 
 Alicante is the beating heart of the Costa Blanca—a lively, sun-soaked city with the stunning castle Santa Barbera overlooking the city, palm-lined promenades, sandy beaches, and an unbeatable buzz that mixes historic charm with modern energy. Its fiestas are legendary: the world-famous Hogueras de San Juan that turn the streets into a canvas of fire and satire, solemn Semana Santa processions, the colourful Moros y Cristianos in various barrios, and the massive Romería de la Santa Faz pilgrimage. These aren’t just events—they’re the soul of the city, where locals and visitors come together for fireworks, music, street feasts, and that special Alicante vibe of warmth, pride, and non-stop celebration.
@@ -41,3 +38,5 @@ Practical: Earplugs for fireworks, comfy shoes for walking/cobblestones, and sta
 Local eats: Turrón, fresh seafood, arroz a banda—abundant during fiestas.
 
 Alicante’s fiestas perfectly capture its great city with a great vibe—historic depth, seaside sparkle, and endless energy that make every visit unforgettable.
+
+{{< image-caption src="/images/img_8492.jpeg" >}}{{< /image-caption >}}
