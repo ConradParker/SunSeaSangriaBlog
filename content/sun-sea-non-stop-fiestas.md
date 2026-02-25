@@ -1,5 +1,5 @@
 ---
-title: Sun, Sea & Non-Stop Fiestas
+title: Fiestas Frenzy 2026
 date: 2026-02-25T07:58:00.000+01:00
 draft: false
 menu_weight: 10
