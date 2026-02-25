@@ -4,9 +4,6 @@ date: 2026-02-25T09:25:00.000+01:00
 draft: false
 series: fiestas-sangria
 ---
-
-
-
 **Villajoyosa (La Vila Joiosa) 2026: Fiestas That Bring Colourful History and Chocolate Charm to the Northern Costa Blanca**
 
 Villajoyosa—often called La Vila—is a delightful coastal gem in the northern Costa Blanca, famous for its brightly painted fishermen's houses along the beach, ancient Roman ruins, and world-class chocolate factories. Its fiestas are a perfect reflection of this vibrant personality: grand Moros y Cristianos with a unique seaside twist (including a dramatic Moorish landing at dawn), winter bonfires, and patronal celebrations that honour Santa Marta with parades, music, and community feasts.
@@ -44,3 +41,5 @@ Practical: Comfy shoes for walking, earplugs for fireworks/gunpowder, and sun pr
 Local treats: Famous Villajoyosa chocolate, fresh seafood, arroz a banda—perfect during fiestas.
 
 Villajoyosa's fiestas highlight the northern Costa Blanca's blend of history, colour, and seaside soul—making it a must-visit for anyone chasing authentic traditions.
+
+{{< image-caption src="/images/img_8492.jpeg" >}}{{< /image-caption >}}
