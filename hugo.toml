@@ -24,3 +24,4 @@ theme = 'paige'
   name = "Blog"
   url = "/blog/"
   weight = 20
+

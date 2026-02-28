@@ -61,54 +61,6 @@
             <div class="lead paige-row-tall text-center" id="paige-site-description">{{ . }}</div>
         {{ end }}
 
-        {{ if $menu }}
-            {{/* Build combined menu from config + pages with menu_weight */}}
-            {{ $menuItems := slice }}
-
-            {{/* Add items from site.Menus.main */}}
-            {{ range site.Menus.main }}
-                {{ $menuItems = $menuItems | append (dict "Name" .Name "URL" .URL "Weight" .Weight "IsPage" false) }}
-            {{ end }}
-
-            {{/* Add pages with menu_weight */}}
-            {{ range where site.RegularPages "Params.menu_weight" "!=" nil }}
-                {{ $menuItems = $menuItems | append (dict "Name" .Title "URL" .RelPermalink "Weight" .Params.menu_weight "IsPage" true) }}
-            {{ end }}
-
-            {{/* Sort by weight */}}
-            {{ $menuItems = sort $menuItems "Weight" }}
-
-            {{ if $menuItems }}
-                <nav class="navbar navbar-expand-md paige-row-tall" id="paige-site-menu">
-                    <div class="container-fluid justify-content-center">
-                        {{/* Hamburger button - visible on mobile */}}
-                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMenu" aria-controls="navbarMenu" aria-expanded="false" aria-label="Toggle navigation">
-                            <span class="navbar-toggler-icon"></span>
-                        </button>
-
-                        {{/* Collapsible menu */}}
-                        <div class="collapse navbar-collapse justify-content-center" id="navbarMenu">
-                            <ul class="navbar-nav text-center">
-                                {{ range $menuItems }}
-                                    {{ $menuPath := strings.TrimPrefix $basePath .URL }}
-
-                                    {{ $home := and (eq $menuPath "/") (eq $page.Section "") }}
-                                    {{ $menuMatch := and (ne $menuPath "/") (hasPrefix $pagePath $menuPath) }}
-                                    {{ $section := and (ne $menuPath "/") (hasPrefix $menuPath (printf "/%s/" $page.Section)) }}
-
-                                    {{ $active := or $home $menuMatch $section }}
-
-                                    <li class="nav-item">
-                                        <a {{ if $active }} aria-current="page" {{ end }} class="nav-link {{ if $active }} active fw-bold {{ end }}" href="{{ .URL }}" {{ with partial "paige/func-target.html" (dict "page" $page "url" .URL) }} target="{{ . }}" {{ end }}>{{ .Name | markdownify }}</a>
-                                    </li>
-                                {{ end }}
-                            </ul>
-                        </div>
-                    </div>
-                </nav>
-            {{ end }}
-        {{ end }}
-
         {{ with $breadcrumbs }}
             <nav aria-label="{{ i18n `paige_breadcrumbs` }}" class="paige-row-tall" id="paige-site-breadcrumbs">
                 <div class="d-flex justify-content-center">
@@ -127,4 +79,52 @@
 
         {{ partial "paige/func-include.html" (dict "name" "site-header-last%s.html" "page" $page) | safeHTML }}
     </header>
+
+    {{ if $menu }}
+        {{/* Build combined menu from config + pages with menu_weight */}}
+        {{ $menuItems := slice }}
+
+        {{/* Add items from site.Menus.main */}}
+        {{ range site.Menus.main }}
+            {{ $menuItems = $menuItems | append (dict "Name" .Name "URL" .URL "Weight" .Weight "IsPage" false) }}
+        {{ end }}
+
+        {{/* Add pages with menu_weight */}}
+        {{ range where site.RegularPages "Params.menu_weight" "!=" nil }}
+            {{ $menuItems = $menuItems | append (dict "Name" .Title "URL" .RelPermalink "Weight" .Params.menu_weight "IsPage" true) }}
+        {{ end }}
+
+        {{/* Sort by weight */}}
+        {{ $menuItems = sort $menuItems "Weight" }}
+
+        {{ if $menuItems }}
+            <nav class="navbar navbar-expand-md" id="paige-site-menu">
+                <div class="container-fluid justify-content-center">
+                    {{/* Hamburger button - visible on mobile */}}
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMenu" aria-controls="navbarMenu" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+
+                    {{/* Collapsible menu */}}
+                    <div class="collapse navbar-collapse justify-content-center" id="navbarMenu">
+                        <ul class="navbar-nav text-center">
+                            {{ range $menuItems }}
+                                {{ $menuPath := strings.TrimPrefix $basePath .URL }}
+
+                                {{ $home := and (eq $menuPath "/") (eq $page.Section "") }}
+                                {{ $menuMatch := and (ne $menuPath "/") (hasPrefix $pagePath $menuPath) }}
+                                {{ $section := and (ne $menuPath "/") (hasPrefix $menuPath (printf "/%s/" $page.Section)) }}
+
+                                {{ $active := or $home $menuMatch $section }}
+
+                                <li class="nav-item">
+                                    <a {{ if $active }} aria-current="page" {{ end }} class="nav-link {{ if $active }} active fw-bold {{ end }}" href="{{ .URL }}" {{ with partial "paige/func-target.html" (dict "page" $page "url" .URL) }} target="{{ . }}" {{ end }}>{{ .Name | markdownify }}</a>
+                                </li>
+                            {{ end }}
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        {{ end }}
+    {{ end }}
 {{ end }}

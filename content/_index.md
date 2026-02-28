@@ -32,6 +32,9 @@ menu_weight: 10
 
 ![](/images/480965564_10160337798746642_6644424404533892324_n.jpg "SunSeaSangria - Calpe View From Suitopia (SkyBar)")
 
+{{< quick-nav >}}
+
+{{< recent-posts >}}
 
 **Whether you’re already living the dream here in the Costa Blanca like a proper local, or planning your escape while scrolling through pics and dreaming of sandy toes and that salty Med breeze… pull up a lounger, grab an ice-cold sangria (or a proper cuppa!), and let’s dive in.**
 

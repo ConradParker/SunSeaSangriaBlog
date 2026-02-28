@@ -1,0 +1,65 @@
+{{- $count := .Get "count" | default 4 -}}
+{{- $pages := where site.RegularPages "Section" "blog" -}}
+{{- $pages = $pages.ByDate.Reverse -}}
+{{- $pages = first $count $pages -}}
+
+{{- $seriesColors := dict
+  "through-the-looking-glass" "#e67e22"
+  "red-tape-tears" "#c0392b"
+  "test-story" "#8e44ad"
+  "the-book-club" "#2980b9"
+  "sunseafoodie" "#27ae60"
+  "fiestas-sangria" "#d35400"
+  "sunseasmiles" "#f39c12"
+  "sss-town-guide" "#1abc9c"
+-}}
+
+{{- $seriesNames := dict
+  "through-the-looking-glass" "SunSeaNews"
+  "red-tape-tears" "Red Tape & Tears"
+  "test-story" "Paws & Mischief"
+  "the-book-club" "SunSeaBooks"
+  "sunseafoodie" "SunSeaFoodie"
+  "fiestas-sangria" "Fiestas & Sangria"
+  "sunseasmiles" "SunSeaSmiles"
+  "sss-town-guide" "Town Guide"
+-}}
+
+{{- $seriesEmojis := dict
+  "through-the-looking-glass" "📰"
+  "red-tape-tears" "📄"
+  "test-story" "🐾"
+  "the-book-club" "📚"
+  "sunseafoodie" "🍽️"
+  "fiestas-sangria" "🎉"
+  "sunseasmiles" "😊"
+  "sss-town-guide" "🗺️"
+-}}
+
+<section class="recent-posts">
+  <div class="recent-posts__header">
+    <h2 class="recent-posts__heading">Latest from the Blog</h2>
+    <a href="/blog/" class="recent-posts__view-all">View all posts &rarr;</a>
+  </div>
+  <div class="recent-posts__list">
+    {{- range $pages -}}
+      {{- $series := .Params.series | default "" -}}
+      {{- $color := index $seriesColors $series | default "#888" -}}
+      {{- $name := index $seriesNames $series | default $series -}}
+      {{- $emoji := index $seriesEmojis $series | default "📝" -}}
+      <a href="{{ .RelPermalink }}" class="recent-posts__item">
+        <div class="recent-posts__thumb" style="background-color: {{ $color }}20;">
+          <span class="recent-posts__thumb-emoji">{{ $emoji }}</span>
+        </div>
+        <div class="recent-posts__content">
+          {{- with $series -}}
+            <span class="recent-posts__badge" style="background-color: {{ $color }}; color: #fff;">{{ $name }}</span>
+          {{- end -}}
+          <time class="recent-posts__date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+          <h3 class="recent-posts__title">{{ .Title }}</h3>
+          <p class="recent-posts__excerpt">{{ .Summary | plainify | truncate 150 }}</p>
+        </div>
+      </a>
+    {{- end -}}
+  </div>
+</section>
