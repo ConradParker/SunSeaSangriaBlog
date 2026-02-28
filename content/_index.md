@@ -11,6 +11,21 @@ paige:
     disable_sections: true
   style: |
     #paige-page-content { text-align: center; }
+    body::before {
+      content: "";
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-image: url('/beach-background.jpeg');
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      opacity: 0.15;
+      z-index: -1;
+      pointer-events: none;
+    }
 menu_weight: 10
 ---
 🌞 Your Cheeky Costa Blanca Adventure Starts Here 🍷
