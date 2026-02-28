@@ -37,25 +37,23 @@
     <header id="paige-site-header">
         {{ partial "paige/func-include.html" (dict "name" "site-header-first%s.html" "page" $page) | safeHTML }}
 
-        {{/* Site Logo */}}
-        <div class="text-start mb-3" id="paige-site-logo">
-            <a href="{{ relLangURL `` }}">
+        <div class="site-header__brand" id="paige-site-brand">
+            <a href="{{ relLangURL `` }}" id="paige-site-logo">
                 {{- partial "paige/image.html" (dict
                     "alt" "Sun Sea Sangria"
                     "class" "img-fluid"
                     "loading" "eager"
                     "page" $page
                     "src" "/images/logo.jpg"
-                    "style" "max-height: 150px; width: auto;"
+                    "style" "max-height: 80px; width: auto;"
                 ) -}}
             </a>
+            {{ with $title }}
+                <div id="paige-site-title">
+                    <a href="{{ relLangURL `` }}">{{ . }}</a>
+                </div>
+            {{ end }}
         </div>
-
-        {{ with $title }}
-            <div class="display-1 fw-bold {{ if not (or $breadcrumbs $description $menu) }} paige-row-tall {{ end }} text-center" id="paige-site-title">
-                <a class="text-body text-decoration-none" href="{{ relLangURL `` }}">{{ . }}</a>
-            </div>
-        {{ end }}
 
         {{ with $description }}
             <div class="lead paige-row-tall text-center" id="paige-site-description">{{ . }}</div>
@@ -81,40 +79,20 @@
     </header>
 
     {{ if $menu }}
-        {{/* Build combined menu from config + pages with menu_weight */}}
-        {{ $menuItems := slice }}
-
-        {{/* Add items from site.Menus.main */}}
-        {{ range site.Menus.main }}
-            {{ $menuItems = $menuItems | append (dict "Name" .Name "URL" .URL "Weight" .Weight "IsPage" false) }}
-        {{ end }}
-
-        {{/* Add pages with menu_weight */}}
-        {{ range where site.RegularPages "Params.menu_weight" "!=" nil }}
-            {{ $menuItems = $menuItems | append (dict "Name" .Title "URL" .RelPermalink "Weight" .Params.menu_weight "IsPage" true) }}
-        {{ end }}
-
-        {{/* Sort by weight */}}
-        {{ $menuItems = sort $menuItems "Weight" }}
-
-        {{ if $menuItems }}
+        {{ with site.Menus.main }}
             <nav class="navbar navbar-expand-md" id="paige-site-menu">
                 <div class="container-fluid justify-content-center">
-                    {{/* Hamburger button - visible on mobile */}}
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMenu" aria-controls="navbarMenu" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
 
-                    {{/* Collapsible menu */}}
                     <div class="collapse navbar-collapse justify-content-center" id="navbarMenu">
                         <ul class="navbar-nav text-center">
-                            {{ range $menuItems }}
+                            {{ range . }}
                                 {{ $menuPath := strings.TrimPrefix $basePath .URL }}
-
                                 {{ $home := and (eq $menuPath "/") (eq $page.Section "") }}
                                 {{ $menuMatch := and (ne $menuPath "/") (hasPrefix $pagePath $menuPath) }}
                                 {{ $section := and (ne $menuPath "/") (hasPrefix $menuPath (printf "/%s/" $page.Section)) }}
-
                                 {{ $active := or $home $menuMatch $section }}
 
                                 <li class="nav-item">

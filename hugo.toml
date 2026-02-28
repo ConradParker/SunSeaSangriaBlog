@@ -2,6 +2,7 @@ baseURL = '/'
 languageCode = 'en-us'
 title = 'Sun Sea Sangria'
 theme = 'paige'
+copyright = '© 2025 Sun Sea Sangria. All rights reserved.'
 
 [markup]
   [markup.goldmark]
@@ -24,4 +25,14 @@ theme = 'paige'
   name = "Blog"
   url = "/blog/"
   weight = 20
+
+[[menu.main]]
+  name = "About Me"
+  url = "/about-me/"
+  weight = 30
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact-me/"
+  weight = 40
 
