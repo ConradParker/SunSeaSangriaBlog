@@ -38,7 +38,7 @@
         {{ partial "paige/func-include.html" (dict "name" "site-header-first%s.html" "page" $page) | safeHTML }}
 
         {{/* Site Logo */}}
-        <div class="text-center mb-3" id="paige-site-logo">
+        <div class="text-start mb-3" id="paige-site-logo">
             <a href="{{ relLangURL `` }}">
                 {{- partial "paige/image.html" (dict
                     "alt" "Sun Sea Sangria"
