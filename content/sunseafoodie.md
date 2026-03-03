@@ -36,6 +36,22 @@ Once the sun starts dipping and the sky turns that gorgeous pinky-orange, it’s
 
 {{< image-caption src="/images/513196288_10160766852101642_5303614460102755212_n.jpg" >}}View from Hotel Attico Restaurant{{< /image-caption >}}
 
+**Benidorm**
+
+* **D·Vora Restaurante**
+
+   (Plaça de Sant Jaume, 5) – Waterfront magic in chic, modern surrounds with stunning sea views from the terrace; dive into creative Mediterranean fusion like fresh seafood, grilled octopus, vibrant starters, and inventive mains – all beautifully presented with top-notch cocktails and friendly, attentive service that makes every visit feel special (around €20–80, highly rated for flavors and ambiance).
+
+* **Amigos Restaurant & Roof Terrace**
+
+   (C/de la Palma, 14) – Cozy Old Town gem with warm, family-like hospitality and a breezy rooftop terrace perfect for sunset sessions or private celebrations; feast on hearty international favorites, premium Galician steaks (including epic Tomahawk sharers), and great-value set menus from €25 for 2–3 courses – ideal for relaxed dinners, bottomless brunches, or group vibes with excellent service.
+
+* **Pistazi Gastro Lounge**
+
+   (Av. de Panamá, 1) – Fun, laid-back Venezuelan spot blending Latin flavors with a Mediterranean twist in a vibrant lounge setting; generous portions of crispy tequeños, juicy arepas, hearty costillas, patacones, and creative bites – super wallet-friendly (€10–20 range) with friendly staff, craft cocktails, and that perfect energy for sharing plates and toasting the night away.
+
+
+
 **Jávea**
 
 * **Hotel Ático** — cracking views over the port, especially at sunset. The food’s solid, the atmosphere relaxed — best to book ahead or you’ll be gutted when they’re full.
