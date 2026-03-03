@@ -10,6 +10,8 @@ Alicante is the beating heart of the Costa Blanca—a lively, sun-soaked city wi
 
 The Hogueras are the crown jewel, declared of International Tourist Interest, with giant monuments burned in a spectacular finale. Neighbourhood Moros y Cristianos add historic drama, while the Santa Faz romería draws thousands in a moving display of faith. In 2026, Alicante’s calendar pulses with tradition, from winter parades to summer bonfires and autumn battles—always lively, inclusive, and full of life.
 
+{{< image-caption src="/images/aafde207-066d-4df7-bc5f-7022753af4d1.jpg" >}}Fiestas & Sangria{{< /image-caption >}}
+
 ***Here’s your 2026 fiesta guide for Alicante (dates based on confirmed official calendars, local holidays, and recurring patterns; Hogueras centre on 20–24 June with San Juan on 24th, Santa Faz on 16 April—always check and verify on alicanteturisme.com, alacant.es, or hogueras.com for full programmes and updates).***
 
 * **January 6:** Cabalgata de Reyes Magos Three Kings arrive (often dramatically by sea or float), with a grand parade through the city tossing sweets to children—lights, floats, and magical excitement to launch the year.
