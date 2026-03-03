@@ -4,8 +4,6 @@ date: 2026-03-03T10:25:00.000+01:00
 draft: false
 series: through-the-looking-glass
 ---
-
-
 Hey there! Here's your fresh news roundup for this week (as of March 3, 2026) along the stunning Costa Blanca stretch from **Alicante** up to **Denia**, hitting all your spots: El Campello, Villajoyosa (La Vila Joiosa), Benidorm, Calpe, Moraira, Javea (Xàbia), Benissa, Teulada, and more – all wrapped in that classic **sun, sea, sangria** vibe. ☀️🌊🍷
 
 With all going on around the world, here's our little part of the world news on the beautiful Costa Blanca this week...
@@ -22,4 +20,4 @@ And the big picture? Alicante province (including Benidorm, Denia, and the north
 
 So pour that sangria, slip on the shades, and embrace it all – thrills by day, pure chill by night, under our forever-golden Costa Blanca sun. Stay sunny out there! 🌞🏖️
 
-{{< image-caption src="/images/your-paragraph-text.jpg" >}}{{< /image-caption >}}
+{{< image-caption src="/images/your-paragraph-text.jpg" >}}SunSeaNews{{< /image-caption >}}
