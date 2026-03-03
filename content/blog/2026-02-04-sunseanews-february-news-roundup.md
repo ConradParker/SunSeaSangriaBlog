@@ -10,7 +10,6 @@ Spain’s mixing bold moves with backlash and biblical weather—here’s the qu
 
 •  **Sánchez’s “No Socials Till 16” War** — PM Pedro Sánchez wants to ban under-16s from TikTok, Instagram & co., with real age checks and fines for dodgy platforms. Elon Musk called him a “tyrant” on X—classic billionaire vs. politician spat.
 
-
 •  **Half-Million “Legal Life” Upgrade** — Around 500,000 undocumented migrants/asylum seekers get regularised starting April—work rights, dignity, and keeping farms/hotels running. Mmmm let’s see how that goes down.
 
 •  **Weather Woes: Storm Leonardo Strikes** — Heavy rain, winds up to 90-95 km/h, flood risks, and orange/yellow alerts across the east (including Alicante province). Schools shut, evacuations elsewhere—Costa Blanca North’s getting gusty showers but hopefully not total washout by Saturday.
@@ -26,3 +25,7 @@ But **Saturday 7 Feb** steals the show: **Stage 4 of the Volta a la Comunitat Va
 *Jab:* If you’ve cursed cyclists hogging “your” roads… Saturday’s payback: watch pros suffer up Miserat while you sip cerveza roadside. ¡Ánimo! Best spots: Coll de Rates summit, Miserat, or lively Teulada-Moraira finish. TV: Eurosport/GCN+. Traffic heads-up—plan ahead or join the party.
 
 In short: progressive swings, rainy drama, and a pro-cycling spectacle right on your doorstep. Not all laughs, but paella’s hot, Carnival’s coming, and the bikes will bring the thrills. Fingers crossed the storm eases for Saturday!
+
+
+
+{{< image-caption src="/images/your-paragraph-text.jpg" >}}SunSeaNews{{< /image-caption >}}
