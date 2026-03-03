@@ -19,3 +19,7 @@ But let’s bring it closer to home with the latest from right here on the Costa
 •  **Benidorm Fest update** — With Spain reportedly opting out of Eurovision in 2026, the famous Benidorm Fest (the pre-selection event) is getting a new twist—it’s being positioned as an alternative music showcase with a fresh date and format to keep the spotlight on Spanish talent.
 
 •  **General weather and regional vibes** — The area has seen some chilly, windy spells lately with occasional rain alerts, typical for January. Tourism remains strong, with Alicante airport (serving the whole Costa Blanca) breaking records in 2025, largely thanks to UK visitors—expect the north to stay busy even in winter.
+
+
+
+{{< image-caption src="/images/your-paragraph-text.jpg" >}}SunSeaNews{{< /image-caption >}}
