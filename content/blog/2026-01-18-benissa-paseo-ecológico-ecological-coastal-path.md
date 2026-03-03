@@ -15,12 +15,10 @@ Kick off at Playa La Fossa, where the long golden sweep of sand basks under the 
 
 As you meander, the Mediterranean pines drape dappled shade and perfume the air with warm resin, wild thyme, and sun-kissed herbs. The sea stays front and centre, opening up in jaw-dropping panoramas, while secret rocky coves and inlets pop up like little invitations to pause. You'll pass by gems like **Cala Advocat** (quiet and pebbly with super-clear water), **Cala Llobella** (one of the wildest and 
 
-{{< image-caption src="/images/whatsapp-image-2026-02-20-at-09.24.41.jpeg" >}}Mandala La Fustera{{< /image-caption >}}
+{{< image-caption src="/images/whatsapp-image-2026-02-20-at-09.24.41.jpeg" >}}Mándala La Fustera{{< /image-caption >}}
 
 most beautiful, pure untouched vibes), **Cala Els Pinets** (small, rocky, and wonderfully serene with killer Peñón views), **Cala Les Bassetes** (near the little port, great for a quick coffee break or dip), and more hidden pockets of paradise tucked between the cliffs – each one begging for a splash in crystal shallows, a photo op, or just sitting to let the waves whisper while the world fades away.
 
 The full route from La Fossa to the northern Benissa coves (like around **Les Bassetes** or beyond to La Fustera) clocks in around 4–6 km one way, depending on how far you wander – a relaxed hour or two at a chilled pace, with barely any real climbing. Turn back whenever you fancy, or arrange a taxi at the far end for that effortless finish. And yes, **La Fustera** is a total dream spot along the way: a sweet mix of soft sand and pebbles, calm turquoise waters, beach-bar energy, and that laid-back feel where you can grab an ice-cold tinto de verano, sink into a lounger, and toast the sunset.
-
-
 
 This trail is the Costa Blanca at its most authentic and quiet – no tourist crowds, no rush, just fresh sea air, pine-scented shade, hidden coves galore, and views that make your heart do a little happy dance. It's the perfect escape to feel the region's soul up close, far from the busier spots. Lace up the comfy shoes, slather on the sunscreen, and go chase that golden glow – the coves, the sea, and that post-walk pitcher of sangria are all waiting. 🌞🏖️🍹
