@@ -4,8 +4,6 @@ date: 2026-01-06T13:09:00.000+01:00
 draft: false
 menu_weight: 30
 ---
-
-
 **¡Hola from the Costa Blanca! Let’s Chat 🌞🍹🐶**
 
 Hey there! Whether you're dreaming of your next sun-drenched escape along our stunning coastline, scheming a full move to Spain (I've got the red-tape sagas and victory stories to share), or just want to swap tales about secret coves, dog-friendly beaches, and the best bites in town... I'm all ears (and tail-wags)!
@@ -15,20 +13,6 @@ Drop me a message below—tell me your wildest "paws and mischief" doggie storie
 I reply personally (usually within a day or two, unless I'm out mid-sunset sangria chase with my own mischief-maker—kidding... mostly 😉).
 
 Can't wait to hear from you—grab that virtual sangria (and a treat for the pups), and let's swap stories, tips, tail-wags, and plans! 🐾☀️🏖️🍹
-
-Joanne xx
-
-
-
-
-
-
-
-
-
-
-
-
 
 Joanne xx
 
