@@ -1,6 +1,6 @@
 ---
 title: Senija Cross Walk with Views
-date: 2026-03-04T16:25:00.000+01:00
+date: 2026-03-04T17:07:00.000+01:00
 draft: false
 series: sunseatrails
 ---
@@ -17,8 +17,6 @@ We’re talking hidden-gem territory: terraced orchards straight out of a postca
 * Difficulty: Easy to moderate — decent trainers are plenty, no ropes or fancy clobber needed. Some rocky sections and a short scramble down to the cave if you go that way (easy enough, but mind your ankles).
 * Time: 1.5–2.5 hours at a gentle pace, longer if you're faffing about with photos or picnic stops.
 * Best time: Early doors or late afternoon to dodge the worst heat (spring and autumn are absolute winners; summer's fine if you start before the sun gets too hot). Clear days give cracking sea glimpses of Ibiza and Calpe Penon de Ifach looming in the distance.
-
-{{< image-compare src1="/images/135176225_10157334942541642_6774407569363281919_n.jpg" src2="/images/132526649_10157315403026642_3068555832095742196_n.jpg" caption1="The cross" caption2="Beautiful views all round" >}}
 
 **The route vibe:**
 
