@@ -1,5 +1,5 @@
 ---
-title: SunSeaTrails
+title: Sun Sea Trails
 date: 2026-03-04T13:00:00.000+01:00
 draft: false
 menu_weight: 90
