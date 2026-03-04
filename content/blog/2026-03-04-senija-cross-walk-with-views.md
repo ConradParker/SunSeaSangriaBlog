@@ -18,7 +18,7 @@ We’re talking hidden-gem territory: terraced orchards straight out of a postca
 * Time: 1.5–2.5 hours at a gentle pace, longer if you're faffing about with photos or picnic stops.
 * Best time: Early doors or late afternoon to dodge the worst heat (spring and autumn are absolute winners; summer's fine if you start before the sun gets too hot). Clear days give cracking sea glimpses of Ibiza and Calpe Penon de Ifach looming in the distance.
 
-{{< image-compare src1="/images/132526649_10157315403026642_3068555832095742196_n.jpg" src2="/images/image.jpg" caption1="Beautiful Views from the top" >}}
+{{< image-compare src1="/images/132526649_10157315403026642_3068555832095742196_n.jpg" src2="/images/_mg_5789.jpg" caption1="Beautiful Views from the top" caption2="And Down we go " >}}
 
 **The route vibe:**
 
