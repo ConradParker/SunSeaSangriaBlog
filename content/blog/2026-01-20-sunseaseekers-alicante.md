@@ -14,7 +14,7 @@ Perched right on the edge of the Mediterranean, Alicante feels like a city that�
 
 Down below, the **Explanada de España** is Alicante's postcard promenade — a wavy mosaic of red, blue, and cream marble tiles stretching along the seafront, lined with palm trees, street performers, and cafés. It's the perfect spot for a sunset stroll, people-watching, or grabbing an ice cream while the waves lap nearby. From here, you can wander straight into the **Old Town (Barrio de Santa Cruz)** — narrow, colourful streets with whitewashed houses, bougainvillaea spilling over walls, and that authentic, lived-in feel. Pop into the Basilica de Santa María for a quiet moment of history, or just lose yourself in the charm.
 
-{{< image-compare src1="/images/508467753_10160718494381642_7590144966576390749_n.jpg" src2="/images/img_8018.jpeg" caption2="Alicante Harbour" >}}
+{{< image-compare src1="/images/plaça-de-bous-d-alacant.png" src2="/images/img_8018.jpeg" caption2="Alicante Harbour" >}}
 
 Shopping in Alicante is a delight — head to the **central streets** around **Plaza de los Luceros** (the grand roundabout with its iconic fountain) for a mix of high-street favourites, local boutiques, and Spanish brands. Rambla de Méndez Núñez and Avenida Maisonnave are great for fashion, shoes, and accessories, while the **Mercado Central** (Central Market) is a must for food lovers — fresh seafood, local cheeses, olives, jamón, and seasonal fruits in a beautiful art nouveau building. It's vibrant, colourful, and perfect for grabbing picnic bits or souvenirs like saffron and turrón.
 
