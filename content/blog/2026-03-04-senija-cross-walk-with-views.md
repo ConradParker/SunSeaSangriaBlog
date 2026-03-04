@@ -4,7 +4,7 @@ date: 2026-03-04T17:07:00.000+01:00
 draft: false
 series: sunseatrails
 ---
-Welcome to another cheeky little gem in the SunSeaTrails series: the **Senija Cross Walk** (or La Creu de Senija, if you’re feeling properly local). This one's tucked away in the quiet village of Senija, just a short drive from Jávea, Moraira, or Altea — about 15-20 minutes inland in the Marina Alta. It's not one of those monster all-day epics; it's a proper punchy leg-stretcher with big views, ancient terraces, pine-scented paths, and a sneaky cave detour that adds a bit of bandit-history intrigue. Perfect for when you fancy something less coastal and more "blimey, look at that valley patchwork."
+Welcome to another cheeky little gem in the Sun Sea Hikes & Trails series: the **Senija Cross Walk** (or La Creu de Senija, if you’re feeling properly local). This one's tucked away in the quiet village of Senija, just a short drive from Jávea, Moraira, or Altea — about 15-20 minutes inland in the Marina Alta. It's not one of those monster all-day epics; it's a proper punchy leg-stretcher with big views, ancient terraces, pine-scented paths, and a sneaky cave detour that adds a bit of bandit-history intrigue. Perfect for when you fancy something less coastal and more "blimey, look at that valley patchwork."
 
 We’re talking hidden-gem territory: terraced orchards straight out of a postcard, dry-stone walls (those UNESCO-worthy bancals), wild herbs underfoot, and a metal cross perched high enough to make you feel like you've earned that extra-large tinto de verano (or a cheeky cana) back in the village.
 
