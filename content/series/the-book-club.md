@@ -1,11 +1,11 @@
 ---
-title: SunSeaBooks
+title: Sun Sea Books
 date: 2026-01-15T16:26:00.000+01:00
 draft: false
 image: ""
 menu_weight: 10
-nav_emoji: "📚"
-nav_desc: "Book chats over vino"
+nav_emoji: 📚
+nav_desc: Book chats over vino
 nav_color: "#2980b9"
 nav_weight: 40
 ---
