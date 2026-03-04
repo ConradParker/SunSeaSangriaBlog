@@ -1,53 +1,23 @@
+{{- $seriesPages := where site.RegularPages "Section" "series" -}}
+{{- $sorted := sort $seriesPages ".Params.nav_weight" "asc" -}}
+
 <section class="quick-nav">
   <p class="quick-nav__heading">Explore Sun Sea Sangria</p>
   <div class="quick-nav__grid">
-    <a href="/series/through-the-looking-glass/" class="quick-nav__card" style="--card-color: #e67e22;">
-      <span class="quick-nav__emoji">📰</span>
-      <div class="quick-nav__text">
-        <span class="quick-nav__label">SunSeaNews</span>
-        <span class="quick-nav__desc">Weekly Costa Blanca updates</span>
-      </div>
-      <span class="quick-nav__arrow">&rsaquo;</span>
-    </a>
-    <a href="/series/red-tape-tears/" class="quick-nav__card" style="--card-color: #c0392b;">
-      <span class="quick-nav__emoji">📄</span>
-      <div class="quick-nav__text">
-        <span class="quick-nav__label">Red Tape &amp; Tears</span>
-        <span class="quick-nav__desc">Paperwork help &amp; guides</span>
-      </div>
-      <span class="quick-nav__arrow">&rsaquo;</span>
-    </a>
-    <a href="/series/test-story/" class="quick-nav__card" style="--card-color: #8e44ad;">
-      <span class="quick-nav__emoji">🐾</span>
-      <div class="quick-nav__text">
-        <span class="quick-nav__label">Paws &amp; Mischief</span>
-        <span class="quick-nav__desc">Snoopy tales &amp; memories</span>
-      </div>
-      <span class="quick-nav__arrow">&rsaquo;</span>
-    </a>
-    <a href="/series/the-book-club/" class="quick-nav__card" style="--card-color: #2980b9;">
-      <span class="quick-nav__emoji">📚</span>
-      <div class="quick-nav__text">
-        <span class="quick-nav__label">SunSeaBooks</span>
-        <span class="quick-nav__desc">Book chats over vino</span>
-      </div>
-      <span class="quick-nav__arrow">&rsaquo;</span>
-    </a>
-    <a href="/sunseafoodie/" class="quick-nav__card" style="--card-color: #27ae60;">
-      <span class="quick-nav__emoji">🍽️</span>
-      <div class="quick-nav__text">
-        <span class="quick-nav__label">SunSeaFoodie</span>
-        <span class="quick-nav__desc">Local food &amp; recipes</span>
-      </div>
-      <span class="quick-nav__arrow">&rsaquo;</span>
-    </a>
-    <a href="/series/fiestas-sangria/" class="quick-nav__card" style="--card-color: #d35400;">
-      <span class="quick-nav__emoji">🎉</span>
-      <div class="quick-nav__text">
-        <span class="quick-nav__label">Fiestas &amp; Sangria</span>
-        <span class="quick-nav__desc">Events &amp; celebrations</span>
-      </div>
-      <span class="quick-nav__arrow">&rsaquo;</span>
-    </a>
+    {{- range $sorted -}}
+      {{- $emoji := .Params.nav_emoji | default "📝" -}}
+      {{- $desc := .Params.nav_desc | default "" -}}
+      {{- $color := .Params.nav_color | default "#888" -}}
+      <a href="{{ .RelPermalink }}" class="quick-nav__card" style="--card-color: {{ $color }};">
+        <span class="quick-nav__emoji">{{ $emoji }}</span>
+        <div class="quick-nav__text">
+          <span class="quick-nav__label">{{ .Title }}</span>
+          {{- with $desc -}}
+            <span class="quick-nav__desc">{{ . }}</span>
+          {{- end -}}
+        </div>
+        <span class="quick-nav__arrow">&rsaquo;</span>
+      </a>
+    {{- end -}}
   </div>
 </section>

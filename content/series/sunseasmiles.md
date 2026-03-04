@@ -3,6 +3,10 @@ title: "SunSeaSmiles "
 date: 2026-01-23T11:49:00.000+01:00
 draft: false
 menu_weight: 10
+nav_emoji: "😊"
+nav_desc: "Holiday moments & smiles"
+nav_color: "#f39c12"
+nav_weight: 70
 ---
 **Introducing SunSeaSmiles! 🌴😄🍹**
 

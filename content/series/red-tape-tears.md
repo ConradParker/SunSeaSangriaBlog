@@ -3,6 +3,10 @@ title: Red Tape & Tears
 date: 2026-02-05T08:50:00.000+01:00
 draft: false
 menu_weight: 10
+nav_emoji: "📄"
+nav_desc: "Paperwork help & guides"
+nav_color: "#c0392b"
+nav_weight: 20
 ---
 
 

@@ -4,6 +4,10 @@ date: 2026-01-15T16:26:00.000+01:00
 draft: false
 image: ""
 menu_weight: 10
+nav_emoji: "📚"
+nav_desc: "Book chats over vino"
+nav_color: "#2980b9"
+nav_weight: 40
 ---
 **¡Bienvenidos** to SunSeaBooks – your sunny, no-pressure virtual book club that mixes great stories with a splash of Mediterranean magic! 🌞🍹
 

@@ -4,6 +4,10 @@ date: 2026-02-25T08:36:00.000+01:00
 draft: false
 image: /images/img_8483.jpeg
 menu_weight: 10
+nav_emoji: "🎉"
+nav_desc: "Events & celebrations"
+nav_color: "#d35400"
+nav_weight: 50
 ---
 **Where the Fiestas Come From – And Why They Still Set the Northern Costa Blanca Alight**
 

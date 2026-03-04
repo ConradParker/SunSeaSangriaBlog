@@ -27,6 +27,26 @@ collections:
         widget: "number"
         required: false
         hint: "Home=10, Blog=20. Set 30+ to appear after Blog."
+      - label: "Nav Card Emoji"
+        name: "nav_emoji"
+        widget: "string"
+        required: false
+        hint: "Emoji shown on the homepage Explore card (e.g. 📰, 🎉, 📚)"
+      - label: "Nav Card Description"
+        name: "nav_desc"
+        widget: "string"
+        required: false
+        hint: "Short description shown on the homepage Explore card"
+      - label: "Nav Card Colour"
+        name: "nav_color"
+        widget: "string"
+        required: false
+        hint: "Hex colour for the card accent (e.g. #e67e22)"
+      - label: "Nav Card Order"
+        name: "nav_weight"
+        widget: "number"
+        required: false
+        hint: "Controls display order on homepage (lower numbers appear first)"
       - { label: "Body", name: "body", widget: "markdown", hint: "Introduction to this story series" }
 
   - name: "blog"
