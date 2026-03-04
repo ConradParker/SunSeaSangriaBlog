@@ -17,6 +17,8 @@ But why do these traditional towns still throw themselves into fiestas with such
 
 ***Because they’re the glue that holds everything together.***
 
+{{< image-caption src="/images/aafde207-066d-4df7-bc5f-7022753af4d1.jpg" >}}Fiestas Benissa{{< /image-caption >}}
+
 For locals, it’s a precious chance to reconnect—with neighbours, grandparents, children—all in one glorious, noisy, glitter-dusted week. The whole town pitches in: from toddlers in their first costumes to abuelas cooking mountains of paella for street feasts. It’s where young people learn the old dances, where family stories are retold, and where everyone remembers they belong to something far bigger than themselves.
 
 And honestly? The fiestas are brilliant for the soul of these places. In an era when so many coastal spots risk becoming cookie-cutter holiday resorts, these celebrations keep the authentic Spanish character burning bright. They draw families back from the cities, pack the bars and restaurants, and remind every visitor that behind the sunbeds and sangria stands a warm, proud, centuries-old community.
