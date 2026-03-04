@@ -5,7 +5,7 @@ draft: false
 description: The Chief Territory Marker
 series: test-story
 ---
-It was late July, my son’s birthday, and the apartment was buzzing with laughter and excitement. We’d spent the previous week on a full doggie shopping spree: the fluffiest bed money could buy, a shiny bowl and a lovely new collar and too many toys. We were equal parts thrilled and nervous—this tiny black-and-white tornado was about to crash-land into our lives.
+It was late July, my son’s birthday, and the apartment was buzzing with laughter and excitement. We’d spent the previous week on a full doggie shopping spree: the fluffiest bed money could buy, a shiny bowl, a lovely new collar and too many toys. We were equal parts thrilled and nervous—this tiny black-and-white tornado was about to crash-land into our lives.
 
 The doorbell rang. In burst Snoopy: a wriggling bundle of pure chaos wrapped in fur. He hit the floor like he owned the place, immediately launching a full inspection tour with the enthusiasm of a tiny real-estate agent. Sniff sniff, approve, claim—repeat.
 
@@ -27,4 +27,4 @@ Welcome to the family, you wee-marking menace. We had no idea what we were in fo
 
 © Joanne Parker 2026
 
-{{< image-caption src="/images/img_8419.jpeg" >}}The Great Puddle Mystery : Paws and Mischief {{< /image-caption >}}
+{{< image-caption src="/images/img_8419.jpeg" >}}The Great Puddle Mystery : Paws and Mischief{{< /image-caption >}}
