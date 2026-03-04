@@ -8,7 +8,7 @@ Welcome to another cheeky little gem in the SunSeaTrails series: the **Senija Cr
 
 We’re talking hidden-gem territory: terraced orchards straight out of a postcard, dry-stone walls (those UNESCO-worthy bancals), wild herbs underfoot, and a metal cross perched high enough to make you feel like you've earned that extra-large tinto de verano (or a cheeky cana) back in the village.
 
-{{< image-compare src1="/images/418180846_10159274087136642_5185954022180218685_n.jpg" src2="/images/img_5758.jpg" caption1="Senija located just behind Benissa " caption2="Missy loving the walks in Senija Woodland" >}}
+{{< image-compare src1="/images/418180846_10159274087136642_5185954022180218685_n.jpg" src2="/images/120053797_10157127205626642_7071410893907745787_n.jpg" caption1="Senija located just behind Benissa " caption2="I found it" >}}
 
 **Quick stats (for the classic circular route to the Cross, with optional cave add-on):**
 
