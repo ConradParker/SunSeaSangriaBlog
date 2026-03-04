@@ -93,7 +93,7 @@ Calpe’s seafronts and Pueblo are rammed with great places — impossible to li
 * **Capri** — seafood lovers’ dream. Fresh, simple, and spot-on.
 * **Taco de Paco** — my personal favourite. Happiness wrapped in tortillas — proper Mexican street-food vibes that never fail to put a smile on your face.
 
-  {{< image-caption src="/images/img_8355.jpeg" >}}{{< /image-caption >}}
+  {{< image-caption src="/images/img_8355.jpeg" >}}Steak Nights {{< /image-caption >}}
 
 
 
