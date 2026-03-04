@@ -38,6 +38,8 @@ Then loop downhill — steeper in spots, crossing under the AP-7 via a tunnel (b
 * **Snacks/backpack:** Water (1–1.5L each in the warmth), hat, suncream, maybe a sarnie or fruit for the top. No cafes midway, but Senija's got a couple of cracking bars in the square for a cold beer, sangria, or tapa to toast those glowing calves.
 * **After-hike rewards:** Chill in the village plaza with a drink, or zip back to the coast for beach time. If you're peckish, the local grub's simple but spot-on.
 
+  {{< image-caption src="/images/af8580b6-08fe-4528-bd04-79bafd0efc6b.jpg" >}}{{< /image-caption >}}
+
 It's one of those walks that leaves you with sandy toes optional, but lungs full of fresh air, calves nicely worked, and stories to swap over tapas. Life here isn't just lounging (though we love a good lounger moment) — it's getting out, breathing it deep, and coming home grinning.
 
 So grab your water bottle, slap on the factor 50, and come along for the walk. The inland trails are calling — and they're far too pretty to ignore.
