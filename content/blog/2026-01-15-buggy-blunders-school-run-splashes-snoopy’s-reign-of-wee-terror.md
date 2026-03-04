@@ -10,7 +10,7 @@ The summer flew by in a blur of apartment clean-ups, heroic potty-training attem
 
 My daughter’s school was out on the outskirts of Villajoyosa (you know, that gorgeous, colourful town on the Costa Blanca). Every day, she caught the bus from Main Street. Picture the scene: a parade of Spanish mammas and dads rolling up with their pristine buggies, with that effortless Mediterranean vibe. And then there’s me—buggy in one hand, enthusiastic dog on the lead in the other, armed with an industrial-sized pack of baby wipes, disinfectant spray, and pure determination.
 
-The other mums? They gave me the classic side-eye: “Keep that furry menace away from our spotless buggies, por favor.” And honestly? I couldn’t blame them.
+The other mums? They gave me the classic side-eye: “Keep that furry menace away from our spotless buggies, por favour.” And honestly? I couldn’t blame them.
 
 Because on Day One—the very first morning—we made an unforgettable entrance. My little four-legged troublemaker struts up, spots a particularly fancy buggy, lifts his leg like he’s claiming territory in the most dramatic way possible… and unleashes. Right there. In front of everyone. A perfect golden arc. The poor dad attached to that buggy froze. I froze. The whole bus stop froze.
 
