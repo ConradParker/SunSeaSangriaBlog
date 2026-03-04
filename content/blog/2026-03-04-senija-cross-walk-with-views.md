@@ -30,6 +30,8 @@ Fancy a bit more adventure? Detour to **Cova de la Garganta** (the Throat Cave, 
 
 Then loop downhill — steeper in spots, crossing under the AP-7 via a tunnel (bit of an odd contrast to the rural peace), through more terraces and vineyards, back to the village. Paths are mostly straightforward, but a quick check on Wikiloc (search "La Creu de Senija" or "Senija Cross and Cave") sorts any wobbles.
 
+{{< image-compare src1="/images/img_8505.jpeg" src2="/images/img_8462.jpeg" >}}
+
 **Honest tips from the trail:**
 
 * **Parking:** Free and easy in the village centre or near the church — arrive early at weekends to bag a spot.
@@ -38,7 +40,7 @@ Then loop downhill — steeper in spots, crossing under the AP-7 via a tunnel (b
 * **Snacks/backpack:** Water (1–1.5L each in the warmth), hat, suncream, maybe a sarnie or fruit for the top. No cafes midway, but Senija's got a couple of cracking bars in the square for a cold beer, sangria, or tapa to toast those glowing calves.
 * **After-hike rewards:** Chill in the village plaza with a drink, or zip back to the coast for beach time. If you're peckish, the local grub's simple but spot-on.
 
-  {{< image-caption src="/images/img_8508.jpeg" >}}Senija Cross {{< /image-caption >}}
+  {{< image-caption src="/images/img_8508.jpeg" >}}You made it, Senija Cross {{< /image-caption >}}
 
 It's one of those walks that leaves you with sandy toes optional, but lungs full of fresh air, calves nicely worked, and stories to swap over tapas. Life here isn't just lounging (though we love a good lounger moment) — it's getting out, breathing it deep, and coming home grinning.
 
