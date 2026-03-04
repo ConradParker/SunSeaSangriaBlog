@@ -5,6 +5,7 @@ draft: false
 menu_weight: 80
 nav_emoji: 🍝
 nav_desc: Our Favourite Restaurants in the Costa Blanca
+nav_color: "68"
 ---
 
 
