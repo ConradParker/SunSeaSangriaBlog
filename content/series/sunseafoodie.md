@@ -4,6 +4,7 @@ date: 2026-03-04T12:21:00.000+01:00
 draft: false
 menu_weight: 80
 nav_emoji: 🍝
+nav_desc: SunSeaFoodie
 ---
 
 
