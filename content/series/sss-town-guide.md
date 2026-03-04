@@ -1,5 +1,5 @@
 ---
-title: Sun Sea Towns
+title: Sun Sea Seekers
 date: 2026-01-15T18:24:00.000+01:00
 draft: false
 menu_weight: 10
