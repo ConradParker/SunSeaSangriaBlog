@@ -14,7 +14,7 @@ If there's one lump of rock that defines Calpe (and probably half the Costa Blan
 
 This isn't your gentle seaside stroll. It's a proper hike with a bit of everything: shady pine paths, a spooky tunnel, rocky scrambles, and views that'll make you forget how much your calves are complaining. But the payoff? Panoramic stunners over Calpe's twin beaches, the Med sparkling like it's been Photoshopped, and (on a clear day) glimpses all the way to Ibiza or Benidorm's skyline. Worth every sweaty step.
 
-{{< image-caption src="/images/638283292_10161747733316642_1875745282151012912_n.jpg" >}}Peñón de Ifach{{< /image-caption >}}
+{{< image-caption src="/images/2827.jpg" >}}Peñón de Ifach{{< /image-caption >}}
 
 **Quick Stats at a Glance**
 
