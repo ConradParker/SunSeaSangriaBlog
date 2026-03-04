@@ -74,7 +74,7 @@ Denia’s got so many brilliant choices it’s hard to narrow down, but these th
 Calpe’s seafronts and Pueblo are rammed with great places — impossible to list them all — but these are the ones we keep returning to:
 
 * **Patio de la Fuente** — beautiful setting, three-course menu, and food that’s always a treat. Proper special-occasion feel.
-* **Bambero** — seafront stunner for that extra-special meal. Consistently brilliant.
+* **SeiteLunas** — located behind the Arenal Bol - for that extra-special meal. Consistently brilliant.
 * **Capri** — seafood lovers’ dream. Fresh, simple, and spot-on.
 * **Taco de Paco** — my personal favourite. Happiness wrapped in tortillas — proper Mexican street-food vibes that never fail to put a smile on your face.
 
