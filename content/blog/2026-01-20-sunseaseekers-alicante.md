@@ -18,6 +18,10 @@ Down below, the **Explanada de España** is Alicante's postcard promenade — a 
 
 Shopping in Alicante is a delight — head to the **central streets** around **Plaza de los Luceros** (the grand roundabout with its iconic fountain) for a mix of high-street favourites, local boutiques, and Spanish brands. Rambla de Méndez Núñez and Avenida Maisonnave are great for fashion, shoes, and accessories, while the **Mercado Central** (Central Market) is a must for food lovers — fresh seafood, local cheeses, olives, jamón, and seasonal fruits in a beautiful art nouveau building. It's vibrant, colourful, and perfect for grabbing picnic bits or souvenirs like saffron and turrón.
 
+{{< image-caption src="/images/img_8131.jpeg" >}}{{< /image-caption >}}
+
 And the restaurants? Alicante knows how to eat. The Old Town and Explanada area is packed with spots for tapas, fresh seafood, and rice dishes (arroz a banda or paella Valenciana style). Look for places serving **caldero** (fish rice stew) or grilled catches of the day — many terraces overlook the sea or marina for that ultimate "sangria with a view" moment. Whether you're after a casual tapa crawl in the back streets or a relaxed lunch by the water, the city's food scene is fresh, flavourful, and full of that warm Spanish hospitality.
+
+{{< image-caption src="/images/image-4-.jpg" >}}{{< /image-caption >}}
 
 Alicante isn't just a stopover — it's a city that invites you to slow down, soak up the sun, and enjoy the simple pleasures: a coffee on the Explanada, a wander through the castle ruins, a plate of tapas as the sun dips. It's got that effortless charm that makes you want to stay longer, book another round, and just breathe it all in. If you've got a favourite hidden corner or terrace in Alicante, drop it below — let's swap stories and keep the Costa Blanca magic going! 🏰🍤🍹
