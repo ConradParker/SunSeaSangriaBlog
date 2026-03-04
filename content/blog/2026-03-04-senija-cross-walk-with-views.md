@@ -30,7 +30,7 @@ Fancy a bit more adventure? Detour to **Cova de la Garganta** (the Throat Cave, 
 
 Then loop downhill — steeper in spots, crossing under the AP-7 via a tunnel (bit of an odd contrast to the rural peace), through more terraces and vineyards, back to the village. Paths are mostly straightforward, but a quick check on Wikiloc (search "La Creu de Senija" or "Senija Cross and Cave") sorts any wobbles.
 
-{{< image-compare src1="/images/img_8505.jpeg" src2="/images/img_8462.jpeg" >}}
+{{< image-compare src1="/images/img_8505.jpeg" src2="/images/img_8462.jpeg" caption1="Rocky paths along the way" caption2="Follow the signs, you will be fine" >}}
 
 **Honest tips from the trail:**
 
