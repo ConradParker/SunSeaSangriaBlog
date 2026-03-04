@@ -92,3 +92,13 @@ Calpe’s seafronts and Pueblo are rammed with great places — impossible to li
 * **Bambero** — seafront stunner for that extra-special meal. Consistently brilliant.
 * **Capri** — seafood lovers’ dream. Fresh, simple, and spot-on.
 * **Taco de Paco** — my personal favourite. Happiness wrapped in tortillas — proper Mexican street-food vibes that never fail to put a smile on your face.
+
+  {{< image-caption src="/images/img_8355.jpeg" >}}{{< /image-caption >}}
+
+
+
+These restaurants are the ones that make evenings in the North feel like a permanent holiday — good food, good views, and good company (or just a quiet table for two). Prices stay sensible (sometimes) portions are generous, and the welcome is always warm.
+
+Drop your recommendations in the comments, tell me why you love them (the views, the value, the owner who remembers your order...), and we'll build the ultimate go-to guide together. Your turn, amigos — what's on your plate? 🍹
+
+¡Buenas noches y buen provecho!
