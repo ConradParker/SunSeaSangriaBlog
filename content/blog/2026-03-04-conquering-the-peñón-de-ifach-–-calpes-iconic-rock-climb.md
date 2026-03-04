@@ -14,9 +14,13 @@ If there's one lump of rock that defines Calpe (and probably half the Costa Blan
 
 This isn't your gentle seaside stroll. It's a proper hike with a bit of everything: shady pine paths, a spooky tunnel, rocky scrambles, and views that'll make you forget how much your calves are complaining. But the payoff? Panoramic stunners over Calpe's twin beaches, the Med sparkling like it's been Photoshopped, and (on a clear day) glimpses all the way to Ibiza or Benidorm's skyline. Worth every sweaty step.
 
+{{< image-compare src1="/images/2856.jpg" src2="/images/2825.jpg" caption1="Looking up to the top of the rock" caption2="The sign taking you to the back of the rock" >}}
+
 **Quick Stats at a Glance**
 
 **Distance**: About 5 km round trip (out-and-back) **Time**: 2.5–4 hours, depending on your pace, photo stops, and how long you linger at the top **Difficulty**: Moderate to challenging — easy peasy up to the tunnel, then rocky and steep (some hands-on bits, chains in places for grip). Not for little ones (under 18s not allowed past the tunnel), and if you've dodgy knees or vertigo, maybe give the summit a miss. **Elevation gain**: Around 300 m **Best time**: Early morning (beat the heat and crowds) or late afternoon. Avoid midday summer scorchers — this rock turns into an oven. Spring/autumn are golden. **Dog-friendly?** Sadly, no — not allowed in the park. Leave the pups at home for this one.
+
+{{< image-compare src1="/images/2827.jpg" src2="/images/whatsapp-image-2026-03-04-at-16.04.22.jpeg" caption1="Lets begin" caption2="Always a dance from the lovable seagulls " >}}
 
 **How to Get There & Park** Head to the **Parc Natural del Penyal d'Ifach** visitor centre (just north of Calpe's old town, off Avenida de la Generalitat). Free parking at the base (gets busy, so arrive early). If it's full, street parking nearby or a short walk from town.
 
