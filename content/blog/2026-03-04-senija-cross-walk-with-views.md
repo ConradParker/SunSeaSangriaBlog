@@ -24,7 +24,7 @@ Kick off from the heart of Senija — usually the Plaça de l'Ajuntament or near
 
 You wind through those gorgeous ancient terraces — olives, vines, almonds, the lot — with old rural ruins dotted about for that proper historic feel. The climb's steady, scented with pine and thyme, lizards scuttling away as you go. Before long, you pop out at **La Creu de Senija** (around 405 m) — a simple cross with knockout 360° views over the Gorgos valley, Senija nestled below like a toy village, rolling hills, and on a belting day, the Mediterranean twinkling far off with Montgó playing the big boss in the background. Proper "camera full of views" moment — slap on the factor 50 and soak it in.
 
-{{< image-compare src1="/images/47396807_10155533585121642_3133861903009316864_n.jpg" src2="/images/435321175_10159386626156642_8276169851142221092_n.jpg" caption1="The Cross " >}}
+{{< image-compare src1="/images/471382638_10160193418271642_1496862340486782343_n.jpg" src2="/images/435321175_10159386626156642_8276169851142221092_n.jpg" caption1="Where do we go" >}}
 
 Fancy a bit more adventure? Detour to **Cova de la Garganta** (the Throat Cave, once a hideout for 19th-century bandits — imagine the stories!). It's a short, scrambly drop down from the ridge (follow the obvious path, watch your footing on loose bits), leading into a cool, atmospheric cave with an old altar and quirky remnants. Respect the place — some folks leave little offerings — and enjoy the ridge views on the way back up.
 
