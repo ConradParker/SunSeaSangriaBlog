@@ -34,3 +34,18 @@ Living here, I've found my go-to spots that nail both the authentic Spanish vibe
 **Calpe**: **Arte** —simple, friendly, and does a cracking tostada con bacon & Queso (my not-so-healthy go-to) for that mid-morning fuel-up.
 
 {{< image-caption src="/images/img_8272.jpeg" >}}Lovely Views over to Calpe  - Casa Vital Altea{{< /image-caption >}}
+
+
+
+
+
+**Sunset Sessions: My Go-To Evening Spots in Costa Blanca North** 🌅🍤🥂
+
+Once the sun starts dipping and the sky turns that gorgeous pinky-orange, it’s time for cena — late, laid-back, and full of sharing plates, fresh seafood, and a glass (or three) of something nice. These are the places that my friends enjoy going in our patch — lovely places that feel right for expat life.
+
+
+
+
+
+
+{{< image-caption src="/images/513196288_10160766852101642_5303614460102755212_n-1-.jpg" >}}View from Hotel Attico Javea{{< /image-caption >}}
