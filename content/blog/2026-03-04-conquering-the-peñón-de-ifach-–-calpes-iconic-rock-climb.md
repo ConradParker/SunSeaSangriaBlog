@@ -4,9 +4,6 @@ date: 2026-03-04T15:27:00.000+01:00
 draft: false
 series: sunseatrails
 ---
-
-
-
 🌞🥾 (The one that makes you feel like you've earned that extra tapa or cana)
 
 Hello, trail mates!
@@ -22,6 +19,8 @@ This isn't your gentle seaside stroll. It's a proper hike with a bit of everythi
 **Quick Stats at a Glance**
 
 **Distance**: About 5 km round trip (out-and-back) **Time**: 2.5–4 hours, depending on your pace, photo stops, and how long you linger at the top **Difficulty**: Moderate to challenging — easy peasy up to the tunnel, then rocky and steep (some hands-on bits, chains in places for grip). Not for little ones (under 18s not allowed past the tunnel), and if you've dodgy knees or vertigo, maybe give the summit a miss. **Elevation gain**: Around 300 m **Best time**: Early morning (beat the heat and crowds) or late afternoon. Avoid midday summer scorchers — this rock turns into an oven. Spring/autumn are golden. **Dog-friendly?** Sadly, no — not allowed in the park. Leave the pups at home for this one.
+
+{{< image-caption src="/images/2856.jpg" >}}Looking up to the top of the rock{{< /image-caption >}}
 
 **How to Get There & Park** Head to the **Parc Natural del Penyal d'Ifach** visitor centre (just north of Calpe's old town, off Avenida de la Generalitat). Free parking at the base (gets busy, so arrive early). If it's full, street parking nearby or a short walk from town.
 
