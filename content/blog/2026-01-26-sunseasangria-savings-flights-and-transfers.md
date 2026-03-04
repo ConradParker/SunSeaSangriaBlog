@@ -42,8 +42,6 @@ Skip the expensive taxi rides from Alicante-Elche Airport (ALC), which can easil
 
 **Scenic & Relaxed Option: The TRAM** For a slower, more picturesque journey (if you're not rushed), take the TRAM from Alicante city center last stop, Denia. The tram hugs the coast with lovely views, takes up to 2–3.5 hours with a change at Benidorm, and costs €8–€12 total. Great if you want to soak in the scenery and stop off along the way—perfect for a laid-back arrival.
 
-{{< image-caption src="/images/2676.jpg" >}}{{< /image-caption >}}
-
 **\*SunSeaSangria Tips:** Hop on the Bus (C6) from the airport to Alicante, this takes 15 Minutes.*
 
 These choices keep transfers under €20 in most cases, leaving more for your first beach walk or local tapas. Which town are you heading to first? Let me know. 🌞🚌🍊
