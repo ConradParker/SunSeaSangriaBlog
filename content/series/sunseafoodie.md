@@ -5,7 +5,7 @@ draft: false
 menu_weight: 80
 nav_emoji: 🍝
 nav_desc: Our Favourite Restaurants in the Costa Blanca
-nav_color: e56
+nav_color: "#ff8000"
 ---
 **SunSeaFoodie – Let's Eat Our Way Through Costa Blanca North** 🌅☕🍤🌙
 
