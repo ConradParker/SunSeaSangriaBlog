@@ -38,7 +38,9 @@ Sturdy trainers or hiking boots (good grip essential — no flip-flops!) Plenty 
 
 **Post-Hike Rewards** Head back to Calpe's old town or the port for a well-earned **tinto de verano**, fresh calamari, or ice cream. Our fave? A shady spot at one of the Arenal-Bol beach chiringuitos — feet in the sand, watching the rock you just conquered glow in the sunset. Proper hero moment.
 
-This trail is a brilliant intro to Costa Blanca hiking — tough enough to feel accomplished, beautiful enough to want more. If you've done it, drop your tips in the comments: favourite viewpoint? Scariest bit? Best recovery drink?
+This trail is a brilliant intro to Costa Blanca hiking — tough enough to feel accomplished, beautiful enough to want more. If you've done it, drop your tips in the comments: favourite viewpoint? Scariest bit? Best recovery drink.
+
+{{< image-caption src="/images/2825.jpg" >}}{{< /image-caption >}}
 
 Next time: maybe something gentler, like the coastal path to hidden coves or Sierra de Oltà for pine-scented peace. Until then, get booking that slot and lace up — the Peñón awaits!
 
