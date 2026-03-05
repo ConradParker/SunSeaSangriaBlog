@@ -4,9 +4,6 @@ date: 2026-03-05T08:50:00.000+01:00
 draft: false
 series: sunseatrails
 ---
-
-
-
 **If you’ve been following along,** you’ll know I'm all about squeezing every last drop of joy out of this cracking stretch of Costa Blanca North — the beaches, the fiestas, the grub, the faffing about with paperwork (and surviving it with a decent cuppa). But let’s be honest: sometimes you just need to get out there, feel the sun on your face, and let that salty Med breeze blow the cobwebs away — and tick off another trail that’s been whispering your name for ages.
 
 Next up on my personal SunSeaTrails hit list: the **Sierra de Oltà** (or Serra d’Oltà, if we’re going full local) near Calpe. **I haven’t done this one yet** — it’s been sitting there taunting me with its views of the Peñón de Ifach, Montgó, and the whole glittering coastline — but it’s firmly pencilled in for the next clear weekend. From what I’ve gathered (and trust me, I’ve been poring over maps and trail notes like a proper geek), it’s a belter of a circular wander that gives you proper inland mountain vibes without straying too far from the coast. Think pine forests, rocky paths, ancient terraces, and those knockout panoramic payoffs that make you go “blimey, worth every step.”
@@ -32,3 +29,5 @@ Because life here isn’t just about lounging (though we love a good lounger mom
 So grab your water bottle, slap on the factor 50, and maybe join me on this one? The Sierra de Oltà’s trails are calling — and they sound far too pretty to ignore much longer.
 
 ¡Salud, and see you on the path! 🍹🥾
+
+{{< image-caption src="/images/fc398e36-339a-462a-839e-a0edabd05bc4.jpg" >}}{{< /image-caption >}}
