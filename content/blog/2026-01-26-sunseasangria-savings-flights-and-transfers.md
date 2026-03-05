@@ -1,5 +1,5 @@
 ---
-title: "SunSeaSangria Savings: Flights and Transfers"
+title: "Sun Sea Sangria Savings: Flights and Transfers"
 date: 2026-03-04T18:55:00.000+01:00
 draft: false
 description: Affordable Flights and Transfers
