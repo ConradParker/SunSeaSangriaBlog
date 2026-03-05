@@ -1,5 +1,5 @@
 ---
-title: SunSeaSangria Savings - Accommodation Deals
+title: Sun Sea Sangria Savings - Accommodation Deals
 date: 2026-03-05T09:39:00.000+01:00
 draft: false
 series: sss-town-guide
