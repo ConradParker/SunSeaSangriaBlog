@@ -32,6 +32,8 @@ Right at the western tip (technically spilling into Finestrat but very much part
 * **Food & drink:** Levante for endless options (tapas, paella, British breakfasts); Poniente and La Cala for calmer family-run spots and better value. Direct bookings or mid-week often bag the cheapest stays.
 * **Hidden gems:** Climb to the Balcón del Mediterráneo for sunset views, wander the Old Town streets behind Levante for proper local bars, or time a visit for the low-key San Juan bonfires in June.
 
+  {{< image-caption src="/images/untitled-design-13-.png" >}}Fall in love with Benidorm{{< /image-caption >}}
+
 Benidorm’s Marmite magic is that it refuses to be subtle — but once you peel back the layers, you find a place that’s got heart, history, and beaches for days. Whether you want the full-on party in Levante, chilled family days in Poniente, or peaceful pockets in La Cala, there’s a Benidorm that fits.
 
 So grab your water bottle, slap on the factor 50, and give it a proper go. Delve past the Smurfs and the noise — the real Benidorm’s waiting.
