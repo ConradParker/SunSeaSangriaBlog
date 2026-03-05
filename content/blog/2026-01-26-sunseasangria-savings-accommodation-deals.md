@@ -6,7 +6,7 @@ series: sss-town-guide
 ---
 The **January blues** are fading fast, and with spring just around the corner, it's the perfect time to lock in some fantastic winter/early 2026 value stays on the **Costa Blanca North**! Since you're already sorted on cheap flights and transfers (from my last blog), let's focus on solid, affordable rooms, apartments, or hideaways. Winter months (Jan–March) bring the best deals here: milder crowds, lower prices (often 30–60% off peak summer rates), and plenty of sunny days for beach walks or inland exploring.
 
-The north (Dénia, Jávea/Xàbia, Calpe, Altea, Moraira, Benissa, Teulada) shines for value right now—beach-close apartments often beat hotels for self-catering savings, while inland spots offer peaceful escapes with mountain views at even better rates.
+The north (Dénia, Jávea/Xàbia, Calpe, Altea, Moraira, Benissa, Teulada) shines for value right now—beach-close apartments often beat hotels for self-catering savings. At the same time, inland spots offer peaceful escapes with mountain views at even better rates.
 
 **Cheap Accommodation Ideas for Northern Costa Blanca**
 
@@ -20,7 +20,7 @@ Kick off your search on **Lastminute.com, Trivago, or Booking.com** — filter f
 
 To keep costs even lower, check self-catering specialists like Hometogo or Interhome — they often have exclusive deals on apartments.
 
-{{< image-caption src="/images/img_8369.jpeg" >}}Self catering apartments {{< /image-caption >}}
+{{< image-caption src="/images/img_8369.jpeg" >}}Always check private rentals have a tourist licence{{< /image-caption >}}
 
  **Always verify legitimacy**: Legal tourist rentals in the Comunidad Valenciana must display a registration number (usually VT- followed by numbers/letters, like VT-XXXXXX-V) in ads. Cross-check via the official regional tourism portal (turisme.gva.es) or ask the owner for proof — it protects you from dodgy listings.
 
