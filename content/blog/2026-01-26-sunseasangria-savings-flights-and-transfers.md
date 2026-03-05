@@ -8,7 +8,9 @@ description: Affordable Flights and Transfers
 
 So where do you even start? Right here with these practical, wallet-friendly tips to make your trip feel luxurious without the luxury price tag.
 
-**Step 1: Find the Cheap Flight** Head to Alicante-Elche Airport (ALC), the gateway to the north (Jávea, Denia, Altea, Calpe, Moraira). Budget airlines like Ryanair, easyJet, Jet2, and Vueling are flying from UK airports (London, Bristol, Manchester, Liverpool, Birmingham) with one-way fares often dipping to £15–£30, and returns under £50–£80 in February. Use Skyscanner, Google Flights, or Kayak to compare—set price alerts, check mid-week dates (Tue–Thu are usually cheapest), and peek directly on the airline sites for hidden deals. Regional UK airports often offer the lowest fares.***SunSeaSangria Top Tip: Check Valencia Airport, sometimes they can be a lot cheaper.***
+**Step 1: Find the Cheap Flight** Head to Alicante-Elche Airport (ALC), the gateway to the north (Jávea, Denia, Altea, Calpe, Moraira). Budget airlines like Ryanair, easyJet, Jet2, and Vueling are flying from UK airports (London, Bristol, Manchester, Liverpool, Birmingham) with one-way fares often dipping to £15–£30, and returns under £50–£80 in February. Use Skyscanner, Google Flights, or Kayak to compare—set price alerts, check mid-week dates (Tue–Thu are usually cheapest), and peek directly on the airline sites for hidden deals. Regional UK airports often offer the lowest fares.
+
+***SunSeaSangria Top Tip: Check Valencia Airport, sometimes they can be a lot cheaper.***
 
 {{< image-compare src1="/images/1706.jpg" src2="/images/1545.jpg" caption1="Alicante Inbound from Edinburgh Airport " caption2="Alicante to Edinburgh Airport" >}}
 
