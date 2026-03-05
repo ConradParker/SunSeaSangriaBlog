@@ -1,5 +1,5 @@
 ---
-title: SunSeaNews - January 23rd Roundup
+title: Sun Sea News - January 23rd Roundup
 date: 2026-01-23T11:00:00.000+01:00
 draft: false
 series: through-the-looking-glass
