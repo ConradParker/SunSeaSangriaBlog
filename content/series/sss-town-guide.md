@@ -8,18 +8,32 @@ nav_desc: Coastal towns • Places to stay • How to get there. Easy sunshine g
 nav_color: "#1abc9c"
 nav_weight: 60
 ---
-Welcome to the **North Costa Blanca** section of **Sun Sea Sangria**!
 
-If you’re dreaming of sun-drenched days, crystal-clear Mediterranean waters, charming whitewashed towns, fresh seafood paella, and the infectious energy of authentic Spanish fiestas, you’ve come to the right place. This series dives deep into the highlights of the northern stretch of the Costa Blanca (the more relaxed, scenic part from Dénia down through Jávea/Xàbia, Moraira, Calpe, and Altea), where dramatic cliffs meet hidden coves, historic castles overlook bustling harbours, and every town has its own unique personality.
+
+Welcome to the **North Costa Blanca** section of **Sun Sea Seekers** — your cheeky guide to hunting down the best towns, hidden gems, cracking deals, and proper value vibes along this gorgeous stretch of coast!
+
+If you’re on the prowl for sun-soaked escapes without breaking the bank, crystal-clear Med waters, charming whitewashed pueblos, fresh seafood paella that doesn’t cost the earth, and the buzz of authentic Spanish fiestas, you’ve landed in the right spot. This series is all about **seeking out** the northern Costa Blanca’s standout towns — that more relaxed, scenic side from Dénia down through Jávea/Xàbia, Moraira, Calpe, and Altea — where dramatic cliffs drop to hidden coves, historic castles watch over lively harbours, and every place has its own personality waiting to be discovered (often at a fraction of peak-season prices).
+
+
+
+
+
 
 {{< image-float src="/images/2857.jpg" position="left" >}}SunSeaSangria - Calpe{{< /image-float >}}
 
-Each town gets its own dedicated page here on the blog, packed with what makes it special—think unbeatable beaches and hiking spots, top spots for sangria and tapas, cultural gems, and insider tips on the best time to visit for peak vibes. We’ll spotlight the standout fiestas that bring the streets alive: from epic Moors and Christians parades with colorful costumes and mock battles (spring through autumn in places like Moraira, Calpe, and beyond), wild Bous a la Mar bull runs by the sea in summer (Dénia and Jávea style), spectacular fireworks like Altea’s Castell de l’Olla over the water in August, San Juan bonfires in June, patron saint celebrations with processions and music, and more seasonal magic throughout the year.
+
+
+We’re talking dedicated town pages packed with the stuff that makes each one shine: unbeatable beaches and leg-stretching hikes (pine-scented paths with knockout views), top spots for affordable sangria and tapas, cultural highlights, and savvy insider tips on nabbing the best deals — especially off-season when prices plummet 30–60%, crowds vanish, and sunny days are still plentiful. We’ll flag the fiestas that light up the streets (Moors and Christians parades with epic costumes and mock battles in spring/autumn, wild Bous a la Mar bull runs by the sea in summer, Altea’s dazzling Castell de l’Olla fireworks in August, San Juan bonfires in June, patron saint processions, and more), so you can time your trip for maximum fun without maximum spend.
+
+
+
 
 {{< image-float src="/images/513196288_10160766852101642_5303614460102755212_n.jpg" position="right" >}}SunSeaSangria - Javea{{< /image-float >}}
 
-I have to share some of my favourates places to eat in Javea after living there for many years. From meeting friends for breakfast to enjoying the arenal for lunch or  heading to the port and old town for evening. There is so many great places to choose from.
 
- Whether you’re planning a beach escape, a foodie adventure, or just want to time your trip for the biggest parties, these pages will help you soak up the real essence of this beautiful corner of Spain—sangria in hand, of course!
 
-Start exploring below with the town that calls to you most, or scroll through for the full lineup. ¡Salud to sunny adventures ahead! 🌞🍹
+Whether you’re chasing beach bargains, foodie finds on a budget, or fiestas that won’t cost a fortune, these pages help you sniff out the real essence of this beautiful corner of Spain — all while keeping your purse happy and your glass full.
+
+Start seeking below with the town that’s calling your name, or scroll through the full lineup for deals and discoveries. ¡Salud to sunny, savvy adventures ahead! 🌞🍹
+
+(Pro tip: Keep an eye out for town-specific posts rolling out — beaches like Jávea’s Arenal or hidden Cala Granadella, hikes up Montgó or along Calpe’s Peñón trails, tapas bars with killer happy-hour sangria, winter/early-season accommodation steals, and fiesta calendars to plan around. Got a bargain gem or town favourite? Drop it in the comments — let’s swap the best finds!) 🥂
