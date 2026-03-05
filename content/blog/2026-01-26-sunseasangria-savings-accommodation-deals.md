@@ -10,7 +10,7 @@ The north (Dénia, Jávea/Xàbia, Calpe, Altea, Moraira, Benissa, Teulada) shine
 
 **Cheap Accommodation Ideas for Northern Costa Blanca**
 
-{{< image-compare src1="/images/img_8376.jpeg" src2="/images/untitled-design-8-.png" caption1="Self catering apartments " caption2="Check Hotel Prices Direct" >}}
+{{< image-compare src1="/images/img_8376.jpeg" src2="/images/untitled-design-8-.png" caption1="Great value self catering apartments " caption2="Check direct with hotels for reduced prices" >}}
 
 The northern Costa Blanca (Jávea/Xàbia, Denia, Altea, Calpe, Moraira) really comes into its own for budget travellers during off-season months like February — milder weather (around 12-18°C most days, plenty of sunny spells), far fewer crowds, and prices that can drop 30–50% from peak summer highs. Availability stays strong for comfortable, no-frills stays, making it ideal for a relaxed, wallet-friendly escape.
 
@@ -20,7 +20,7 @@ Kick off your search on **Lastminute.com, Trivago, or Booking.com** — filter f
 
 To keep costs even lower, check self-catering specialists like Hometogo or Interhome — they often have exclusive deals on apartments.
 
-{{< image-caption src="/images/img_8369.jpeg" >}}Private Rentals{{< /image-caption >}}
+{{< image-caption src="/images/img_8369.jpeg" >}}Self catering apartments {{< /image-caption >}}
 
  **Always verify legitimacy**: Legal tourist rentals in the Comunidad Valenciana must display a registration number (usually VT- followed by numbers/letters, like VT-XXXXXX-V) in ads. Cross-check via the official regional tourism portal (turisme.gva.es) or ask the owner for proof — it protects you from dodgy listings.
 
