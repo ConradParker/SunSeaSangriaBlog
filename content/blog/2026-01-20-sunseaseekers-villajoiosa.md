@@ -21,6 +21,8 @@ Distance from our core spots: About 45-60 mins drive south from Altea/Calpe — 
 
 Next up: **chocolate heaven**. Villajoyosa was once Spain's chocolate capital thanks to its port importing cocoa, and it's still home to legends like **Valor** (the big brand with a brilliant museum and factory tours — tastings included, obviously). Wander in for a tour (book ahead in peak times), learn the history, and stock up on bars or treats — perfect souvenirs or mid-walk snacks. If you're feeling peckish, grab a hot chocolate or churros nearby to keep the sugar buzz going.
 
+{{< image-caption src="/images/untitled-design-11-.png" >}}Puerto Deportivo (marina/harbour area){{< /image-caption >}}
+
 Beach time! The town boasts cracking options: **Playa Centro** (the long urban sandy stretch right in front, with promenade bars for sangria and tapas), **Paradis/Paraíso** (lively with open-air spots), or quieter gems like **Playa del Torres** (pebbly, family-friendly, with Roman ruins vibes) and hidden coves such as **Racó del Conill** (naturist-friendly, crystal-clear waters, surrounded by cliffs — ace for snorkelling). **Bol Nou** is another stunner — sheltered by rocks, with a little beach bar for post-dip beers. Pick your poison: urban buzz or secluded dip.
 
 If you're there in late July, time it for the **Moors and Christians fiesta** (usually 24-31 July) — it's legendary. Re-enacts a 1538 pirate attack with mock battles, colourful parades, costumes, music, and the dramatic **Desembarc** (Moorish landing at dawn on the beach). Santa Marta (patron saint) gets the credit for the "victory" via a miracle flood — fireworks, processions, the lot. Proper spectacle — book ahead if you're planning around it.
