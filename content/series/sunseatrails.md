@@ -17,4 +17,4 @@ So grab your water bottle, slap on the factor 50, and come along for the walk. T
 
 ¡Salud, and see you on the path! 🍹🥾
 
-{{< image-caption src="/images/fc398e36-339a-462a-839e-a0edabd05bc4.jpg" >}}{{< /image-caption >}}
+{{< image-caption src="/images/image-5-.jpg" >}}{{< /image-caption >}}
