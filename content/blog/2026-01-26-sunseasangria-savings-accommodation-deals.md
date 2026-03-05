@@ -12,9 +12,6 @@ The north (Dénia, Jávea/Xàbia, Calpe, Altea, Moraira, Benissa, Teulada) shine
 
 {{< image-compare src1="/images/img_8376.jpeg" src2="/images/untitled-design-8-.png" caption1="Self catering apartments " caption2="Check Hotel Prices Direct" >}}
 
-
-
-
 The northern Costa Blanca (Jávea/Xàbia, Denia, Altea, Calpe, Moraira) really comes into its own for budget travellers during off-season months like February — milder weather (around 12-18°C most days, plenty of sunny spells), far fewer crowds, and prices that can drop 30–50% from peak summer highs. Availability stays strong for comfortable, no-frills stays, making it ideal for a relaxed, wallet-friendly escape.
 
 Focus on **self-catering apartments** or small guesthouses — these let you whip up simple meals with fresh market finds (olives, tomatoes, local oranges, bread from the bakery) and save €20–€30 a day on eating out. In Altea, charming old-town studios or apartments with sea glimpses often go for €45–€75/night; Calpe delivers great value near the port or Arenal beach area, with clean doubles around €50–€80. Jávea has solid options around the Arenal or old town for €60–€90, many with balconies perfect for that morning coffee ritual. Denia and quieter Moraira offer more relaxed, nature-close spots, sometimes dipping under €60 for basic but cosy places (think modern apartments with kitchenettes and parking).
@@ -23,7 +20,7 @@ Kick off your search on **Lastminute.com, Trivago, or Booking.com** — filter f
 
 To keep costs even lower, check self-catering specialists like Hometogo or Interhome — they often have exclusive deals on apartments.
 
-{{< image-caption src="/images/44779526_10155459799526642_7060050061295616_n.jpg" >}}Private Rentals{{< /image-caption >}}
+{{< image-caption src="/images/img_8369.jpeg" >}}Private Rentals{{< /image-caption >}}
 
  **Always verify legitimacy**: Legal tourist rentals in the Comunidad Valenciana must display a registration number (usually VT- followed by numbers/letters, like VT-XXXXXX-V) in ads. Cross-check via the official regional tourism portal (turisme.gva.es) or ask the owner for proof — it protects you from dodgy listings.
 
