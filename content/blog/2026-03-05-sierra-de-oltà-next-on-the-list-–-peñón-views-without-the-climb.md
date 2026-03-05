@@ -30,4 +30,4 @@ So grab your water bottle, slap on the factor 50, and maybe join me on this one?
 
 ¡Salud, and see you on the path! 🍹🥾
 
-{{< image-caption src="/images/image-5-.jpg" >}}{{< /image-caption >}}
+{{< image-caption src="/images/img_8513.jpeg" >}}{{< /image-caption >}}
