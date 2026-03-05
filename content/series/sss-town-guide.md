@@ -37,3 +37,5 @@ Whether you’re chasing beach bargains, foodie finds on a budget, or fiestas th
 Start seeking below with the town that’s calling your name, or scroll through the full lineup for deals and discoveries. ¡Salud to sunny, savvy adventures ahead! 🌞🍹
 
 (Pro tip: Keep an eye out for town-specific posts rolling out — beaches like Jávea’s Arenal or hidden Cala Granadella, hikes up Montgó or along Calpe’s Peñón trails, tapas bars with killer happy-hour sangria, winter/early-season accommodation steals, and fiesta calendars to plan around. Got a bargain gem or town favourite? Drop it in the comments — let’s swap the best finds!) 🥂
+
+{{< image-compare src1="/images/418180846_10159274087136642_5185954022180218685_n.jpg" src2="/images/img_8120.jpeg" caption1="Senija" caption2="Altea" >}}
