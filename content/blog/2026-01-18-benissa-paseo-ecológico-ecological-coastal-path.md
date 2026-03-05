@@ -12,7 +12,7 @@ Kick off at Playa La Fossa, where the long golden sweep of sand basks under the 
 
 {{< clear >}}
 
-{{< image-compare src1="/images/img_8105.jpeg" src2="/images/img_8103.jpeg" caption1="Pine Tree Natural Shade " caption2="Trees growing on the Cliff Edge" >}}
+{{< image-compare src1="/images/496.jpg" src2="/images/503.jpg" caption1="Pine Tree Natural Shade " caption2="La Fustera Beach" >}}
 
 As you meander, the Mediterranean pines drape dappled shade and perfume the air with warm resin, wild thyme, and sun-kissed herbs. The sea stays front and centre, opening up in jaw-dropping panoramas, while secret rocky coves and inlets pop up like little invitations to pause. You'll pass by gems like **Cala Advocat** (quiet and pebbly with super-clear water), **Cala Llobella** (one of the wildest and 
 
