@@ -1,5 +1,5 @@
 ---
-title: SunSeaFiestas - 2026 Fiesta Guide
+title: Sun Sea Fiestas - 2026 Fiesta Guide
 date: 2026-01-26T12:55:00.000+01:00
 draft: false
 ---
