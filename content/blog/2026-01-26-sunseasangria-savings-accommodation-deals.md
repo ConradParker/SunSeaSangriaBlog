@@ -23,6 +23,8 @@ Kick off your search on **Lastminute.com, Trivago, or Booking.com** — filter f
 
 To keep costs even lower, check self-catering specialists like Hometogo or Interhome — they often have exclusive deals on apartments.
 
+{{< image-caption src="/images/44779526_10155459799526642_7060050061295616_n.jpg" >}}Private Rentals{{< /image-caption >}}
+
  **Always verify legitimacy**: Legal tourist rentals in the Comunidad Valenciana must display a registration number (usually VT- followed by numbers/letters, like VT-XXXXXX-V) in ads. Cross-check via the official regional tourism portal (turisme.gva.es) or ask the owner for proof — it protects you from dodgy listings.
 
 If you fancy a proper hotel breakfast (fresh coffee, warm croissants, local jams, and that glorious Valencian orange juice straight from the groves), tick the “Breakfast included” filter on Booking.com straight away — it narrows to hotels/guesthouses with buffet or continental spreads, often around €60–€100/night off-season. Sort by price low-to-high and guest rating (8+), then dive into reviews for breakfast specifics — look for “generous,” “fresh,” “varied,” or “good selection” as green flags; “basic” or “limited” might mean it's skippable. Cross-reference on Tripadvisor or Hotels.com for photos and winter-traveller feedback. Smaller family-run spots in Altea or Calpe frequently punch above their weight with homemade touches at lower rates than chains — search for “boutique” or “family-run” labels too. Breakfast included means no morning faff — just fuel up and head out for beach strolls or trails.
