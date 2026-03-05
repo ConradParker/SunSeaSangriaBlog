@@ -6,6 +6,8 @@ series: sss-town-guide
 ---
  **Benidorm**, love it or hate it — just like Marmite — there’s no other place like it. That bold, in-your-face skyline, the non-stop energy, the endless beaches… it’s Marmite on steroids, and it either hooks you or sends you running. But if you can delve past the Smurfs (those blue-painted high-rises that look like they’ve escaped a kids’ cartoon), the loud English pubs blasting karaoke at noon, and the 24/7 party rep, you’ll find the real Benidorm hiding underneath. It’s a proper, layered Costa Blanca classic with history, cracking beaches, local pockets, and a surprising amount of charm if you know where to look.
 
+{{< image-compare src1="/images/img_8336.jpeg" src2="undefined" caption1="Take a show at night, so many to choose from" caption2="Hotel galore, take your choice " >}}
+
 Forget the one-dimensional “Brits abroad” stereotype for a minute. Benidorm splits into three very different areas that give you options depending on whether you want full-on buzz, chilled family vibes, or something in between. Each one has its own personality, and once you get the hang of them, you can pick the side of Benidorm that actually suits you.
 
 **Levante – the loud, lively east side (Playa de Levante)**
