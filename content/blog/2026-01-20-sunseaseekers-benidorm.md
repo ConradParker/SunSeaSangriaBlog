@@ -14,7 +14,7 @@ Forget the one-dimensional “Brits abroad” stereotype for a minute. Benidorm 
 
 This is the Benidorm postcard everyone knows: 2km of golden sand, a thumping promenade crammed with bars, clubs, shops, and neon signs, and that famous wall of skyscrapers reflecting in the sea like a mini Dubai-by-the-Med. It’s high-octane from sunrise (early risers doing beach yoga or grabbing a coffee) right through to the early hours (The Strip and the British/Irish pubs in full swing). Watersports everywhere — jet skis, banana boats, paddleboards — plus family shallows for the kids and chiringuitos serving cold sangria and fresh calamari while you people-watch. Yes, it’s loud. Yes, the English is everywhere. But it’s also unapologetically fun, and the promenade is one of the best in Spain for a sunset stroll with a tinto de verano in hand.
 
-{{< image-compare src1="undefined" src2="undefined" >}}
+{{< image-compare src1="/images/untitled-design-12-.png" src2="/images/untitled-design-15-.png" caption1="Benidorm Beaches" caption2="Benidorm Skyline" >}}
 
 **Poniente – the calmer, wider west side (Playa de Poniente)**
 
