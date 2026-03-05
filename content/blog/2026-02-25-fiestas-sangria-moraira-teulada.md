@@ -1,5 +1,5 @@
 ---
-title: Fiestas & Sangria - Moraira & Teulada
+title: Fiestas & Sangria - Moraira & Teulada 2026
 date: 2026-02-25T09:00:00.000+01:00
 draft: false
 series: fiestas-sangria
