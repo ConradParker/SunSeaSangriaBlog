@@ -1,6 +1,6 @@
 ---
 title: SunSeaSeekers - Villajoiosa
-date: 2026-02-12T11:28:00.000+01:00
+date: 2026-03-05T10:09:00.000+01:00
 draft: false
 series: sss-town-guide
 ---
@@ -30,6 +30,8 @@ If you're there in late July, time it for the **Moors and Christians fiesta** (u
 **Honest tips from the trail:**
 
 **Getting there/parking:** Easy drive from the north; park near the port or old town (free spots outside peak). Buses from Benidorm/Altea too. **Crowds:** Quiet off-season; summer gets lively but not overwhelming. Fiesta week is buzzing — arrive early for good viewing spots. **Dog-friendly:** Most beaches allow dogs off-peak; old town wanders are fine on lead. **Snacks/backpack:** Water, hat, suncream (factor 50 non-negotiable), maybe a picnic for the coves. Chocolate museum often has samples — bonus! **After-adventure rewards:** Grab tapas and sangria on the promenade (fresh seafood paella's a winner), or nip to a beach bar for tinto de verano. Plenty of budget spots for a cold one to toast those colourful views. **Budget bonus:** Off-season steals on apartments/guesthouses — self-catering with kitchen lets you cook market finds and save. Direct bookings often undercut sites.
+
+{{< image-caption src="/images/untitled-design-10-.png" >}}{{< /image-caption >}}
 
 It's one of those places that leaves you grinning — camera full of rainbow houses and sea vistas, a bag of chocolate, sandy toes, and stories to swap over tapas. Not as hyped as the northern classics, but that's what makes it special: proper authentic Costa Blanca joy without the faff.
 
