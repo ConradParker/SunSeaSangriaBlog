@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: main
 
-site_url: https://sunseasangriablog.netlify.app
+site_url: https://sunseasangria.com
 
 media_folder: assets/images
 public_folder: /images
