@@ -3,6 +3,7 @@ title: "Sierra de Oltà: Next on the List – Peñón Views Without the Climb"
 date: 2026-03-05T08:50:00.000+01:00
 draft: false
 series: sunseatrails
+comments: true
 ---
 **If you’ve been following along,** you’ll know I'm all about squeezing every last drop of joy out of this cracking stretch of Costa Blanca North — the beaches, the fiestas, the grub, the faffing about with paperwork (and surviving it with a decent cuppa). But let’s be honest: sometimes you just need to get out there, feel the sun on your face, and let that salty Med breeze blow the cobwebs away — and tick off another trail that’s been whispering your name for ages.
 
