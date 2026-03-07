@@ -3,6 +3,7 @@ title: "Sun Sea Seekers - Alicante "
 date: 2026-01-20T14:43:00.000+01:00
 draft: false
 series: sss-town-guide
+comments: true
 ---
 **Costa Blanca’s Capital Charm: Alicante Castle, Markets & Mediterranean Vibes**
 
