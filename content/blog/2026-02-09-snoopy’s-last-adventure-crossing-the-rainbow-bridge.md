@@ -3,6 +3,7 @@ title: "Snoopy’s Last Adventure: Crossing the Rainbow Bridge"
 date: 2026-02-09T21:29:00.000+01:00
 draft: false
 series: test-story
+comments: true
 ---
 After those really tough months, Missy finally settled into her calmer self. She still loved her little game of sneaking Snoopy’s collar off whenever we weren’t looking—pure mischief, her way of saying “you’re still my big brother.” Snoopy, growing older and quieter, spent more days napping in the sunshine or curled up in his bed.
 
