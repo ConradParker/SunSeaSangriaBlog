@@ -1,15 +1,15 @@
 const { createClient } = require("@supabase/supabase-js");
 
-const supabase = createClient(
-  process.env.SUPABASE_URL,
-  process.env.SUPABASE_SERVICE_ROLE_KEY
-);
+let supabase;
 
-const SITE_URL = process.env.SITE_URL;
+function getSupabase() {
+  if (!supabase) supabase = createClient(process.env.SUPABASE_URL, process.env.SUPABASE_SERVICE_ROLE_KEY);
+  return supabase;
+}
 
 function corsHeaders() {
   return {
-    "Access-Control-Allow-Origin": SITE_URL,
+    "Access-Control-Allow-Origin": process.env.SITE_URL,
     "Access-Control-Allow-Headers": "Content-Type",
     "Access-Control-Allow-Methods": "GET, OPTIONS",
   };
@@ -38,7 +38,7 @@ exports.handler = async (event) => {
     };
   }
 
-  const { data, error } = await supabase
+  const { data, error } = await getSupabase()
     .from("comments")
     .select("id, author_name, body, approved_at")
     .eq("post_slug", slug)

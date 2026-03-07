@@ -2,14 +2,18 @@ const crypto = require("crypto");
 const { createClient } = require("@supabase/supabase-js");
 const { Resend } = require("resend");
 
-const supabase = createClient(
-  process.env.SUPABASE_URL,
-  process.env.SUPABASE_SERVICE_ROLE_KEY
-);
-const resend = new Resend(process.env.RESEND_API_KEY);
+let supabase;
+let resend;
 
-const SITE_URL = process.env.SITE_URL;
-const MODERATOR_EMAIL = process.env.MODERATOR_EMAIL;
+function getSupabase() {
+  if (!supabase) supabase = createClient(process.env.SUPABASE_URL, process.env.SUPABASE_SERVICE_ROLE_KEY);
+  return supabase;
+}
+
+function getResend() {
+  if (!resend) resend = new Resend(process.env.RESEND_API_KEY);
+  return resend;
+}
 
 function stripHtml(str) {
   return str.replace(/<[^>]*>/g, "");
@@ -21,7 +25,7 @@ function isValidEmail(email) {
 
 function corsHeaders() {
   return {
-    "Access-Control-Allow-Origin": SITE_URL,
+    "Access-Control-Allow-Origin": process.env.SITE_URL,
     "Access-Control-Allow-Headers": "Content-Type",
     "Access-Control-Allow-Methods": "POST, OPTIONS",
   };
@@ -84,7 +88,7 @@ exports.handler = async (event) => {
 
     // Rate limit: max 3 submissions per email per hour
     const oneHourAgo = new Date(Date.now() - 60 * 60 * 1000).toISOString();
-    const { count, error: countError } = await supabase
+    const { count, error: countError } = await getSupabase()
       .from("comments")
       .select("*", { count: "exact", head: true })
       .eq("author_email", author_email.trim().toLowerCase())
@@ -112,7 +116,7 @@ exports.handler = async (event) => {
     // Generate moderation token and insert comment
     const moderation_token = crypto.randomBytes(32).toString("hex");
 
-    const { data, error: insertError } = await supabase
+    const { data, error: insertError } = await getSupabase()
       .from("comments")
       .insert({
         post_slug: post_slug.trim(),
@@ -135,16 +139,17 @@ exports.handler = async (event) => {
     }
 
     // Send moderation email
-    const approveUrl = `${SITE_URL}/.netlify/functions/moderate-comment?id=${data.id}&token=${moderation_token}&action=approve`;
-    const rejectUrl = `${SITE_URL}/.netlify/functions/moderate-comment?id=${data.id}&token=${moderation_token}&action=reject`;
+    const siteUrl = process.env.SITE_URL;
+    const approveUrl = `${siteUrl}/.netlify/functions/moderate-comment?id=${data.id}&token=${moderation_token}&action=approve`;
+    const rejectUrl = `${siteUrl}/.netlify/functions/moderate-comment?id=${data.id}&token=${moderation_token}&action=reject`;
     const submittedAt = new Date(data.created_at).toLocaleString("en-GB", {
       dateStyle: "long",
       timeStyle: "short",
     });
 
-    await resend.emails.send({
-      from: `noreply@${new URL(SITE_URL).hostname}`,
-      to: MODERATOR_EMAIL,
+    await getResend().emails.send({
+      from: `noreply@${new URL(siteUrl).hostname}`,
+      to: process.env.MODERATOR_EMAIL,
       subject: `New comment pending approval on "${data.post_slug}"`,
       html: `
         <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; max-width: 600px; margin: 0 auto; padding: 20px;">

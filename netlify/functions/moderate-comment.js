@@ -1,10 +1,12 @@
 const crypto = require("crypto");
 const { createClient } = require("@supabase/supabase-js");
 
-const supabase = createClient(
-  process.env.SUPABASE_URL,
-  process.env.SUPABASE_SERVICE_ROLE_KEY
-);
+let supabase;
+
+function getSupabase() {
+  if (!supabase) supabase = createClient(process.env.SUPABASE_URL, process.env.SUPABASE_SERVICE_ROLE_KEY);
+  return supabase;
+}
 
 function htmlPage(title, message) {
   return `<!DOCTYPE html>
@@ -39,7 +41,7 @@ exports.handler = async (event) => {
   }
 
   // Fetch the comment
-  const { data: comment, error } = await supabase
+  const { data: comment, error } = await getSupabase()
     .from("comments")
     .select("*")
     .eq("id", id)
@@ -86,7 +88,7 @@ exports.handler = async (event) => {
       ? { status: "approved", approved_at: new Date().toISOString() }
       : { status: "rejected" };
 
-  const { error: updateError } = await supabase
+  const { error: updateError } = await getSupabase()
     .from("comments")
     .update(updates)
     .eq("id", id);
