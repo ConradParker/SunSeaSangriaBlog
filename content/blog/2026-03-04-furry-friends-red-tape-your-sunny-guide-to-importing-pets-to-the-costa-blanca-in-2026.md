@@ -4,6 +4,7 @@ title: "Furry Friends & Red Tape: Your Sunny Guide to Importing Pets to the
 date: 2026-03-04T09:33:00.000+01:00
 draft: false
 series: red-tape-tears
+comments: true
 ---
 Our pets are our world, so we want them to travel with us! Here's a clear, up-to-date guide on importing pets (dogs, cats, or ferrets) between the UK and Spain in 2026. Post-Brexit rules mean paperwork is essential in both directions, but once you tick the boxes, it's usually straightforward. A new EU regulation (consolidating rules under a single legal act) takes effect from **22 April 2026**, focusing on better consistency, traceability, and welfare across the EU — including a firm limit of **5 pets** per non-commercial trip (per owner/family), stricter document checks for entries from non-EU countries (the UK is non-EU), and no major changes to core requirements like microchipping or rabies jabs. The basics remain familiar, but plan ahead to avoid stress at borders or airports.
 
