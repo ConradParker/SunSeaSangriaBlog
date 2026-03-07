@@ -1,5 +1,5 @@
 ---
-title: SunSeaNews- February news roundup
+title: Sun Sea News- February news roundup
 date: 2026-02-04T15:13:00.000+01:00
 draft: false
 series: through-the-looking-glass

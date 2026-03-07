@@ -1,5 +1,5 @@
 ---
-title: "SunSeaSeekers: Dénia"
+title: "Sun Sea Seekers: Dénia"
 date: 2026-01-15T18:38:00.000+01:00
 draft: false
 description: "Ultimate Dénia Guide on Sun Sea Sangria: Best Beaches, Bites &

@@ -1,6 +1,6 @@
 ---
-title: "SunSeaSangria Savings: Flights and Transfers"
-date: 2026-01-26T11:29:00.000+01:00
+title: "Sun Sea Sangria Savings: Flights and Transfers"
+date: 2026-03-04T18:55:00.000+01:00
 draft: false
 description: Affordable Flights and Transfers
 ---
@@ -10,9 +10,9 @@ So where do you even start? Right here with these practical, wallet-friendly tip
 
 **Step 1: Find the Cheap Flight** Head to Alicante-Elche Airport (ALC), the gateway to the north (Jávea, Denia, Altea, Calpe, Moraira). Budget airlines like Ryanair, easyJet, Jet2, and Vueling are flying from UK airports (London, Bristol, Manchester, Liverpool, Birmingham) with one-way fares often dipping to £15–£30, and returns under £50–£80 in February. Use Skyscanner, Google Flights, or Kayak to compare—set price alerts, check mid-week dates (Tue–Thu are usually cheapest), and peek directly on the airline sites for hidden deals. Regional UK airports often offer the lowest fares.
 
-{{< image-caption src="/images/img_8495.jpeg" >}}{{< /image-caption >}}
-
 ***SunSeaSangria Top Tip: Check Valencia Airport, sometimes they can be a lot cheaper.***
+
+{{< image-compare src1="/images/1706.jpg" src2="/images/1545.jpg" caption1="Alicante Inbound from Edinburgh Airport " caption2="Alicante to Edinburgh Airport" >}}
 
 **Getting to the Northern Costa Blanca on a Budget (From the UK)**
 
@@ -40,9 +40,9 @@ Skip the expensive taxi rides from Alicante-Elche Airport (ALC), which can easil
 
 **BlaBlaCar Rideshares & Shared Shuttles: For Extra Savings** If you're open to flexible timing, BlaBlaCar offers community-driven rideshares from the airport area north—often €5–€15 depending on the destination and driver (check the app for real-time listings). Shared shuttle services like Beniconnect or similar providers connect to Benidorm and beyond, with drop-offs toward Calpe, Altea, or Jávea for around €10–€20 per person—book online in advance for the best rates and door-to-door convenience.
 
-**Scenic & Relaxed Option: The TRAM** For a slower, more picturesque journey (if you're not rushed), take the TRAM from Alicante city center last stop, Denia. The tram hugs the coast with lovely views, takes up to 2–3.5 hours with a change at Benidorm, and costs €8–€12 total. Great if you want to soak in the scenery and stop off along the way—perfect for a laid-back arrival.
+{{< image-compare src1="/images/2676.jpg" src2="/images/3005.jpg" caption1="Tram from Alicante" caption2="Tram going through stops in Alicante " >}}
 
-{{< image-caption src="/images/2676.jpg" >}}{{< /image-caption >}}
+**Scenic & Relaxed Option: The TRAM** For a slower, more picturesque journey (if you're not rushed), take the TRAM from Alicante city center last stop, Denia. The tram hugs the coast with lovely views, takes up to 2–3.5 hours with a change at Benidorm, and costs €8–€12 total. Great if you want to soak in the scenery and stop off along the way—perfect for a laid-back arrival.
 
 **\*SunSeaSangria Tips:** Hop on the Bus (C6) from the airport to Alicante, this takes 15 Minutes.*
 

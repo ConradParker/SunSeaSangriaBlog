@@ -1,5 +1,5 @@
 ---
-title: SunSeaNews - Weekly 17th February Roundup
+title: Sun Sea News - Weekly 17th February Roundup
 date: 2026-02-17T09:33:00.000+01:00
 draft: false
 series: through-the-looking-glass

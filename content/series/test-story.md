@@ -1,11 +1,11 @@
 ---
-title: Paws and Mischief
+title: Paws & Mischief
 date: 2026-01-15T10:02:00.000+01:00
 draft: false
 image: ""
 menu_weight: 10
-nav_emoji: "🐾"
-nav_desc: "Snoopy tales & memories"
+nav_emoji: 🐾
+nav_desc: Snoopy tales & memories
 nav_color: "#8e44ad"
 nav_weight: 30
 ---

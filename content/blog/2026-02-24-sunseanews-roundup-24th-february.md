@@ -1,5 +1,5 @@
 ---
-title: "SunSeaNews Roundup 24th February "
+title: "Sun Sea News Roundup 24th February "
 date: 2026-02-24T20:08:00.000+01:00
 draft: false
 series: through-the-looking-glass

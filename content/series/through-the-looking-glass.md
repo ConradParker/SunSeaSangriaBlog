@@ -1,10 +1,10 @@
 ---
-title: SunSeaNews
+title: Sun Sea News
 date: 2026-02-05T08:57:00.000+01:00
 draft: false
 menu_weight: 10
-nav_emoji: "📰"
-nav_desc: "Weekly Costa Blanca updates"
+nav_emoji: 📰
+nav_desc: Weekly Costa Blanca updates
 nav_color: "#e67e22"
 nav_weight: 10
 ---
