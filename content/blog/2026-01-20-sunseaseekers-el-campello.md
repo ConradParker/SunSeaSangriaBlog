@@ -3,6 +3,7 @@ title: "Sun Sea Seekers - El Campello "
 date: 2026-01-20T14:42:00.000+01:00
 draft: false
 series: sss-town-guide
+comments: true
 ---
 
 El Campello is a laid-back coastal town on the **Costa Blanca**, just a short hop north of Alicante city—think long sandy beaches, a relaxed family-oriented atmosphere, and a mix of local life without the high-rise intensity of nearby Benidorm. It's got over 23 km of coastline, from wide golden stretches to hidden coves and rocky cliffs, making it a great spot for winter sun seekers who want tranquillity with easy access to bigger attractions.
