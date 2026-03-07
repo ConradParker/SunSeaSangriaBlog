@@ -68,6 +68,7 @@ collections:
         display_fields: ["title"]
         required: false
         hint: "Optionally assign this post to a story series"
+      - { label: "Comments", name: "comments", widget: "boolean", default: false, hint: "Enable the comment section on this post" }
       - { label: "Body", name: "body", widget: "markdown" }
 
   - name: "pages"
