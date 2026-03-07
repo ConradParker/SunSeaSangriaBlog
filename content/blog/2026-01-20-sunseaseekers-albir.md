@@ -3,6 +3,7 @@ title: Sun Sea Seekers - Albir
 date: 2026-01-20T14:40:00.000+01:00
 draft: false
 series: sss-town-guide
+comments: true
 ---
 
 Albir is one of those understated gems on the **Costa Blanca North**—a peaceful, family-friendly spot squeezed between the buzz of Benidorm and the artistic charm of Altea. It's got a long, pebbly beach with crystal-clear water (often called Playa del Albir or Racó de l'Albir), a wide promenade perfect for strolling, and a relaxed vibe that's ideal for winter escapes or low-key holidays. No massive skyscrapers here—just a mix of Scandinavian influences (thanks to the large Nordic expat community), great sea views, and easy access to nature.
