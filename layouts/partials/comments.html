@@ -1,0 +1,111 @@
+{{ if .Params.comments }}
+<section class="comments-section" id="comments">
+
+  <h3>Comments</h3>
+
+  <!-- Display approved comments (populated by JS) -->
+  <div id="comments-list">
+    <p class="comments-loading">Loading comments...</p>
+  </div>
+
+  <!-- Submission form -->
+  <div class="comment-form-wrapper">
+    <h4>Leave a comment</h4>
+    <form id="comment-form" novalidate>
+      <!-- Honeypot (hidden from humans, visible to bots) -->
+      <input type="text" name="honeypot" id="honeypot" tabindex="-1" autocomplete="off" aria-hidden="true" style="display:none">
+
+      <input type="hidden" name="post_slug" value="{{ .File.ContentBaseName }}">
+
+      <div class="form-field">
+        <label for="author_name">Name *</label>
+        <input type="text" id="author_name" name="author_name" required maxlength="100">
+      </div>
+
+      <div class="form-field">
+        <label for="author_email">Email * <small>(not published)</small></label>
+        <input type="email" id="author_email" name="author_email" required>
+      </div>
+
+      <div class="form-field">
+        <label for="body">Comment *</label>
+        <textarea id="body" name="body" required maxlength="2000" rows="5"></textarea>
+      </div>
+
+      <button type="submit" id="comment-submit">Submit Comment</button>
+      <p id="comment-status" aria-live="polite"></p>
+    </form>
+  </div>
+
+</section>
+
+<script>
+  // Fetch and render approved comments
+  (async () => {
+    const slug = "{{ .File.ContentBaseName }}";
+    const list = document.getElementById('comments-list');
+    try {
+      const res = await fetch(`/.netlify/functions/get-comments?slug=${encodeURIComponent(slug)}`);
+      const comments = await res.json();
+      if (comments.length === 0) {
+        list.innerHTML = '<p class="no-comments">No comments yet. Be the first!</p>';
+      } else {
+        list.innerHTML = comments.map(c => `
+          <div class="comment">
+            <div class="comment-meta">
+              <strong>${escapeHtml(c.author_name)}</strong>
+              <time>${new Date(c.approved_at).toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' })}</time>
+            </div>
+            <p class="comment-body">${escapeHtml(c.body)}</p>
+          </div>
+        `).join('');
+      }
+    } catch (e) {
+      list.innerHTML = '<p class="comments-error">Comments could not be loaded.</p>';
+    }
+  })();
+
+  // Handle form submission
+  document.getElementById('comment-form').addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const form = e.target;
+    const btn = document.getElementById('comment-submit');
+    const status = document.getElementById('comment-status');
+
+    btn.disabled = true;
+    status.textContent = 'Submitting...';
+
+    const payload = {
+      post_slug: form.post_slug.value,
+      author_name: form.author_name.value.trim(),
+      author_email: form.author_email.value.trim(),
+      body: form.body.value.trim(),
+      honeypot: form.honeypot.value
+    };
+
+    try {
+      const res = await fetch('/.netlify/functions/submit-comment', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload)
+      });
+
+      if (res.ok) {
+        status.textContent = 'Thanks! Your comment is awaiting approval.';
+        form.reset();
+      } else {
+        const data = await res.json();
+        status.textContent = `${data.message || 'Something went wrong. Please try again.'}`;
+      }
+    } catch {
+      status.textContent = 'Could not submit. Please check your connection.';
+    }
+
+    btn.disabled = false;
+  });
+
+  function escapeHtml(str) {
+    return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+</script>
+{{ end }}
