@@ -12,7 +12,7 @@ After years of eating my way around the Costa Blanca (from beachside paellas to 
 
 We rolled up around 6ish on Friday, and the place was buzzing but not chaotic – perfect Friday energy. The exterior is unassuming (classic Costa Blanca roadside gem), but step inside, and it's all warm lighting, subtle decor with a touch of Himalayan flair, and the most incredible aroma hitting you right away. Think aromatic curries, sizzling tandoori, and fresh naan – our stomachs were already doing happy dances. ☺️
 
-The staff greeted us like old friends (super friendly, attentive without hovering). They happily explained the menu – a beautiful mix of classic Indian favorites and authentic Nepalese twists that you don't find everywhere on the coast. Vegetarian/vegan/gluten-free options galore too, which is always a win for our mixed group.
+The staff greeted us like old friends (super friendly, attentive without hovering). They happily explained the menu – a beautiful mix of classic Indian favourites and authentic Nepalese twists that you don't find everywhere on the coast. Vegetarian/vegan/gluten-free options galore, too, which is always a win for our mixed group.
 
 ### **What We Ordered**
 
@@ -26,7 +26,7 @@ We went full family-style to try as much as possible – because why choose when
 * **Lamb Shashlik** – tender lamb pieces grilled with onions and peppers, served sizzling. The char on the meat and veggies was spot-on – smoky, succulent, and bursting with spices.
 * **Lamb Balti** (or Bali-style) – rich, aromatic sauce with chunks of melt-in-your-mouth lamb. Balanced heat and depth that kept us going back for more spoonfuls over rice.
 
-  **Chicken Shashlik** – tender Chicken  pieces grilled with onions and peppers, served sizzling. The char on the meat and veggies was amazing – smoky, succulent, and bursting with spices, served with a hot sauce.
+  **Chicken Shashlik** – tender Chicken pieces grilled with onions and peppers, served sizzling. The char on the meat and veggies was amazing – smoky, succulent, and bursting with spices, served with a hot sauce.
 
 **Sides**:
 
@@ -37,9 +37,13 @@ Portions? **Just Right** – we were stuffed. 
 
 Prices? Super reasonable for the quality (mains around €12–18, starters €5–8). We left very happy, bellies full, and already plotting our next visit.
 
+{{< image-compare src1="/images/whatsapp-image-2026-03-09-at-09.18.09.jpeg" src2="/images/whatsapp-image-2026-03-09-at-09.18.09-12.jpeg" caption1="Chicken Shashlik" caption2="Lamb Shashlik" >}}
+
 ### **The Vibe & Why It Stands Out in Moraira**
 
 Guras isn't flashy – it's authentic. No over-the-top decor, just genuine hospitality and food cooked with care. It's family-run (you can tell), and they nail that balance of spicy authenticity without overwhelming the Costa Blanca crowd. Reviews on TripAdvisor sit at a solid 4.7/5 with hundreds of happy diners saying the same: "Best Indian/Nepalese on the coast," "Better than UK takeaways," "Friendly service and fresh ingredients."
+
+{{< image-caption src="/images/whatsapp-image-2026-03-09-at-09.18.09-1.jpeg" >}}Garlic Nan{{< /image-caption >}}
 
 * In a sea of Spanish and Italian spots, Guras brings something special – a little taste of the Himalayas and subcontinent right here in Moraira. Perfect for when you're curry-starved or just want to shake up date night/friends' dinner.
 * **Sun Sea Sangria Verdict**: 10/10 for flavour, 9/10 for value, 10/10 for making us feel like we'd teleported somewhere exotic for the evening. We'll definitely be back – maybe next time for their lunch specials or takeaway when we're too lazy to cook. 🍲
