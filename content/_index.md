@@ -41,11 +41,11 @@ menu_weight: 10
 **What you’ll find here on Sun Sea Sangria**
 This little corner of the internet celebrates the **real** Costa Blanca North life — the sunny bits, the quirky bits, and all the gloriously messy bits in between. Here’s what to expect:
 
-• **Your weekly SunSeaNews fix** straight to your inbox: weather highs & lows (because who doesn't love a bit of weather drama — sun one minute, sneaky storm the next?), what's on (fiestas that'll have you dancing, market days bursting with local gems, and more), the juiciest local chatter, and all the news that keeps this expat life properly exciting. No waffle, just the good stuff! 🍹
+• **Your weekly [SunSeaNews](https://sunseasangria.com/series/through-the-looking-glass/) fix** straight to your inbox: weather highs & lows (because who doesn't love a bit of weather drama — sun one minute, sneaky storm the next?), what's on (fiestas that'll have you dancing, market days bursting with local gems, and more), the juiciest local chatter, and all the news that keeps this expat life properly exciting. No waffle, just the good stuff! 🍹
 
-• **Red Tape and Tears**: a little no-nonsense help with all the paperwork needed in Spain (NIEs, residency, taxes, driving licences, padrón — you name it). Plus rainy-day backups when the clouds decide to gatecrash your beach plans. Because we've all been there, crying over forms with a cuppa in hand!
+• **[Red Tape and Tears](https://sunseasangria.com/series/red-tape-tears/)**: a little no-nonsense help with all the paperwork needed in Spain (NIEs, residency, taxes, driving licences, padrón — you name it). Plus rainy-day backups when the clouds decide to gatecrash your beach plans. Because we've all been there, crying over forms with a cuppa in hand!
 
-• **Fond, laugh-out-loud tales** and memories from our late rescue dog Snoopy (tiny terror turned accidental legend – he’ll always be basically famous in our hearts).
+• **Laugh out-loud tales from [Paws and Mischief](https://sunseasangria.com/series/test-story/)** and memories from our late rescue dog Snoopy (tiny terror turned accidental legend – he’ll always be basically famous in our hearts).
 
 • **SunSeaReads** – cosy book chats over virtual vino, because sharing a cracking read with like-minded souls is pure joy.
 
