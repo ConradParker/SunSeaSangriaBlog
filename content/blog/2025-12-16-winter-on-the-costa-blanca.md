@@ -16,7 +16,7 @@ Daytime temperatures usually hover between 15–18°C (59–64°F) — perfect f
 
 And rain? A few light showers here and there (mostly autumn leftovers), then back to business as usual. Even in the depths of January, you're still getting a generous **5–6 hours of sunshine** every day. **Yes, really.**
 
-Snow at sea level? Basically a myth. (Unless the rare "beast from the east" decides to crash the party like it did back in 2017 — but that's like winning the weather lottery in reverse.) You might spot a dusting up in the mountains, and the occasional inland frost for the dramatic flair, but down by the sea? Pure, palm-tree paradise.
+Snow at sea level? Basically a myth. (Unless the rare "beast from the east" decides to crash the party as it did back in 2017 — but that's like winning the weather lottery in reverse.) You might spot a dusting up in the mountains, and the occasional inland frost for the dramatic flair, but down by the sea? Pure, palm-tree paradise.
 
 Let these views convince you that winter here is anything but winter:
 
@@ -28,7 +28,7 @@ The beaches? They're yours. No towel wars, no crowds — just wide-open sand, ge
 
 Here's that serene winter beach magic in Calpe — pure peace:
 
-{{< image-float src="/images/513196288_10160766852101642_5303614460102755212_n.jpg" position="right" >}}Javea October Winter Sun {{< /image-float >}}
+{{< image-float src="/images/513196288_10160766852101642_5303614460102755212_n.jpg" position="right" >}}Javea October Winter Sun{{< /image-float >}}
 
 {{< clear >}}
 
