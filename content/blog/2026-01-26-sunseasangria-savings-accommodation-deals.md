@@ -15,7 +15,7 @@ The north (Dénia, Jávea/Xàbia, Calpe, Altea, Moraira, Benissa, Teulada) shine
 
 The northern Costa Blanca (Jávea/Xàbia, Denia, Altea, Calpe, Moraira) really comes into its own for budget travellers during off-season months like February — milder weather (around 12-18°C most days, plenty of sunny spells), far fewer crowds, and prices that can drop 30–50% from peak summer highs. Availability stays strong for comfortable, no-frills stays, making it ideal for a relaxed, wallet-friendly escape.
 
-***Check these options for cheap deals: https://expedia.tpo.lu/KNnwoiaW***
+***Check these options for cheap deals:** https://expedia.tpo.lu/KNnwoiaW*
 
 Focus on **self-catering apartments** or small guesthouses — these let you whip up simple meals with fresh market finds (olives, tomatoes, local oranges, bread from the bakery) and save €20–€30 a day on eating out. In Altea, charming old-town studios or apartments with sea glimpses often go for €45–€75/night; Calpe delivers great value near the port or Arenal beach area, with clean doubles around €50–€80. Jávea has solid options around the Arenal or old town for €60–€90, many with balconies perfect for that morning coffee ritual. Denia and quieter Moraira offer more relaxed, nature-close spots, sometimes dipping under €60 for basic but cosy places (think modern apartments with kitchenettes and parking).
 
