@@ -14,7 +14,7 @@ We rolled up around 6ish on Friday, and the place was buzzing but not chaotic â€
 
 The staff greeted us like old friends (super friendly, attentive without hovering). They happily explained the menu â€“ a beautiful mix of classic Indian favourites and authentic Nepalese twists that you don't find everywhere on the coast. Vegetarian/vegan/gluten-free options galore, too, which is always a win for our mixed group.
 
-{{< image-compare src1="/images/whatsapp-image-2026-03-09-at-09.18.09-12.jpeg" src2="/images/whatsapp-image-2026-03-09-at-09.18.09.jpeg" >}}
+{{< image-compare src1="/images/whatsapp-image-2026-03-09-at-09.18.09-12.jpeg" src2="/images/whatsapp-image-2026-03-09-at-09.18.09.jpeg" caption1="Lamb Shashlik, Lovely" caption2="Chicken Shashlik, Delicious " >}}
 
 **What We Ordered**
 
