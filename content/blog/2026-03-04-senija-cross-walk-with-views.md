@@ -29,7 +29,7 @@ You wind through those gorgeous ancient terraces — olives, vines, almonds, the
 
 Fancy a bit more adventure? Detour to **Cova de la Garganta** (the Throat Cave, once a hideout for 19th-century bandits — imagine the stories!). It's a short, scrambly drop down from the ridge (follow the obvious path, watch your footing on loose bits), leading into a cool, atmospheric cave with an old altar and quirky remnants. Respect the place — some folks leave little offerings — and enjoy the ridge views on the way back up.
 
-Then loop downhill — steeper in spots, crossing under the AP-7 via a tunnel (bit of an odd contrast to the rural peace), through more terraces and vineyards, back to the village. Paths are mostly straightforward, but a quick check on [Wikiloc](https://www.wikiloc.com/) (search "La Creu de Senija" or "Senija Cross and Cave") sorts any wobbles.
+Then loop downhill — steeper in spots, crossing under the AP-7 via a tunnel (bit of an odd contrast to the rural peace), through more terraces and vineyards, back to the village. Paths are mostly straightforward, but a quick check on [Wikiloc](https://www.wikiloc.com/hiking-trails/senija-cami-dels-bandolers-cova-de-la-garganta-tossal-del-moro-cim-dels-serrillars-penyes-blanques-64345439) (search "La Creu de Senija" or "Senija Cross and Cave") sorts any wobbles.
 
 ***Little Disclaimer: 
 "Links to external sites like Wikiloc are provided for convenience and reference. I don't control their content, and availability/terms may change."***
