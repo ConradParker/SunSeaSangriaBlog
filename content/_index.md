@@ -47,7 +47,7 @@ This little corner of the internet celebrates the **real** Costa Blanca North li
 
 • **Laugh out-loud tales from [Paws and Mischief](https://sunseasangria.com/series/test-story/)** and memories from our late rescue dog Snoopy (tiny terror turned accidental legend – he’ll always be basically famous in our hearts).
 
-• **SunSeaReads** – cosy book chats over virtual vino, because sharing a cracking read with like-minded souls is pure joy.
+• **[SunSeaBooks](https://sunseasangria.com/series/the-book-club/)** – cosy book chats over virtual vino, because sharing a cracking read with like-minded souls is pure joy.
 
 Most importantly… **this is your space too**. I want you to feel right at home – like you’ve just pulled up a chair on the terrace with a cold drink and the best company.
 
