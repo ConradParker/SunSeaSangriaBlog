@@ -14,6 +14,8 @@ We rolled up around 6ish on Friday, and the place was buzzing but not chaotic �
 
 The staff greeted us like old friends (super friendly, attentive without hovering). They happily explained the menu – a beautiful mix of classic Indian favourites and authentic Nepalese twists that you don't find everywhere on the coast. Vegetarian/vegan/gluten-free options galore, too, which is always a win for our mixed group.
 
+{{< image-compare src1="/images/whatsapp-image-2026-03-09-at-09.18.09-12.jpeg" src2="/images/whatsapp-image-2026-03-09-at-09.18.09.jpeg" >}}
+
 **What We Ordered**
 
 We went full family-style to try as much as possible – because why choose when you can have it all? Here's the delicious rundown from our Friday night feast:
