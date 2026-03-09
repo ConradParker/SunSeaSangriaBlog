@@ -44,7 +44,7 @@ Terra Mítica sits just outside Benidorm, super accessible from the Costa Blanca
 
 The park has plenty of parking on-site, so driving is hassle-free if you're renting a car for your trip.
 
-Terra Mítica isn't just rides—it's an experience packed with epic shows, cultural vibes, and that sunny Costa Blanca energy. Perfect for families, thrill-seekers, or anyone wanting a break from the beach. If you're heading to sunseasangria.com territory this spring/summer, add it to your list—you won't regret it!
+Terra Mítica isn't just rides—it's an experience packed with epic shows, cultural vibes, and that sunny Costa Blanca energy. Perfect for families, thrill-seekers, or anyone wanting a break from the beach. If you're heading to the Costa Blanca North  this spring/summer, add it to your list—you won't regret it!
 
 Got questions about combos, best rides, or nearby spots? Drop a comment below! 🌞🎢
 
