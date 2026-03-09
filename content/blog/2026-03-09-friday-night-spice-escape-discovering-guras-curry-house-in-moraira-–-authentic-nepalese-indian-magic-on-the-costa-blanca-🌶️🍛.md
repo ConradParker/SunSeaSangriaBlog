@@ -37,9 +37,7 @@ Portions? **Just Right** – we were stuffed. 
 
 Prices? Super reasonable for the quality (mains around €12–18, starters €5–8). We left very happy, bellies full, and already plotting our next visit.
 
-{{< image-compare src1="/images/whatsapp-image-2026-03-09-at-09.18.09.jpeg" src2="/images/whatsapp-image-2026-03-09-at-09.18.09-12.jpeg" caption1="Chicken Shashlik" caption2="Lamb Shashlik" >}}
-
-### **The Vibe & Why It Stands Out in Moraira**
+**Why We Choose Guras**
 
 Guras isn't flashy – it's authentic. No over-the-top decor, just genuine hospitality and food cooked with care. It's family-run (you can tell), and they nail that balance of spicy authenticity without overwhelming the Costa Blanca crowd. Reviews on TripAdvisor sit at a solid 4.7/5 with hundreds of happy diners saying the same: "Best Indian/Nepalese on the coast," "Better than UK takeaways," "Friendly service and fresh ingredients."
 
