@@ -29,7 +29,12 @@ You wind through those gorgeous ancient terraces — olives, vines, almonds, the
 
 Fancy a bit more adventure? Detour to **Cova de la Garganta** (the Throat Cave, once a hideout for 19th-century bandits — imagine the stories!). It's a short, scrambly drop down from the ridge (follow the obvious path, watch your footing on loose bits), leading into a cool, atmospheric cave with an old altar and quirky remnants. Respect the place — some folks leave little offerings — and enjoy the ridge views on the way back up.
 
-Then loop downhill — steeper in spots, crossing under the AP-7 via a tunnel (bit of an odd contrast to the rural peace), through more terraces and vineyards, back to the village. Paths are mostly straightforward, but a quick check on Wikiloc (search "La Creu de Senija" or "Senija Cross and Cave") sorts any wobbles.
+Then loop downhill — steeper in spots, crossing under the AP-7 via a tunnel (bit of an odd contrast to the rural peace), through more terraces and vineyards, back to the village. Paths are mostly straightforward, but a quick check on [Wikiloc](https://www.wikiloc.com/) (search "La Creu de Senija" or "Senija Cross and Cave") sorts any wobbles.
+
+***Little Disclaimer: 
+"Links to external sites like Wikiloc are provided for convenience and reference. I don't control their content, and availability/terms may change."***
+
+
 
 {{< image-compare src1="/images/img_8505.jpeg" src2="/images/img_8462.jpeg" caption1="Rocky paths along the way" caption2="Follow the signs, you will be fine" >}}
 
@@ -41,7 +46,7 @@ Then loop downhill — steeper in spots, crossing under the AP-7 via a tunnel (b
 * **Snacks/backpack:** Water (1–1.5L each in the warmth), hat, suncream, maybe a sarnie or fruit for the top. No cafes midway, but Senija's got a couple of cracking bars in the square for a cold beer, sangria, or tapa to toast those glowing calves.
 * **After-hike rewards:** Chill in the village plaza with a drink, or zip back to the coast for beach time. If you're peckish, the local grub's simple but spot-on.
 
-  {{< image-caption src="/images/img_8508.jpeg" >}}You made it, Senija Cross {{< /image-caption >}}
+  {{< image-caption src="/images/img_8508.jpeg" >}}You made it, Senija Cross{{< /image-caption >}}
 
 It's one of those walks that leaves you with sandy toes optional, but lungs full of fresh air, calves nicely worked, and stories to swap over tapas. Life here isn't just lounging (though we love a good lounger moment) — it's getting out, breathing it deep, and coming home grinning.
 
