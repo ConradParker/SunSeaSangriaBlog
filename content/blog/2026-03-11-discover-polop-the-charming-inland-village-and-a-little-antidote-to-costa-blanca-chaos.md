@@ -6,9 +6,6 @@ draft: false
 series: sss-town-guide
 comments: true
 ---
-
-
-
 Right Seekers – pull up a lounger (or that rickety garden chair we've all got tucked away), pour yourself a proper cold tinto de verano (or a cuppa if you're still clinging to British traditions), and let's chat about **Polop de la Marina**.
 
 It's only a cheeky 15–20 minute drive inland from Calpe – past the citrus fields and that massive rock formation that looks exactly like a lion having a post-tapas nap. Polop is the village version of stumbling on a quiet local pub on a bank holiday: no neon signs, no endless English breakfast offers, just whitewashed houses tumbling down the hillside, twisty streets made for getting pleasantly lost, and views that make you stop and think, "Blimey, this is why we actually moved here."
@@ -41,3 +38,5 @@ Keep it simple and local: bars around the fountain square do cracking tapas, fre
 * Make a day of it: Pair with Guadalest or the Algar falls, then head back for a lazy beach afternoon in Calpe.
 
 Polop's that gentle reminder the Costa Blanca isn't just sun, sea, and endless Brits abroad – it's these quiet inland spots where everything slows down, and you remember why you love it here. Have you been? Got a favourite hidden gem? Chuck a comment below – we read every one and might steal your tip for the next post (with full credit, promise!).
+
+{{< image-compare src1="/images/max-fdjnpn6qtai-unsplash.jpg" src2="undefined" caption1="Photo by Max Upsplash" >}}
