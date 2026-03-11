@@ -15,11 +15,11 @@ comments: true
 
 *From the latest forecasts, today's rain in Calpe and Polop is still hanging about with grey skies and the odd shower, but as soon as it finally stops (hopefully very soon – spring's itching to show up), I'll be legging it up to Polop with camera in hand for the post-rain sparkle shots: glistening cobbles, the Sleeping Lion looking extra majestic, and the 221-spout fountain doing its watery thing.*
 
-*You might even spot me wandering the old town or huffing up to the castle ruins – if you do, give us a wave and say hello! In the meantime, bear with the text-only vibes... think of it as building suspense, like waiting for the sun to break through after a soggy morning walk. Fresh pics (and probably a bonus Snoopy mischief series) coming very soon – watch this space! 🍹🥾*
+*You might even spot me wandering the old town or huffing up to the castle ruins – if you do, give us a wave and say hello! In the meantime, bear with the text-only vibes... think of it as building suspense, like waiting for the sun to break through after a soggy morning walk. Watch this space! 🍹🥾*
 
 
 
-Right Seekers – pull up a lounger (or that rickety garden chair we've all got tucked away), pour yourself a proper cold tinto de verano (or a cuppa if you're still clinging to British traditions), and let's chat about **Polop de la Marina**.
+Ok Sun Seekers – pull up a lounger (or that rickety garden chair we've all got tucked away), pour yourself a proper cold tinto de verano (or a cuppa if you're still clinging to British traditions), and let's chat about **Polop de la Marina**.
 
 It's only a cheeky 15–20 minute drive inland from Calpe – past the citrus fields and that massive rock formation that looks exactly like a lion having a post-tapas nap. Polop is the village version of stumbling on a quiet local pub on a bank holiday: no neon signs, no endless English breakfast offers, just whitewashed houses tumbling down the hillside, twisty streets made for getting pleasantly lost, and views that make you stop and think, "Blimey, this is why we actually moved here."
 
