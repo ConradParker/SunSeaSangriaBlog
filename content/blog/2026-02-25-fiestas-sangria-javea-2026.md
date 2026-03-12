@@ -2,7 +2,10 @@
 title: Fiestas & Sangria - Javea 2026
 date: 2026-02-25T08:51:00.000+01:00
 draft: false
-series: fiestas-sangria
+series: fiestas-sangria/_index
+image: /images/aafde207-066d-4df7-bc5f-7022753af4d1.jpg
+comments: true
+socials: true
 ---
 **Xàbia/Jávea 2026: Fiestas That Bring the Magic of Sea, Mountains, and Tradition to Life**
 
