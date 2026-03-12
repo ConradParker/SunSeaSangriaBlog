@@ -4,6 +4,9 @@ date: 2026-01-15T10:12:00.000+01:00
 draft: false
 description: The Chief Territory Marker
 series: test-story
+image: /images/whatsapp-image-2026-01-16-at-14.38.34.jpeg
+comments: true
+socials: true
 ---
 It was late July, my son’s birthday, and the apartment was buzzing with laughter and excitement. We’d spent the previous week on a full doggie shopping spree: the fluffiest bed money could buy, a shiny bowl, a lovely new collar and too many toys. We were equal parts thrilled and nervous—this tiny black-and-white tornado was about to crash-land into our lives.
 
