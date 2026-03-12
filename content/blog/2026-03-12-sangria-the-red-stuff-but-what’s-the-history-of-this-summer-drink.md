@@ -8,11 +8,11 @@ comments: true
 ---
 Picture this: You’re sprawled on a Villajoyosa balcony, the Med sparkling like it’s showing off, and there’s a sweating clay pitcher of sangria sweating harder than you after one too many “just one more” rounds. That glorious ruby liquid? It’s not just a drink — it’s basically Spain’s unofficial national mascot, born from necessity, laziness, and a serious love affair with fruit.
 
-The whole saga kicks off over **2,000 years ago** when the Romans rolled into the Iberian Peninsula like they owned the place (spoiler: they kinda did for a while). They planted vineyards faster than you can say “¡Salud!”, turning the countryside into one giant wine farm. But ancient water wasn’t exactly Evian — it was more “questionable puddle” territory. Solution? Mix the wine with water to make it drinkable, then toss in whatever herbs, spices, or random fruit was lying around the villa. Boom: proto-sangria. Practical genius. The Romans basically invented happy hour out of survival.
+The whole saga kicks off over **2,000 years ago** when the Romans rolled into the Iberian Peninsula like they owned the place (spoiler: they kinda did for a while). They planted vineyards faster than you can say “¡Salud!”, turning the countryside into one giant wine farm. But ancient water wasn’t exactly Evian — it was more “questionable puddle” territory. Solution? Mix the wine with water to make it drinkable, then toss in whatever herbs, spices, or random fruit were lying around the villa. Boom: proto-sangria. Practical genius. The Romans basically invented happy hour out of survival.
 
 {{< image-caption src="/images/img_8213.jpeg" >}}Altea & Sangria{{< /image-caption >}}
 
-Fast-forward through history’s plot twists. The Middle Ages brought regional spins, like in the Kingdom of León where folks sipped something called “Leonese lemonade” — basically wine jazzed up with citrus, sugar, and a bit of spice. It stuck around, especially during Holy Week processions (because nothing says penance like a sneaky glass of fruity wine).
+Fast-forward through history’s plot twists. The Middle Ages brought regional spins, like in the Kingdom of León, where folks sipped something called “Leonese lemonade” — basically wine jazzed up with citrus, sugar, and a bit of spice. It stuck around, especially during Holy Week processions (because nothing says penance like a sneaky glass of fruity wine).
 
 Then came the Moors in 711 AD. Wine production? Crickets. Alcohol took a long siesta while the peninsula went dry(ish). But once the Reconquista wrapped up in 1492 and wine flowed freely again, Spaniards got creative. Local oranges, lemons, apples, pears, maybe a cheeky splash of brandy — suddenly, the punch was back, brighter and bolder than ever.
 
@@ -46,7 +46,7 @@ So next time you’re nursing a sangria under that relentless Costa sun, tip you
 
 1 peach or nectarine (when in season – stone fruit screams Costa Blanca summer; chop into chunks)
 
-2–3 tbsp sugar or honey – to taste (start low; the fruit sweetens it naturally)
+2–3 tbsp sugar or honey (fresh honey from Jalon is the best) – to taste (start low; the fruit sweetens it naturally)
 
 1 cinnamon stick (optional but lovely – adds warm spice without going mulled-wine weird)
 
@@ -54,7 +54,7 @@ So next time you’re nursing a sangria under that relentless Costa sun, tip you
 
 Ice cubes (loads – this is Spain, not a weak British shandy)
 
-Optional extras: A handful of fresh strawberries or berries if you've got 'em, or a splash of orange blossom water for that floral Alicante garden feel
+Optional extras: A handful of fresh strawberries or berries if you've got 'em, or a splash of orange blossom water for that floral Alicante garden feel.
 
 **Lets Mix**
 
@@ -80,4 +80,4 @@ Batch it up for beach picnics or after a trail like Oltà – just transport in 
 
 Pair it with simple tapas: olives, manchego, jamón, or whatever's in the fridge after a market run.
 
-There you go – our house recipe, why not take a photo for @sunseasangriablog, tag us, and tell me how it goes (or what tweak you made – we love a variation!). What's your favourite fruit to chuck in? 🍹🥾 ¡Salud!
+There you go – our house recipe, why not take a photo and send it to **jo@sunseasolutions.com**, and tell me how it was (or what tweak you made – we love a variation!). What's your favourite fruit to chuck in? 🍹🥾 ¡Salud!
