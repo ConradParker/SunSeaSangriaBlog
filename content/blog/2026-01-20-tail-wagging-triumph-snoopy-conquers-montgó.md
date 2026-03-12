@@ -3,7 +3,8 @@ title: "Tail-Wagging Triumph: Snoopy Conquers Montgó "
 date: 2026-01-20T15:37:00.000+01:00
 draft: false
 description: ""
-series: test-story
+series: test-story/_index
+image: /images/img_8417.jpeg
 ---
  One ordinary lunchtime walk with my dog Snoopy turned into the most heart-stopping ordeal of my life—right on top of Montgó Mountain in Jávea.
 
