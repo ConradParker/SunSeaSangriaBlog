@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "dev": "start http://localhost:1313 & hugo server -D --navigateToChanged"
+  },
   "dependencies": {
     "@supabase/supabase-js": "^2.0.0",
     "resend": "^3.0.0"
