@@ -2,7 +2,10 @@
 title: "Snoopy’s Puppy Problem: Missy the Menace"
 date: 2026-02-09T20:50:00.000+01:00
 draft: false
-series: test-story
+series: test-story/_index
+image: /images/whatsapp-image-2026-02-13-at-18.08.58.jpeg
+comments: true
+socials: true
 ---
 **The Real Life of Pets** \
 \
