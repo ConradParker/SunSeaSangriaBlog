@@ -2,7 +2,10 @@
 title: "Sun Sea News Roundup 3rd March "
 date: 2026-03-03T10:25:00.000+01:00
 draft: false
-series: through-the-looking-glass
+series: through-the-looking-glass/_index
+image: /images/your-paragraph-text.jpg
+comments: true
+socials: true
 ---
 Hey there! Here's your fresh news roundup for this week (as of March 3, 2026) along the stunning Costa Blanca stretch from **Alicante** up to **Denia**, hitting all your spots: El Campello, Villajoyosa (La Vila Joiosa), Benidorm, Calpe, Moraira, Javea (Xàbia), Benissa, Teulada, and more – all wrapped in that classic **sun, sea, sangria** vibe. ☀️🌊🍷
 
