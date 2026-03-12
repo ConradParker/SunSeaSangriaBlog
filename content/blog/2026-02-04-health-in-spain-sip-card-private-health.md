@@ -2,7 +2,8 @@
 title: "Get Your SIP Together: Spain's SIP Card"
 date: 2026-02-04T13:53:00.000+01:00
 draft: false
-series: red-tape-tears
+series: red-tape-tears/_index
+image: /images/img_8430.jpeg
 ---
 ¡Salud! Do You Need a SIP Card in Spain? (And Should You Add Private Cover for Extra Peace of Mind?)
 
