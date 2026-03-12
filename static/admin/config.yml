@@ -11,6 +11,7 @@ collections:
   - name: "series"
     label: "Story Series"
     folder: "content/series"
+    path: "{{slug}}/_index"
     create: true
     slug: "{{slug}}"
     fields:
@@ -22,6 +23,14 @@ collections:
         widget: "image"
         required: false
         hint: "Main image shown at the top of the series page"
+      - label: "Display Order (Weight)"
+        name: "weight"
+        widget: "number"
+        default: 0
+        value_type: "int"
+        min: 0
+        required: false
+        hint: "Controls the order this series appears in filters and navigation. Lower numbers appear first (e.g. 10, 20, 30). Leave as 0 to sort alphabetically after all weighted series."
       - label: "Menu Weight (leave empty to hide from menu)"
         name: "menu_weight"
         widget: "number"
@@ -73,8 +82,8 @@ collections:
         widget: "image"
         required: false
         hint: "Thumbnail shown on the blog listing page (optional — series emoji used if empty)"
-      - { label: "Comments", name: "comments", widget: "boolean", default: false, hint: "Enable the comment section on this post" }
-      - { label: "Socials", name: "socials", widget: "boolean", default: false, hint: "Show the social links bar at the end of this post" }
+      - { label: "Comments", name: "comments", widget: "boolean", default: false, required: false, hint: "Enable the comment section on this post" }
+      - { label: "Socials", name: "socials", widget: "boolean", default: false, required: false, hint: "Show the social links bar at the end of this post" }
       - { label: "Body", name: "body", widget: "markdown" }
 
   - name: "pages"

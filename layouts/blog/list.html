@@ -1,6 +1,11 @@
 {{ define "main" }}
 {{- $page := . -}}
-{{- $seriesPages := sort (where site.RegularPages "Section" "series") ".Params.nav_weight" "asc" -}}
+
+{{/* Series ordering: weighted first by weight, then unweighted alphabetically */}}
+{{- $allTerms := (site.GetPage "/series").Pages -}}
+{{- $weighted := sort (where $allTerms ".Weight" "gt" 0) ".Weight" "asc" -}}
+{{- $unweighted := sort (where $allTerms ".Weight" "eq" 0) ".Title" "asc" -}}
+{{- $orderedSeries := $weighted | append $unweighted -}}
 
 <div class="blog-list" id="paige-page">
 
@@ -13,12 +18,11 @@
 
   <div class="blog-filter">
     <span class="blog-filter__label">Filter:</span>
-    <button class="blog-filter__btn active" data-filter="all">All</button>
-    {{- range $seriesPages -}}
-      {{- $s := . -}}
-      {{- with .Params.nav_emoji }}
-        <button class="blog-filter__btn" data-filter="{{ $s.File.ContentBaseName }}">{{ . }} {{ $s.Title }}</button>
-      {{- end -}}
+    <a class="blog-filter__btn active" href="/blog/">All</a>
+    {{- range $orderedSeries -}}
+      <a class="blog-filter__btn" href="{{ .RelPermalink }}">
+        {{- with .Params.nav_emoji }}{{ . }} {{ end -}}{{ .Title -}}
+      </a>
     {{- end }}
   </div>
 
@@ -29,9 +33,7 @@
       {{- $emoji := "📝" -}}
       {{- $color := "#999" -}}
       {{- $seriesTitle := "" -}}
-      {{- $seriesSlug := "" -}}
       {{- with .Params.series -}}
-        {{- $seriesSlug = . -}}
         {{- with site.GetPage (printf "/series/%s" .) -}}
           {{- $emoji = .Params.nav_emoji | default "📝" -}}
           {{- $color = .Params.nav_color | default "#999" -}}
@@ -43,8 +45,7 @@
       {{- $isHorizontal := ge $index 6 -}}
 
       <a class="blog-card{{ if $isFeatured }} blog-card--featured{{ end }}{{ if $isHorizontal }} blog-card--horizontal{{ end }}"
-         href="{{ .RelPermalink }}"
-         data-series="{{ $seriesSlug }}">
+         href="{{ .RelPermalink }}">
 
         {{- with .Params.image -}}
           {{- $imgPath := strings.TrimPrefix "/" . -}}
@@ -107,21 +108,4 @@
   {{ end }}
 
 </div>
-
-<script>
-(function() {
-  var btns = document.querySelectorAll('.blog-filter__btn');
-  var cards = document.querySelectorAll('.blog-card');
-  btns.forEach(function(btn) {
-    btn.addEventListener('click', function() {
-      btns.forEach(function(b) { b.classList.remove('active'); });
-      btn.classList.add('active');
-      var filter = btn.dataset.filter;
-      cards.forEach(function(card) {
-        card.style.display = (filter === 'all' || card.dataset.series === filter) ? '' : 'none';
-      });
-    });
-  });
-})();
-</script>
 {{ end }}

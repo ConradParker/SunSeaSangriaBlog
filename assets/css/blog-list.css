@@ -63,13 +63,23 @@
   font-weight: 600;
   cursor: pointer;
   transition: all 0.15s ease;
+  text-decoration: none;
+  display: inline-block;
+  white-space: nowrap;
 }
 
-.blog-filter__btn:hover,
+.blog-filter__btn:hover {
+  background: #f5f0ea;
+  border-color: #c8bfb4;
+  color: #1a0f0a;
+  text-decoration: none;
+}
+
 .blog-filter__btn.active {
   background: #c0392b;
   border-color: #c0392b;
   color: white;
+  text-decoration: none;
 }
 
 /* ==========================================================================
@@ -367,6 +377,301 @@ a.blog-page-btn:hover,
 }
 
 /* ==========================================================================
+   Series Page — Breadcrumb
+   ========================================================================== */
+
+.series-breadcrumb {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 14px 32px 0;
+  font-size: 11.5px;
+  font-family: 'Lato', sans-serif;
+  color: #aaa;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.series-breadcrumb a {
+  color: #c0392b;
+  text-decoration: none;
+}
+
+.series-breadcrumb a:hover {
+  text-decoration: underline;
+}
+
+.series-breadcrumb__current {
+  color: #1a0f0a;
+}
+
+/* ==========================================================================
+   Series Page — Hero Panel
+   ========================================================================== */
+
+.series-hero {
+  max-width: 1100px;
+  margin: 16px auto 0;
+  padding: 0 32px;
+}
+
+.series-hero-inner {
+  background: white;
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: 0 2px 16px rgba(0, 0, 0, 0.07);
+  display: grid;
+  grid-template-columns: 1fr 380px;
+}
+
+.series-hero-content {
+  padding: 32px 36px;
+}
+
+.series-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: #fff5f4;
+  border: 1.5px solid #f5c6c0;
+  border-radius: 20px;
+  padding: 4px 12px;
+  font-size: 10.5px;
+  font-weight: 700;
+  font-family: 'Lato', sans-serif;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #c0392b;
+  margin-bottom: 14px;
+}
+
+.series-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 28px;
+  font-weight: 700;
+  color: #1a0f0a;
+  line-height: 1.25;
+  margin-bottom: 14px;
+}
+
+.series-excerpt {
+  font-size: 14px;
+  line-height: 1.75;
+  color: #555;
+  font-family: 'Lato', sans-serif;
+  margin-bottom: 20px;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+
+.series-excerpt.expanded {
+  display: block;
+  -webkit-line-clamp: unset;
+}
+
+.series-expand-btn {
+  background: none;
+  border: none;
+  font-family: 'Lato', sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  color: #c0392b;
+  cursor: pointer;
+  padding: 0;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.series-expand-btn:hover {
+  text-decoration: underline;
+}
+
+.series-meta {
+  display: flex;
+  gap: 18px;
+  font-size: 12px;
+  font-family: 'Lato', sans-serif;
+  color: #999;
+  padding-top: 16px;
+  border-top: 1px solid #f5f0ea;
+}
+
+.series-meta strong {
+  color: #1a0f0a;
+}
+
+.series-hero-image {
+  background: linear-gradient(160deg, #d4956a 0%, #7a3010 60%, #3d1506 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 72px;
+  position: relative;
+  overflow: hidden;
+  min-height: 200px;
+}
+
+.series-hero-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.series-hero-image-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to right, rgba(255, 255, 255, 0.08) 0%, transparent 100%);
+}
+
+/* ==========================================================================
+   Series Page — Sibling Nav Strip
+   ========================================================================== */
+
+.series-nav {
+  max-width: 1100px;
+  margin: 20px auto 0;
+  padding: 0 32px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.series-nav::-webkit-scrollbar {
+  display: none;
+}
+
+.series-nav-label {
+  font-size: 11px;
+  color: #aaa;
+  font-family: 'Lato', sans-serif;
+  white-space: nowrap;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-right: 4px;
+}
+
+.series-nav-btn {
+  padding: 6px 14px;
+  border-radius: 20px;
+  border: 1.5px solid #e0d8ce;
+  background: white;
+  color: #555;
+  font-size: 12px;
+  font-family: 'Lato', sans-serif;
+  font-weight: 600;
+  cursor: pointer;
+  white-space: nowrap;
+  text-decoration: none;
+  transition: all 0.15s ease;
+  display: inline-block;
+}
+
+.series-nav-btn:hover {
+  background: #f5f0ea;
+  border-color: #c8bfb4;
+  color: #1a0f0a;
+  text-decoration: none;
+}
+
+.series-nav-btn.active {
+  background: #c0392b;
+  border-color: #c0392b;
+  color: white;
+}
+
+/* ==========================================================================
+   Series Page — Posts Section Header
+   ========================================================================== */
+
+.posts-header {
+  max-width: 1100px;
+  margin: 28px auto 0;
+  padding: 0 32px;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.posts-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 18px;
+  font-weight: 700;
+  color: #1a0f0a;
+}
+
+.posts-count {
+  font-size: 12px;
+  font-family: 'Lato', sans-serif;
+  color: #aaa;
+}
+
+.sort-select {
+  font-size: 12px;
+  font-family: 'Lato', sans-serif;
+  color: #555;
+  border: 1.5px solid #e0d8ce;
+  border-radius: 8px;
+  padding: 5px 10px;
+  background: white;
+  cursor: pointer;
+}
+
+/* ==========================================================================
+   Series Page — Responsive
+   ========================================================================== */
+
+@media (max-width: 700px) {
+  .series-hero-inner {
+    grid-template-columns: 1fr;
+  }
+
+  .series-hero-image {
+    order: -1;
+    min-height: 200px;
+  }
+
+  .series-hero-content {
+    padding: 24px 20px;
+  }
+
+  .series-title {
+    font-size: 22px;
+  }
+
+  .series-breadcrumb {
+    padding: 12px 16px 0;
+  }
+
+  .series-hero {
+    padding: 0 16px;
+  }
+
+  .series-nav {
+    padding: 0 16px;
+  }
+
+  .posts-header {
+    padding: 0 16px;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .series-meta {
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+}
+
+/* ==========================================================================
    Blog List — Reduced Motion
    ========================================================================== */
 
@@ -442,5 +747,53 @@ a.blog-page-btn:hover,
     background: #c0392b;
     border-color: #c0392b;
     color: white;
+  }
+
+  .series-hero-inner {
+    background: var(--bs-body-bg, #212529);
+  }
+
+  .series-title,
+  .series-breadcrumb__current,
+  .series-meta strong,
+  .posts-title {
+    color: var(--bs-body-color, #dee2e6);
+  }
+
+  .series-badge {
+    background: rgba(192, 57, 43, 0.15);
+    border-color: rgba(192, 57, 43, 0.3);
+  }
+
+  .series-excerpt {
+    color: #aaa;
+  }
+
+  .series-meta {
+    border-top-color: #333;
+  }
+
+  .series-nav-btn {
+    background: var(--bs-body-bg, #212529);
+    border-color: #444;
+    color: #aaa;
+  }
+
+  .series-nav-btn:hover {
+    background: #333;
+    border-color: #555;
+    color: #ddd;
+  }
+
+  .series-nav-btn.active {
+    background: #c0392b;
+    border-color: #c0392b;
+    color: white;
+  }
+
+  .sort-select {
+    background: var(--bs-body-bg, #212529);
+    border-color: #444;
+    color: #aaa;
   }
 }

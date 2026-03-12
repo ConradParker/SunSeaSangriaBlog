@@ -1,4 +1,4 @@
-{{- $seriesPages := where site.RegularPages "Section" "series" -}}
+{{- $seriesPages := (site.GetPage "/series").Pages -}}
 {{- $sorted := sort $seriesPages ".Params.nav_weight" "asc" -}}
 
 <section class="quick-nav">

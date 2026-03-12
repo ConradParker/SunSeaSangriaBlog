@@ -1,0 +1,165 @@
+{{ define "main" }}
+{{- $page := . -}}
+{{- $posts := .Pages.ByDate.Reverse -}}
+{{- $postCount := len $posts -}}
+{{- $emoji := .Params.nav_emoji | default "📚" -}}
+
+<div class="blog-list" id="paige-page">
+
+  {{/* ── 1. BREADCRUMB ── */}}
+  <div class="series-breadcrumb">
+    <a href="/blog/">Blog</a>
+    <span>›</span>
+    <span>Series</span>
+    <span>›</span>
+    <span class="series-breadcrumb__current">{{ $emoji }} {{ .Title }}</span>
+  </div>
+
+  {{/* ── 2. SERIES HERO ── */}}
+  <div class="series-hero">
+    <div class="series-hero-inner">
+      <div class="series-hero-content">
+        <div class="series-badge">📚 Series &nbsp;·&nbsp; {{ $postCount }} {{ cond (eq $postCount 1) "story" "stories" }}</div>
+        <h1 class="series-title">{{ $emoji }} {{ .Title }}</h1>
+        {{ with .Content }}
+          <div class="series-excerpt" id="series-excerpt">{{ . }}</div>
+          <button class="series-expand-btn" id="expand-btn">
+            <span id="expand-label">Read more</span> <span id="expand-arrow">↓</span>
+          </button>
+        {{ end }}
+        <div class="series-meta">
+          {{- with (index $posts 0) }}
+            <span>Updated <strong>{{ .Date.Format "January 2, 2006" }}</strong></span>
+            <span>·</span>
+          {{- end }}
+          <span><strong>{{ $postCount }}</strong> {{ cond (eq $postCount 1) "post" "posts" }}</span>
+        </div>
+      </div>
+      <div class="series-hero-image">
+        {{- with .Params.image -}}
+          {{- $imgPath := strings.TrimPrefix "/" . -}}
+          {{- with resources.Get $imgPath -}}
+            <img src="{{ .RelPermalink }}" alt="{{ $page.Title }}" />
+            <div class="series-hero-image-overlay"></div>
+          {{- else -}}
+            <span>{{ $emoji }}</span>
+          {{- end -}}
+        {{- else -}}
+          <span>{{ $emoji }}</span>
+        {{- end -}}
+      </div>
+    </div>
+  </div>
+
+  {{/* ── 3. SIBLING SERIES NAV STRIP ── */}}
+  {{- $allTerms := (site.GetPage "/series").Pages -}}
+  {{- $weighted := sort (where $allTerms ".Weight" "gt" 0) ".Weight" "asc" -}}
+  {{- $unweighted := sort (where $allTerms ".Weight" "eq" 0) ".Title" "asc" -}}
+  {{- $ordered := $weighted | append $unweighted -}}
+
+  <div class="series-nav">
+    <span class="series-nav-label">More series:</span>
+    {{- range $ordered }}
+      <a class="series-nav-btn{{ if eq .RelPermalink $page.RelPermalink }} active{{ end }}"
+         href="{{ .RelPermalink }}">
+        {{- with .Params.nav_emoji }}{{ . }} {{ end -}}{{ .Title }}
+      </a>
+    {{- end }}
+  </div>
+
+  {{/* ── 4. POSTS SECTION HEADER ── */}}
+  {{- $pager := .Paginate $posts 9 -}}
+  <div class="posts-header">
+    <div>
+      <span class="posts-title">Stories in this series</span>
+    </div>
+    <div style="display:flex;align-items:center;gap:10px;">
+      <span class="posts-count">{{ $postCount }} {{ cond (eq $postCount 1) "post" "posts" }} · Page {{ $pager.PageNumber }} of {{ $pager.TotalPages }}</span>
+      <select class="sort-select" disabled>
+        <option>Newest first ▾</option>
+      </select>
+    </div>
+  </div>
+
+  {{/* ── 5. CARD GRID ── */}}
+  <div class="blog-grid">
+    {{- range $index, $post := $pager.Pages -}}
+      {{- $isFeatured := and (eq $index 0) (eq $pager.PageNumber 1) -}}
+
+      <a class="blog-card{{ if $isFeatured }} blog-card--featured{{ end }}"
+         href="{{ .RelPermalink }}">
+
+        {{- with .Params.image -}}
+          {{- $imgPath := strings.TrimPrefix "/" . -}}
+          {{- with resources.Get $imgPath -}}
+            <img class="blog-card__thumb" src="{{ .RelPermalink }}" alt="" loading="lazy" />
+          {{- else -}}
+            <div class="blog-card__thumb-placeholder">{{ $emoji }}</div>
+          {{- end -}}
+        {{- else -}}
+          <div class="blog-card__thumb-placeholder">{{ $emoji }}</div>
+        {{- end -}}
+
+        <div class="blog-card__body">
+          <span class="blog-card__category" style="color: {{ $page.Params.nav_color | default "#c0392b" }};">{{ $emoji }} {{ $page.Title }}</span>
+          <div class="blog-card__title">{{ $post.Title }}</div>
+          <div class="blog-card__excerpt">
+            {{- with $post.Description -}}
+              {{ . }}
+            {{- else -}}
+              {{ $post.Summary | plainify | truncate 160 }}
+            {{- end -}}
+          </div>
+          <div class="blog-card__meta">
+            <span>{{ $post.Date.Format "January 2, 2006" }}</span>
+            <span class="blog-card__meta-dot"></span>
+            <span>{{ $post.ReadingTime }} min read</span>
+            <span class="blog-card__read-more">Read more →</span>
+          </div>
+        </div>
+      </a>
+    {{- end }}
+  </div>
+
+  {{/* ── 6. PAGINATION ── */}}
+  {{ if gt $pager.TotalPages 1 }}
+  <nav class="blog-pagination" aria-label="Series pagination">
+    {{- if $pager.HasPrev }}
+      <a class="blog-page-btn" href="{{ $pager.Prev.URL }}">‹</a>
+    {{- else }}
+      <span class="blog-page-btn disabled">‹</span>
+    {{- end -}}
+
+    {{- range $pager.Pagers }}
+      {{- if eq .PageNumber $pager.PageNumber }}
+        <span class="blog-page-btn active">{{ .PageNumber }}</span>
+      {{- else }}
+        <a class="blog-page-btn" href="{{ .URL }}">{{ .PageNumber }}</a>
+      {{- end -}}
+    {{- end -}}
+
+    {{- if $pager.HasNext }}
+      <a class="blog-page-btn" href="{{ $pager.Next.URL }}">›</a>
+    {{- else }}
+      <span class="blog-page-btn disabled">›</span>
+    {{- end }}
+  </nav>
+  {{ end }}
+
+</div>
+
+<script>
+(function() {
+  var btn = document.getElementById('expand-btn');
+  if (!btn) return;
+  var el = document.getElementById('series-excerpt');
+  var lbl = document.getElementById('expand-label');
+  var arr = document.getElementById('expand-arrow');
+  btn.addEventListener('click', function() {
+    var expanded = el.classList.toggle('expanded');
+    lbl.textContent = expanded ? 'Show less' : 'Read more';
+    arr.textContent = expanded ? '↑' : '↓';
+  });
+})();
+</script>
+{{ end }}
