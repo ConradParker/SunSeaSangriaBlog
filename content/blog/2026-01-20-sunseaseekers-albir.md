@@ -2,7 +2,7 @@
 title: Sun Sea Seekers - Albir
 date: 2026-01-20T14:40:00.000+01:00
 draft: false
-series: sss-town-guide
+series: sss-town-guide/_index
 comments: true
 ---
 
