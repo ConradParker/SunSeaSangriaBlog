@@ -2,6 +2,7 @@
 title: "Sun Sea Smiles "
 date: 2026-01-23T11:49:00.000+01:00
 draft: false
+image: 72196f70-c958-4594-8457-6e68aed9eb2b.jpg
 menu_weight: 10
 nav_emoji: 😊
 nav_desc: Holiday moments & smiles
