@@ -69,6 +69,7 @@ collections:
         required: false
         hint: "Optionally assign this post to a story series"
       - { label: "Comments", name: "comments", widget: "boolean", default: false, hint: "Enable the comment section on this post" }
+      - { label: "Socials", name: "socials", widget: "boolean", default: false, hint: "Show the social links bar at the end of this post" }
       - { label: "Body", name: "body", widget: "markdown" }
 
   - name: "pages"

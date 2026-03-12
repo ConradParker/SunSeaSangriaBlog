@@ -16,6 +16,11 @@ copyright = '© 2025 Sun Sea Sangria. All rights reserved.'
   disable_breadcrumbs = true
   disable_credit = true
 
+[params.social]
+  facebook = "https://www.facebook.com/profile.php?id=61587601735754"
+  instagram = "https://www.instagram.com/sunseasangriablog/"
+  x = "https://x.com/Sunseasangria25"
+
 [[menu.main]]
   name = "Home"
   url = "/"

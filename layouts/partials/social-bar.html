@@ -1,0 +1,9 @@
+{{ if .Params.socials }}
+<div class="social-bar">
+  <div>
+    <div class="social-bar__text">Enjoyed this? Come say hola! 👋</div>
+    <div class="social-bar__sub">Follow Sun Sea Sangria for more Costa Blanca life</div>
+  </div>
+  {{ partial "social-icons.html" (dict "class" "social-bar__links" "labels" true) }}
+</div>
+{{ end }}
