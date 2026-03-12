@@ -5,6 +5,7 @@ draft: false
 series: test-story/_index
 image: /images/img_8420.jpeg
 comments: true
+socials: true
 ---
 After those really tough months, Missy finally settled into her calmer self. She still loved her little game of sneaking Snoopy’s collar off whenever we weren’t looking—pure mischief, her way of saying “you’re still my big brother.” Snoopy, growing older and quieter, spent more days napping in the sunshine or curled up in his bed.
 
