@@ -2,7 +2,8 @@
 title: Sun Sea Sangria Savings - Accommodation Deals
 date: 2026-03-05T09:39:00.000+01:00
 draft: false
-series: sss-town-guide
+series: sss-town-guide/_index
+image: /images/44779526_10155459799526642_7060050061295616_n.jpg
 comments: true
 ---
 The **January blues** are fading fast, and with spring just around the corner, it's the perfect time to lock in some fantastic winter/early 2026 value stays on the **Costa Blanca North**! Since you're already sorted on cheap flights and transfers (from my last blog), let's focus on solid, affordable rooms, apartments, or hideaways. Winter months (Jan–March) bring the best deals here: milder crowds, lower prices (often 30–60% off peak summer rates), and plenty of sunny days for beach walks or inland exploring.
