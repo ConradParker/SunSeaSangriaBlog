@@ -1,8 +1,9 @@
 backend:
   name: git-gateway
   branch: main
-  publish_mode: editorial_workflow
   
+publish_mode: editorial_workflow
+
 site_url: https://sunseasangria.com
 
 media_folder: assets/images
