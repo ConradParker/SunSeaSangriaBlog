@@ -59,7 +59,7 @@
   flex-wrap: wrap;
   gap: 14px;
   max-width: 720px;
-  margin: 0 auto;
+  margin: 2rem auto 0;
   padding: 20px 24px;
   background: #fdf8f4;
   border: 1.5px solid #ede5d8;
@@ -119,7 +119,7 @@
 }
 
 .social-footer .social-icon {
-  color: rgba(0, 0, 0, 0.3);
+  color: rgba(0, 0, 0, 0.5);
   transition: color 0.18s ease, transform 0.18s ease;
   display: flex;
 }
