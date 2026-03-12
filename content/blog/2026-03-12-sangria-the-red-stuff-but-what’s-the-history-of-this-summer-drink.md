@@ -5,6 +5,7 @@ date: 2026-03-12T06:58:00.000+01:00
 draft: false
 series: sunseafoodie
 comments: true
+socials: true
 ---
 Picture this: You’re sprawled on a Villajoyosa balcony, the Med sparkling like it’s showing off, and there’s a sweating clay pitcher of sangria sweating harder than you after one too many “just one more” rounds. That glorious ruby liquid? It’s not just a drink — it’s basically Spain’s unofficial national mascot, born from necessity, laziness, and a serious love affair with fruit.
 
