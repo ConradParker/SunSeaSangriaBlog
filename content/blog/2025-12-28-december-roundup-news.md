@@ -3,6 +3,9 @@ title: "SunSeaNews - 28th December Roundup "
 date: 2025-12-28T11:07:00.000+01:00
 draft: false
 series: through-the-looking-glass
+image: /images/your-paragraph-text.jpg
+comments: true
+socials: true
 ---
 \
 Welcome to the very first edition of **SunSeaNews** – your weekly snapshot of what’s happening across **Costa Blanca North**. As we head into 2026, the coast is shaking off the festive sparkle and getting back to its sunny, laid-back rhythm. From the dramatic Peñón de Ifach towering over us here in Calpe, to the charming streets of Javea, Moraira, Altea, Benissa, Alfaz del Pi, and Benidorm’s lively energy, here’s the key news and nuggets that matter to expats, residents, and holidaymakers.
