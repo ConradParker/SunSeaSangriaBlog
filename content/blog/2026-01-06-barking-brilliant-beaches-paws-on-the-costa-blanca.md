@@ -2,7 +2,10 @@
 title: "Barking Brilliant Beaches: Paws on the Costa Blanca."
 date: 2026-01-06T15:59:00.000+01:00
 draft: false
+series: sss-town-guide
+image: /images/dog-friendly-beaches-2026.png
 comments: true
+socials: true
 ---
 If you thought the Costa Blanca was all about endless sun, sangria, and siestas... wait till you hear it's officially **Spain's #1 dog paradise**! This stretch of Alicante coastline is straight-up rolling out the red carpet (or should we say, the sandy welcome mat?) for your four-legged sidekick year-round. We're talking the **highest number of official dog-friendly beaches** in the whole country — because why should humans have all the fun splashing in those crystal-clear Mediterranean waves?
 
