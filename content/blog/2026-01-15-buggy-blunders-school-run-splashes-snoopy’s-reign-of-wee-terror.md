@@ -4,6 +4,9 @@ date: 2026-01-15T10:55:00.000+01:00
 draft: false
 description: Snoopys Reign of Wee Terror
 series: test-story
+image: /images/img_8418.jpeg
+comments: true
+socials: true
 ---
 \
 The summer flew by in a blur of apartment clean-ups, heroic potty-training attempts (with about 60% success rate—progress!), and the occasional sneaky “little splash” that reminded us perfection was still a work in progress. Then boom—early September arrived, kids were back-to-school bound, and suddenly we were part of the daily morning ritual.
