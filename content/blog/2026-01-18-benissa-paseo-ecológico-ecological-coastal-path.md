@@ -2,7 +2,7 @@
 title: "Sun Sea Hikes & Trails - Benissa Paseo Ecológico "
 date: 2026-01-18T17:58:00.000+01:00
 draft: false
-series: sunseatrails
+series: sunseatrails/_index
 image: /images/499.jpg
 comments: true
 socials: true
