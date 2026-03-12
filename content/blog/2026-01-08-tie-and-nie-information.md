@@ -3,7 +3,9 @@ title: "TIE Yourself in Knots No More: Renewing Your TIE in Spain 2026"
 date: 2026-01-08T10:01:00.000+01:00
 draft: false
 series: red-tape-tears
+image: /images/red-tape-and-tears.jpeg
 comments: true
+socials: true
 ---
 Hey there, fellow Costa Blanca expats! Let’s chat about renewing your **TIE (Tarjeta de Identidad de Extranjero)** — that essential plastic proof you’re legally settled in Spain.
 
