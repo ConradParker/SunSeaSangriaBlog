@@ -2,7 +2,8 @@
 title: "Beyond the Beach: The Delightful Detours In between Calpe, Javea & Denia"
 date: 2026-02-20T10:34:00.000+01:00
 draft: false
-series: sss-town-guide
+series: sss-town-guide/_index
+image: /images/504030086_10160670060386642_4888967349157086814_n.jpg
 comments: true
 ---
 
