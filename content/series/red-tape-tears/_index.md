@@ -2,7 +2,7 @@
 title: Red Tape & Tears
 date: 2026-02-05T08:50:00.000+01:00
 draft: false
-image: red-tape-and-tears.jpeg
+image: sunseasangria-instagram-post-45-1-.jpg
 menu_weight: 10
 nav_emoji: 📄
 nav_desc: Paperwork help & guides
