@@ -1,7 +1,7 @@
 ---
 title: "Sangria: The Red Stuff, but what’s the history of this summer drink?"
 date: 2026-03-12T06:58:00.000+01:00
-draft: true
+draft: false
 series: sunseafoodie
 comments: true
 ---
