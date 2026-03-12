@@ -3,7 +3,7 @@ title: Sun Sea Seekers - Javea/Xabia
 date: 2026-01-20T13:57:00.000+01:00
 draft: false
 description: ""
-series: sss-town-guide
+series: sss-town-guide/_index
 image: /images/513196288_10160766852101642_5303614460102755212_n-1-.jpg
 comments: true
 ---
