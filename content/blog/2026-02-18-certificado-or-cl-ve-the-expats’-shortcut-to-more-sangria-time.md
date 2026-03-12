@@ -2,7 +2,8 @@
 title: Certificado or Cl@ve? The Expats’ Shortcut to More Sangria Time
 date: 2026-02-18T10:24:00.000+01:00
 draft: false
-series: red-tape-tears
+series: red-tape-tears/_index
+image: /images/img_8435.jpeg
 ---
 The sun is shining, the sea is sparkling, and life on the Costa Blanca feels like one long holiday — until you need to tackle some official paperwork online. Suddenly, websites demand “identificación digital” or “certificado digital,” and it feels like bureaucracy has crashed your siesta!
 

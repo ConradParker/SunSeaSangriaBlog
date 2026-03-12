@@ -2,7 +2,8 @@
 title: "Sun Sea Seekers - Altea "
 date: 2026-01-20T14:33:00.000+01:00
 draft: false
-series: sss-town-guide
+series: sss-town-guide/_index
+image: /images/img_8120.jpeg
 comments: true
 ---
 SunSeaSeekers your now in one of my favourite gems of the Costa Blanca!

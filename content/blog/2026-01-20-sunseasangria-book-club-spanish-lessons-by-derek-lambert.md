@@ -3,7 +3,8 @@ title: Sun Sea Books - Spanish Lessons by Derek Lambert
 date: 2026-01-20T14:48:00.000+01:00
 draft: false
 description: Beginning a new life in Spain
-series: the-book-club
+series: the-book-club/_index
+image: /images/200573808_10157679066076642_5036628181701610731_n-1-.jpg
 comments: true
 ---
 Many years ago, while browsing the shelves of a cosy second-hand bookshop in Jávea, I stumbled upon a bright yellow cover that practically glowed with invitation. What an incredible find! I couldn't put down *Spanish Lessons: Beginning a New Life in Spain* by Derek Lambert once I realised it was a heartfelt, hilarious memoir set right in the rural heartlands around La Xara and Denia—places so familiar they felt like home.

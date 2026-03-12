@@ -3,8 +3,10 @@ title: "Discover Polop: The Charming Inland Village and a little Antidote to
   Costa Blanca Chaos"
 date: 2026-03-11T11:53:00.000+01:00
 draft: false
-series: sss-town-guide
+series: sss-town-guide/_index
+image: /images/max-fdjnpn6qtai-unsplash.jpg
 comments: true
+socials: true
 ---
 
 

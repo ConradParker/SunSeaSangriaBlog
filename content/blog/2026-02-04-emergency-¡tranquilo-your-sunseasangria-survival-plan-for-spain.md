@@ -2,6 +2,8 @@
 title: Emergency? ¡Tranquilo! Your SunSeaSangria Survival Plan for Spain
 date: 2026-02-04T13:55:00.000+01:00
 draft: false
+series: red-tape-tears/_index
+image: /images/red-tape-and-tears.jpeg
 ---
 **Ay Caramba! What Happens If You Have a Medical Emergency in Spain? (Don’t Panic—Here’s the Sunny-Side Scoop)**
 

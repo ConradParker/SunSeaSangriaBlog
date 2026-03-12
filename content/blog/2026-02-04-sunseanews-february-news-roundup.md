@@ -2,7 +2,8 @@
 title: Sun Sea News- February news roundup
 date: 2026-02-04T15:13:00.000+01:00
 draft: false
-series: through-the-looking-glass
+series: through-the-looking-glass/_index
+image: /images/your-paragraph-text.jpg
 ---
 **Spain’s February Buzz: Kid-Screen Bans, Migrant Wins, Epic Rain… and Pro Cycling Chaos on the Costa Blanca North**
 

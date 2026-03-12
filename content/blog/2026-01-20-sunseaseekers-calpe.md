@@ -2,7 +2,8 @@
 title: Sun Sea Seekers - Calpe
 date: 2026-01-20T14:20:00.000+01:00
 draft: false
-series: sss-town-guide
+series: sss-town-guide/_index
+image: /images/img_8127.jpeg
 comments: true
 ---
 **Let's get ready to adventure in Calpe.**

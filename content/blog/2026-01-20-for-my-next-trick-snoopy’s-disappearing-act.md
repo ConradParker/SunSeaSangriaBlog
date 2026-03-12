@@ -2,7 +2,10 @@
 title: For My Next Trick -Snoopy’s Disappearing Act
 date: 2026-01-20T16:02:00.000+01:00
 draft: false
-series: test-story
+series: test-story/_index
+image: /images/2624.jpg
+comments: true
+socials: true
 ---
 **The Great Snoopy Vanishing Act: The Boot Edition**
 

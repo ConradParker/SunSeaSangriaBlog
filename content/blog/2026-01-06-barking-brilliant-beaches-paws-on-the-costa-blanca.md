@@ -2,7 +2,7 @@
 title: "Barking Brilliant Beaches: Paws on the Costa Blanca."
 date: 2026-01-06T15:59:00.000+01:00
 draft: false
-series: sss-town-guide
+series: sss-town-guide/_index
 image: /images/dog-friendly-beaches-2026.png
 comments: true
 socials: true

@@ -2,7 +2,7 @@
 title: "Fiestas & Sangria "
 date: 2026-02-25T08:36:00.000+01:00
 draft: false
-image: /images/img_8483.jpeg
+image: 86028000-4616-4228-a59c-ec9e5936e64e-1-.jpg
 menu_weight: 10
 nav_emoji: 🎉
 nav_desc: Events & celebrations

@@ -3,8 +3,10 @@ title: "Friday Night Spice Escape: Discovering Guras Curry House in Moraira –
   Authentic Nepalese & Indian Magic on the Costa Blanca! 🌶️🍛"
 date: 2026-03-09T09:12:00.000+01:00
 draft: false
-series: sunseafoodie
+series: sunseafoodie/_index
+image: /images/whatsapp-image-2026-03-09-at-09.18.09-12.jpeg
 comments: true
+socials: true
 ---
 **Welcome to my very first restaurant review on Sun Sea Foodie! 🌶️🍛**
 

@@ -3,6 +3,8 @@ title: No More 'I'm Bored!' – Top Indoor Spots for Families on Rainy Costa Bla
 date: 2026-02-12T10:31:00.000+01:00
 draft: false
 description: Rainy Day Spots for Kids and the Family
+series: sss-town-guide/_index
+image: /images/img_8449.jpeg
 ---
 **Rainy Days on the Costa Blanca North: Fun Doesn’t Have to Stop!**
 

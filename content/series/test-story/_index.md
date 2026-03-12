@@ -2,7 +2,8 @@
 title: Paws & Mischief
 date: 2026-01-15T10:02:00.000+01:00
 draft: false
-image: ""
+image: ff743f48-11b4-410b-8263-be8cb667ccac.jpg
+weight: ""
 menu_weight: 10
 nav_emoji: 🐾
 nav_desc: Snoopy tales & memories
