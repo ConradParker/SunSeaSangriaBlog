@@ -10,7 +10,7 @@ Picture this: You’re sprawled on a Villajoyosa balcony, the Med sparkling like
 
 The whole saga kicks off over **2,000 years ago** when the Romans rolled into the Iberian Peninsula like they owned the place (spoiler: they kinda did for a while). They planted vineyards faster than you can say “¡Salud!”, turning the countryside into one giant wine farm. But ancient water wasn’t exactly Evian — it was more “questionable puddle” territory. Solution? Mix the wine with water to make it drinkable, then toss in whatever herbs, spices, or random fruit was lying around the villa. Boom: proto-sangria. Practical genius. The Romans basically invented happy hour out of survival.
 
-{{< image-caption src="/images/sunseasangria.png" >}}Altea & Sangria{{< /image-caption >}}
+{{< image-caption src="/images/img_8213.jpeg" >}}Altea & Sangria{{< /image-caption >}}
 
 Fast-forward through history’s plot twists. The Middle Ages brought regional spins, like in the Kingdom of León where folks sipped something called “Leonese lemonade” — basically wine jazzed up with citrus, sugar, and a bit of spice. It stuck around, especially during Holy Week processions (because nothing says penance like a sneaky glass of fruity wine).
 
