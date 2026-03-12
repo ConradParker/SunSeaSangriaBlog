@@ -22,7 +22,7 @@ The name “sangria” finally stuck around the **18th century**. Straight from 
 
 Traditional Spanish sangria keeps it real: a solid Spanish red (Rioja vibes, anyone?), chopped seasonal fruit (citrus in winter, peaches in summer), maybe a hint of sweetener or spirit, and served ice-cold from a pitcher that gets passed around like gossip. No blenders, no soda overload, no “fusion” nonsense unless you’re doing a white sangria or northern zurra with stone fruits. It’s humble, communal, and made for long, lazy afternoons where the conversation outlasts the ice.
 
-{{< image-caption src="/images/sunseasangria.png" >}}Cheers SunSeaSangria friends, Salud{{< /image-caption >}}
+{{< image-caption src="/images/img_8210.jpeg" >}}Cheers SunSeaSangria friends, Salud{{< /image-caption >}}
 
 Of course, the world caught on big time in the 20th century. Spain’s pavilion at the 1964 New York World’s Fair basically force-fed it to Americans, and boom — global obsession. But strip away the tourist versions with gummy bears and prosecco fireworks, and you’re left with the real deal: pure Iberian joy in a glass.
 
