@@ -68,6 +68,11 @@ collections:
         display_fields: ["title"]
         required: false
         hint: "Optionally assign this post to a story series"
+      - label: "Featured Image"
+        name: "image"
+        widget: "image"
+        required: false
+        hint: "Thumbnail shown on the blog listing page (optional — series emoji used if empty)"
       - { label: "Comments", name: "comments", widget: "boolean", default: false, hint: "Enable the comment section on this post" }
       - { label: "Socials", name: "socials", widget: "boolean", default: false, hint: "Show the social links bar at the end of this post" }
       - { label: "Body", name: "body", widget: "markdown" }

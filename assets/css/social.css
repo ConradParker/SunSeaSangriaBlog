@@ -132,6 +132,14 @@
 .social-footer .social-icon--facebook:hover  { color: #1877F2; }
 .social-footer .social-icon--x:hover         { color: #111; }
 
+/* Dark mode: footer icons need light colours */
+@media (prefers-color-scheme: dark) {
+  .social-footer .social-icon {
+    color: rgba(255, 255, 255, 0.4);
+  }
+  .social-footer .social-icon--x:hover { color: #fff; }
+}
+
 /* ==========================================================================
    Reduced motion
    ========================================================================== */

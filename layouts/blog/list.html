@@ -1,0 +1,127 @@
+{{ define "main" }}
+{{- $page := . -}}
+{{- $seriesPages := sort (where site.RegularPages "Section" "series") ".Params.nav_weight" "asc" -}}
+
+<div class="blog-list" id="paige-page">
+
+  <div class="blog-list__header">
+    <h1 class="blog-list__title">{{ .Title }}</h1>
+    {{ with .Description }}
+      <p class="blog-list__subtitle">{{ . }} 🍹</p>
+    {{ end }}
+  </div>
+
+  <div class="blog-filter">
+    <span class="blog-filter__label">Filter:</span>
+    <button class="blog-filter__btn active" data-filter="all">All</button>
+    {{- range $seriesPages -}}
+      {{- $s := . -}}
+      {{- with .Params.nav_emoji }}
+        <button class="blog-filter__btn" data-filter="{{ $s.File.ContentBaseName }}">{{ . }} {{ $s.Title }}</button>
+      {{- end -}}
+    {{- end }}
+  </div>
+
+  {{- $pager := .Paginate (.Pages.ByDate.Reverse) 9 -}}
+
+  <div class="blog-grid" id="blog-grid">
+    {{- range $index, $post := $pager.Pages -}}
+      {{- $emoji := "📝" -}}
+      {{- $color := "#999" -}}
+      {{- $seriesTitle := "" -}}
+      {{- $seriesSlug := "" -}}
+      {{- with .Params.series -}}
+        {{- $seriesSlug = . -}}
+        {{- with site.GetPage (printf "/series/%s" .) -}}
+          {{- $emoji = .Params.nav_emoji | default "📝" -}}
+          {{- $color = .Params.nav_color | default "#999" -}}
+          {{- $seriesTitle = .Title -}}
+        {{- end -}}
+      {{- end -}}
+
+      {{- $isFeatured := and (eq $index 0) (eq $pager.PageNumber 1) -}}
+      {{- $isHorizontal := ge $index 6 -}}
+
+      <a class="blog-card{{ if $isFeatured }} blog-card--featured{{ end }}{{ if $isHorizontal }} blog-card--horizontal{{ end }}"
+         href="{{ .RelPermalink }}"
+         data-series="{{ $seriesSlug }}">
+
+        {{- with .Params.image -}}
+          {{- $imgPath := strings.TrimPrefix "/" . -}}
+          {{- with resources.Get $imgPath -}}
+            <img class="blog-card__thumb" src="{{ .RelPermalink }}" alt="" loading="lazy" />
+          {{- else -}}
+            <div class="blog-card__thumb-placeholder">{{ $emoji }}</div>
+          {{- end -}}
+        {{- else -}}
+          <div class="blog-card__thumb-placeholder">{{ $emoji }}</div>
+        {{- end -}}
+
+        <div class="blog-card__body">
+          {{- with $seriesTitle }}
+            <span class="blog-card__category" style="color: {{ $color }};">{{ $emoji }} {{ . }}</span>
+          {{- end }}
+          <div class="blog-card__title">{{ $post.Title }}</div>
+          <div class="blog-card__excerpt">
+            {{- with $post.Description -}}
+              {{ . }}
+            {{- else -}}
+              {{ $post.Summary | plainify | truncate 160 }}
+            {{- end -}}
+          </div>
+          <div class="blog-card__meta">
+            <span>{{ $post.Date.Format "January 2, 2006" }}</span>
+            <span class="blog-card__meta-dot"></span>
+            <span>{{ $post.ReadingTime }} min read</span>
+            {{- if not $isHorizontal }}
+              <span class="blog-card__read-more">Read more →</span>
+            {{- end }}
+          </div>
+        </div>
+      </a>
+    {{- end }}
+  </div>
+
+  {{ if gt $pager.TotalPages 1 }}
+  <nav class="blog-pagination" aria-label="Blog pagination">
+    {{- if $pager.HasPrev }}
+      <a class="blog-page-btn" href="{{ $pager.Prev.URL }}">‹</a>
+    {{- else }}
+      <span class="blog-page-btn disabled">‹</span>
+    {{- end -}}
+
+    {{- range $pager.Pagers }}
+      {{- if eq .PageNumber $pager.PageNumber }}
+        <span class="blog-page-btn active">{{ .PageNumber }}</span>
+      {{- else }}
+        <a class="blog-page-btn" href="{{ .URL }}">{{ .PageNumber }}</a>
+      {{- end -}}
+    {{- end -}}
+
+    {{- if $pager.HasNext }}
+      <a class="blog-page-btn" href="{{ $pager.Next.URL }}">›</a>
+    {{- else }}
+      <span class="blog-page-btn disabled">›</span>
+    {{- end }}
+  </nav>
+  {{ end }}
+
+</div>
+
+<script>
+(function() {
+  var btns = document.querySelectorAll('.blog-filter__btn');
+  var cards = document.querySelectorAll('.blog-card');
+  btns.forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      btns.forEach(function(b) { b.classList.remove('active'); });
+      btn.classList.add('active');
+      var filter = btn.dataset.filter;
+      cards.forEach(function(card) {
+        card.style.display = (filter === 'all' || card.dataset.series === filter) ? '' : 'none';
+      });
+    });
+  });
+})();
+</script>
+{{ end }}

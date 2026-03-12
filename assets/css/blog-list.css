@@ -1,0 +1,446 @@
+/* ==========================================================================
+   Blog List — Page Header
+   ========================================================================== */
+
+.blog-list {
+  background-color: #faf8f5;
+}
+
+.blog-list__header {
+  background: white;
+  border-bottom: 1px solid #ede5d8;
+  padding: 36px 32px 28px;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.blog-list__title {
+  font-family: 'Playfair Display', serif;
+  font-size: 30px;
+  font-weight: 700;
+  color: #1a0f0a;
+  margin-bottom: 6px;
+}
+
+.blog-list__subtitle {
+  font-size: 14px;
+  color: #888;
+  font-family: 'Lato', sans-serif;
+  margin: 0;
+}
+
+/* ==========================================================================
+   Blog List — Category Filter
+   ========================================================================== */
+
+.blog-filter {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 20px 32px 0;
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.blog-filter__label {
+  font-size: 11px;
+  color: #aaa;
+  font-family: 'Lato', sans-serif;
+  margin-right: 4px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.blog-filter__btn {
+  padding: 6px 14px;
+  border-radius: 20px;
+  border: 1.5px solid #e0d8ce;
+  background: white;
+  color: #555;
+  font-size: 12px;
+  font-family: 'Lato', sans-serif;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.blog-filter__btn:hover,
+.blog-filter__btn.active {
+  background: #c0392b;
+  border-color: #c0392b;
+  color: white;
+}
+
+/* ==========================================================================
+   Blog List — Card Grid
+   ========================================================================== */
+
+.blog-grid {
+  max-width: 1100px;
+  margin: 24px auto 0;
+  padding: 0 32px 48px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+}
+
+/* ==========================================================================
+   Blog List — Card
+   ========================================================================== */
+
+.blog-card {
+  background: white;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.07);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  color: inherit;
+}
+
+.blog-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.13);
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Thumbnail */
+.blog-card__thumb {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  display: block;
+  background: #e8e0d4;
+}
+
+.blog-card__thumb-placeholder {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  background: linear-gradient(135deg, #ede5d8 0%, #d4c4b0 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 36px;
+}
+
+/* Card body */
+.blog-card__body {
+  padding: 18px 20px 20px;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+/* Category badge */
+.blog-card__category {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 10.5px;
+  font-weight: 700;
+  font-family: 'Lato', sans-serif;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: #c0392b;
+  margin-bottom: 8px;
+}
+
+/* Title */
+.blog-card__title {
+  font-family: 'Playfair Display', serif;
+  font-size: 15.5px;
+  font-weight: 700;
+  line-height: 1.35;
+  color: #1a0f0a;
+  margin-bottom: 10px;
+}
+
+/* Excerpt */
+.blog-card__excerpt {
+  font-size: 13px;
+  line-height: 1.65;
+  color: #666;
+  font-family: 'Lato', sans-serif;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  flex: 1;
+  margin-bottom: 14px;
+}
+
+/* Meta */
+.blog-card__meta {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 11.5px;
+  color: #aaa;
+  font-family: 'Lato', sans-serif;
+  margin-top: auto;
+  border-top: 1px solid #f5f0ea;
+  padding-top: 12px;
+}
+
+.blog-card__meta-dot {
+  width: 3px;
+  height: 3px;
+  background: #ccc;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.blog-card__read-more {
+  margin-left: auto;
+  font-size: 11.5px;
+  font-weight: 700;
+  color: #c0392b;
+  font-family: 'Lato', sans-serif;
+  white-space: nowrap;
+}
+
+/* ==========================================================================
+   Blog List — Featured Card (spans 2 columns)
+   ========================================================================== */
+
+.blog-card--featured {
+  grid-column: span 2;
+}
+
+.blog-card--featured .blog-card__thumb,
+.blog-card--featured .blog-card__thumb-placeholder {
+  aspect-ratio: 16 / 7;
+}
+
+.blog-card--featured .blog-card__body {
+  padding: 22px 26px 24px;
+}
+
+.blog-card--featured .blog-card__title {
+  font-size: 20px;
+  margin-bottom: 12px;
+}
+
+.blog-card--featured .blog-card__excerpt {
+  -webkit-line-clamp: 3;
+}
+
+/* ==========================================================================
+   Blog List — Horizontal Card (compact)
+   ========================================================================== */
+
+.blog-card--horizontal {
+  flex-direction: row;
+  align-items: stretch;
+}
+
+.blog-card--horizontal .blog-card__thumb {
+  width: 100px;
+  min-width: 100px;
+  aspect-ratio: unset;
+  border-radius: 0;
+}
+
+.blog-card--horizontal .blog-card__thumb-placeholder {
+  width: 100px;
+  min-width: 100px;
+  aspect-ratio: unset;
+  border-radius: 0;
+  font-size: 28px;
+}
+
+.blog-card--horizontal .blog-card__body {
+  padding: 14px 16px;
+}
+
+.blog-card--horizontal .blog-card__title {
+  font-size: 13.5px;
+}
+
+.blog-card--horizontal .blog-card__excerpt {
+  -webkit-line-clamp: 2;
+}
+
+/* ==========================================================================
+   Blog List — Pagination
+   ========================================================================== */
+
+.blog-pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 6px;
+  padding: 0 32px 48px;
+}
+
+.blog-page-btn {
+  width: 36px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  border: 1.5px solid #e0d8ce;
+  background: white;
+  font-size: 13px;
+  font-family: 'Lato', sans-serif;
+  font-weight: 600;
+  color: #555;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  text-decoration: none;
+}
+
+a.blog-page-btn:hover,
+.blog-page-btn.active {
+  background: #c0392b;
+  border-color: #c0392b;
+  color: white;
+  text-decoration: none;
+}
+
+.blog-page-btn.disabled {
+  opacity: 0.35;
+  pointer-events: none;
+  cursor: default;
+}
+
+/* ==========================================================================
+   Blog List — Responsive
+   ========================================================================== */
+
+@media (max-width: 900px) {
+  .blog-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .blog-card--featured {
+    grid-column: span 2;
+  }
+
+  .blog-card--horizontal {
+    flex-direction: column;
+  }
+
+  .blog-card--horizontal .blog-card__thumb,
+  .blog-card--horizontal .blog-card__thumb-placeholder {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    min-width: unset;
+  }
+}
+
+@media (max-width: 600px) {
+  .blog-grid {
+    grid-template-columns: 1fr;
+    padding: 0 16px 32px;
+  }
+
+  .blog-card--featured {
+    grid-column: span 1;
+  }
+
+  .blog-card--featured .blog-card__title {
+    font-size: 17px;
+  }
+
+  .blog-list__header {
+    padding: 24px 16px 20px;
+  }
+
+  .blog-list__title {
+    font-size: 24px;
+  }
+
+  .blog-filter {
+    padding: 16px 16px 0;
+  }
+
+  .blog-pagination {
+    padding: 0 16px 32px;
+  }
+}
+
+/* ==========================================================================
+   Blog List — Reduced Motion
+   ========================================================================== */
+
+@media (prefers-reduced-motion: reduce) {
+  .blog-card,
+  .blog-filter__btn,
+  .blog-page-btn {
+    transition: none;
+  }
+}
+
+/* ==========================================================================
+   Blog List — Dark Mode
+   ========================================================================== */
+
+@media (prefers-color-scheme: dark) {
+  .blog-list__header {
+    background: var(--bs-body-bg, #212529);
+    border-bottom-color: #333;
+  }
+
+  .blog-list__title {
+    color: var(--bs-body-color, #dee2e6);
+  }
+
+  .blog-card {
+    background: var(--bs-body-bg, #212529);
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.2);
+  }
+
+  .blog-card:hover {
+    box-shadow: 0 8px 28px rgba(0, 0, 0, 0.3);
+  }
+
+  .blog-card__title {
+    color: var(--bs-body-color, #dee2e6);
+  }
+
+  .blog-card__excerpt {
+    color: #aaa;
+  }
+
+  .blog-card__meta {
+    border-top-color: #333;
+    color: #888;
+  }
+
+  .blog-card__thumb-placeholder {
+    background: linear-gradient(135deg, #3a3a3a 0%, #2a2a2a 100%);
+  }
+
+  .blog-filter__btn {
+    background: var(--bs-body-bg, #212529);
+    border-color: #444;
+    color: #aaa;
+  }
+
+  .blog-filter__btn:hover,
+  .blog-filter__btn.active {
+    background: #c0392b;
+    border-color: #c0392b;
+    color: white;
+  }
+
+  .blog-page-btn {
+    background: var(--bs-body-bg, #212529);
+    border-color: #444;
+    color: #aaa;
+  }
+
+  a.blog-page-btn:hover,
+  .blog-page-btn.active {
+    background: #c0392b;
+    border-color: #c0392b;
+    color: white;
+  }
+}
