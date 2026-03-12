@@ -4,8 +4,8 @@ date: 2026-02-17T10:38:00.000+01:00
 draft: false
 series: test-story/_index
 image: /images/whatsapp-image-2026-02-14-at-14.50.00.jpeg
-comments: false
-socials: false
+comments: true
+socials: true
 ---
 **The Great Snoopy Supermarket Snatch: The Tree-Tied Twist!**
 
