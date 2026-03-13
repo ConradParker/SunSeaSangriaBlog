@@ -3,7 +3,7 @@ title: Sun Sea Seekers - Moraira
 date: 2026-01-20T14:12:00.000+01:00
 draft: false
 description: ""
-series: sss-town-guide/_index
+series: sss-town-guide
 comments: true
 ---
 **Sun Sea Seekers, are you ready to explore the next town?** 

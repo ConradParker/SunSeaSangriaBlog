@@ -2,7 +2,7 @@
 title: "TIE Yourself in Knots No More: Renewing Your TIE in Spain 2026"
 date: 2026-01-08T10:01:00.000+01:00
 draft: false
-series: red-tape-tears/_index
+series: red-tape-tears
 image: /images/red-tape-and-tears.jpeg
 comments: true
 socials: true

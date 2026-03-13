@@ -3,7 +3,7 @@ title: "Pitcher Perfect: How Sangria Went from Ancient Survival Hack to Costa
   Blanca Royalty"
 date: 2026-03-12T06:58:00.000+01:00
 draft: false
-series: sunseafoodie/_index
+series: sunseafoodie
 image: /images/sunseasangria.png
 comments: true
 socials: true

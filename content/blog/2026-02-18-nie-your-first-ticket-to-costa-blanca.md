@@ -2,7 +2,7 @@
 title: "NIE: Your First Ticket to Costa Blanca "
 date: 2026-02-18T10:48:00.000+01:00
 draft: false
-series: red-tape-tears/_index
+series: red-tape-tears
 image: /images/tie-2026.png
 ---
 ¡Salud, sun-seekers and future Costa Blanca adventurers! 🌞🍹

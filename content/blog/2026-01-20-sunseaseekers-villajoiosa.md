@@ -2,7 +2,7 @@
 title: Sun Sea Seekers - Villajoiosa
 date: 2026-03-05T10:09:00.000+01:00
 draft: false
-series: sss-town-guide/_index
+series: sss-town-guide
 image: /images/untitled-design-9-.png
 comments: true
 ---

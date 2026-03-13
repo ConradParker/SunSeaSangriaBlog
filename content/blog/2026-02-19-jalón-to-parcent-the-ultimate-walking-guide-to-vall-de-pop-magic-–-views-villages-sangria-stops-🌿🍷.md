@@ -4,7 +4,7 @@ title: "Inland Costa Blanca Magic: Exploring the Towns of the Jalon Valley
 date: 2026-02-19T09:53:00.000+01:00
 draft: false
 description: Escape those crowds for Vine trees and Vino
-series: sss-town-guide/_index
+series: sss-town-guide
 image: /images/132526649_10157315403026642_3068555832095742196_n.jpg
 comments: true
 ---

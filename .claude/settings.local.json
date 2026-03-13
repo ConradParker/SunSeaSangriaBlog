@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Bash(hugo:*)",
-      "Bash(cat:*)"
+      "Bash(cat:*)",
+      "Bash(grep \"^series:\" /c/Users/Conrad/Documents/Code/SSS/SunSeaSangriaBlog/content/blog/*.md | sort -u -t: -k3)"
     ]
   }
 }

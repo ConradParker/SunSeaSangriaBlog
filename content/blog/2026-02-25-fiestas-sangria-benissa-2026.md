@@ -2,7 +2,7 @@
 title: Fiestas & Sangria - Benissa 2026
 date: 2026-02-25T09:16:00.000+01:00
 draft: false
-series: fiestas-sangria/_index
+series: fiestas-sangria
 image: /images/aafde207-066d-4df7-bc5f-7022753af4d1.jpg
 comments: true
 socials: true

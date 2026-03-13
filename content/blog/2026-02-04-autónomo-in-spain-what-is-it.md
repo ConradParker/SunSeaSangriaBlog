@@ -2,7 +2,7 @@
 title: "So You Want to Be an Autónomo in the Costa Blanca? "
 date: 2026-02-04T09:28:00.000+01:00
 draft: false
-series: red-tape-tears/_index
+series: red-tape-tears
 image: /images/red-tape-and-tears.jpeg
 ---
 **So You Want to Be an Autónomo in the Costa Blanca North? Let’s Talk Sun, Sangria, and Surviving the Paperwork! 🌞🍷**
