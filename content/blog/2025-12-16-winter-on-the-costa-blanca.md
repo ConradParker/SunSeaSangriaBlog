@@ -10,7 +10,7 @@ socials: true
 ---
 Hey there, sunshine seekers! 
 
-If you're dreaming of ditching the dark, dreary winter blues (you know, the ones where your coat becomes a permanent second skin), let me share something magical: **winter in the northern Costa Blanca.**
+If you're dreaming of ditching the dark, dreary winter blues (you know, the ones where your coat becomes a permanent second skin), let me share something magical: **winter in the northern Costa Blanca**
 
 Picture this: while half the continent is buried under scarves and hot chocolate emergencies, towns like **Denia**, **Jávea (Xàbia)**, **Altea**, and **Calpe** are casually serving up sweater-weather perfection. Thanks to the Mediterranean hugging the coast and those protective mountain guardians (hello, Montgó and the Altea Hills!), the weather here is like that chill friend who never lets things get too dramatic.
 
