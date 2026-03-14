@@ -2,7 +2,7 @@
 title: "Sierra de Oltà: Next on the List – Peñón Views Without the Climb"
 date: 2026-03-05T08:50:00.000+01:00
 draft: false
-series: sunseatrails/_index
+series: sunseatrails
 image: /images/image-5-.jpg
 comments: true
 socials: true

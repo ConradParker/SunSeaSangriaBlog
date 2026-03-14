@@ -4,7 +4,7 @@ date: 2026-01-15T18:38:00.000+01:00
 draft: false
 description: "Ultimate Dénia Guide on Sun Sea Sangria: Best Beaches, Bites &
   When the Fiestas Explode"
-series: sss-town-guide/_index
+series: sss-town-guide
 image: /images/514002760_10160766851561642_6045646313777210665_n.jpg
 comments: true
 socials: true

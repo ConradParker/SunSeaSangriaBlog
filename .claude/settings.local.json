@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Bash(hugo:*)",
-      "Bash(cat:*)"
+      "Bash(cat:*)",
+      "Bash(find content/blog -name \"*.md\" -exec grep -l \"series:.*/_index\" {} \\\\; | while read f; do sed -i 's|series: \\\\\\(.*\\\\\\)/_index|series: \\\\1|' \"$f\"; done && echo \"Done. Verifying...\" && grep -rc \"/_index\" content/blog/ --include=\"*.md\" | grep -v \":0$\" || echo \"No /_index references remaining in blog posts\")"
     ]
   }
 }

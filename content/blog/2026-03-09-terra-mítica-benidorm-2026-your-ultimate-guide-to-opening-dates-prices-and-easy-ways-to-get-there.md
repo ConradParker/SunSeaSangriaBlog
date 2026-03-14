@@ -3,7 +3,7 @@ title: "Terra Mítica Benidorm 2026: Your Ultimate Guide to Opening Dates,
   Prices, and Easy Ways to Get There"
 date: 2026-03-09T14:43:00.000+01:00
 draft: false
-series: sss-town-guide/_index
+series: sss-town-guide
 image: /images/terramitica.jfif
 comments: true
 socials: true

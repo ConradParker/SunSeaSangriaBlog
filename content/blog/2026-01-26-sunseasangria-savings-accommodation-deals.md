@@ -2,7 +2,7 @@
 title: Sun Sea Sangria Savings - Accommodation Deals
 date: 2026-03-05T09:39:00.000+01:00
 draft: false
-series: sss-town-guide/_index
+series: sss-town-guide
 image: /images/44779526_10155459799526642_7060050061295616_n.jpg
 comments: true
 ---

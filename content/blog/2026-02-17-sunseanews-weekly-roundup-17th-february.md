@@ -2,7 +2,7 @@
 title: Sun Sea News - Weekly 17th February Roundup
 date: 2026-02-17T09:33:00.000+01:00
 draft: false
-series: through-the-looking-glass/_index
+series: through-the-looking-glass
 image: /images/your-paragraph-text.jpg
 ---
 This week (mid-February 2026), along the Costa Blanca from Denia down to Alicante, things are buzzing with carnival vibes, unseasonably warm weather, and a few local headlines keeping everyone chatting.

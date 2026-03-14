@@ -3,7 +3,7 @@ title: "Costa Blanca Winter Guide: Sunny Days, Fewer Crowds & Year-Round Magic"
 date: 2025-12-16T10:14:00.000+01:00
 draft: false
 description: ""
-series: sss-town-guide/_index
+series: sss-town-guide
 image: /images/417.jpg
 comments: true
 socials: true

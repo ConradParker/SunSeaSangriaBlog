@@ -3,7 +3,7 @@ title: "Furry Friends & Red Tape: Your Sunny Guide to Importing Pets to the
   Costa Blanca in 2026"
 date: 2026-03-04T09:33:00.000+01:00
 draft: false
-series: red-tape-tears/_index
+series: red-tape-tears
 image: /images/03a46b88-8ef5-4079-bef6-e58da68ee713.jpg
 comments: true
 socials: true

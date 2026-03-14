@@ -2,7 +2,7 @@
 title: School Education in Spain - Where to Start
 date: 2026-01-28T16:01:00.000+01:00
 draft: false
-series: red-tape-tears/_index
+series: red-tape-tears
 image: /images/img_8443.jpeg
 ---
 **Choosing the Spanish Education System**

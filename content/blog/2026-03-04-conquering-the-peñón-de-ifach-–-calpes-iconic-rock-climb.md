@@ -2,7 +2,7 @@
 title: Conquering the Peñón de Ifach – Calpe's Iconic Rock Climb
 date: 2026-03-04T16:15:00.000+01:00
 draft: false
-series: sunseatrails/_index
+series: sunseatrails
 image: /images/2827.jpg
 comments: true
 socials: true

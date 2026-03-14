@@ -2,7 +2,7 @@
 title: Sun Sea News - January 23rd Roundup
 date: 2026-01-23T11:00:00.000+01:00
 draft: false
-series: through-the-looking-glass/_index
+series: through-the-looking-glass
 image: /images/your-paragraph-text.jpg
 ---
 What a rollercoaster of a week it’s been in the news! From Storm Harry whipping up chaos along the coast with wild winds, heavy rain, and massive waves (thankfully we’ve dodged the worst of the flooding up here), to the heartbreaking train crash in southern Spain that’s left everyone shaken—it’s been one of those weeks that reminds us how unpredictable things can get.
