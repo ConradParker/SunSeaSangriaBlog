@@ -3,7 +3,7 @@ title: Senija Cross Walk with Views
 date: 2026-03-04T17:07:00.000+01:00
 draft: false
 series: sunseatrails
-image: /images/135176225_10157334942541642_6774407569363281919_n.jpg
+image: /images/418180846_10159274087136642_5185954022180218685_n.jpg
 comments: true
 socials: true
 ---
