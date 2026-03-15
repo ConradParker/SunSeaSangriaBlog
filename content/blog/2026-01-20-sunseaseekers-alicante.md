@@ -3,7 +3,7 @@ title: "Sun Sea Seekers - Alicante "
 date: 2026-01-20T14:43:00.000+01:00
 draft: false
 series: sss-town-guide
-image: /images/507503607_10160718957186642_4876382975091612661_n.jpg
+image: /images/alicante.jpg
 comments: true
 socials: true
 ---
