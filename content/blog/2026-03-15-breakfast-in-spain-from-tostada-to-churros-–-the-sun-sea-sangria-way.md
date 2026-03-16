@@ -3,6 +3,7 @@ title: "Breakfast in Spain: From Tostada to Churros – The Sun Sea Sangria Way"
 date: 2026-03-15T13:12:00.000+01:00
 draft: false
 series: sunseafoodie
+image: /images/whatsapp-image-2026-03-15-at-11.36.19-7-.jpeg
 comments: true
 socials: true
 ---
