@@ -21,7 +21,9 @@ We rocked up for a cheeky one-nighter at the **Flash Hotel** and blimey, €100 
 
 First job: straight down to **Playa de Levante**. That skyline hit us like a postcard on steroids — towers for days, sea sparkling like it was showing off, and the promenade buzzing with just the right amount of March energy (lively but not shoulder-to-shoulder chaos). We did the classic “Blimey, that’s a lot of high-rises” photo moment and soaked it all in.
 
-Dinner? We went full “when in Benidorm” and headed to Gurka Kitchen for a proper Indian. None of that fancy fusion nonsense — just honest-to-goodness lamb tikka, naan bread, and that comforting curry-house taste that screams “we’re on holiday, calories don’t count.” Portions were great. We decided to sneak a peek at one of the shows afterwards, but unfortunately, we were too late — most places were absolutely rammed! Good tip: get there early if you want a decent table and a front-row seat.
+Dinner? We went full “when in Benidorm” and headed to **Gurka Kitchen** for a proper Indian. None of that fancy fusion nonsense — just honest-to-goodness lamb tikka, naan bread, and that comforting curry-house taste that screams “we’re on holiday, calories don’t count.” Portions were great. We decided to sneak a peek at one of the shows afterwards, but unfortunately, we were too late — most places were absolutely rammed! 
+
+***SunSeaSangria tip:*** get there early if you want a decent table and a front-row seat. Check out websites for show times and have a back up plan.
 
 {{< image-compare src1="/images/whatsapp-image-2026-03-23-at-08.47.45-1-.jpeg" src2="/images/whatsapp-image-2026-03-23-at-08.47.45-6-.jpeg" caption1="Night Away Drinks, Benidorm" caption2="Hotel Marina Famous Beatles, Benidorm " >}}
 
