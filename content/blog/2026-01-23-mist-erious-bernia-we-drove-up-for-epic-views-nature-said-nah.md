@@ -7,10 +7,7 @@ image: /images/whatsapp-image-2026-03-19-at-14.23.37-8-.jpeg
 comments: true
 socials: true
 ---
-
 Listen, if there's one thing my hubby and I are experts at, it's turning a lazy "fancy a walk?" into full-on chaos without a single Google search between us. Research? Maps? Difficulty ratings? Nah. That's for organised people. We're the "living on the edge" brigade—mostly because we forget to check if the edge actually has a path wide enough for two panicking adults.
-
-{{< image-full src="/images/img_5774-1.jpg" >}}Heading out with Missy, no plans, no google just us{{< /image-full >}}
 
 We parked right near the little restaurant at Casas de Bernia (the one with the unbeatable terrace views on a clear day), laced up our boots, slung on backpacks, and set off upward. This wasn't going to be a gentle stroll. The Sierra de Bernia loop—complete with its famous natural tunnel (El Forat), ancient fort ruins, and that infamous exposed, rocky path along the southern face—is famously *not for the faint-hearted*. Sharp stones underfoot, narrow ledges with heart-in-mouth drops, and the kind of terrain that keeps you focused on every single step. But that's exactly why we love it: the thrill mixed with the promise of epic coastal panoramas over Altea Bay, Benidorm's distant skyline, and the glittering Mediterranean.
 
