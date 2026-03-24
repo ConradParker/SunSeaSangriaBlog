@@ -5,10 +5,8 @@ draft: false
 description: ""
 series: sss-town-guide
 comments: true
+socials: true
 ---
-
-
-
 Hey Sun, Sea & Sangria lovers! 🍹🌊☀️
 
 Ready to trade the usual beach buzz for something a little more **elegant**? Let’s wander down the Costa Blanca to **Moraira** — that effortlessly chic former fishing village tucked between the mountains and the Med. Think golden light, turquoise waters, fresh seafood that tastes like it jumped straight from the boat to your plate, and just the right touch of laid-back luxury. No crowds like Benidorm, no pretence — just pure Mediterranean good vibes with a glass of local Muscat in hand.
@@ -29,7 +27,7 @@ Start at **Playa de l’Ampolla**, right in the town centre. Golden sand, shallo
 
 Then there’s **Playa del Portet** — often called the jewel of the coast. This sheltered horseshoe bay with its Caribbean-clear turquoise waters is backed by pine-covered hills and feels wonderfully exclusive. Calm enough for floating for hours, yet lively enough for paddleboarding or spotting fish while snorkelling. Throw in a few hidden coves nearby for that “we’ve found our own slice of heaven” moment, and you’ve got beach days you’ll be dreaming about long after the tan fades.
 
-{{< image-caption src="/images/whatsapp-image-2026-03-19-at-14.11.13-1-.jpeg" >}}Moraira {{< /image-caption >}}
+{{< image-caption src="/images/whatsapp-image-2026-03-19-at-14.11.13-1-.jpeg" >}}Moraira{{< /image-caption >}}
 
 ###### Strolling the Old Town: Charm, Character & Seriously Good Eats
 
@@ -38,6 +36,8 @@ Wander into the old town and you’ll instantly feel the soul of the place. Narr
 Pop into boutique shops for linen dresses, local crafts, or a bottle of that famous Muscat to take home. Then follow your nose to cosy tapas bars and elegant restaurants serving up Iberian ham carved paper-thin, zingy salads, creative seafood plates, and those legendary rice dishes. Friday market day brings extra energy with stalls piled high with olives, fresh produce, and grilled treats — perfect for grabbing picnic goodies or just soaking up the local buzz.
 
 Don’t miss the pretty parish church or the fountain-lined promenade for some prime people-watching while you lick a gelato. It’s that perfect mix of historic charm and everyday Spanish life that makes Moraira feel both special and wonderfully real.
+
+{{< image-compare src1="/images/moraira.jpg" src2="/images/moraira.png" caption1="Looking towards El Portet" caption2="Moraira Port" >}}
 
 There you have it, sunseekers — **Moraira** in all its sun-drenched, upscale-yet-authentic glory! From the lively yet laid-back marina and those postcard-perfect beaches to the winding streets filled with flavour and charm, this spot knows exactly how to spoil you rotten without ever trying too hard.
 
