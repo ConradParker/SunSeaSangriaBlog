@@ -5,7 +5,7 @@ date: 2026-02-19T09:53:00.000+01:00
 draft: false
 description: Escape those crowds for Vine trees and Vino
 series: sss-town-guide
-image: /images/132526649_10157315403026642_3068555832095742196_n.jpg
+image: /images/whatsapp-image-2026-03-15-at-11.36.19-4-.jpeg
 comments: true
 ---
 Costa Blanca North – perhaps in Jávea, Moraira, or Denia – one of the quickest ways to feel like you've truly escaped the coast is a short drive inland to the **Jalon Valley**, or Vall de Pop as the locals call it. This peaceful, green valley is surrounded by rugged mountains, filled with almond groves, vineyards, olive trees, and a handful of charming whitewashed towns and villages. It's proper, authentic Spain: quiet lanes, local bodegas producing sweet Moscatel wine, and that slower pace that makes expat life feel like a permanent holiday.
