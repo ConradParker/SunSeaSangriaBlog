@@ -22,12 +22,12 @@ This week, spanning the end-of-year holidays and the start of 2026, was dominate
 
 •  Road safety gets a high-tech upgrade: Drivers now **must** carry the glowing **V-16 connected emergency beacon** (ditching old warning triangles) to signal breakdowns safely and alert authorities instantly.
 
-•  Commutes revolutionized with a shiny new nationwide **€60/month unlimited travel pass** for trains and buses across all regions.
+•  Commutes revolutionised with a shiny new nationwide **€60/month unlimited travel pass** for trains and buses across all regions.
 
 •  Pensions rise, social contributions adjust, e-scooter insurance rules tighten (though possibly delayed), bank transactions face closer scrutiny, and a calendar packed with **14 holidays** promises epic long weekends.
 
 •  Brighter economic outlook with strong growth forecasts and record pension spending.
 
-Overall, a quiet holiday week disrupted by weather, with focus shifting to 2026 reforms and potential cold snaps ahead. Sports, politics, and year-end reviews filled lighter coverage.
+Overall, a quiet holiday week was disrupted by weather, with focus shifting to 2026 reforms and potential cold snaps ahead. Sports, politics, and year-end reviews filled lighter coverage.
 
 {{< image-caption src="/images/your-paragraph-text.jpg" >}}SunSeaNews{{< /image-caption >}}
