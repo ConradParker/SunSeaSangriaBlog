@@ -4,7 +4,7 @@ title: "Discover Polop: The Charming Inland Village and a little Antidote to
 date: 2026-03-11T11:53:00.000+01:00
 draft: false
 series: sss-town-guide
-image: ""
+image: /images/whatsapp-image-2026-03-15-at-11.36.12-9-.jpeg
 comments: true
 socials: true
 ---
