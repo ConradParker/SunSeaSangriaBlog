@@ -4,6 +4,7 @@ date: 2026-01-20T14:12:00.000+01:00
 draft: false
 description: ""
 series: sss-town-guide
+image: /images/whatsapp-image-2026-03-30-at-11.32.29-2-.jpeg
 comments: true
 socials: true
 ---
