@@ -8,7 +8,9 @@ socials: true
 ---
 **Morning from a Sunny Calpe!** ☀️
 
-Ah, what a perfect Monday to kick back with a coffee (or an early sangria, no judgement) on the terrace. Here in Calpe the sky’s that classic Costa Blanca blue again after a properly bonkers week. If you’ve been out and about from Alicante up to Denia, you’ll know it’s been one of those “only on the Marina” weeks – teachers on the march, Mother Nature throwing a tantrum, and Holy Week already smelling of incense, fresh churros and a fair bit of local pride. \
+Ah, what a perfect Monday to kick back with a coffee (or an early sangria, no judgement) on the terrace. Here in Calpe the sky’s that classic Costa Blanca blue again after a properly bonkers week. If you’ve been out and about from Alicante up to Denia, you’ll know it’s been one of those “only on the Marina” weeks – teachers on the march, Mother Nature throwing a tantrum, and Holy Week already smelling of incense, fresh churros and a fair bit of local pride. 
+
+\
 **The Weather Went Full Drama Queen**
 
 Sunday was absolute chaos in the best possible way. We went from bright sunshine to hailstones pinging off car roofs in Dénia, Xàbia and bits of the Marina Alta, then back to blue skies like nothing happened. AEMET had yellow warnings out for gusts up to 70 km/h and waves crashing 3-4 metres high – proper “stay off the prom” vibes. By Monday the wind had calmed, the beaches were calling again, and we’re all quietly grateful the Easter processions didn’t get washed away. Classic spring on the Costa Blanca: pack a jacket, sunglasses *and* an umbrella, just in case.
