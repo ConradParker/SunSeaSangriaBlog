@@ -2,7 +2,7 @@
 title: "Easter Airport Chaos in Alicante & Spain: Chill Tips to Save Your Getaway"
 date: 2026-03-31T13:31:00.000+02:00
 draft: false
-series: through-the-looking-glass
+series: sun-sea-lifestyle/_index
 image: /images/1706.jpg
 comments: false
 socials: false
