@@ -1,6 +1,5 @@
 ---
 title: Sun Sea News
-series_id: through-the-looking-glass
 date: 2026-02-05T08:57:00.000+01:00
 draft: false
 menu_weight: 10
