@@ -2,7 +2,7 @@
 title: "Trolley Dash: Who’s Winning the Costa Blanca North Supermarket Showdown 2026"
 date: 2026-03-31T10:39:00.000+02:00
 draft: false
-series: "Sun Sea Lifestyle "
+series: sun-sea-lifestyle
 image: /images/sunseasangria.com.png
 comments: true
 socials: true

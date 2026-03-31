@@ -3,39 +3,6 @@
 {{- $pages = $pages.ByDate.Reverse -}}
 {{- $pages = first $count $pages -}}
 
-{{- $seriesColors := dict
-  "through-the-looking-glass" "#e67e22"
-  "red-tape-tears" "#c0392b"
-  "test-story" "#8e44ad"
-  "the-book-club" "#2980b9"
-  "sunseafoodie" "#27ae60"
-  "fiestas-sangria" "#d35400"
-  "sunseasmiles" "#f39c12"
-  "sss-town-guide" "#1abc9c"
--}}
-
-{{- $seriesNames := dict
-  "through-the-looking-glass" "SunSeaNews"
-  "red-tape-tears" "Red Tape & Tears"
-  "test-story" "Paws & Mischief"
-  "the-book-club" "SunSeaBooks"
-  "sunseafoodie" "SunSeaFoodie"
-  "fiestas-sangria" "Fiestas & Sangria"
-  "sunseasmiles" "SunSeaSmiles"
-  "sss-town-guide" "Town Guide"
--}}
-
-{{- $seriesEmojis := dict
-  "through-the-looking-glass" "📰"
-  "red-tape-tears" "📄"
-  "test-story" "🐾"
-  "the-book-club" "📚"
-  "sunseafoodie" "🍽️"
-  "fiestas-sangria" "🎉"
-  "sunseasmiles" "😊"
-  "sss-town-guide" "🗺️"
--}}
-
 <section class="recent-posts">
   <div class="recent-posts__inner">
     <div class="recent-posts__header">
@@ -44,17 +11,23 @@
     </div>
     <div class="recent-posts__list">
       {{- range $pages -}}
-        {{- $series := .Params.series | default "" -}}
-        {{- $color := index $seriesColors $series | default "#888" -}}
-        {{- $name := index $seriesNames $series | default $series -}}
-        {{- $emoji := index $seriesEmojis $series | default "📝" -}}
+        {{- $color := "#888" -}}
+        {{- $name := "" -}}
+        {{- $emoji := "📝" -}}
+        {{- with .Params.series -}}
+          {{- with site.GetPage (printf "/series/%s" .) -}}
+            {{- $color = .Params.nav_color | default "#888" -}}
+            {{- $name = .Title -}}
+            {{- $emoji = .Params.nav_emoji | default "📝" -}}
+          {{- end -}}
+        {{- end -}}
         <a href="{{ .RelPermalink }}" class="recent-posts__item" style="--post-color: {{ $color }};">
           <div class="recent-posts__thumb" style="background-color: {{ $color }}20;">
             <span class="recent-posts__thumb-emoji">{{ $emoji }}</span>
           </div>
           <div class="recent-posts__content">
-            {{- with $series -}}
-              <span class="recent-posts__badge" style="background-color: {{ $color }}15; color: {{ $color }};">{{ $name }}</span>
+            {{- with $name -}}
+              <span class="recent-posts__badge" style="background-color: {{ $color }}15; color: {{ $color }};">{{ . }}</span>
             {{- end -}}
             <time class="recent-posts__date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
             <h3 class="recent-posts__title">{{ .Title }}</h3>
