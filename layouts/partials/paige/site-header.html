@@ -90,7 +90,7 @@
                         <ul class="navbar-nav text-center">
                             {{ range . }}
                                 {{ $menuPath := strings.TrimPrefix $basePath .URL }}
-                                {{ $home := and (eq $menuPath "/") (eq $page.Section "") }}
+                                {{ $home := and (eq $menuPath "/") $page.IsHome }}
                                 {{ $menuMatch := and (ne $menuPath "/") (hasPrefix $pagePath $menuPath) }}
                                 {{ $section := and (ne $menuPath "/") (hasPrefix $menuPath (printf "/%s/" $page.Section)) }}
                                 {{ $active := or $home $menuMatch $section }}
