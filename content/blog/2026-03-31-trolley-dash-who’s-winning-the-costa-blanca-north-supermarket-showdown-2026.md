@@ -7,16 +7,13 @@ image: /images/sunseasangria.com.png
 comments: true
 socials: true
 ---
-
-
-
 Hello, welcome to Sun Sea Lifestyle. Are you already plotting your next **sangria** session on the terrace while the Costa Blanca sun does its thing? 🌞🍹
 
 Living up in the North – that glorious stretch from **Denia** and **Javea** down through **Moraira**, **Calpe**, and **Altea** – means one of the first real-life skills you pick up is mastering the weekly shop without turning it into a full-day drama. In 2026, the supermarket game here is still a fun mix of Spanish reliability, German-style bargains, and that cheeky local flavour.
 
 No massive revolutions this year: Mercadona still wears the crown for most expats and locals, but the discounters are sharpening their knives on price, and Más y Más keeps sneaking in with fresher vibes that make you feel a bit more “local done right.”
 
-Here’s your fresh, zero-BS **SunSeaSangria** guide to grocery hunting in Costa Blanca North this year. We’re talking real 2026 feels – who’s winning on price, what they’re actually good at, and where you’ll want to park your trolley (or your flip-flops) depending on the mood.
+Here’s your fresh, **SunSeaSangria** guide to grocery hunting in Costa Blanca North this year. We’re talking real 2026 feels – who’s winning on price, what they’re actually good at, and where you’ll want to park your trolley (or your flip-flops) depending on the mood.
 
 {{< image-compare src1="/images/mercadona.png" src2="/images/sunseasangria.com.png" >}}
 
