@@ -29,9 +29,9 @@ We’re talking:
 
 We live it, we laugh about it, and we share it with that cheeky grin – because life up here in the North is bloody good, but it’s even better when you know the shortcuts.
 
-First up in the series: **Supermarket Showdown – Who’s Winning Your Trolley in Costa Blanca North 2026**. Mercadona still wearing the crown for most of us? Are Lidl and Aldi keeping more euros in your pocket for sunset Aperols? And why does Más y Más make you feel a bit more “proper local”? We break it down with real vibes, current prices, and zero corporate fluff.
+First up in the series: **Supermarket Showdown – Who’s Winning Your Trolley in Costa Blanca North 2026**. Is Mercadona still wearing the crown for most of us? Are Lidl and Aldi keeping more euros in your pocket for sunset Aperols? And why does Más y Más make you feel a bit more “proper local”? We break it down with real vibes, current prices, and zero corporate fluff.
 
-Whether you’re already here with your flip-flops permanently on, or still googling “Costa Blanca cost of living” at 2am, pull up a chair (or a sun lounger), grab a cold drink, and join the gang.
+Whether you’re already here with your flip-flops permanently on, or still googling “Costa Blanca cost of living” at 2 am, pull up a chair (or a sun lounger), grab a cold drink, and join the gang.
 
 This is SunSea Lifestyle – where the sea sparkles, the sangria flows, and we keep it real about making this slice of Spain your everyday home.
 
