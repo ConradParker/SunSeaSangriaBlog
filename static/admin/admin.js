@@ -1,3 +1,22 @@
+// Auto-populate series_id from title on save
+CMS.registerEventListener({
+  name: "preSave",
+  handler: ({ entry }) => {
+    const collection = entry.get("collection");
+    if (collection === "series") {
+      const title = entry.getIn(["data", "title"]) || "";
+      const slug = title
+        .toLowerCase()
+        .trim()
+        .replace(/[^a-z0-9\s-]/g, "")
+        .replace(/[\s]+/g, "-")
+        .replace(/-+/g, "-")
+        .replace(/^-|-$/g, "");
+      return entry.get("data").set("series_id", slug);
+    }
+  },
+});
+
 // Decap CMS Editor Components for Image Shortcodes
 
 // Clear Float - stops text wrapping around floating images
