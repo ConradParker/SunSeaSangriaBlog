@@ -10,75 +10,38 @@ socials: false
 
 
 
+Hey there, sun-kissed Easter wanderers! 🌞🍹 Grab a cold sangria, pull up a lounger by the pool, and let’s chat about the latest twist in those pesky airport strikes hitting Alicante and plenty of other sunny spots across Spain.
 
-Hey there, sun-kissed wanderers! 🌞🍹 Grab a cold **sangria**, pull up a lounger by the pool, and let’s chat about something that’s got a few of us scratching our heads this Easter: those pesky **airport strikes** hitting Alicante and plenty of other sunny spots across Spain.
+Picture this: You’re dreaming of golden beaches, paella on the terrace, and that perfect Alicante glow… but the ground crew have decided it’s time for a little siesta-with-a-point. **No drama** — we’ve got the fresh lowdown as of **31 March 2026,** so you can still make your holiday vibes unstoppable.
 
-Picture this: You’re dreaming of golden beaches, paella on the terrace, and that perfect **Alicante** glow… but wait, the ground crew have decided it’s time for a little siesta-with-a-point. No drama, we’ve got the lowdown so you can still make your holiday vibes unstoppable.
+###### **What’s Actually Going On? (Updated 31 March 2026)**
 
-### What’s Actually Going On?
+The original plans for strikes over the weekend (27–29 March) were **suspended** as a goodwill gesture during negotiations. But the action has now kicked in:
 
-Ground handling staff (think baggage, check-in, ramp crew) at two big companies — **Groundforce** and **Menzies** — are walking out during one of the busiest travel weeks of the year: **Semana Santa / Easter 2026**.
+**Groundforce strikes** (baggage, check-in, ramp crew): **Indefinite partial strikes** started **Monday, 30 March 2026**. These hit **every Monday, Wednesday, and Friday** going forward (until resolved). Stoppage windows each strike day: **5–7 am**, **11 am–5 pm**, **10 pm–midnight**. Unions (CCOO, UGT, USO) are pushing on pay and conditions. **Menzies strikes**: The weekend 28–29 March walkouts were also **suspended**. **Full 24-hour strikes** remain confirmed for **2–6 April 2026** (that’s Thursday to Monday, covering peak Easter travel). If no deal, these could extend further (including weekends) right through the year.
 
-* **Groundforce strikes**
+As of today (31 March — a Tuesday), things are running under the new Groundforce schedule, with potentially slower operations at affected airports. No major widespread cancellations reported yet, but delays in baggage, check-in, and turnaround times are the main headache.
 
-  : Starting 
+*Our good friend left Alicante this morning for the UK with only a 10-minute delay, at 7 am.*
 
-  **Friday 27 March 2026**
+###### **Which Airports Are Feeling It?**
 
-  , and then every 
+The usual sunny suspects: **Alicante-Elche (ALC)**, Madrid-Barajas, Málaga, Barcelona-El Prat, Palma de Mallorca, Valencia, Ibiza, plus the Canary Islands (Gran Canaria, Tenerife North & South, Lanzarote, Fuerteventura), Bilbao, and more. Groundforce hits 12 airports; Menzies overlaps on several key tourist hubs, including Alicante, Málaga, Palma, Barcelona, and the Canaries.
 
-  **Monday, Wednesday, and Friday**
+Alicante is still right in the thick of it — expect possible delays, longer queues at baggage reclaim/check-in, and the occasional knock-on effect during those strike windows.
 
-   going forward (indefinite until they sort it out).
-  Stoppages hit these slots each day:5–7am11am–5pm10pm–midnight
-* **Menzies strikes**
+###### **Sun & Sangria Survival Tips (Still Holding Strong)**
 
-  : Full 24-hour walkouts on 
+Most flights are still operating, but things might move more slowly than a Spanish afternoon nap. Keep the good times rolling with these:
 
-  **28–29 March**
+**Check your airline obsessively** — Ryanair, easyJet, Vueling, Jet2, British Airways, etc. They’ll email/app updates. Reconfirm 24–48 hours before travel (and again today if you’re flying soon!). **Arrive earlier than usual** — Add an extra 2–3 hours buffer, especially if your flight falls on a Monday/Wednesday/Friday or during 2–6 April. **Pack light** or go **hand luggage only** if possible — less baggage = way less drama. **Have a Plan B** — Flexible tickets, solid travel insurance that covers strikes, and maybe a backup transfer (private driver or bus) for the Costa Blanca. **Download the airport apps** — Alicante-Elche still has decent real-time info. **Stay chilled** — Worst case, you snag an extra hour or two for people-watching and that first holiday cerveza. Silver linings, baby!
 
-   and 
-
-  **2–6 April**
-
-  . If no deal is reached, these could roll on (including weekends) right through the year. Oof.
-
-### Which Airports Are Feeling It?
-
-The usual suspects — Spain’s busiest tourist gateways:
-**Alicante-Elche** (of course), Madrid-Barajas, Málaga, Barcelona-El Prat, Palma de Mallorca, Valencia, Ibiza, plus the Canary Islands (Gran Canaria, Tenerife North & South, Lanzarote, Fuerteventura) and Bilbao.[⁠euronews.com](https://www.euronews.com/travel/2026/03/20/travelling-to-spain-for-easter-prepare-for-flight-disruption-as-airport-staff-call-strikes)
-
-Alicante is right in the thick of it, so if you’re flying in or out of **ALC**, expect possible delays, longer queues at baggage reclaim, check-in, and security, and maybe the odd cancelled flight.
-
-### Sun & Sangria Survival Tips
-
-No need to panic and cancel the sangria order just yet — most flights will still operate, but things might run slower than a Spanish afternoon nap. Here’s how to keep the good times rolling:
-
-1. **Check your airline**
-
-    obsessively — Ryanair, easyJet, Vueling, Jet2, British Airways, etc. — they’ll usually email or post updates on their app. Reconfirm 24–48 hours before travel.
-2. **Arrive earlier than usual**
-
-    — especially if your flight is during those strike windows. Think extra 2–3 hours buffer.
-3. **Pack light**
-
-    or go hand luggage only if you can — less baggage drama = happier you.
-4. **Have a Plan B**
-
-    — flexible tickets, travel insurance that covers strikes, and maybe a backup transfer (private driver or bus) sorted for the Costa Blanca.
-5. **Download the airport apps**
-
-    — Alicante-Elche has decent real-time info.
-6. **Stay chilled**
-
-    — worst case, you get an extra hour or two to people-watch and sip that first holiday cerveza. Silver linings, baby!
-
-Easter in Spain is pure magic — processions, fireworks, terraces full of laughter, and that first dip in the Med after winter. A few delays aren’t going to ruin the party. The strikes are about pay and conditions (fair enough), but the Spanish airports are pros at handling this stuff and usually keep things moving with minimum service levels.
+Easter in Spain is pure magic — processions, fireworks, terraces full of laughter, and that first dip in the Med. A few delays aren’t going to ruin the party. The strikes are about pay and conditions (fair enough), and Spanish airports are pros at keeping things moving with minimum service levels.
 
 So pack the flip-flops, the factor 50, and that “no worries” attitude. Spain’s still waiting with open arms (and probably a jug of sangria).
 
-If your flight details change or you want specific airline advice, drop them in the comments — I’ll help however I can.
+If your flight details have changed or you want specific airline advice for the coming days, drop them below — I’ll help however I can.
 
 ¡Salud! Here’s to smooth(ish) skies and unforgettable Spanish sunsets. 🍷✈️🌴
 
-What’s your go-to Alicante or Costa Blanca spot? Let me know below — I’m always up for recs! 😎
+What’s your go-to Alicante or Costa Blanca spot? Let me know — I’m always up for recs! 😎
