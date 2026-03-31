@@ -6,6 +6,7 @@ draft: false
 image: sun-sea-lifestyle.png
 weight: 100
 nav_emoji: 🍹
+nav_desc: "Cheeky, no-fluff guide to full-time living on Costa Blanca North. "
 nav_color: "#1f2f6ek"
 nav_weight: ""
 ---
