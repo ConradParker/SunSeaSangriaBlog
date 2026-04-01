@@ -46,19 +46,19 @@ This is your no-fluff corner of the internet for the real Costa Blanca North lif
 
 You’ll find:
 
-**Sun Sea Lifestyle** — the good, the bad, and the “why is everything closed on a Tuesday?” reality
+**[Sun Sea Lifestyle](https://sunseasangria.com/series/sun-sea-lifestyle/)** — the good, the bad, and the “why is everything closed in the afternoons ?” reality
 
-**Hikes & Trails** — proper walks that won’t ruin your espadrilles 
+**[Hikes & Trails](https://sunseasangria.com/series/sunseatrails/)** — proper walks that won’t ruin your espadrilles 
 
-**Foodie spots** — where the tapas actually slap 
+**[Foodie spots](https://sunseasangria.com/series/sunseafoodie/)** — where the tapas actually slap 
 
-**Weekly News** — what’s really happening from Calpe to Denia 
+[**Weekly News** ](https://sunseasangria.com/series/through-the-looking-glass/)— what’s really happening from Calpe to Denia 
 
-**Red Tape & Tears** — surviving Spanish paperwork without crying into your vino 
+**[Red Tape & Tears](https://sunseasangria.com/series/red-tape-tears/)** — surviving Spanish paperwork without crying into your vino 
 
-**Paws & Mischief** — because Snoopy stories hit different 
+**[Paws & Mischief](https://sunseasangria.com/series/test-story/)** — because Snoopy stories hit different 
 
-**Fiestas & Sangria** — obvious reasons to celebrate, and plenty more cheeky guides to the towns, beaches, and moments that make this slice of Spain addictive.
+[**Fiestas & Sangria** ](https://sunseasangria.com/series/fiestas-sangria/)— obvious reasons to celebrate, and plenty more cheeky guides to the towns, beaches, and moments that make this slice of Spain addictive.
 
 Most importantly… this is *our* terrace. Drop your thoughts, share your hidden gems, recommend that life-changing book or beach bar, or just say hi. Your voice (imperfections, accent, and all) makes this place sparkle brighter than a fresh jug of sangria in golden hour.
 
