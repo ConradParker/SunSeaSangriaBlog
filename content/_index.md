@@ -52,7 +52,7 @@ You’ll find:
 
 **[Foodie spots](https://sunseasangria.com/series/sunseafoodie/)** — where the tapas actually slap 
 
-[**Weekly News** ](https://sunseasangria.com/series/through-the-looking-glass/)— what’s really happening from Calpe to Denia 
+[**Weekly News** ](https://sunseasangria.com/series/through-the-looking-glass/)— what’s really happening from Alicante to Denia 
 
 **[Red Tape & Tears](https://sunseasangria.com/series/red-tape-tears/)** — surviving Spanish paperwork without crying into your vino 
 
