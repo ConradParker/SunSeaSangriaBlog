@@ -70,3 +70,5 @@ On these “red days,” banks and government buildings are closed. Some superma
 Living here means trading rigid 9–5 schedules for something more human: sun, sea, good food, and the occasional afternoon freedom. Yes, it can be frustrating when you need something sorted at 3 PM. But once you’ve adapted, you’ll wonder why everywhere else doesn’t shut down for a proper lunch and a bit of life.
 
 Got a specific town or horror story about Spanish opening hours? Drop it in the comments — we’re all in this siesta together. ¡Salud!
+
+{{< image-caption src="/images/img_8558.jpeg" >}}We have all been here {{< /image-caption >}}
