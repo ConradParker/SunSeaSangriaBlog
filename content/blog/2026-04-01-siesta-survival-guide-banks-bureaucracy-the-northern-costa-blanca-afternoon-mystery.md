@@ -4,10 +4,11 @@ title: "Siesta Survival Guide: Banks, Bureaucracy & the Northern Costa Blanca
 date: 2026-04-01T10:51:00.000+02:00
 draft: false
 series: sun-sea-lifestyle
+image: /images/img_8558.jpeg
 comments: true
 socials: true
 ---
-Ah, the northern Costa Blanca. Sun-soaked mornings, endless blue sea, and that glorious moment when you realise the afternoon belongs to… nobody in an office. You’ve got your sangria chilling, the beach calling, and then — bam — you need to pop into the bank or sort something at the town hall. Spoiler: most places pull down the shutters around 2pm and wave goodbye until tomorrow. Welcome to Spanish time, where the siesta isn’t just a nap, it’s a lifestyle.
+Ah, the northern Costa Blanca. Sun-soaked mornings, endless blue sea, and that glorious moment when you realise the afternoon belongs to… nobody in an office. You’ve got your sangria chilling, the beach calling, and then — bam — you need to pop into the bank or sort something at the town hall. Spoiler: most places pull down the shutters around 2 pm and wave goodbye until tomorrow. Welcome to Spanish time, where the siesta isn’t just a nap, it’s a lifestyle.
 
 If you’re new here (or still getting used to it after years), this guide is for you. We’ll cover the real opening hours for banks and government buildings in the north, with a few laughs along the way. Pro tip: plan your admin like you plan your beach day — get it done before the lunch rush hits.
 
@@ -19,7 +20,7 @@ Spanish banks love a good early start and an even earlier finish. In towns like 
 
 •  **Weekends**: Pretty much closed. A few branches might open Saturday mornings in winter, but it’s rare up north and never reliable.
 
-•  **ATMs**: Your best friend. They work 24/7, and you’ll find them outside every bank. Just watch for fees if you’re using a foreign card — that’s the real siesta tax.
+•  **ATMs**: Your best friend. They work 24/7, and you’ll find them outside every bank. Just watch for fees if you’re using a foreign card — **that’s the real siesta tax.**
 
 Why the early close? It’s the sacred lunch + siesta combo. Staff need time for a proper menú del día, a chat, and maybe a quick rest before the evening paseo. As a Brit, expat or holidaymaker, you’ll quickly learn to do your banking before the church bells hit midday. Queue early if you can — mornings get busy with everyone trying to beat the shutdown.
 
@@ -39,13 +40,13 @@ Typical pattern:
 
 This applies to things like getting your **padrón** (municipal registration), sorting residency paperwork, or dealing with local permits. Tourist offices inside or near town halls sometimes have slightly more flexible hours, especially in high season, but the core admin desks shut down.
 
-Why? Same Spanish rhythm: long lunches, family time, and escaping the midday heat that turns the coast into a frying pan. In summer it’s even more pronounced — nobody wants to queue in 35°C when they could be at the beach or under a fan.
+Why? Same Spanish rhythm: long lunches, family time, and escaping the midday heat that turns the coast into a frying pan. In summer, it’s even more pronounced — nobody wants to queue in 35°C when they could be at the beach or under a fan.
 
-Tip from the trenches: Check the specific town hall website or call ahead (Google Translate is your amigo). Hours can tweak for local fiestas, summer schedules, or holidays. And bring patience — Spanish bureaucracy moves at its own pace, with plenty of “vuelva mañana” (come back tomorrow) energy.
+Tip from the trenches: Check the specific town hall website or call ahead (Google Translate is your amigo). Hours can be tweaked for local fiestas, summer schedules, or holidays. And bring patience — Spanish bureaucracy moves at its own pace, with plenty of “vuelva mañana” (come back tomorrow) energy.
 
 **Public Holidays: When Everything Really Shuts Down**
 
-Even the mornings disappear on **fiestas** and bank holidays. The Valencian Community (which covers the northern Costa Blanca) has its own calendar on top of national ones. In 2026, watch out for:
+Even the mornings disappear on **fiestas** and bank holidays. The Valencian Community (which covers the northern Costa Blanca) has its own calendar in addition to national ones. In 2026, watch out for:
 
 •  National biggies like New Year’s (1 Jan), Epiphany (6 Jan), Good Friday, Labour Day (1 May), Assumption (15 Aug), National Day (12 Oct), Constitution Day (6 Dec), Immaculate Conception (8 Dec), and Christmas (25 Dec).
 
@@ -71,4 +72,4 @@ Living here means trading rigid 9–5 schedules for something more human: sun, s
 
 Got a specific town or horror story about Spanish opening hours? Drop it in the comments — we’re all in this siesta together. ¡Salud!
 
-{{< image-caption src="/images/img_8558.jpeg" >}}We have all been here {{< /image-caption >}}
+{{< image-caption src="/images/img_8558.jpeg" >}}We have all been here{{< /image-caption >}}
