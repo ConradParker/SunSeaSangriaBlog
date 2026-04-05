@@ -7,13 +7,13 @@ series: sun-sea-lifestyle
 comments: true
 socials: true
 ---
-Yesterday was one of those golden Costa Blanca days that reminds you exactly why we live (or escape to) this slice of paradise. Blue skies, a gentle sea breeze, and that irresistible pull of the Mediterranean. We kicked things off with a scenic drive from **Calpe** over the mighty **Montgó** mountain — and wow, what a way to start!
+Yesterday was one of those golden Costa Blanca days that reminds you exactly why we live (or escape to) this slice of paradise. Blue skies, a gentle sea breeze, and that irresistible pull of the Mediterranean. We kicked things off with a scenic drive from Calpe over the mighty Montgó mountain — and wow, what a way to start!
 
-Winding up and over the rugged limestone massif, the road carved through pine-scented curves with jaw-dropping views unfolding at every bend. On one side, the dramatic cliffs and hidden coves; on the other, sweeping panoramas stretching all the way to **Cullera** in the distance. The sea sparkled like a million diamonds, and for a few glorious minutes it felt like we had the whole coast to ourselves. Pure magic — the kind that makes you pull over just to soak it in and snap a few photos for the memories.
+Winding up and over the rugged limestone massif, the road carved through pine-scented curves with jaw-dropping views unfolding at every bend. On one side, the dramatic cliffs and hidden coves; on the other, sweeping panoramas stretching all the way to Cullera in the distance. The sea sparkled like a million diamonds, and for a few glorious minutes it felt like we had the whole coast to ourselves. Pure magic — the kind that makes you pull over just to soak it in and snap a few photos for the memories.
 
-Descending into **Dénia**, we headed straight for the shiny new **Marina de Dénia**. Gleaming yachts bobbed gently in the water, and the whole place had that fresh, upbeat energy. Breakfast called our names, and we answered at **Basta** — and let me tell you, it did not disappoint!
+Descending into Dénia, we headed straight for the shiny new Marina de Dénia. Gleaming yachts bobbed gently in the water, and the whole place had that fresh, upbeat energy. It was Easter weekend, so there was a lovely lively crowd enjoying the sunshine and the holiday atmosphere.
 
-Nestled right on the marina with killer views of the boats, Basta served up a fabulous breakfast. Think fried eggs, salad, pickles, perfectly brewed coffee, and a delicious, it hit all the right notes (their €18 special with a cheeky glass of cava is a winner if you’re feeling fancy). The vibe was relaxed yet stylish — you cannot beat their friendly service. We lingered over our plates, watching the marina come to life, already feeling that holiday glow. Absolute fab start to the day!
+Breakfast called our names, and we answered at Basta — and let me tell you, it did not disappoint! Nestled right on the marina with killer views of the boats, Basta served up a fabulous breakfast. Think fried eggs, salad, pickles, perfectly brewed coffee, and a delicious €18 special with a cheeky glass of cava if you’re feeling fancy. The vibe was relaxed yet stylish — you cannot beat their friendly service. We lingered over our plates, watching the marina come to life (and the Balearia ferry arriving with its loud, cheerful warning hoots as it entered the harbour), already feeling that holiday glow. Absolute fab start to the day!
 
 Fueled and happy, we paid our bill and set off on foot for a proper explore. We strolled from the sleek new marina towards the charming old marina, following the wide main path that hugged the water’s edge. On one side, rows of gleaming yachts bobbed gently in the marina; on the other, that inviting stretch of golden beach sparkled under the morning sun.
 
@@ -23,7 +23,7 @@ We continued our leisurely stroll along the marina, the dramatic silhouette of D
 
 A well-timed coffee stop near the castle was the perfect excuse to sit, people-watch, and soak up the atmosphere. From there, we wandered into the heart of the old town, getting happily lost in the narrow, character-filled streets lined with tempting eateries. Dénia really knows how to do “eating streets” — every corner whispered promises of fresh seafood, local rice dishes, and creative tapas.
 
-We couldn’t pass up **Denia street food** (hello, Els Magazinos vibes nearby!), browsing the vibrant stalls and soaking in the buzz of international flavors mixed with authentic Spanish goodness. From there, we meandered towards the elegant **Main Street** (Marqués de Campo), shaded by trees and full of that lovely Spanish town energy — shops, cafés, and locals going about their day.
+We couldn’t pass up the Denia street food (hello, Els Magazinos vibes nearby!), browsing the vibrant stalls and soaking in the buzz of international flavors mixed with authentic Spanish goodness. From there, we meandered towards the elegant Main Street (Marqués de Campo), shaded by trees and full of that lovely Spanish town energy — shops, cafés, and locals going about their day.
 
 Eventually, with happy feet and fuller hearts (and maybe a few sneaky treats tucked away), we looped back towards the marina. One last look at the sparkling water, a deep breath of salty air, and it was time to hop back in the car for the drive home to Calpe.
 
