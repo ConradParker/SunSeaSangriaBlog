@@ -4,6 +4,7 @@ title: "A Perfect Day Out in Dénia: Mountains, Marina Magic & Mouthwatering
 date: 2026-04-05T14:00:00.000+02:00
 draft: false
 series: sun-sea-lifestyle
+image: /images/img_8566.jpeg
 comments: true
 socials: true
 ---
