@@ -31,7 +31,7 @@ menu_weight: 10
 🌞 Welcome to Sun Sea Sangria 🍷
 Your cheeky little corner of the Northern Costa Blanca
 
-![](/images/img_8563.jpeg "SunSeaSangria - Denia Harbour")
+![](/images/4314.jpg "SunSeaSangria - Denia Harbour")
 
 {{< quick-nav >}}
 
