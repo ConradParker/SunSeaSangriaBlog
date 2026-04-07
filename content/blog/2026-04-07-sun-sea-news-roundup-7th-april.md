@@ -7,9 +7,6 @@ image: /images/your-paragraph-text.jpg
 comments: true
 socials: true
 ---
-
-
-
 **🌊 Your Weekly Costa Blanca & Marina Alta Scoop – April 2026**
 
 Hola from the sun-soaked strip between Alicante and Denia! This week, the region served up the usual mix: a dash of spring chaos, a sprinkle of local pride, and the eternal dance between "mañana" and "¡vamos!".
@@ -36,9 +33,4 @@ What caught your eye this week? Got a local story, photo, or rant about the N-33
 
 ☀️ **SunSeaSangria** – Living the dream (with occasional traffic delays) between Alicante and Denia.
 
-
-
-
-
-
-{{< image-caption src="/images/your-paragraph-text.jpg" >}}{{< /image-caption >}}
+{{< image-caption src="/images/your-paragraph-text.jpg" >}}Sun Sea News Roundup {{< /image-caption >}}
