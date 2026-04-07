@@ -13,7 +13,7 @@ Yesterday was one of those golden Costa Blanca days that reminds you exactly why
 
 Winding up and over the rugged limestone massif, the road carved through pine-scented curves with jaw-dropping views unfolding at every bend. On one side, the dramatic cliffs and hidden coves; on the other, sweeping panoramas stretching all the way to Cullera in the distance. The sea sparkled like a million diamonds, and for a few glorious minutes it felt like we had the whole coast to ourselves. Pure magic — the kind that makes you pull over just to soak it in and snap a few photos for the memories.
 
-Descending into Dénia, we headed straight for the shiny new Marina de Dénia. Gleaming yachts bobbed gently in the water, and the whole place had that fresh, upbeat energy. It was Easter weekend, so there was a lovely lively crowd enjoying the sunshine and the holiday atmosphere.
+Descending into Dénia, we headed straight for the shiny new Marina de Dénia. Gleaming yachts bobbed gently in the water, and the whole place had that fresh, upbeat energy. It was Easter weekend, so there was a lovely, lively crowd enjoying the sunshine and the holiday atmosphere.
 
 Breakfast called our names, and we answered at Basta — and let me tell you, it did not disappoint! Nestled right on the marina with killer views of the boats, Basta served up a fabulous breakfast. Think fried eggs, salad, pickles, perfectly brewed coffee, and a delicious €18 special with a cheeky glass of cava if you’re feeling fancy. The vibe was relaxed yet stylish — you cannot beat their friendly service. We lingered over our plates, watching the marina come to life (and the Balearia ferry arriving with its loud, cheerful warning hoots as it entered the harbour), already feeling that holiday glow. Absolute fab start to the day!
 
@@ -31,7 +31,7 @@ A well-timed coffee stop near the castle was the perfect excuse to sit, people-w
 
 {{< image-caption src="/images/img_8574.jpeg" >}}Denia Eating Streets{{< /image-caption >}}
 
-We couldn’t pass up the Denia street food (hello, Els Magazinos vibes nearby!), browsing the vibrant stalls and soaking in the buzz of international flavors mixed with authentic Spanish goodness. From there, we meandered towards the elegant Main Street (Marqués de Campo), shaded by trees and full of that lovely Spanish town energy — shops, cafés, and locals going about their day.
+We couldn’t pass up the Denia street food (hello, Els Magazinos vibes nearby!), browsing the vibrant stalls and soaking in the buzz of international flavours mixed with authentic Spanish goodness. From there, we meandered towards the elegant Main Street (Marqués de Campo), shaded by trees and full of that lovely Spanish town energy — shops, cafés, and locals going about their day.
 
 {{< image-caption src="/images/img_8575.jpeg" >}}Els Magazinos Denia Street Food{{< /image-caption >}}
 
