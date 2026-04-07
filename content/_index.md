@@ -28,11 +28,10 @@ paige:
     }
 menu_weight: 10
 ---
-
 🌞 Welcome to Sun Sea Sangria 🍷
 Your cheeky little corner of the Northern Costa Blanca
 
-![](/images/480965564_10160337798746642_6644424404533892324_n.jpg "SunSeaSangria - Calpe View From Suitopia (SkyBar)")
+![](/images/whatsapp-image-2026-02-16-at-12.22.32-2-.jpeg "SunSeaSangria - Calpe View From Suitopia (SkyBar)")
 
 {{< quick-nav >}}
 
@@ -61,7 +60,6 @@ Here you’ll find:
 **[Paws & Mischief](https://sunseasangria.com/series/test-story/)** — because Snoopy stories hit different 
 
 [**Fiestas & Sangria** ](https://sunseasangria.com/series/fiestas-sangria/)— obvious reasons to celebrate, and plenty more cheeky guides to the towns, beaches, and moments that make this slice of Spain addictive.
-
 
 Most importantly… this is **our terrace**. Come as you are. Share your stories, your hidden gems, your funny “only in Spain” moments, or just say hola. Your voice makes this place even brighter.
 
