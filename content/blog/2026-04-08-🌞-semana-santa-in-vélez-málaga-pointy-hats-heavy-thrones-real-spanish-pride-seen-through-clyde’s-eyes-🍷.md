@@ -44,12 +44,11 @@ Absolutely. After hearing Clyde’s stories and seeing his photos, Vélez-Málag
 
 If you’re thinking of going yourself, here are a few tips from someone living vicariously:
 
-1.  Book accommodation early — it gets busy fast.
-   Check the official procession schedule so you don’t miss the highlights.
-   Wear comfortable shoes and be prepared to stand for long periods.
-   Respect the moment — it’s deeply meaningful for many locals.
-   Bring tissues… it can hit you emotionally when you least expect it.
-
+Book accommodation early — it gets busy fast.
+Check the official procession schedule so you don’t miss the highlights.
+Wear comfortable shoes and be prepared to stand for long periods.
+Respect the moment — it’s deeply meaningful for many locals.
+Bring tissues… it can hit you emotionally when you least expect it.
 
 Have you ever experienced Semana Santa in Vélez-Málaga or anywhere else in Andalucía?
 Did the pointed hoods surprise you at first?
