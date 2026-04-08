@@ -31,7 +31,7 @@ menu_weight: 10
 🌞Hola and Welcome to Sun Sea Sangria 🍷
 Your cheeky little corner of the Northern Costa Blanca
 
-![](/images/whatsapp-image-2026-03-15-at-11.35.40-2-.jpeg "SunSeaSangria - Calpe Skyline")
+![](/images/img_7987.jpeg "SunSeaSangria - Calpe Skyline")
 
 {{< quick-nav >}}
 
