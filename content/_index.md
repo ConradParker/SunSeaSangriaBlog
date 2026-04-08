@@ -31,7 +31,7 @@ menu_weight: 10
 🌞 Welcome to Sun Sea Sangria 🍷
 Your cheeky little corner of the Northern Costa Blanca
 
-![](/images/hugo-buddah-front-page.jpg "SunSeaSangria - Calpe Skyline")
+![](/images/img_8565.jpeg "SunSeaSangria - Calpe Skyline")
 
 {{< quick-nav >}}
 
