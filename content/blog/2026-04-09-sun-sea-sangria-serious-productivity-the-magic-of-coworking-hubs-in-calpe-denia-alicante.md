@@ -4,7 +4,7 @@ title: "Sun, Sea, Sangria & Serious Productivity: The Magic of Coworking Hubs in
 date: 2026-04-09T09:27:00.000+02:00
 draft: false
 series: sun-sea-lifestyle
-image: /images/sunseasangria.png
+image: /images/sunseasangria-2-.png
 comments: true
 socials: true
 ---
