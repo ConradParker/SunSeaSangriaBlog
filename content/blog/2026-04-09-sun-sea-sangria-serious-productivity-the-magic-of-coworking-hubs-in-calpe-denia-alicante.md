@@ -56,9 +56,11 @@ Denia sits perfectly between the mountains and the sea, and its coworking scene 
 
 **Knowhere Denia** is the biggest in the Marina Alta with over 50 workspaces in a historic building. Fixed desks come with your own locker, unlimited 1Gbps Wi-Fi, full meeting-room access, mail handling, and kitchen facilities. Day passes are super flexible too. They run workshops, talks, and entrepreneur events — perfect for networking while soaking up Denia’s creative, foodie energy.
 
-Then there’s **CO-CO Coliving & Coworking** — literally a house where you can work *and* live the dream. Think pool, mountain views, sea breezes, optic fibre, and a ready-made community of digital nomads. Ideal for longer stays or when you just want that “I can’t believe this is my office” feeling.
+Then there’s CO-CO Coliving & Coworking — literally a house where you can work *and* live the dream. Think pool, mountain views, sea breezes, optic fibre, and a ready-made community of digital nomads. Ideal for longer stays or when you just want that “I can’t believe this is my office” feeling.
 
 Whether you’re popping in for a day or settling in for weeks, Denia’s hubs make you feel like you’re part of something bigger than just “getting work done.”
+
+<https://coliving-costablanca.com/>
 
 {{< image-caption src="/images/4314.jpg" >}}Denia Marina{{< /image-caption >}}
 
