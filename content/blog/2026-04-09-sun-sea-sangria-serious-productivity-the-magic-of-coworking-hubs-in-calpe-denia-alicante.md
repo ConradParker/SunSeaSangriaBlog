@@ -46,6 +46,8 @@ You’ll find wide desks, ergonomic chairs, ultra-fast Wi-Fi, private soundproof
 
 They even do trial days so you can test the vibe before committing. Pro tip: finish your work, walk straight to the beach, and reward yourself with a well-earned dip. That’s the Calpe coworking magic. 🌊
 
+{{< image-caption src="/images/img_8204.jpeg" >}}Sun Sea Lifestyle Co Working hub{{< /image-caption >}}
+
 **Denia: Mountain-to-Sea Inspiration**
 
 Denia sits perfectly between the mountains and the sea, and its coworking scene matches that epic location.
@@ -55,6 +57,8 @@ Denia sits perfectly between the mountains and the sea, and its coworking scene 
 Then there’s **CO-CO Coliving & Coworking** — literally a house where you can work *and* live the dream. Think pool, mountain views, sea breezes, optic fibre, and a ready-made community of digital nomads. Ideal for longer stays or when you just want that “I can’t believe this is my office” feeling.
 
 Whether you’re popping in for a day or settling in for weeks, Denia’s hubs make you feel like you’re part of something bigger than just “getting work done.”
+
+{{< image-caption src="/images/4314.jpg" >}}Denia Marina{{< /image-caption >}}
 
 **Alicante: City Buzz Meets Beach Life**
 
