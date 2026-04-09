@@ -72,6 +72,8 @@ It’s all about community here. High-speed Wi-Fi, endless coffee, and a crowd o
 
 Other great spots like TerretUp and Luceros12 also dot the city, but ULab’s central location and buzz make it a firm favourite for self-employed types who want to feel inspired rather than isolated.
 
+<https://ulab.es/en/>
+
 **Why My Self-Employed Husband (and Probably Yours) Can’t Get Enough**
 
 Since he started using these hubs, the difference is night and day. No more “working from home” distractions. Real structure to the day. Actual humans to bounce ideas off. And best of all? He comes home happier, more productive, and ready to enjoy our SunSeaSangria life — because work happened *away* from home.
