@@ -90,4 +90,4 @@ Sun, sea, sangria… and spreadsheets. The perfect combo. 🍷💻
 
 **What’s your go-to coworking spot on the Costa Blanca? Let me know below!**
 
-{{< image-caption src="/images/sunseasangria.png" >}}{{< /image-caption >}}
+{{< image-caption src="/images/sunseasangria-2-.png" >}}Sun, Sea, Sangria & Serious Productivity{{< /image-caption >}}
