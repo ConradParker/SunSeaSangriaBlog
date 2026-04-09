@@ -15,7 +15,7 @@ No massive revolutions this year: Mercadona still wears the crown for most expat
 
 Here’s your fresh, **SunSeaSangria** guide to grocery hunting in Costa Blanca North this year. We’re talking real 2026 feels – who’s winning on price, what they’re actually good at, and where you’ll want to park your trolley (or your flip-flops) depending on the mood.
 
-{{< image-compare src1="/images/mercadona.png" src2="/images/sunseasangria.com.png" >}}
+{{< image-compare src1="/images/mercadona.png" src2="/images/sunseasangria.com.png" caption1="Trolly Dash Spain, Sunseasangria" >}}
 
 **The Undisputed Champ: Mercadona**
 
@@ -46,7 +46,7 @@ If you want to keep more euros for **sangria** and sunset Aperol, these two are 
 
 You’ll spot them dotted around the North, especially near the main roads and bigger towns.
 
-{{< image-caption src="/images/sunseasangria-1-.png" >}}{{< /image-caption >}}
+{{< image-caption src="/images/sunseasangria-1-.png" >}}Trolly Dash Spain, Sunseasangria{{< /image-caption >}}
 
 **The One-Stop Fancy(ish) Option: Carrefour**
 
@@ -80,7 +80,7 @@ You’ll find them in spots like Javea (Xàbia), Altea, and around the North –
 * **When you want everything in one go** — Carrefour.
 * **Honourable mentions** — Keep an eye on any local Consum if you’re in certain pockets (great quality), and don’t sleep on the proper outdoor markets for insanely good fruit, veg and seafood at silly prices.
 
-  {{< image-caption src="/images/sunseasangria-1-.png" >}}{{< /image-caption >}}
+  {{< image-caption src="/images/sunseasangria.png" >}}Trolly Dash Spain, Sunseasangria{{< /image-caption >}}
 
 **SunSeaSangria Shopping Hacks for 2026**
 
