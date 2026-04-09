@@ -4,11 +4,10 @@ title: "Sun, Sea, Sangria & Serious Productivity: The Magic of Coworking Hubs in
 date: 2026-04-09T09:27:00.000+02:00
 draft: false
 series: sun-sea-lifestyle
+image: /images/sunseasangria.png
 comments: true
 socials: true
 ---
-
-
 Morning, fellow Costa Blanca lovers! ☀️ If you’re self-employed (or married to one, like I am), you know the drill. One minute you’re crushing it at the kitchen table with a sea view out the window… the next you’re folding laundry, chasing the dog, or wondering why your Wi-Fi has decided today is the day to ghost you. Enter: coworking hubs.
 
 These aren’t stuffy offices. They’re bright, breezy, community-filled spaces where freelancers, digital nomads, and self-employed rockstars like my husband can actually *get stuff done* — all while staying firmly planted in the sunny, salty, sangria-soaked lifestyle we moved here for.
@@ -80,3 +79,5 @@ Here’s to working smarter, not harder, and living the Costa Blanca dream.
 Sun, sea, sangria… and spreadsheets. The perfect combo. 🍷💻
 
 **What’s your go-to coworking spot on the Costa Blanca? Let me know below!**
+
+{{< image-caption src="/images/sunseasangria.png" >}}{{< /image-caption >}}
