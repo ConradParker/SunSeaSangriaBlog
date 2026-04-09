@@ -46,7 +46,7 @@ If you want to keep more euros for **sangria** and sunset Aperol, these two are 
 
 You’ll spot them dotted around the North, especially near the main roads and bigger towns.
 
-{{< image-caption src="/images/sunseasangria.png" >}}{{< /image-caption >}}
+{{< image-caption src="/images/sunseasangria-1-.png" >}}{{< /image-caption >}}
 
 **The One-Stop Fancy(ish) Option: Carrefour**
 
