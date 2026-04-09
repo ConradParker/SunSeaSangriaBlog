@@ -44,6 +44,8 @@ You’ll find wide desks, ergonomic chairs, ultra-fast Wi-Fi, private soundproof
 
 •  **Private office**: from €550 (24/7 access)
 
+<https://www.partnerscoworking.com/>
+
 They even do trial days so you can test the vibe before committing. Pro tip: finish your work, walk straight to the beach, and reward yourself with a well-earned dip. That’s the Calpe coworking magic. 🌊
 
 {{< image-caption src="/images/img_8204.jpeg" >}}Sun Sea Lifestyle Co Working hub{{< /image-caption >}}
