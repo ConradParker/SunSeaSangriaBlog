@@ -22,7 +22,7 @@ Think of a coworking hub as your professional playground by the sea. You get:
 
 •  Lightning-fast fibre Wi-Fi that actually works
 
-•  Ergonomic chairs that don’t leave you in a heap by 3pm
+•  Ergonomic chairs that don’t leave you in a heap by 3 pm
 
 •  Meeting rooms, soundproof call booths, printers, coffee corners, and kitchens
 
@@ -30,7 +30,7 @@ Think of a coworking hub as your professional playground by the sea. You get:
 
 No long leases, no boring grey carpets, no “office politics.” Just flexible day passes, monthly desks, or private offices that let you dip in and out as your self-employed life demands.
 
-The best part? In Calpe, Denia, and Alicante you’re never more than a short stroll (or quick bike ride) from the beach, a cold cerveza, or that perfect sunset sangria moment. Work hard, play harder — that’s the Costa Blanca way.
+The best part? In Calpe, Denia, and Alicante, you’re never more than a short stroll (or quick bike ride) from the beach, a cold cerveza, or that perfect sunset sangria moment. Work hard, play harder — that’s the Costa Blanca way.
 
 **Calpe: Beach-Ready Productivity**
 
@@ -38,11 +38,13 @@ Just 3–4 minutes from the iconic Peñón de Ifach rock and those golden beache
 
 You’ll find wide desks, ergonomic chairs, ultra-fast Wi-Fi, private soundproof cabins for calls, a proper meeting room, lounge areas, and a fully equipped kitchen. Perfect for when my husband needs to escape the house chaos and actually focus.
 
-•  **Day pass**: from €19 (8am–8pm)
+•  **Day pass**: from €19 (8 am–8 pm)
 
 •  **Monthly hot or dedicated desk**: from €185
 
 •  **Private office**: from €550 (24/7 access)
+
+<https://www.partnerscoworking.com/>
 
 They even do trial days so you can test the vibe before committing. Pro tip: finish your work, walk straight to the beach, and reward yourself with a well-earned dip. That’s the Calpe coworking magic. 🌊
 
@@ -52,21 +54,25 @@ They even do trial days so you can test the vibe before committing. Pro tip: fin
 
 Denia sits perfectly between the mountains and the sea, and its coworking scene matches that epic location.
 
-**Knowhere Denia** is the biggest in the Marina Alta with over 50 workspaces in a historic building. Fixed desks come with your own locker, unlimited 1Gbps Wi-Fi, full meeting-room access, mail handling, and kitchen facilities. Day passes are super flexible too. They run workshops, talks, and entrepreneur events — perfect for networking while soaking up Denia’s creative, foodie energy.
+**Knowhere Denia** is the biggest in the Marina Alta, with over 50 workspaces in a historic building. Fixed desks come with your own locker, unlimited 1Gbps Wi-Fi, full meeting-room access, mail handling, and kitchen facilities. Day passes are super flexible, too. They run workshops, talks, and entrepreneur events — perfect for networking while soaking up Denia’s creative, foodie energy.
 
-Then there’s **CO-CO Coliving & Coworking** — literally a house where you can work *and* live the dream. Think pool, mountain views, sea breezes, optic fibre, and a ready-made community of digital nomads. Ideal for longer stays or when you just want that “I can’t believe this is my office” feeling.
+Then there’s CO-CO Coliving & Coworking — literally a house where you can work *and* live the dream. Think pool, mountain views, sea breezes, optic fibre, and a ready-made community of digital nomads. Ideal for longer stays or when you just want that “I can’t believe this is my office” feeling.
 
 Whether you’re popping in for a day or settling in for weeks, Denia’s hubs make you feel like you’re part of something bigger than just “getting work done.”
+
+<https://coliving-costablanca.com/>
 
 {{< image-caption src="/images/4314.jpg" >}}Denia Marina{{< /image-caption >}}
 
 **Alicante: City Buzz Meets Beach Life**
 
-Alicante brings big-city energy with that same laid-back coastal soul. Right in the heart of the city you’ll find **ULab** — a vibrant coworking centre packed with flexible desks, private offices, meeting rooms, training spaces, and a huge multipurpose auditorium for events.
+Alicante brings big-city energy with that same laid-back coastal soul. Right in the heart of the city, you’ll find **ULab** — a vibrant coworking centre packed with flexible desks, private offices, meeting rooms, training spaces, and a huge multipurpose auditorium for events.
 
 It’s all about community here. High-speed Wi-Fi, endless coffee, and a crowd of freelancers, creatives, translators, teachers, and entrepreneurs who actually talk to each other (gasp!). Many members say it’s the separation of work and home life that transformed their productivity — plus the friendships and opportunities that come with it.
 
 Other great spots like TerretUp and Luceros12 also dot the city, but ULab’s central location and buzz make it a firm favourite for self-employed types who want to feel inspired rather than isolated.
+
+<https://ulab.es/en/>
 
 **Why My Self-Employed Husband (and Probably Yours) Can’t Get Enough**
 
@@ -74,7 +80,7 @@ Since he started using these hubs, the difference is night and day. No more “w
 
 Whether you need a quiet corner to crush deadlines, a meeting room for client calls, or just the motivation of working alongside other go-getters, these hubs deliver. And they do it with the best backdrop in Europe.
 
-So next time the home office isn’t cutting it, grab your laptop and head to one of these spots. You’ll thank me when you’re sipping sangria at golden hour knowing the day’s work is already done.
+So next time the home office isn’t cutting it, grab your laptop and head to one of these spots. You’ll thank me when you’re sipping sangria at golden hour, knowing the day’s work is already done.
 
 Have you tried any of these coworking hubs yet? Drop your favourites (or horror stories!) in the comments — I’d love to hear which one feels most “you.”
 
