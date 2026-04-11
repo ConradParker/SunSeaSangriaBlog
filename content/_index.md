@@ -55,13 +55,13 @@ Here you’ll find:
 
 **[Foodie spots](https://sunseasangria.com/series/sunseafoodie/)** — where the tapas actually slap 
 
-[**Weekly News** ](https://sunseasangria.com/series/through-the-looking-glass/)— what’s really happening from Alicante to Denia 
+**[Weekly News](https://sunseasangria.com/series/through-the-looking-glass/)** — what’s really happening from Alicante to Denia 
 
 **[Red Tape & Tears](https://sunseasangria.com/series/red-tape-tears/)** — surviving Spanish paperwork without crying into your vino 
 
 **[Paws & Mischief](https://sunseasangria.com/series/test-story/)** — because Snoopy stories hit different 
 
-[**Fiestas & Sangria** ](https://sunseasangria.com/series/fiestas-sangria/)— obvious reasons to celebrate, and plenty more cheeky guides to the towns, beaches, and moments that make this slice of Spain addictive.
+**[Fiestas & Sangria](https://sunseasangria.com/series/fiestas-sangria/)** — obvious reasons to celebrate, and plenty more cheeky guides to the towns, beaches, and moments that make this slice of Spain addictive.
 
 Most importantly… this is **our terrace**. Come as you are. Share your stories, your hidden gems, your funny “only in Spain” moments, or just say hola. Your voice makes this place even brighter.
 
