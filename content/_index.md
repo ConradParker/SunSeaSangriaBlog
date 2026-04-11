@@ -33,6 +33,8 @@ Your cheeky little corner of the Northern Costa Blanca
 
 ![](/images/480965564_10160337798746642_6644424404533892324_n.jpg "SunSeaSangria - Calpe Skyline")
 
+<iframe src="https://sunseasangria.substack.com/embed" width="480" height="320" style="border: 1px solid #EEE; background: white; max-width: 100%;" frameborder="0" scrolling="no"></iframe>
+
 {{< quick-nav >}}
 
 {{< recent-posts >}}
