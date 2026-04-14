@@ -63,7 +63,7 @@ I don’t think it will ever fully stop. Because at its heart, the siesta isn’
 
 {{< image-caption src="/images/4254.jpg" >}}Sun Sea Siesta, a nap on the beach{{< /image-caption >}}
 
-###### **My Personal Siesta Rule These Days**
+**My Personal Siesta Rule These Days**
 
 If I’ve had a big lunch and the afternoon heat is humming, I permit myself. Twenty minutes with the fan on, phone on silent. I wake up feeling like I’ve cheated the system in the best possible way.
 
