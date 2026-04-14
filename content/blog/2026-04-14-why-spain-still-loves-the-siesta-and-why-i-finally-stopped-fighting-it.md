@@ -7,9 +7,6 @@ image: /images/wrcxh.jpg
 comments: true
 socials: true
 ---
-
-
-
 **The Mid-Afternoon Philosophy That Changed My Costa Blanca Life ☀️💤**
 
 ***Sun Sea Siesta***
@@ -24,6 +21,8 @@ Then one gloriously hot summer day, I gave in. I closed the laptop, drew the bli
 
 So let’s talk about why the siesta exists, what it really means in Spanish culture, and whether this lovely slow-life habit is going to survive our hyper-connected, always-on world.
 
+{{< image-caption src="/images/sun-sea-siesta-1-.png" >}}Sun Sea Siesta{{< /image-caption >}}
+
 **Where the Siesta Actually Comes From**
 
 The word “siesta” comes from the old Latin *sexta hora* — literally the sixth hour after sunrise. Back in Roman times, that was around midday, when the sun was at its fiercest. Smart Romans decided it was wiser to rest than to melt.
@@ -33,6 +32,8 @@ Fast-forward to Spain: in a country where summer temperatures regularly flirt wi
 After the Civil War, the habit got another boost. Many people juggled two jobs to make ends meet. The long midday break let them eat properly, rest, and then commute to their evening shift. It wasn’t laziness — it was survival with a side of common sense.
 
 Here on the northern coast (think Javea, Dénia, Calpe, Benissa), the tradition is still alive, especially in smaller family businesses and during the proper summer months. Shops might pull down the metal shutters between 2 and 5 pm. Offices slow down. And yes, some locals still sneak in a proper 20–40 minute nap.
+
+{{< image-caption src="/images/sun-sea-siesta.png" >}}Sun Sea Siesta{{< /image-caption >}}
 
 **It’s Not (Just) About Sleeping**
 
@@ -59,6 +60,8 @@ In smaller towns and villages around Montgó, in family-run bars, or on a quiet 
 Even in more modern setups, you’ll see people taking a proper long lunch, going for a walk, or quietly recharging instead of doom-scrolling at their desk. And let’s be real — with remote work and flexible hours growing, more of us can actually choose the siesta life again.
 
 I don’t think it will ever fully stop. Because at its heart, the siesta isn’t about being lazy. It’s about refusing to let work own every single hour of daylight. It’s about remembering that life tastes better when you’re not constantly rushing.
+
+{{< image-caption src="/images/4254.jpg" >}}Sun Sea Siesta, a nap on the beach{{< /image-caption >}}
 
 ###### **My Personal Siesta Rule These Days**
 
