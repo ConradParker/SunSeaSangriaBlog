@@ -68,3 +68,5 @@ Thanks for reading, and see you next Friday with the next slice of Costa Blanca 
 **Sun Sea Sangria**
 
 Real stories from the sunny side of Spain ☀️
+
+{{< image-caption src="/images/rmbd8.jpg" >}}Spain Airport Chaos: Easter is Over… But the Strikes Aren’t{{< /image-caption >}}
