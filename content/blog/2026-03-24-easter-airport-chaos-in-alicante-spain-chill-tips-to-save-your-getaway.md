@@ -10,6 +10,8 @@ socials: false
 ---
 
 
+{{< image-caption src="/images/1706.jpg" >}}Spain Airport Chaos: Easter is Over… But the Strikes Aren’t{{< /image-caption >}}
+
 ### **Updated News Brief – April 17, 2026**
 
 **Spain Airport Chaos: Easter is Over… But the Strikes Aren’t**
@@ -29,6 +31,8 @@ Pull up a lounger and grab a cold one — because while the Easter madness has c
 
 * **Santiago de Compostela (SCQ)** will be **completely closed** from 23 April to 27 May 2026 for runway resurfacing. No flights in or out — plan alternatives if you’re heading to Galicia.
 * Ryanair is slashing routes and seats across regional Spain for summer 2026 (including closing its Santiago base and cutting Asturias, Vigo and some Canary connections). Fewer cheap flights on certain routes are likely.
+
+  {{< image-caption src="/images/1545.jpg" >}}Spain Airport Chaos: Easter is Over… But the Strikes Aren’t{{< /image-caption >}}
 
 **How bad is it for Costa Blanca travellers?**
 
