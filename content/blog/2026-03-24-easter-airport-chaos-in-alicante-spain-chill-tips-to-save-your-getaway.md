@@ -8,8 +8,6 @@ image: /images/rmbd8.jpg
 comments: false
 socials: false
 ---
-
-
 **Updated News Brief – April 17, 2026**
 
 **Spain Airport Chaos: Easter is Over… But the Strikes Aren’t**
@@ -56,7 +54,7 @@ Subscribe to the **free Sun Sea Sangria newsletter,** and I’ll send you the la
 
 No spam, just the good stuff — so you’re always one step ahead when planning your getaway or settling into life on the coast.
 
-👉 \*\*\[Subscribe free to the Friday newsletter here\*\*]
+👉 [\*\*\[Subscribe free to the Friday newsletter here\*\*]](https://sunseasangria.com/)
 
 Got a flight story from this week’s chaos? Drop it in the comments — I love hearing the real tales (the funnier the better).
 
