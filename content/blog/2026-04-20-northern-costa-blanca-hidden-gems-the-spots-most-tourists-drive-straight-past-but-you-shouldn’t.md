@@ -39,7 +39,7 @@ Most people stick to the N-332, but tucked just below the road is the **Paseo Ec
 * **The Vibe:** Effortless coastal chic. Perfect for a morning stroll before the heat kicks in.
 * **The Secret:** Hit **Cala Pinets** halfway through—it’s tiny, rugged, and usually ignored by families looking for sand.
 
-{{< image-caption src="/images/496.jpg" >}}The Benissa "Eco-Walk": La Fustera to Baladrar{{< /image-caption >}}
+{{< image-caption src="/images/499.jpg" >}}The Benissa "Eco-Walk": La Fustera to Baladrar{{< /image-caption >}}
 
 **3. Mirador Monte Toix: The Bird’s Eye View**
 
