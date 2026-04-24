@@ -7,6 +7,8 @@ image: /images/sun-sea-and-sangria-the-2026-pet-travel-guide.png
 comments: true
 socials: true
 ---
+
+
 **🚨 THE APRIL 2026 UPDATES: READ FIRST**
 
 A new EU Regulation (Regulation (EU) 2016/429) is now in full effect. Here are the three biggest changes you need to know today:
@@ -58,7 +60,11 @@ Planning a route through France or have questions about the new 5-pet limit? Dro
 
 {{< image-caption src="/images/gemini_generated_image_9w16k9w16k9w16k9.png" >}}Sun, Sea, and Sangria: The 2026 Pet Travel Guide{{< /image-caption >}}
 
+
+
 ***Blog written 4th March 26***
+
+
 
 Our pets are our world, so we want them to travel with us! Here's a clear, up-to-date guide on importing pets (dogs, cats, or ferrets) between the UK and Spain in 2026. Post-Brexit rules mean paperwork is essential in both directions, but once you tick the boxes, it's usually straightforward. A new EU regulation (consolidating rules under a single legal act) takes effect from **22 April 2026**, focusing on better consistency, traceability, and welfare across the EU — including a firm limit of **5 pets** per non-commercial trip (per owner/family), stricter document checks for entries from non-EU countries (the UK is non-EU), and no major changes to core requirements like microchipping or rabies jabs. The basics remain familiar, but plan to avoid stress at borders or airports.
 
@@ -111,5 +117,9 @@ Planning a trip with your furry mates? Share your route, pet type, or any worrie
 For More Information, visit https://www.gov.uk/taking-your-pet-abroad
 
 *This guide is accurate as of March 2026 from official sources (gov.uk, EU Commission, Spanish vets), but always double-check with your vet, consulate, or gov.uk right before travel — airlines, dates, and the 5-pet limit can shift.*
+
+*For more up-to-date information, weekly, don't forget to hit that subscribe button <https://sunseasangria.com/>*
+
+
 
 {{< image-caption src="/images/03a46b88-8ef5-4079-bef6-e58da68ee713.jpg" >}}Furry Friends and Red Tape{{< /image-caption >}}
