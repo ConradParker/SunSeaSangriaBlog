@@ -7,8 +7,6 @@ image: /images/sun-sea-and-sangria-the-2026-pet-travel-guide.png
 comments: true
 socials: true
 ---
-
-
 ## 🚨 THE APRIL 2026 UPDATES: READ FIRST
 
 A new EU Regulation (Regulation (EU) 2016/429) is now in full effect. Here are the three biggest changes you need to know today:
@@ -56,8 +54,6 @@ Pet travel rules are like Costa Blanca weather—mostly sunny, but a random stor
 Planning a route through France or have questions about the new 5-pet limit? Drop a comment below and let's get you and your best friend to the beach! 🐶🐱✈️🌊🍹
 
 *Disclaimer: This guide is accurate as of late April 2026. Always double-check with your vet or the official Gov.uk and MAPA.es sites before booking.*
-
-
 
 Blog written 4th  March 26
 
@@ -109,6 +105,8 @@ Planning a trip with your furry mates? Share your route, pet type, or any worrie
 
 **\*Quick Disclaimer**
 Pet travel rules are like Costa Blanca weather — mostly sunny, but a random storm (or new EU tweak from 22 April 2026) can change the plan fast!*
+
+For More Information visit <https://www.gov.uk/taking-your-pet-abroad>
 
 *This guide is accurate as of March 2026 from official sources (gov.uk, EU Commission, Spanish vets), but always double-check with your vet, consulate, or gov.uk right before travel — airlines, dates, and the 5-pet limit can shift.*
 
