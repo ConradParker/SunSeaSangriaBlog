@@ -7,8 +7,6 @@ image: /images/sun-sea-and-sangria-the-2026-pet-travel-guide.png
 comments: true
 socials: true
 ---
-
-
 **🚨 THE APRIL 2026 UPDATES: READ FIRST**
 
 A new EU Regulation (Regulation (EU) 2016/429) is now in full effect. Here are the three biggest changes you need to know today:
@@ -27,11 +25,8 @@ Since the UK is a "non-EU" country, you need to prepare well in advance.
 * Rabies Vaccination: Must be administered at least 21 days before travel if it’s the first dose.
 * Animal Health Certificate (AHC): This has replaced the pet passport for UK residents.
 * * Issued by an Official Veterinarian (OV) in the UK.
-
   * Must be issued within 10 days of your departure date.
-
   * Cost: Expect to pay £100–£250.
-
   * Validity: It is valid for 4 months of onward travel within the EU and for your return to the UK.
 * Approved Routes: You must enter Spain through a designated "Travellers' Point of Entry" (most major airports like Alicante/Malaga and ferry ports like Santander/Bilbao).
 
@@ -58,6 +53,10 @@ Pet travel rules are like Costa Blanca weather—mostly sunny, but a random stor
 Planning a route through France or have questions about the new 5-pet limit? Drop a comment below and let's get you and your best friend to the beach! 🐶🐱✈️🌊🍹
 
 *Disclaimer: This guide is accurate as of late April 2026. Always double-check with your vet or the official Gov.uk and MAPA.es sites before booking.*
+
+
+
+{{< image-caption src="/images/gemini_generated_image_9w16k9w16k9w16k9.png" >}}Sun, Sea, and Sangria: The 2026 Pet Travel Guide{{< /image-caption >}}
 
 ***Blog written 4th March 26***
 
@@ -112,8 +111,5 @@ Planning a trip with your furry mates? Share your route, pet type, or any worrie
 For More Information, visit https://www.gov.uk/taking-your-pet-abroad
 
 *This guide is accurate as of March 2026 from official sources (gov.uk, EU Commission, Spanish vets), but always double-check with your vet, consulate, or gov.uk right before travel — airlines, dates, and the 5-pet limit can shift.*
-
-
-
 
 {{< image-caption src="/images/03a46b88-8ef5-4079-bef6-e58da68ee713.jpg" >}}Furry Friends and Red Tape{{< /image-caption >}}
