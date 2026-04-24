@@ -4,7 +4,7 @@ title: "A Perfect Day Out in Dénia: Mountains, Marina Magic & Mouthwatering
 date: 2026-04-05T14:00:00.000+02:00
 draft: false
 series: sun-sea-lifestyle
-image: /images/img_8566.jpeg
+image: /images/img_8571.jpeg
 comments: true
 socials: true
 ---
@@ -18,6 +18,8 @@ Descending into Dénia, we headed straight for the shiny new Marina de Dénia. G
 
 Breakfast called our names, and we answered at Basta — and let me tell you, it did not disappoint! Nestled right on the marina with killer views of the boats, Basta served up a fabulous breakfast. Think fried eggs, salad, pickles, perfectly brewed coffee, and a delicious €18 special with a cheeky glass of cava if you’re feeling fancy. The vibe was relaxed yet stylish — you cannot beat their friendly service. We lingered over our plates, watching the marina come to life (and the Balearia ferry arriving with its loud, cheerful warning hoots as it entered the harbour), already feeling that holiday glow. Absolute fab start to the day!
 
+*For more Information on Basta Denia* <https://www.bastarestaurantdenia.com/>
+
 {{< image-compare src1="/images/img_8564.jpeg" src2="/images/img_8566.jpeg" caption1=" Basta Breakfast. the best in town" caption2="Denia Marina Lighthouse" >}}
 
 Fueled and happy, we paid our bill and set off on foot for a proper explore. We strolled from the sleek new marina towards the charming old marina, following the wide main path that hugged the water’s edge. On one side, rows of gleaming yachts bobbed gently in the marina; on the other, that inviting stretch of golden beach sparkled under the morning sun.
@@ -26,6 +28,8 @@ The path wound past stylish cafés and boutique shops, and we were pleasantly su
 
 We continued our leisurely stroll along the marina, the dramatic silhouette of Dénia Castle rising picturesquely on its hill ahead, like a Mediterranean beacon pulling us forward.
 
+*For more information on Denia Castle visit* <https://www.denia.es/es/info/cultura/castell.aspx>
+
 {{< image-caption src="/images/img_8571.jpeg" >}}Denia Castle over the Marina{{< /image-caption >}}
 
 A well-timed coffee stop near the castle was the perfect excuse to sit, people-watch, and soak up the atmosphere. From there, we wandered into the heart of the old town, getting happily lost in the narrow, character-filled streets lined with tempting eateries. Dénia really knows how to do “eating streets” — every corner whispered promises of fresh seafood, local rice dishes, and creative tapas.
@@ -33,6 +37,8 @@ A well-timed coffee stop near the castle was the perfect excuse to sit, people-w
 {{< image-caption src="/images/img_8574.jpeg" >}}Denia Eating Streets{{< /image-caption >}}
 
 We couldn’t pass up the Denia street food (hello, Els Magazinos vibes nearby!), browsing the vibrant stalls and soaking in the buzz of international flavours mixed with authentic Spanish goodness. From there, we meandered towards the elegant Main Street (Marqués de Campo), shaded by trees and full of that lovely Spanish town energy — shops, cafés, and locals going about their day.
+
+*For opening times and more information visit* <https://elsmagazinos.com/>
 
 {{< image-caption src="/images/img_8575.jpeg" >}}Els Magazinos Denia Street Food{{< /image-caption >}}
 
