@@ -1,7 +1,7 @@
 ---
 title: "🚨 UPDATED: April 2026 Airport Chaos in Alicante — Still Striking, Still
   Chilling!"
-date: 2026-04-17T09:23:00.000+02:00
+date: 2026-04-24T09:08:00.000+02:00
 draft: false
 series: sun-sea-lifestyle
 image: /images/sun-sea-sangria-news-updates.jpg
