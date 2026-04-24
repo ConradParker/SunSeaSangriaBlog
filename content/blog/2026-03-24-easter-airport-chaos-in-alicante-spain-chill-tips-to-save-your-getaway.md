@@ -1,37 +1,77 @@
 ---
-title: "Airport Chaos in Alicante & Spain: Chill Tips to Save Your Getaway
-  (UPDATES 17/4.26)"
-date: 2026-04-17T09:23:00.000+02:00
+title: "🚨 UPDATED: April 2026 Airport Chaos in Alicante — Still Striking, Still
+  Chilling!"
+date: 2026-04-24T09:08:00.000+02:00
 draft: false
 series: sun-sea-lifestyle
 image: /images/sun-sea-sangria-news-updates.jpg
 comments: false
 socials: false
 ---
-**Updated News Brief – April 17, 2026**
 
-**Spain Airport Chaos: Easter is Over… But the Strikes Aren’t**
 
-Pull up a lounger and grab a cold one — because while the Easter madness has calmed down, Spanish airports are still serving up fresh drama in April 2026.
+So, you thought the Easter strikes were over? *Not quite.* If you’re heading to the Costa Blanca this week, you need the latest scoop. While the Easter Bunny has long gone, the industrial action in Spain has moved into a "new season." Don't worry, though—Sun, Sea, and Sangria has done the legwork so you can keep your holiday vibes high and your stress levels low.
 
-**What’s happening right now (today, Friday 17 April):**
+**📅 The "Groundforce" Strike: The Mon/Wed/Fri Rule**
 
-* An **indefinite air traffic control strike** by SAERCO controllers kicked off at midnight. It’s hitting **14 airports**, with the biggest impact on the **Canary Islands** (Lanzarote, Fuerteventura, La Palma, La Gomera, El Hierro) plus mainland spots like Seville, Vigo, Jerez and a few smaller ones.
-* Expect **delays, cancellations, longer queues** and slower operations — especially on flights to/from the Canaries. Airlines like Ryanair, easyJet, Jet2, Vueling and TUI are all in the mix.
+The baggage handlers and ramp staff at **Alicante-Elche (ALC)** are still on an indefinite strike. They aren't walking out every day, but they are targeting the busiest windows.
 
-**Ground staff situation (Ground force & others):**
+**When it's happening:** Every **Monday, Wednesday, and Friday** (Yes, that’s today!) in three specific slots:
 
-* The Easter strikes (baggage handlers, check-in, ramp staff) caused chaos at Alicante, Málaga, Palma, Madrid, Barcelona and more. Some days were suspended for talks, but the underlying dispute is still bubbling. Partial action has continued on certain Mondays, Wednesdays and Fridays, so baggage delays and hand-luggage-only policies can still pop up.
+* **Early Bird:** 5:00 am – 7:00 am
+* **Mid-Day Peak:** 11:00 am – 5:00 pm
+* **Late Night:** 10:00 pm – Midnight
 
-**Other headaches coming soon:**
+**The Chill Tip:** If you can, **travel with hand luggage only.** The strike mainly affects the people who move your suitcases from the plane to the carousel. No checked bags = no waiting 3 hours for your luggage!
 
-* **Santiago de Compostela (SCQ)** will be **completely closed** from 23 April to 27 May 2026 for runway resurfacing. No flights in or out — plan alternatives if you’re heading to Galicia.
-* Ryanair is slashing routes and seats across regional Spain for summer 2026 (including closing its Santiago base and cutting Asturias, Vigo and some Canary connections). Fewer cheap flights on certain routes are likely.
-  Image with How **bad is it for Costa Blanca travellers?**
 
-Alicante-Elche (ALC) and Valencia aren’t in the direct firing line of today’s ATC strike, but ripple effects, network delays and any lingering ground staff action can still bite. If you’re flying in/out this weekend or over the next few weeks, double-check everything.
 
-{{< image-compare src1="/images/1706.jpg" src2="/images/1545.jpg" caption1="Sun Sea Sangria Airport update 17th April " caption2="Sun Sea Sangria Airport update 17th April " >}}
+**✈️ The ATC Crisis: What’s Happening in the Towers?**
+
+As of **April 17**, air traffic controllers at 14 private towers (SAERCO) across Spain went on an **indefinite strike**.
+
+**Is Alicante affected?** Alicante’s tower is managed by ENAIRE (the state provider), so the controllers *there* are not striking. **HOWEVER**, because towers in places like Sevilla, Ibiza, and the Canaries are disrupted, it’s causing a "domino effect" across all Spanish airspace. Expect "rolling delays" even if you are flying directly into Alicante from the UK.
+
+
+
+**⛽ A New Headache: Petrol Station Strikes**
+
+Just when you thought you’d reached the rental car desk and were home free, there's a new twist.
+
+* **April 30 (Thursday):** 4-hour "warning" strike from 12pm to 4pm.
+* **May 3 (Sunday):** Full 24-hour nationwide strike at petrol stations.
+
+**The Chill Tip:** If you're renting a car for a May Day getaway, **fill up on Wednesday, April 29!** Don’t wait until you’re on the motorway with the "low fuel" light on during a strike day.
+
+
+
+**🛂 The "EES" Border Chaos**
+
+Added to the strikes, the EU’s new **Entry/Exit System (EES)** went live on April 10. This means every UK passport holder now has to have fingerprints and photos taken at the border.
+
+* **The Reality:** Queues at Alicante have hit the 3-hour mark during peak arrival times.
+* **The Chill Tip:** Make sure your phone is fully charged and you have a bottle of water *before* you join the passport queue. It’s a marathon, not a sprint!
+
+
+
+**🍹 3 Ways to "Save Your Getaway" (2026 Edition)**
+
+1. **The 24-Hour Check:** Check your airline’s app exactly 24 hours before you fly. If your flight is hit by the Groundforce strike, they may offer you a free move to a Tuesday or Thursday flight. Take it!
+2. **Know Your Rights (The EU261 Loophole):** Usually, strikes are "extraordinary circumstances" (no cash compensation). However, if your airline cancels because of *their own* staff (like a pilot strike), you might be entitled to up to **£520**. If it's the airport staff (like today), they just owe you food, drink, and a hotel.
+3. **The "Santiago" Warning:** Planning a side trip to Northern Spain? **Santiago (SCQ) airport is CLOSED** for runway works until May 27. Don't book a flight there!
+
+**Are you stuck at the airport right now or planning a May getaway? Drop your flight numbers or worries in the comments below, and let’s help each other stay chill!** 🌊🍹☀️
+
+
+
+
+
+
+{{< image-compare src1="/images/1706.jpg" src2="/images/1545.jpg" caption1="🚨 UPDATED: April 2026 Airport Chaos in Alicante — Still Striking, Still Chilling!" caption2="🚨 UPDATED: April 2026 Airport Chaos in Alicante — Still Striking, Still Chilling!" >}}
+
+***Blog from 17th April***
+
+
 
 **Chill Tips to Save Your Getaway (Updated for April/May 2026)**
 
@@ -54,7 +94,7 @@ Subscribe to the **free Sun Sea Sangria newsletter,** and I’ll send you the la
 
 No spam, just the good stuff — so you’re always one step ahead when planning your getaway or settling into life on the coast.
 
-👉 [\*\*\[Subscribe free to the Friday newsletter here\*\*]](https://sunseasangria.com/)
+👉 \[\*\*[Subscribe free to the Friday newsletter here\*\*]](https://sunseasangria.com/)
 
 Got a flight story from this week’s chaos? Drop it in the comments — I love hearing the real tales (the funnier the better).
 
