@@ -1,6 +1,6 @@
 ---
 title: "(UPDATED APRIL 26) Sun, Sea, and Sangria: The 2026 Pet Travel Guide"
-date: 2026-03-04T09:33:00.000+01:00
+date: 2026-04-24T08:42:00.000+02:00
 draft: false
 series: red-tape-tears
 image: /images/sun-sea-and-sangria-the-2026-pet-travel-guide.png
