@@ -72,4 +72,4 @@ Living here means trading rigid 9–5 schedules for something more human: sun, s
 
 Got a specific town or horror story about Spanish opening hours? Drop it in the comments — we’re all in this siesta together. ¡Salud!
 
-{{< image-caption src="/images/img_8558.jpeg" >}}We have all been here{{< /image-caption >}}
+{{< image-caption src="/images/img_8558.jpeg" >}}Sun Sea Sangria - Siesta Survival Guide{{< /image-caption >}}
