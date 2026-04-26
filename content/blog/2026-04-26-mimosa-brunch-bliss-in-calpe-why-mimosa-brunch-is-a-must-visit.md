@@ -7,10 +7,6 @@ image: /images/whatsapp-image-2026-04-26-at-11.24.11-2-.jpeg
 comments: true
 socials: true
 ---
-
-
-
-
 **From early-bird breakfasts to those long, lazy Mediterranean brunches—and every delicious bite in between.**
 
 If there is one thing we believe in at ***Sun Sea Sangria***, it’s that brunch is not just a meal—it’s a lifestyle. And during my latest trip to Calpe, I found the ultimate headquarters for it: Mimosa Brunch.
@@ -29,8 +25,6 @@ The menu is a dream for anyone who loves a mix of classic breakfast staples and 
 * The Artisan Touch: Their toasts are game-changers—especially when topped with fresh avocado or salty Iberian ham.
 * Sweet Treats: If you have a sweet tooth, their fluffy pancakes are a must-try. Pair them with a fresh orange juice (it’s the Costa Blanca, after all!) or a beautifully crafted latte art coffee.
 
-
-
 {{< image-compare src1="/images/whatsapp-image-2026-04-26-at-11.24.11-2-.jpeg" src2="/images/whatsapp-image-2026-04-26-at-11.24.11-4-.jpeg" caption1="Mimosa Brunch Calpe - Breakfast Croissant with Scrambled Egg and Bacon" caption2="Mimosa Brunch Calpe - Real Toast with Salmon" >}}
 
 **Why We Love It**
@@ -47,9 +41,17 @@ Sun Sea Sangria Tip: It’s a popular spot for a reason! If you’re heading the
 * Must Order: The Eggs Benedict or any of the Mimosas (obviously!).
 * Vibe: 10/10 welcoming, good food and lovely staff.
 
-For more Information and the menu, visit https://mimosabrunchcalpe.es/?fb-edit=1
+For more Information and the menu, visit <https://mimosabrunchcalpe.es/>
 
-Want a weekly Newsletter straight to your inbox?
+**Controversial opinion:** 
+
+You haven't truly seen Calpe until you’ve had a mimosa at Mimosa Brunch. 🥂 But I need to know—are you Team Eggs Benedict or Team 'Give Me All The Pancakes'? Drop your favorite dish below so I know what to order next time!
+
+Thank you
+
+Joanne x
+
+**Want a weekly Newsletter straight to your inbox?**
 
 Join the Sun Sea News — our free weekly newsletter packed with:
 
