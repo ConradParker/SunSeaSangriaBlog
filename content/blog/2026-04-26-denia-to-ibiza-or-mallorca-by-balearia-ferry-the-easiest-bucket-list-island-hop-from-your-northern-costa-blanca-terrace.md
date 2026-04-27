@@ -2,7 +2,7 @@
 title: "Denia to Ibiza (or Mallorca) by Balearia Ferry: The Easiest Bucket-List
   Island Hop from Your Northern Costa Blanca Terrace"
 date: 2026-04-26T13:04:00.000+02:00
-draft: true
+draft: false
 series: sss-town-guide
 image: /images/img_8592.jpeg
 comments: true
