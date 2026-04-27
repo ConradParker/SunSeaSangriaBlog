@@ -8,8 +8,6 @@ image: /images/img_8592.jpeg
 comments: true
 socials: true
 ---
-
-
 Pull up a lounger, grab a virtual sangria, and let’s talk about the ferry that’s been sitting on our bucket list for way too long.
 
 Living up here in the Northern Costa Blanca (Denia, Jávea, Calpe crew, you know who you are) means the Balearic Islands are basically staring at you across the water every clear day. Flying is fine if you love tiny seats and 3am airport alarms, but the **Balearia ferry from Denia**? That’s the proper slow-life, zero-stress way to do it. No passport queues, bring the car, bring the dog, bring the beach bag the size of a small caravan.
@@ -21,6 +19,8 @@ We haven’t actually sailed it yet (still ticking it off the list this summer),
 **Denia → Ibiza**: Direct fast ferry, about **2h 15min** (sometimes a little longer depending on the boat). Super popular route. **Denia → Palma de Mallorca**: Roughly **5h 15min** with a quick stop in Ibiza (you don’t get off, enjoy the view).Bonus option: Some sailings continue or connect to **Formentera** (around 2h 15min from Denia).
 
 Basically, from Denia port you can be sipping a proper Ibizan sunset drink the same afternoon or waking up in Mallorca the next morning. Perfect weekend warrior territory.
+
+{{< image-caption src="/images/whatsapp-image-2026-04-27-at-09.19.27.jpeg" >}}Balearia Ferry from Denia{{< /image-caption >}}
 
 ### **How much are we talking? (Rough 2026 prices)**
 
@@ -61,6 +61,8 @@ Ibiza without a car ≈ **€99**Mallorca without a car ≈ **€82**With a car?
 **Pro tip**: If you’re an official resident of the Valencian Community or Balearics, you can score crazy-low fares (we’re talking €16–€18 one way on some sailings). Check the “resident” option when booking.
 
 Book early for July/August or you’ll pay silly money. Off-season (spring/autumn) is where the bargains live.
+
+{{< image-caption src="/images/whatsapp-image-2026-04-27-at-09.19.43.jpeg" >}}Balearia : Port of Denia {{< /image-caption >}}
 
 **What’s it actually like on board?**
 
