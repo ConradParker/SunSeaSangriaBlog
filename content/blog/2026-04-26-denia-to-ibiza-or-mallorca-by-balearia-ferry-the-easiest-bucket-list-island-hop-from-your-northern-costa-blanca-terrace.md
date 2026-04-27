@@ -8,39 +8,15 @@ image: /images/img_8592.jpeg
 comments: true
 socials: true
 ---
-Pull up a lounger, grab a virtual sangria, and let’s talk about the ferry that’s been sitting on our bucket list for way too long.
 
-Living up here in the Northern Costa Blanca (Denia, Jávea, Calpe crew, you know who you are) means the Balearic Islands are basically staring at you across the water every clear day. Flying is fine if you love tiny seats and 3am airport alarms, but the **Balearia ferry from Denia**? That’s the proper slow-life, zero-stress way to do it. No passport queues, bring the car, bring the dog, bring the beach bag the size of a small caravan.
-
-We haven’t actually sailed it yet (still ticking it off the list this summer), but we’ve done the digging, so you don’t have to. Here’s the no-fluff, real-talk guide to the Denia–Balearics ferry in 2026.
-
-### **Where does it actually go?**
-
-**Denia → Ibiza**: Direct fast ferry, about **2h 15min** (sometimes a little longer depending on the boat). Super popular route. **Denia → Palma de Mallorca**: Roughly **5h 15min** with a quick stop in Ibiza (you don’t get off, enjoy the view).Bonus option: Some sailings continue or connect to **Formentera** (around 2h 15min from Denia).
-
-Basically, from Denia port you can be sipping a proper Ibizan sunset drink the same afternoon or waking up in Mallorca the next morning. Perfect weekend warrior territory.
-
-{{< image-caption src="/images/whatsapp-image-2026-04-27-at-09.19.27.jpeg" >}}Balearia Ferry from Denia{{< /image-caption >}}
-
-### **How much are we talking? (Rough 2026 prices)**
-
-Prices fluctuate like the Mediterranean wind, but here’s the ballpark for a standard seat (one way, non-resident):
-
-**Denia–Ibiza**: from **€65** per person. Denia**–Mallorca**: from **€70** per person
-
-Round-trip averages:
-
-Ibiza without a car ≈ **€99**Mallorca without a car ≈ **€82**With a car? Add roughly €80–€100+, depending on size and season.
-
-**Pro tip**: If you’re an official resident of the Valencian Community or Balearics, you can score crazy-low fares (we’re talking €16–€18 one way on some sailings). Check the “resident” option when booking.
-
-Book early for July/August or you’ll pay silly money. Off-season (spring/autumn) is where the bargains live.
 
 Pull up a lounger, grab a virtual sangria, and let’s talk about the ferry that’s been sitting on our bucket list for way too long.
 
 Living up here in the Northern Costa Blanca (Denia, Jávea, Calpe crew, you know who you are) means the Balearic Islands are basically staring at you across the water every clear day. Flying is fine if you love tiny seats and 3am airport alarms, but the **Balearia ferry from Denia**? That’s the proper slow-life, zero-stress way to do it. No passport queues, bring the car, bring the dog, bring the beach bag the size of a small caravan.
 
 We haven’t actually sailed it yet (still ticking it off the list this summer), but we’ve done the digging, so you don’t have to. Here’s the no-fluff, real-talk guide to the Denia–Balearics ferry in 2026.
+
+{{< image-caption src="/images/img_8563.jpeg" >}}Marina de Denia - Your journey starts here{{< /image-caption >}}
 
 **Where does it actually go?**
 
@@ -62,7 +38,13 @@ Ibiza without a car ≈ **€99**Mallorca without a car ≈ **€82**With a car?
 
 Book early for July/August or you’ll pay silly money. Off-season (spring/autumn) is where the bargains live.
 
-{{< image-caption src="/images/whatsapp-image-2026-04-27-at-09.19.43.jpeg" >}}Balearia : Port of Denia {{< /image-caption >}}
+Pull up a lounger, grab a virtual sangria, and let’s talk about the ferry that’s been sitting on our bucket list for way too long.
+
+Living up here in the Northern Costa Blanca (Denia, Jávea, Calpe crew, you know who you are) means the Balearic Islands are basically staring at you across the water every clear day. Flying is fine if you love tiny seats and 3am airport alarms, but the **Balearia ferry from Denia**? That’s the proper slow-life, zero-stress way to do it. No passport queues, bring the car, bring the dog, bring the beach bag the size of a small caravan.
+
+We haven’t actually sailed it yet (still ticking it off the list this summer), but we’ve done the digging, so you don’t have to. Here’s the no-fluff, real-talk guide to the Denia–Balearics ferry in 2026.
+
+{{< image-caption src="/images/whatsapp-image-2026-04-27-at-09.19.43.jpeg" >}}Balearia - Your Ferry Awaits{{< /image-caption >}}
 
 **What’s it actually like on board?**
 
@@ -79,6 +61,8 @@ Our dog-owning readers, this one’s for you. Balearia has dedicated **“casita
 **Practical bits you actually need to know**
 
 **Port in Denia**: Easy to find, modern terminal, parking right there. Arrive 60–90 minutes early (90 if you’ve got a car).**Check-in**: Quick and painless compared to airports. **Luggage**: No silly weight limits. Pack like you’re moving house if you want. **Car on board**: The whole point for many of us is to drive straight off in Ibiza or Palma and explore without renting another one.
+
+{{< image-caption src="/images/whatsapp-image-2026-04-27-at-09.19.27.jpeg" >}}Balearia - Where will you go?{{< /image-caption >}}
 
 **Our top terrace tips before you sail**
 
