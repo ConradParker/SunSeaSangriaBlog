@@ -18,11 +18,7 @@ One of the questions I get asked a lot is: “What’s the property market like 
 
 We bought our first apartment in Cumbre del Sol (Benitachell) in 2004. It was a lovely 3-bedroom duplex with those stunning sea views that made waking up feel like a holiday every day. Two years later, in 2006, we bought a second apartment in Jávea.
 
-
-
 {{< image-compare src1="/images/555593359_10161160766311642_9161416753943859055_n.jpg" src2="/images/img_8376.jpeg" caption1="Cumbre Del Sol Views - Why we bought it" caption2="Our Cumbre del Sol apartment " >}}
-
-
 
 ***It wasn’t all plain sailing, though.***
 
@@ -36,13 +32,7 @@ So when we decided to buy the second apartment in Jávea, we made damn sure it w
 
 The market was booming back then. Prices were climbing fast, mortgages were easy to get, and it felt like the whole coast was exploding with new developments. We bought both to rent out to tourists and long-stay visitors, and for the first few years, the income was good.
 
-
-
-{{< image-compare src1="/images/471316032_10160202146471642_5802515484958697060_n.jpg" src2="/images/44779526_10155459799526642_7060050061295616_n.jpg" caption1="Apartment in Javea " caption2="Rental Javea" >}}
-
-
-
-
+{{< image-compare src1="/images/471316032_10160202146471642_5802515484958697060_n.jpg" src2="/images/img_8369.jpeg" caption1="Apartment in Javea " caption2="Rental Javea" >}}
 
 **The Crash Hits Hard (2008 onwards)**
 
@@ -58,8 +48,6 @@ Then, in **2016/2017**, the Valencian government introduced the VT tourist licen
 
 We had to register both our apartments and get the official VT number. More paperwork, more costs, but it made everything legal and professional. At the time, it felt like a sensible step.
 
-
-
 **The Market in 2026 – What Changed?**
 
 Looking back over 20+ years, the Costa Blanca North is very different now:
@@ -74,8 +62,6 @@ Looking back over 20+ years, the Costa Blanca North is very different now:
 
 The wild speculation of 2004–2007 is mostly gone. Today it feels more mature… but also more regulated, more commercial, and a lot harder for new buyers chasing pure rental income.
 
-
-
 **What I Learned After All These Years**
 
 * Patience really matters. Those who held through the crash generally did well in the end.
@@ -84,8 +70,6 @@ The wild speculation of 2004–2007 is mostly gone. Today it feels more mature�
 * The dream of owning a piece of this coast is still alive, but it’s now a slower, more thoughtful process than it was in the mid-2000s.
 
 Even though we no longer own those two apartments, we still love this area deeply. That said, in my opinion, the overbuilding and Ibiza-villa invasion is spoiling the character of some areas that used to feel properly Spanish. 
-
-
 
 ***Have you bought (or sold) property on the Costa Blanca?***
 
