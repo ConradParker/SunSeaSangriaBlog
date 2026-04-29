@@ -2,7 +2,7 @@
 title: We Bought Property in Costa Blanca North in 2004 – What We Learned
   Through Floods, Crash & Recovery
 date: 2026-04-29T13:24:00.000+02:00
-draft: true
+draft: false
 series: red-tape-tears
 image: /images/image-6-.jpg
 comments: true
