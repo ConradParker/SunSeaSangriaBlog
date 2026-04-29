@@ -40,13 +40,19 @@ Then came 2008 and the global financial crisis. Spain was one of the worst-hit c
 
 We held onto both properties through the tough years. There were times when it was stressful — empty weeks, lower rents, and the worry of whether the market would ever recover. But we kept them maintained and waited.
 
-The Recovery Years & the Birth of Tourist Licences
+**The Recovery Years & VT Tourist Licences**
 
 From around 2014, the market slowly started turning again. International buyers returned, especially from northern Europe.
 
 Then, in **2016/2017**, the Valencian government introduced the VT tourist licence (Vivienda Turística). Suddenly, if you wanted to rent your apartment short-term (under 10–30 days, depending on the rules), you needed an official licence. It was brought in to clean up the Wild West days of completely unregulated Airbnb-style rentals.
 
 We had to register both our apartments and get the official VT number. More paperwork, more costs, but it made everything legal and professional. At the time, it felt like a sensible step.
+
+
+
+{{< image-caption src="/images/image-7-.jpg" >}}{{< /image-caption >}}
+
+
 
 **The Market in 2026 – What Changed?**
 
