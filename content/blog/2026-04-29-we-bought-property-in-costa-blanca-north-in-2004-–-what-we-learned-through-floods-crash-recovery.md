@@ -40,7 +40,7 @@ Then came 2008 and the global financial crisis. Spain was one of the worst-hit c
 
 We held onto both properties through the tough years. There were times when it was stressful — empty weeks, lower rents, and the worry of whether the market would ever recover. But we kept them maintained and waited.
 
-The Recovery Years & the Birth of Tourist Licences
+**The Recovery Years & VT Tourist Licences**
 
 From around 2014, the market slowly started turning again. International buyers returned, especially from northern Europe.
 
