@@ -48,6 +48,12 @@ Then, in **2016/2017**, the Valencian government introduced the VT tourist licen
 
 We had to register both our apartments and get the official VT number. More paperwork, more costs, but it made everything legal and professional. At the time, it felt like a sensible step.
 
+
+
+{{< image-caption src="/images/image-7-.jpg" >}}{{< /image-caption >}}
+
+
+
 **The Market in 2026 – What Changed?**
 
 Looking back over 20+ years, the Costa Blanca North is very different now:
