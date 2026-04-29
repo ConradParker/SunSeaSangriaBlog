@@ -4,11 +4,10 @@ title: We Bought Property in Costa Blanca North in 2004 – What We Learned
 date: 2026-04-29T13:24:00.000+02:00
 draft: true
 series: red-tape-tears
+image: /images/image-6-.jpg
 comments: true
 socials: true
 ---
-
-
 **Buying Property on Costa Blanca North in 2026: Our Real Story from 2004 Boom, Gota Fría Floods & 2008 Crash**
 
 Good morning from the Sun Sea Sangria terrace ☀️🍷
@@ -19,7 +18,9 @@ One of the questions I get asked a lot is: “What’s the property market like 
 
 We bought our first apartment in Cumbre del Sol (Benitachell) in 2004. It was a lovely 3-bedroom duplex with those stunning sea views that made waking up feel like a holiday every day. Two years later, in 2006, we bought a second apartment in Jávea.
 
-It wasn’t all plain sailing, though.
+{{< image-compare src1="/images/555593359_10161160766311642_9161416753943859055_n.jpg" src2="/images/img_8376.jpeg" caption1="Cumbre Del Sol Views - Why we bought it" caption2="Our Cumbre del Sol apartment " >}}
+
+***It wasn’t all plain sailing, though.***
 
 Just months after we got the keys to the Cumbre del Sol apartment, we were hit by a Gota Fría. Heavy rain caused the garden to flood straight into the downstairs rooms of our duplex. We came back one afternoon to find water pouring through the doors — absolute chaos.
 
