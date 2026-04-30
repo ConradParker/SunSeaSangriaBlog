@@ -4,7 +4,7 @@ title: How Alicante Airport Expansion Will Change Tourism in Calpe, Denia &
 date: 2026-04-30T10:28:00.000+02:00
 draft: false
 series: sun-sea-lifestyle
-image: /images/vr390.jpg
+image: /images/alicante-airport-expansion.png
 comments: true
 socials: true
 ---
@@ -59,37 +59,19 @@ The main construction phase starts in 2027, with significant improvements expect
 
 {{< image-caption src="/images/whatsapp-image-2026-04-30-at-09.58.57.jpeg" >}}Calpe Beach La Fossa{{< /image-caption >}}
 
-**My Honest Take from the Terrace**
-
-Overall, this is **very good news** for the Northern Costa Blanca. While the southern coast gets most of the mass tourism, improved airport access is quietly positioning Calpe, Denia, and Jávea as a more attractive, higher-quality destination.
-
-The mix of a bigger modern airport + the Balearia ferry from Denia + our beautiful, quieter beaches and mountains creates a sweet spot that many other Spanish coasts don’t have.
-
-<https://sunseasangria.com/blog/2026-04-26-denia-to-ibiza-or-mallorca-by-balearia-ferry-the-easiest-bucket-list-island-hop-from-your-northern-costa-blanca-terrace/>
-
-**What do you think?**
+> ***My Take: Better Access Needs Better Infrastructure***
+>
+> *The Alicante airport expansion is undoubtedly a win for our region, helping Calpe and its neighbors stand out as the "quality" alternative to the crowded southern coast. However, "quality" isn't just about how people get here—it’s about what they find when they arrive.*
+>
+> *We are already struggling with a parking crisis that lasts nearly all year, yet the focus remains on building up rather than branching out. If we want to welcome more tourists, we need to stop the high-rise obsession and start investing in green lungs, improved public facilities, and smart parking solutions. Growth is great, but without a plan to improve our town’s actual layout, we risk losing the very charm that makes people want to visit in the first place.*
 
 Will the airport expansion be mostly good for the area, or are you worried about it getting too busy? Drop your thoughts in the comments — especially if you live here full-time or are planning to move.
 
 Joanne x
 
-**P.S.** If you’re thinking about buying property or moving to the Northern Costa Blanca, don’t miss our big guide:
 
-→<https://sunseasangria.com/blog/2026-04-29-we-bought-property-in-costa-blanca-north-in-2004--what-we-learned-through-floods-crash-recovery/>
 
-And for easy island escapes:
 
-→<https://sunseasangria.com/blog/2026-04-26-denia-to-ibiza-or-mallorca-by-balearia-ferry-the-easiest-bucket-list-island-hop-from-your-northern-costa-blanca-terrace/>
-
-**My Honest Take from the Terrace**
-
-Overall, this is **very good news** for the Northern Costa Blanca. The combination of a modernising airport, the Balearia ferry from Denia, and our beautiful, quieter coastline puts us in a sweet spot for quality tourism rather than mass crowds.
-
-**What do you think?**
-
-Will the airport expansion be mostly good for the area, or are you worried about it getting too busy? Drop your thoughts in the comments — I read every single one.
-
-Joanne x
 
 **P.S.** If you’re enjoying these honest guides about life on the Northern Costa Blanca (property, travel, local news and real talk), why not join the free terrace crew?
 
@@ -98,3 +80,15 @@ I send a new post every Friday with the best stories, tips and updates straight 
 👉[ **Subscribe free here → sunseasangria.substack.com**](https://sunseasangria.substack.com)
 
 See you on the lounger! 🌊🍹
+
+
+
+
+
+**If you’re thinking about buying property or moving to the Northern Costa Blanca, don’t miss our big guide:**
+
+→[https://sunseasangria.com/blog/2026-04-29-we-bought-property-in-costa-blanca-north-in-2004--what-we-learned-through-floods-crash-recovery/](<>)
+
+And for easy island escapes:
+
+→[https://sunseasangria.com/blog/2026-04-26-denia-to-ibiza-or-mallorca-by-balearia-ferry-the-easiest-bucket-list-island-hop-from-your-northern-costa-blanca-terrace/](<>)
