@@ -4,12 +4,10 @@ title: How Alicante Airport Expansion Will Change Tourism in Calpe, Denia &
 date: 2026-04-30T10:28:00.000+02:00
 draft: false
 series: sun-sea-lifestyle
-image: /images/1545.jpg
+image: /images/vr390.jpg
 comments: true
 socials: true
 ---
-
-
 Good morning from the Sun Sea Sangria terrace ☀️✈️
 
 If you’ve flown into Alicante Airport recently, you’ll know it’s getting busier by the month. Record passenger numbers are pouring in — and big changes are on the way that will directly affect life (and tourism) here in the Northern Costa Blanca.
@@ -36,7 +34,7 @@ Aena (the airport operator) has confirmed a huge investment of **€868 million*
 
 The main construction phase starts in 2027, with significant improvements expected by 2031.
 
-{{< image-caption src="/images/1545.jpg" >}}Alicante Airport{{< /image-caption >}}
+{{< image-caption src="/images/sun-sea-sangria-1-.png" >}}Alicante Airport{{< /image-caption >}}
 
 **How This Will Affect Calpe, Denia & Jávea**
 
@@ -60,8 +58,6 @@ The main construction phase starts in 2027, with significant improvements expect
 * Potential rise in prices as demand grows.
 
 {{< image-caption src="/images/whatsapp-image-2026-04-30-at-09.58.57.jpeg" >}}Calpe Beach La Fossa{{< /image-caption >}}
-
-
 
 **My Honest Take from the Terrace**
 
@@ -89,17 +85,11 @@ And for easy island escapes:
 
 Overall, this is **very good news** for the Northern Costa Blanca. The combination of a modernising airport, the Balearia ferry from Denia, and our beautiful, quieter coastline puts us in a sweet spot for quality tourism rather than mass crowds.
 
-
-
 **What do you think?**
 
 Will the airport expansion be mostly good for the area, or are you worried about it getting too busy? Drop your thoughts in the comments — I read every single one.
 
 Joanne x
-
-
-
-
 
 **P.S.** If you’re enjoying these honest guides about life on the Northern Costa Blanca (property, travel, local news and real talk), why not join the free terrace crew?
 
