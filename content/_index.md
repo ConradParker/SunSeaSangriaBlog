@@ -28,7 +28,7 @@ paige:
     }
 menu_weight: 10
 ---
-![](/images/480965564_10160337798746642_6644424404533892324_n.jpg "SunSeaSangria - Moraira Seafront")
+![](/images/untitled-1920-x-1080-px-.png "SunSeaSangria - Moraira Seafront")
 
 <iframe src="https://sunseasangria.substack.com/embed" width="480" height="320" style="border: 1px solid #EEE; background: white; max-width: 100%;" frameborder="0" scrolling="no"></iframe>
 
