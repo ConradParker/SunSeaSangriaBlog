@@ -8,8 +8,6 @@ image: /images/whatsapp-image-2026-02-16-at-12.22.32-2-.jpeg
 comments: true
 socials: true
 ---
-
-
 ***An honest expat guide to daily life on Spain’s most beautiful (and underrated) stretch of coast***
 
 Hola from the Sun Sea Sangria terrace. ☀️
@@ -20,7 +18,7 @@ No towering hotels or endless party crowds. Instead, you get dramatic mountains 
 
 Here’s the no-filter guide to what it’s *really* like living in Dénia, Jávea (Xàbia), Calpe, Benissa, plus the charming inland villages.
 
-{{< image-caption src="/images/img_8571.jpeg" >}}Denia Castle {{< /image-caption >}}
+{{< image-caption src="/images/img_8571.jpeg" >}}Denia Castle{{< /image-caption >}}
 
 **Dénia: The Food Capital with Soul**
 
@@ -55,11 +53,7 @@ Wander the narrow, winding streets lined with centuries-old buildings and the ic
 
 **Daily life note:** Everything closes for siesta (yes, even in 2026). Embrace it — you’ll thank me during those long, wine-filled lunches.
 
-
-
-{{< image-caption src="/images/513196288_10160766852101642_5303614460102755212_n-1-.jpg" >}}Javea Port {{< /image-caption >}}
-
-
+{{< image-caption src="/images/whatsapp-image-2026-05-04-at-10.11.11.jpeg" >}}Javea Sea Front looking at Montgo{{< /image-caption >}}
 
 **Calpe: Where the Rock Steals the Show**
 
@@ -88,8 +82,6 @@ Benissa delivers peaceful residential living with everything just 10–15 minute
 
 {{< image-caption src="/images/2857.jpg" >}}Walk behind the Penon de Ifach{{< /image-caption >}}
 
-
-
 **Moraira: Elegant Coastal Living**
 
 Often called one of the prettiest spots on the north coast, Moraira offers a more upscale yet relaxed vibe. With its stunning natural harbour, crystal-clear waters, and beautiful beaches, it feels like a Mediterranean postcard come to life.
@@ -103,12 +95,7 @@ Often called one of the prettiest spots on the north coast, Moraira offers a mor
 
 Moraira strikes a lovely balance: upscale enough for great amenities and dining, but still relaxed and community-oriented. It’s especially popular with families and those looking for a refined coastal lifestyle without the intensity of larger resorts.
 
-
-
 {{< image-caption src="/images/whatsapp-image-2026-03-30-at-11.32.27-4-.jpeg" >}}Moraira Seafront{{< /image-caption >}}
-
-
-
 
 **The Inland Towns: Mountain Villages That Feel Like Another World**
 
@@ -155,8 +142,6 @@ Who Is Costa Blanca North Perfect For?
 It’s **not** ideal if you want non-stop nightlife or a fully English-speaking bubble.
 
 {{< image-caption src="/images/whatsapp-image-2026-03-15-at-11.36.16-6-.jpeg" >}}Polop de la Marina{{< /image-caption >}}
-
-
 
 **Ready to make the move to Costa Blanca North?**
 
