@@ -28,15 +28,13 @@ paige:
     }
 menu_weight: 10
 ---
-![](/images/981ef25e-70dd-474e-86ce-87f3bd84e5c5_1974x658.jpg "SunSeaSangria - Calpe Skyline")
+![](/images/981ef25e-70dd-474e-86ce-87f3bd84e5c5_1974x658.jpg "SunSeaSangria - Moraira Seafront")
 
 <iframe src="https://sunseasangria.substack.com/embed" width="480" height="320" style="border: 1px solid #EEE; background: white; max-width: 100%;" frameborder="0" scrolling="no"></iframe>
 
 {{< quick-nav >}}
 
 {{< recent-posts >}}
-
-
 
 **🌞 Hola and Welcome to Sun Sea Sangria 🍷**
 
@@ -52,12 +50,17 @@ This is where we share the **real** Costa Blanca North life: the beautiful bits,
 
 **Here you’ll find:**
 
-* **Sun Sea Lifestyle** → Cheeky, no-fluff guides to full-time living on the coast
-* **Hikes & Trails** → Proper walks that won’t ruin your espadrilles
-* **Foodie Spots** → Where the tapas actually slap
-* **Red Tape & Tears** → Surviving Spanish paperwork without crying into your vino
-* **Weekly News** → What’s really happening from Alicante to Dénia
-* **Fiestas & Sangria** → All the celebrations and hidden gems that make this place addictive
+**[Sun Sea Lifestyle](https://sunseasangria.com/series/sun-sea-lifestyle/)** → Cheeky, no-fluff guides to full-time living on the coast
+
+**[Hikes & Trails](https://sunseasangria.com/series/sunseatrails/)** → Proper walks that won’t ruin your espadrilles
+
+**[Foodie Spots](https://sunseasangria.com/series/sunseafoodie/)** → Where the tapas actually slap
+
+[Red Tape & Tears](https://sunseasangria.com/series/red-tape-tears/) → Surviving Spanish paperwork without crying into your vino
+
+**[Weekly News](https://sunseasangria.com/series/through-the-looking-glass/)** → What’s really happening from Alicante to Dénia
+
+[**Fiestas & Sangria** ](https://sunseasangria.com/series/fiestas-sangria/)→ All the celebrations and hidden gems that make this place addictive
 
 Most importantly… this is **our terrace**. Come as you are. Share your stories, your favourite hidden spots, or just say hola. Your voice makes this place even brighter.
 
