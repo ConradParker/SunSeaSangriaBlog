@@ -50,12 +50,17 @@ This is where we share the **real** Costa Blanca North life: the beautiful bits,
 
 **Here you’ll find:**
 
-* **Sun Sea Lifestyle** → Cheeky, no-fluff guides to full-time living on the coast
-* **Hikes & Trails** → Proper walks that won’t ruin your espadrilles
-* **Foodie Spots** → Where the tapas actually slap
-* **Red Tape & Tears** → Surviving Spanish paperwork without crying into your vino
-* **Weekly News** → What’s really happening from Alicante to Dénia
-* **Fiestas & Sangria** → All the celebrations and hidden gems that make this place addictive
+**[Sun Sea Lifestyle](https://sunseasangria.com/series/sun-sea-lifestyle/)** → Cheeky, no-fluff guides to full-time living on the coast
+
+**[Hikes & Trails](https://sunseasangria.com/series/sunseatrails/)** → Proper walks that won’t ruin your espadrilles
+
+**Foodie Spots** → Where the tapas actually slap
+
+**Red Tape & Tears** → Surviving Spanish paperwork without crying into your vino
+
+**Weekly News** → What’s really happening from Alicante to Dénia
+
+**Fiestas & Sangria** → All the celebrations and hidden gems that make this place addictive
 
 Most importantly… this is **our terrace**. Come as you are. Share your stories, your favourite hidden spots, or just say hola. Your voice makes this place even brighter.
 
