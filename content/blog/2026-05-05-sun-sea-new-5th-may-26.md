@@ -23,6 +23,10 @@ Around **Calpe**, eyes are on the Peñón and water quality, while **Xàbia** is
 
 All in all, it’s the classic Costa Blanca mix: booming interest, a few growing pains, and plenty of reasons to be grateful we get to live (or dream) here.
 
+Until next week, enjoy the sun and sangria 
+
+Joanne x
+
 
 
 What’s the biggest “only in the Costa Blanca” moment you spotted this week? Drop it in the comments, reply here, or send it my way for next week’s roundup — I love hearing your terrace stories.
