@@ -11,7 +11,7 @@ socials: true
 
 **🌞 Sun Sea News – This Week on the Terrace**
 
-*(Edition: Monday 4th May 26 – Pulling up a lounger for a proper catch-up)*
+*(Edition: Monday \[DATE] – Pulling up a lounger for a proper catch-up)*
 
 Hola, terrace crew! ☀️🍷
 
@@ -29,14 +29,17 @@ All in all, it’s the classic Costa Blanca mix: booming interest, a few growing
 
 What’s the biggest “only in the Costa Blanca” moment you spotted this week? Drop it in the comments, reply here, or send it my way for next week’s roundup — I love hearing your terrace stories.
 
-
-
-### **Pull up a permanent lounger and join the Terrace Crew!**
+**Pull up a permanent lounger and join the Terrace Crew!**
 
 Get the full Sun Sea Sangria newsletter straight to your inbox every Friday — honest stories, hidden gems, expat real-talk, and the best local gossip from Dénia to Calpe and beyond.
 
-👉[ **Subscribe for free on Substack here**](https://sunseasangria.substack.com/subscribe)
+👉 <https://sunseasangria.com/>
 
 (Already one of the crew? Forward this to a friend who needs a seat on the terrace!)
+
+
+
+
+
 
 {{< image-caption src="/images/4254.jpg" >}}Calpe La Fossa{{< /image-caption >}}
