@@ -36,17 +36,19 @@ menu_weight: 10
 
 {{< recent-posts >}}
 
-**🌞 Hola and Welcome to Sun Sea Sangria 🍷**
 
-*Your cheeky little corner of the Northern Costa Blanca*
 
-**Pull up a lounger, grab a cold one, and make yourself at home.**
+**🌞 Hola and Welcome to the Sun Sea Sangria Terrace 🍷**
 
-Hey there, sunshine seeker!
+Your cheeky little corner of the Northern Costa Blanca.
 
-Whether you’ve already traded grey skies for golden hour views in Dénia, Jávea, Calpe or Benissa… or you’re still dreaming about it from somewhere far less colourful — you’re in the right place.
+Pull up a lounger, grab a cold one, and make yourself at home.
 
-This is where we share the **real** Costa Blanca North life: the beautiful bits, the gloriously chaotic bits, the “why is everything closed again?” moments, and all the little joys in between. No fluff, no fake perfection — just honest stories from someone living it every single day.
+Whether you’ve already swapped grey skies for golden hour views in **Dénia, Jávea, Calpe or Benissa**… or you’re still dreaming about it from somewhere far less colourful — you’re in the right place.
+
+This is where we share the *real* Costa Blanca North life: the beautiful bits, the gloriously chaotic bits, the “why is everything closed again?” moments, and all the little joys in between.
+
+No fluff. No fake perfection. Just honest stories from someone living it every single day.
 
 **Here you’ll find:**
 
