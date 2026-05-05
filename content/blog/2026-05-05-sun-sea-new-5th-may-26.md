@@ -3,7 +3,7 @@ title: Sun Sea News 4th May 26
 date: 2026-05-04T11:15:00.000+02:00
 draft: false
 series: through-the-looking-glass
-image: /images/your-paragraph-text.jpg
+image: /images/2nhrr.jpg
 comments: true
 socials: true
 ---
