@@ -7,11 +7,9 @@ image: /images/your-paragraph-text.jpg
 comments: true
 socials: true
 ---
-
-
 **🌞 Sun Sea News – This Week on the Terrace**
 
-*(Edition: Monday \[DATE] – Pulling up a lounger for a proper catch-up)*
+*(Edition: Monday 4th May 2026– Pulling up a lounger for a proper catch-up)*
 
 Hola, terrace crew! ☀️🍷
 
@@ -25,7 +23,11 @@ Around **Calpe**, eyes are on the Peñón and water quality, while **Xàbia** is
 
 All in all, it’s the classic Costa Blanca mix: booming interest, a few growing pains, and plenty of reasons to be grateful we get to live (or dream) here.
 
-**See you back on the terrace** ☀️🍹
+Until next week, enjoy the sun and sangria 
+
+Joanne x
+
+
 
 What’s the biggest “only in the Costa Blanca” moment you spotted this week? Drop it in the comments, reply here, or send it my way for next week’s roundup — I love hearing your terrace stories.
 
@@ -36,10 +38,5 @@ Get the full Sun Sea Sangria newsletter straight to your inbox every Friday — 
 👉 <https://sunseasangria.com/>
 
 (Already one of the crew? Forward this to a friend who needs a seat on the terrace!)
-
-
-
-
-
 
 {{< image-caption src="/images/4254.jpg" >}}Calpe La Fossa{{< /image-caption >}}
