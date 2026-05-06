@@ -28,7 +28,7 @@ paige:
     }
 menu_weight: 10
 ---
-![](/images/www.reallygreatsite.com-123-456-7890.png "SunSeaSangria - Moraira Seafront")
+![](/images/www.reallygreatsite.com-123-456-7890-1200-x-1080-px-.png "SunSeaSangria - Moraira Seafront")
 
 <iframe src="https://sunseasangria.substack.com/embed" width="480" height="320" style="border: 1px solid #EEE; background: white; max-width: 100%;" frameborder="0" scrolling="no"></iframe>
 
