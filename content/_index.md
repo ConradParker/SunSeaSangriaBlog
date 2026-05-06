@@ -28,15 +28,13 @@ paige:
     }
 menu_weight: 10
 ---
-![](/images/hola-welcome-to-the-sun-sea-sangria-terrace.jpg "SunSeaSangria - Moraira Seafront")
+![](/images/www.reallygreatsite.com-123-456-7890.png "SunSeaSangria - Moraira Seafront")
 
 <iframe src="https://sunseasangria.substack.com/embed" width="480" height="320" style="border: 1px solid #EEE; background: white; max-width: 100%;" frameborder="0" scrolling="no"></iframe>
 
 {{< quick-nav >}}
 
 {{< recent-posts >}}
-
-
 
 **🌞 Hola and Welcome to the Sun Sea Sangria Terrace 🍷**
 
