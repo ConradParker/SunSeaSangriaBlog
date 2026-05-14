@@ -1,6 +1,5 @@
 ---
-title: "Costa Blanca North Just Won Spain’s Best Beaches Award 2026: My Ultimate
-  Guide to the 10 Blue Flag Gems You Can’t Miss This Summer"
+title: "Costa Blanca North Just Won Spain’s Best Beaches Award 2026 "
 date: 2026-05-14T14:35:00.000+02:00
 draft: false
 series: sss-town-guide
@@ -8,9 +7,7 @@ image: /images/itc34.jpg
 comments: true
 socials: true
 ---
-
-
-
+**My Ultimate Guide to the Blue Flag Gems You Can’t Miss This Summer**
 
 **Let's grab a cold one and pull up a sun lounger – because the Costa Blanca North has properly smashed it again this year.** 🏖️
 
@@ -22,7 +19,7 @@ The Blue Flag awards were announced on 5 May 2026, and once more, our little sli
 
 **Les Marines** and **Les Bovetes** – long, golden stretches perfect for building sandcastles the size of Benidorm high-rises.**Punta del Raset** and **Els Molins** – handy for the port, ice creams, and that classic “I’ll just have one more beer” vibe.**Les Deveses**, **Marineta Cassiana**, and **Punta Negra** round it out. Rocky bits for snorkelling if you fancy pretending you’re in a David Attenborough doc.
 
-{{< image-caption src="/images/4254.jpg" >}}Blue Flag Winner - La Fossa Calpe {{< /image-caption >}}
+{{< image-caption src="/images/4254.jpg" >}}Blue Flag Winner - La Fossa Calpe{{< /image-caption >}}
 
 Head a bit further round, and **Calpe** has gone and bagged **five** this year, with two fresh ones:
 
