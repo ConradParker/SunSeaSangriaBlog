@@ -104,3 +104,42 @@ collections:
         required: false
         hint: "Home=10, Blog=20. Set 30+ to appear after Blog."
       - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "settings"
+    label: "Site Settings"
+    delete: false
+    editor: { preview: false }
+    files:
+      - name: "homepage"
+        label: "Homepage"
+        file: "data/homepage.yaml"
+        fields:
+          - label: "Hero"
+            name: "hero"
+            widget: "object"
+            fields:
+              - { label: "Background image", name: "image", widget: "image" }
+              - { label: "Small italic line above headline", name: "eyebrow", widget: "string" }
+              - { label: "Big headline", name: "headline", widget: "text",
+                  hint: "Press Enter to add a line break (e.g. break after 'the')" }
+              - { label: "Button label", name: "cta_label", widget: "string" }
+              - { label: "Button link", name: "cta_link", widget: "string",
+                  hint: "Use #latest to scroll to the latest posts, or any URL" }
+          - label: "Newsletter callout"
+            name: "newsletter"
+            widget: "object"
+            fields:
+              - { label: "Heading", name: "heading", widget: "string" }
+              - { label: "Description", name: "body", widget: "text" }
+              - { label: "Button label", name: "cta_label", widget: "string" }
+              - { label: "Substack URL", name: "url", widget: "string" }
+
+      - name: "socials"
+        label: "Social Media URLs"
+        file: "data/socials.yaml"
+        fields:
+          - { label: "Instagram", name: "instagram", widget: "string", required: false }
+          - { label: "Pinterest", name: "pinterest", widget: "string", required: false }
+          - { label: "Facebook",  name: "facebook",  widget: "string", required: false }
+          - { label: "YouTube",   name: "youtube",   widget: "string", required: false }
+          - { label: "X",         name: "x",         widget: "string", required: false }

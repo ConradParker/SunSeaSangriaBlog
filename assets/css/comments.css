@@ -46,7 +46,7 @@
 
 #comment-submit {
   padding: 0.6rem 1.5rem;
-  background: var(--primary-color, #c0392b);
+  background: var(--primary-color);
   color: white;
   border: none;
   border-radius: 4px;

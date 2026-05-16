@@ -101,7 +101,7 @@
         {{- end -}}
 
         <div class="blog-card__body">
-          <span class="blog-card__category" style="color: {{ $page.Params.nav_color | default "#c0392b" }};">{{ $emoji }} {{ $page.Title }}</span>
+          <span class="blog-card__category" style="color: {{ $page.Params.nav_color | default "var(--color-terracotta)" }};">{{ $emoji }} {{ $page.Title }}</span>
           <div class="blog-card__title">{{ $post.Title }}</div>
           <div class="blog-card__excerpt">
             {{- with $post.Description -}}

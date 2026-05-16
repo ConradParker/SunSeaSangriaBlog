@@ -1,0 +1,59 @@
+/* ==========================================================================
+   Design tokens — brand palette, spacing, radii, shadows
+   Loaded sitewide before component CSS. See visual-refresh-spec.md §4.
+   ========================================================================== */
+
+:root {
+  /* ── Brand colours ── */
+  --color-terracotta:       #D87654;
+  --color-terracotta-dark:  #B85B3A;
+  --color-turquoise:        #5FA8AD;
+  --color-turquoise-dark:   #4A8589;
+  --color-yellow:           #F2C14E;
+
+  /* ── Surfaces / neutrals ── */
+  --color-cream:            #FAF6ED;
+  --color-cream-warm:       #F4ECDD;
+  --color-white:            #FFFFFF;
+  --color-ink:              #1A0F0A;
+  --color-text:             #3D2E25;
+  --color-muted:            #8A7A6E;
+  --color-border:           #E8DCC8;
+
+  /* ── Compat aliases (used by Paige + legacy CSS) ── */
+  --primary-color:          var(--color-terracotta);
+  --primary-color-dark:     var(--color-terracotta-dark);
+  --accent-color:           var(--color-turquoise);
+
+  /* ── Spacing ── */
+  --space-xs: 0.25rem; --space-sm: 0.5rem;  --space-md: 1rem;
+  --space-lg: 1.5rem;  --space-xl: 2.5rem;  --space-2xl: 4rem;
+  --space-3xl: 6rem;
+
+  /* ── Radii ── */
+  --radius-sm: 6px; --radius-md: 10px; --radius-lg: 16px;
+  --radius-xl: 24px; --radius-pill: 999px;
+
+  /* ── Shadows ── */
+  --shadow-sm: 0 1px 3px rgba(26,15,10,0.08);
+  --shadow-md: 0 4px 16px rgba(26,15,10,0.10);
+  --shadow-lg: 0 12px 36px rgba(26,15,10,0.14);
+
+  /* ── Layout ── */
+  --container-max: 1100px;
+
+  /* ── Header height (used for sticky calc) ── */
+  --header-h: 72px;
+}
+
+/* Apply sitewide background + base text colour. Font-family intentionally
+   unchanged — Lato/Playfair already set in head-last.html. */
+html, body {
+  background: var(--color-cream);
+  color: var(--color-text);
+}
+
+/* The hero uses a viewport-width breakout (calc(50% - 50vw)) so it can span
+   full-width while sitting inside Paige's .container. Prevent the resulting
+   tiny horizontal overflow from creating a scrollbar. */
+body { overflow-x: hidden; }

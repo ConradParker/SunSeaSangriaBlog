@@ -1,9 +1,22 @@
+{{/* Per-post share bar — opt-in via `socials: true` in front-matter.
+     Reads URLs from data/socials.yaml (same source as nav/footer). */}}
 {{ if .Params.socials }}
 <div class="social-bar">
   <div>
     <div class="social-bar__text">Enjoyed this? Come say hola! 👋</div>
     <div class="social-bar__sub">Follow Sun Sea Sangria for more Costa Blanca life</div>
   </div>
-  {{ partial "social-icons.html" (dict "class" "social-bar__links" "labels" true) }}
+  <div class="social-bar__links">
+    {{ range $platform, $url := .Site.Data.socials }}
+      {{ if $url }}
+        <a href="{{ $url }}" target="_blank" rel="noopener noreferrer"
+           class="social-icon social-icon--{{ $platform }}"
+           title="{{ $platform | title }}">
+          {{ partial (printf "icons/%s.svg" $platform) . }}
+          <span>{{ $platform | title }}</span>
+        </a>
+      {{ end }}
+    {{ end }}
+  </div>
 </div>
 {{ end }}

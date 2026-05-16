@@ -583,7 +583,7 @@
 }
 
 .recent-posts__item:hover .recent-posts__title {
-  color: #c0392b;
+  color: var(--color-terracotta);
 }
 
 .recent-posts__excerpt {

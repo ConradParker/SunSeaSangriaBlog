@@ -7,7 +7,7 @@ image: 831ea636-69c0-4e14-a7d4-1977bbdeb156.jpg
 menu_weight: 10
 nav_emoji: 📄
 nav_desc: Paperwork help & guides
-nav_color: "#c0392b"
+nav_color: "#D87654"
 nav_weight: 20
 ---
 **Surviving Spain’s Paperwork One Headache at a Time**

@@ -1,0 +1,12 @@
+{{ $page := . }}
+
+<footer class="site-footer" id="paige-site-footer">
+  <div class="site-footer-inner">
+    <p class="footer-copy">© {{ now.Year }} Sun Sea Sangria. All rights reserved.</p>
+    <p class="footer-links">
+      <a href="/privacy-policy/">Privacy</a> &middot;
+      <a href="/disclaimer/">Disclaimer</a>
+    </p>
+    {{ partial "social-icons.html" (dict "context" . "variant" "footer") }}
+  </div>
+</footer>

@@ -1,0 +1,111 @@
+{{ define "main" }}
+{{ $h := .Site.Data.homepage.hero }}
+{{ $n := .Site.Data.homepage.newsletter }}
+
+{{/* Resolve hero image: assets/ pipeline if path is /images/..., otherwise use as-is (static/). */}}
+{{ $heroURL := $h.image }}
+{{ if hasPrefix $h.image "/images/" }}
+  {{ with resources.Get (strings.TrimPrefix "/" $h.image) }}
+    {{ $heroURL = .RelPermalink }}
+  {{ end }}
+{{ end }}
+
+<section class="home-hero" style="background-image: url('{{ $heroURL }}');">
+  <div class="home-hero-overlay">
+    {{ with $h.eyebrow }}<p class="home-hero-eyebrow">{{ . }}</p>{{ end }}
+    <h1 class="home-hero-headline">{{ replace (chomp $h.headline) "\n" "<br>" | safeHTML }}</h1>
+    {{ with $h.cta_label }}<a class="btn btn-primary btn-lg" href="{{ $h.cta_link }}">{{ . }}</a>{{ end }}
+  </div>
+</section>
+
+<section class="home-series">
+  <div class="home-container">
+    {{/* Gather all series taxonomy pages, sort by nav_weight ascending (top of homepage cards) */}}
+    {{ $all := slice }}
+    {{ range $name, $_ := site.Taxonomies.series }}
+      {{ with site.GetPage (printf "/series/%s" $name) }}
+        {{ $all = $all | append . }}
+      {{ end }}
+    {{ end }}
+    {{ $sorted := sort (where $all ".Params.nav_weight" "ne" nil) ".Params.nav_weight" "asc" }}
+    {{ $top3 := first 3 $sorted }}
+
+    <div class="home-series-grid">
+      {{ range $top3 }}
+        {{ $page := . }}
+        {{ $emoji := .Params.nav_emoji | default "✨" }}
+        {{ $hasImg := false }}
+        {{ $imgURL := "" }}
+        {{ with .Params.image }}
+          {{/* Series images live as page-bundle resources beside the _index.md */}}
+          {{ with $page.Resources.GetMatch . }}
+            {{ $hasImg = true }}
+            {{ $imgURL = .RelPermalink }}
+          {{ end }}
+        {{ end }}
+        <a class="home-series-card{{ if not $hasImg }} home-series-card--fallback{{ end }}"
+           href="{{ .RelPermalink }}"
+           {{ if $hasImg }}style="background-image: url('{{ $imgURL }}');"{{ end }}>
+          {{ if not $hasImg }}
+            <span class="home-series-card-emoji">{{ $emoji }}</span>
+          {{ end }}
+          <div class="home-series-card-label">
+            <h3>{{ .Title }}</h3>
+          </div>
+        </a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+<section class="home-latest" id="latest">
+  <div class="home-container home-latest-grid">
+
+    <div class="home-latest-posts">
+      <h2>Latest from the Blog</h2>
+      {{ range first 3 (where site.RegularPages "Section" "blog") }}
+        {{ $post := . }}
+        {{ $emoji := "📝" }}
+        {{ with .Params.series }}
+          {{ with site.GetPage (printf "/series/%s" .) }}
+            {{ $emoji = .Params.nav_emoji | default "📝" }}
+          {{ end }}
+        {{ end }}
+        <article class="home-latest-post">
+          <a href="{{ .RelPermalink }}" class="home-latest-post-thumb">
+            {{ $hasImg := false }}
+            {{ $imgURL := "" }}
+            {{ with .Params.image }}
+              {{ $imgPath := strings.TrimPrefix "/" . }}
+              {{ with resources.Get $imgPath }}
+                {{ $hasImg = true }}
+                {{ $imgURL = .RelPermalink }}
+              {{ end }}
+            {{ end }}
+            {{ if $hasImg }}
+              <img src="{{ $imgURL }}" alt="" loading="lazy">
+            {{ else }}
+              <span class="home-latest-post-thumb-placeholder">{{ $emoji }}</span>
+            {{ end }}
+          </a>
+          <div class="home-latest-post-body">
+            <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+            <p class="home-latest-post-meta">
+              {{ .Date.Format "January 2, 2006" }} · {{ .ReadingTime }} min read
+            </p>
+          </div>
+        </article>
+      {{ end }}
+    </div>
+
+    <aside class="home-newsletter">
+      <h3>{{ $n.heading }}</h3>
+      <p>{{ $n.body }}</p>
+      <a class="btn btn-primary" href="{{ $n.url }}" target="_blank" rel="noopener noreferrer">
+        {{ $n.cta_label }}
+      </a>
+    </aside>
+
+  </div>
+</section>
+{{ end }}

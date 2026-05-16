@@ -1,109 +1,41 @@
 {{ $page := . }}
 
-{{ $basePath := path.Clean (urls.Parse (relLangURL "")).Path }}
-{{ $breadcrumbs := $page.Ancestors.Reverse | and ($page.Param "paige.site.disable_breadcrumbs" | not) }}
-{{ $description := $page.Param "paige.site.description" | markdownify | and ($page.Param "paige.site.disable_description" | not) }}
-{{ $first := templates.Exists "partials/paige/site-header-first.html" }}
-{{ $last := templates.Exists "partials/paige/site-header-last.html" }}
-{{ $links := false }}
-{{ $menu := $page.Param "paige.site.disable_menu" | not }}
-{{ $pills := false }}
-{{ $style := $page.Param "paige.site.menu_style" }}
-{{ $tabs := false }}
-{{ $title := site.Title | markdownify | and ($page.Param "paige.site.disable_title" | not) }}
-{{ $underline := false }}
+<header class="site-header">
+  <div class="site-header-inner">
 
-{{ if eq $basePath "/" }}
-    {{ $basePath = "" }}
-{{ end }}
+    <a class="brand" href="{{ "/" | relURL }}">
+      {{ with .Site.Params.logo }}
+        <img src="{{ . }}" alt="{{ $.Site.Params.logoAlt | default "Sun Sea Sangria" }}" height="40">
+      {{ else }}
+        <span class="brand-text"><span class="brand-text__accent">Sun</span>Sea<span class="brand-text__accent">Sangria</span></span>
+      {{ end }}
+    </a>
 
-{{ $pagePath := strings.TrimPrefix $basePath $page.RelPermalink }}
+    <button class="nav-toggle" type="button" aria-label="Menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
 
-{{ with $style }}
-    {{ if eq . "pills" }}
-        {{ $pills = true }}
-    {{ else if eq . "tabs" }}
-        {{ $tabs = true }}
-    {{ else if eq . "underline" }}
-        {{ $underline = true }}
-    {{ else }}
-        {{ $links = true }}
-    {{ end }}
-{{ else }}
-    {{ $links = true }}
-{{ end }}
-
-{{ if or $breadcrumbs $description $first $last $menu $title }}
-    <header id="paige-site-header">
-        {{ partial "paige/func-include.html" (dict "name" "site-header-first%s.html" "page" $page) | safeHTML }}
-
-        <div class="site-header__brand" id="paige-site-brand">
-            <a href="{{ relLangURL `` }}" id="paige-site-logo">
-                {{- partial "paige/image.html" (dict
-                    "alt" "Sun Sea Sangria"
-                    "class" "img-fluid"
-                    "loading" "eager"
-                    "page" $page
-                    "src" "/images/logo.jpg"
-                    "style" "max-height: 80px; width: auto;"
-                ) -}}
-            </a>
-            {{ with $title }}
-                <div id="paige-site-title">
-                    <a href="{{ relLangURL `` }}">{{ . }}</a>
-                </div>
-            {{ end }}
-        </div>
-
-        {{ with $description }}
-            <div class="lead paige-row-tall text-center" id="paige-site-description">{{ . }}</div>
+    <div class="nav-wrap">
+      <nav class="primary-nav" aria-label="Primary">
+        {{ range .Site.Menus.main }}
+          {{ $active := or (eq .URL $page.RelPermalink) (and (ne .URL "/") (hasPrefix $page.RelPermalink .URL)) }}
+          <a href="{{ .URL | relURL }}"{{ if $active }} class="is-active" aria-current="page"{{ end }}>{{ .Name }}</a>
         {{ end }}
+      </nav>
+      {{ partial "social-icons.html" (dict "context" . "variant" "nav") }}
+    </div>
 
-        {{ with $breadcrumbs }}
-            <nav aria-label="{{ i18n `paige_breadcrumbs` }}" class="paige-row-tall" id="paige-site-breadcrumbs">
-                <div class="d-flex justify-content-center">
-                    <ol class="breadcrumb mb-0">
-                        {{ range . }}
-                            {{ $title := cond .IsHome (i18n "paige_home") .LinkTitle }}
+  </div>
+</header>
 
-                            <li class="breadcrumb-item">
-                                <a href="{{ .RelPermalink }}">{{ $title | markdownify | plainify | htmlUnescape }}</a>
-                            </li>
-                        {{ end }}
-                    </ol>
-                </div>
-            </nav>
-        {{ end }}
-
-        {{ partial "paige/func-include.html" (dict "name" "site-header-last%s.html" "page" $page) | safeHTML }}
-    </header>
-
-    {{ if $menu }}
-        {{ with site.Menus.main }}
-            <nav class="navbar navbar-expand-md" id="paige-site-menu">
-                <div class="container-fluid justify-content-center">
-                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMenu" aria-controls="navbarMenu" aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="navbar-toggler-icon"></span>
-                    </button>
-
-                    <div class="collapse navbar-collapse justify-content-center" id="navbarMenu">
-                        <ul class="navbar-nav text-center">
-                            {{ range . }}
-                                {{ $menuPath := strings.TrimPrefix $basePath .URL }}
-                                {{ $home := and (eq $menuPath "/") $page.IsHome }}
-                                {{ $menuMatch := and (ne $menuPath "/") (hasPrefix $pagePath $menuPath) }}
-                                {{ $section := and (ne $menuPath "/") (hasPrefix $menuPath (printf "/%s/" $page.Section)) }}
-                                {{ $active := or $home $menuMatch $section }}
-
-                                <li class="nav-item">
-                                    <a {{ if $active }} aria-current="page" {{ end }} class="nav-link {{ if $active }} active fw-bold {{ end }}" href="{{ .URL }}" {{ with partial "paige/func-target.html" (dict "page" $page "url" .URL) }} target="{{ . }}" {{ end }}>{{ .Name | markdownify }}</a>
-                                </li>
-                            {{ end }}
-                        </ul>
-                        {{ partial "social-icons.html" (dict "class" "social-nav" "labels" false) }}
-                    </div>
-                </div>
-            </nav>
-        {{ end }}
-    {{ end }}
-{{ end }}
+<script>
+  (function () {
+    var btn = document.querySelector('.nav-toggle');
+    var wrap = document.querySelector('.nav-wrap');
+    if (!btn || !wrap) return;
+    btn.addEventListener('click', function () {
+      var open = wrap.classList.toggle('is-open');
+      btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+    });
+  })();
+</script>

@@ -1,0 +1,195 @@
+/* ==========================================================================
+   Site chrome — header, footer, social icons.
+   Loaded after tokens.css and after Paige's own stylesheet so it wins.
+   ========================================================================== */
+
+/* ── Social icon rows (shared) ─────────────────────────────────────────── */
+
+.socials { display: flex; align-items: center; gap: 0.75rem; }
+.socials .social-link {
+  display: inline-flex;
+  width: 22px; height: 22px;
+  align-items: center; justify-content: center;
+  color: var(--color-muted);
+  transition: color .18s, transform .18s;
+  text-decoration: none;
+}
+.socials .social-link:hover { transform: translateY(-2px); }
+.socials .social-link svg { width: 18px; height: 18px; display: block; }
+
+/* Nav variant — divider on the left, hover terracotta */
+.socials--nav {
+  padding-left: var(--space-md);
+  border-left: 1px solid var(--color-border);
+}
+.socials--nav .social-link { color: var(--color-muted); }
+.socials--nav .social-link:hover { color: var(--color-terracotta); }
+
+/* Footer variant — muted on dark, hover white */
+.socials--footer .social-link { color: rgba(255,255,255,0.45); }
+.socials--footer .social-link:hover { color: var(--color-white); }
+
+/* ── Header ─────────────────────────────────────────────────────────────── */
+
+.site-header {
+  position: sticky; top: 0; z-index: 50;
+  background: var(--color-white);
+  border-bottom: 1px solid var(--color-border);
+  box-shadow: var(--shadow-sm);
+}
+.site-header-inner {
+  max-width: var(--container-max);
+  margin: 0 auto;
+  padding: var(--space-md) var(--space-xl);
+  min-height: var(--header-h);
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+  align-items: center;
+  gap: var(--space-lg);
+}
+.brand { grid-column: 1; justify-self: start; }
+/* Dissolve the wrapper on desktop so primary-nav + socials sit directly in the grid */
+.nav-wrap { display: contents; }
+.primary-nav { grid-column: 2; justify-self: center; }
+.socials--nav { grid-column: 3; justify-self: end; }
+.brand {
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+  color: var(--color-ink);
+}
+.brand img { display: block; }
+.brand-text {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-weight: 700;
+  font-size: 1.75rem;
+  line-height: 1;
+  letter-spacing: -0.01em;
+  color: var(--color-ink);
+}
+.brand-text .brand-text__accent { color: var(--color-terracotta); }
+
+.primary-nav {
+  display: flex;
+  gap: var(--space-lg);
+}
+.primary-nav a {
+  font-size: 0.95rem;
+  color: var(--color-text);
+  text-decoration: none;
+  font-family: 'Lato', sans-serif;
+}
+.primary-nav a:hover,
+.primary-nav a.is-active { color: var(--color-terracotta); }
+
+/* Hamburger — hidden on desktop */
+.nav-toggle {
+  display: none;
+  background: none; border: none; cursor: pointer;
+  padding: 0.5rem;
+  flex-direction: column;
+  gap: 4px;
+}
+.nav-toggle span {
+  width: 22px; height: 2px;
+  background: var(--color-ink);
+  border-radius: 2px;
+  display: block;
+}
+
+@media (max-width: 720px) {
+  /* Revert from desktop grid to flex; the wrapper becomes a real dropdown */
+  .site-header-inner {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+  }
+  .nav-toggle { display: flex; }
+  .nav-wrap {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0; right: 0;
+    background: var(--color-white);
+    border-bottom: 1px solid var(--color-border);
+    padding: var(--space-md) var(--space-xl);
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--space-md);
+    box-shadow: var(--shadow-md);
+  }
+  .nav-wrap.is-open { display: flex; }
+  .primary-nav {
+    flex-direction: column;
+    gap: var(--space-md);
+    width: 100%;
+    justify-self: stretch;
+  }
+  .socials--nav {
+    padding-left: 0;
+    border-left: none;
+    padding-top: var(--space-md);
+    border-top: 1px solid var(--color-border);
+    width: 100%;
+    justify-self: stretch;
+  }
+}
+
+/* ── Footer ─────────────────────────────────────────────────────────────── */
+
+.site-footer {
+  background: var(--color-ink);
+  color: rgba(255,255,255,0.5);
+  padding: var(--space-lg) 0;
+  margin-top: var(--space-3xl);
+}
+.site-footer-inner {
+  max-width: var(--container-max);
+  margin: 0 auto;
+  padding: 0 var(--space-xl);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-md);
+  flex-wrap: wrap;
+}
+.site-footer .footer-copy {
+  font-size: 0.82rem;
+  color: rgba(255,255,255,0.45);
+  margin: 0;
+}
+.site-footer .footer-links {
+  font-size: 0.82rem;
+  color: rgba(255,255,255,0.45);
+  margin: 0;
+}
+.site-footer .footer-links a {
+  color: rgba(255,255,255,0.6);
+  text-decoration: none;
+}
+.site-footer .footer-links a:hover { color: var(--color-white); }
+
+/* ── Buttons (shared) ───────────────────────────────────────────────────── */
+
+.btn {
+  display: inline-block;
+  font-weight: 700;
+  border: none;
+  border-radius: var(--radius-md);
+  padding: 0.75rem 1.75rem;
+  cursor: pointer;
+  text-decoration: none;
+  transition: background .15s, transform .15s, box-shadow .15s;
+  font-family: 'Lato', sans-serif;
+}
+.btn-primary {
+  background: var(--color-terracotta);
+  color: var(--color-white);
+  box-shadow: var(--shadow-md);
+}
+.btn-primary:hover {
+  background: var(--color-terracotta-dark);
+  color: var(--color-white);
+  transform: translateY(-1px);
+}
+.btn-lg { font-size: 1.05rem; padding: 0.9rem 2.2rem; }

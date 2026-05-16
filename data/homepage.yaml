@@ -1,0 +1,14 @@
+hero:
+  image: /beach-background.jpeg
+  eyebrow: "Pull up a lounger…"
+  headline: |
+    Welcome to the
+    Sun Sea Sangria Terrace ✨
+  cta_label: "Join the Crew"
+  cta_link: "#latest"
+
+newsletter:
+  heading: "Join the Terrace Crew"
+  body: "Sun-soaked stories from the Costa Blanca, straight to your inbox."
+  cta_label: "Sign up on Substack"
+  url: "https://sunseasangria.substack.com"
