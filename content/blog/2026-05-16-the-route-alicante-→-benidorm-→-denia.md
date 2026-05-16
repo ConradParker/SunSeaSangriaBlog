@@ -7,4 +7,4 @@ image: /images/3005.jpg
 comments: true
 socials: true
 ---
-tam
+**Ready to trade the fast lane for the slow, scenic one?**
