@@ -1,5 +1,5 @@
 ---
-title: "The Route: Alicante → Benidorm → Denia"
+title: "Alicante to Denia Tram: Scenic Coastal Route Guide & Timetables 2026"
 date: 2026-05-16T08:21:00.000+02:00
 draft: false
 series: sun-sea-seekers
@@ -7,8 +7,6 @@ image: /images/3005.jpg
 comments: true
 socials: true
 ---
-
-
 **There’s something special about travelling slowly on a coastline this beautiful.** 
 
 The tram (part of the TRAM Metropolitano de Alicante) hugs the shore for over 90 km, slipping between golden beaches, rugged cliffs, and those whitewashed villages that make your heart skip.
@@ -28,6 +26,8 @@ Alternatively, some ALSA buses run from the airport towards Benidorm, where you 
 We usually start at Luceros station in central Alicante or Porta del Mar if we want to wave goodbye to the beach first. Line 1 carries you north along the long, sandy Playa San Juan — think 1 hour 15 minutes of relaxed riding with the sea sparkling on your right.
 
 Then you change at Benidorm onto the magical Line 9 — the real star of the show. This stretch to Denia feels cinematic: turquoise coves, dramatic rock formations, and those endless Mediterranean panoramas. The whole Alicante-to-Denia adventure takes around 2.5 to 3.5 hours if you go straight through, but we always make it longer by exploring along the way.
+
+{{< image-caption src="/images/3005.jpg" >}}Alicante Tram{{< /image-caption >}}
 
 **Our Favourite Stops (and Why We Love Them)**
 
@@ -50,6 +50,8 @@ Good news for future trips! There are active plans to extend the line from Denia
 •  Timetables: Line 9 runs roughly hourly from early morning until evening. Full services from around 5:50 am to 8–9 pm. Always check the latest on the official TRAM site – tramalacant.es or use their handy route planner.
 
 •  Pro hacks: Sit on the right-hand side heading north for the best sea views. Weekdays or early trains are quieter. Pack a small bag with sunscreen, a swimsuit, snacks, and a light jacket (it can get breezy).
+
+{{< image-caption src="/images/2676_hu_a937f11349cc9d70.34e3e7d72a5127a3d14ca3d3cb4f63e7a73c9f1706888e9a1570aa78b88e10e0.webp" >}}Alicante Tram{{< /image-caption >}}
 
 **Turning the Ride into a Full SunSeaSangria Day**
 
