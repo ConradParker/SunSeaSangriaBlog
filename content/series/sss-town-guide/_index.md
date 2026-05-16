@@ -4,7 +4,7 @@ series_id: sun-sea-seekers
 date: 2026-01-15T18:24:00.000+01:00
 draft: false
 image: 8d3aeecf-a3c5-4c4c-a1cf-c5dc613b9e22.jpg
-menu_weight: 80
+menu_weight: 11
 nav_emoji: 🗺️
 nav_desc: Coastal towns • Places to stay • How to get there. Easy sunshine guides..
 nav_color: "#1abc9c"
