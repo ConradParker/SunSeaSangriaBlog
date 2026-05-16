@@ -4,7 +4,7 @@ series_id: sun-sea-foodie
 date: 2026-03-04T12:21:00.000+01:00
 draft: false
 image: 5f82d71d-4e7e-4f8f-80ee-edd5540d5661.jpg
-menu_weight: 18
+menu_weight: 20
 nav_emoji: 🍝
 nav_desc: " Favourite Restaurants in the Costa Blanca"
 nav_color: "#ff8000"
