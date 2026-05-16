@@ -33,7 +33,7 @@ collections:
         value_type: "int"
         min: 0
         required: false
-        hint: "Controls the order this series appears in filters and navigation. Lower numbers appear first (e.g. 10, 20, 30). Leave as 0 to sort alphabetically after all weighted series."
+        hint: "Controls where this series appears: top 3 by weight show as homepage cards; also drives the blog filter and series nav order. Lower numbers appear first (e.g. 10, 20, 30). Leave as 0 to hide from homepage cards and sort alphabetically in filters."
       - label: "Menu Weight (leave empty to hide from menu)"
         name: "menu_weight"
         widget: "number"
@@ -54,11 +54,6 @@ collections:
         widget: "string"
         required: false
         hint: "Hex colour for the card accent (e.g. #e67e22)"
-      - label: "Nav Card Order"
-        name: "nav_weight"
-        widget: "number"
-        required: false
-        hint: "Controls display order on homepage (lower numbers appear first)"
       - { label: "Body", name: "body", widget: "markdown", hint: "Introduction to this story series" }
 
   - name: "blog"

@@ -8,7 +8,6 @@ menu_weight: 50
 nav_emoji: 📚
 nav_desc: Book chats over vino
 nav_color: "#2980b9"
-nav_weight: 40
 ---
 **¡Bienvenidos** to Sun Sea Books – your sunny, no-pressure virtual book club that mixes great stories with a splash of Mediterranean magic! 🌞🍹
 

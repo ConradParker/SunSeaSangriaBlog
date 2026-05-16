@@ -8,7 +8,6 @@ menu_weight: 30
 nav_emoji: 📰
 nav_desc: Weekly Costa Blanca updates
 nav_color: "#e67e22"
-nav_weight: 10
 ---
 **SunSeaNews** is your friendly, no-nonsense weekly peek into life on the **Costa Blanca North** – think Calpe, Javea, Moraira, Altea, Benidorm, Benissa and our lovely nearby spots.
 

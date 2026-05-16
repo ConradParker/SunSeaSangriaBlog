@@ -9,7 +9,6 @@ menu_weight: 60
 nav_emoji: 🐾
 nav_desc: Snoopy tales & memories
 nav_color: "#8e44ad"
-nav_weight: 30
 ---
 **Tails of a Tale Wagging Troublemaker - Remembering Snoopy**
 

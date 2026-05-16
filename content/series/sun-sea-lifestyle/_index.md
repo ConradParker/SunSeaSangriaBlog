@@ -8,7 +8,6 @@ weight: 10
 nav_emoji: 🍹
 nav_desc: Cheeky, no-fluff guide to full-time living on Costa Blanca North.
 nav_color: "#1f2f6e"
-nav_weight: 80
 ---
 **Welcome to SunSea Lifestyle: Real Life on the Costa Blanca North**
 

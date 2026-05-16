@@ -20,14 +20,14 @@
 
 <section class="home-series">
   <div class="home-container">
-    {{/* Gather all series taxonomy pages, sort by nav_weight ascending (top of homepage cards) */}}
+    {{/* Top 3 series by Display Order (Weight). Series with no weight are excluded. */}}
     {{ $all := slice }}
     {{ range $name, $_ := site.Taxonomies.series }}
       {{ with site.GetPage (printf "/series/%s" $name) }}
         {{ $all = $all | append . }}
       {{ end }}
     {{ end }}
-    {{ $sorted := sort (where $all ".Params.nav_weight" "ne" nil) ".Params.nav_weight" "asc" }}
+    {{ $sorted := sort (where $all ".Weight" "gt" 0) ".Weight" "asc" }}
     {{ $top3 := first 3 $sorted }}
 
     <div class="home-series-grid">

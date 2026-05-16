@@ -8,7 +8,6 @@ menu_weight: 80
 nav_emoji: 🗺️
 nav_desc: Coastal towns • Places to stay • How to get there. Easy sunshine guides..
 nav_color: "#1abc9c"
-nav_weight: 60
 ---
 Welcome to the **North Costa Blanca** section of **Sun Sea Seekers** — your cheeky guide to hunting down the best towns, hidden gems, cracking deals, and proper value vibes along this gorgeous stretch of coast!
 

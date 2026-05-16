@@ -9,7 +9,6 @@ menu_weight: 40
 nav_emoji: 🎉
 nav_desc: Events & celebrations
 nav_color: "#d35400"
-nav_weight: 50
 ---
 **Where the Fiestas Come From – And Why They Still Set the Northern Costa Blanca Alight**
 
