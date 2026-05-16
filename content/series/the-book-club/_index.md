@@ -1,10 +1,10 @@
 ---
 title: Sun Sea Books
-series_id: the-book-club
+series_id: sun-sea-books
 date: 2026-01-15T16:26:00.000+01:00
 draft: false
 image: ""
-menu_weight: 10
+menu_weight: 50
 nav_emoji: 📚
 nav_desc: Book chats over vino
 nav_color: "#2980b9"
