@@ -1,12 +1,12 @@
 ---
-title: "Sun Sea Lifestyle"
+title: Sun Sea Lifestyle
 series_id: sun-sea-lifestyle
 date: 2026-03-31T10:25:00.000+02:00
 draft: false
 image: sun-sea-lifestyle.png
-weight: 100
+weight: 10
 nav_emoji: 🍹
-nav_desc: "Cheeky, no-fluff guide to full-time living on Costa Blanca North."
+nav_desc: Cheeky, no-fluff guide to full-time living on Costa Blanca North.
 nav_color: "#1f2f6e"
 nav_weight: 80
 ---
