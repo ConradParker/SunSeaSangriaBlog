@@ -4,6 +4,7 @@ series_id: fiestas-sangria
 date: 2026-02-25T08:36:00.000+01:00
 draft: false
 image: 86028000-4616-4228-a59c-ec9e5936e64e-1-.jpg
+weight: 100
 menu_weight: 40
 nav_emoji: 🎉
 nav_desc: Events & celebrations
