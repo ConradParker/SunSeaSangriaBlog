@@ -7,13 +7,13 @@ image: /images/www.reallygreatsite.com-123-456-7890.png
 comments: true
 socials: true
 ---
-**SunSeaNews: This Week on the Costa Blanca – Sun, Strikes, Sangria & Local Vibes** 🌞🍷🌊
+**Sun Sea News: This Week on the Costa Blanca – Sun, Strikes, Sangria & Local Vibes** 🌞🍷🌊
 
 Hola from your favourite terrace in the Northern Costa Blanca! Another glorious week in paradise where the sun is shining, the sea is sparkling, and life moves at that perfect Mediterranean pace (with a side of drama, of course). Here’s your cheeky roundup of what’s happening around **Marina Alta**, Alicante, and beyond – the real stuff that affects us expats, locals, and anyone chasing that sun-sea-sangria dream. 
 
 **Education Buzz & Teacher Power**
 
-The big story this week? The education strike is still rolling strong across the Marina Alta. Teachers (and plenty of families) are out in force defending public education – massive demos in Valencia, local protests in Pedreguer, Xàbia, Dénia, and Ondara. Concentraciones are happening Monday morning in front of town halls. Whether you’ve got kids in school or not, it’s a reminder of how passionate this region is about its future. Fingers crossed for a fair resolution soon so everyone can get back to the classroom (and we can stop dodging those picket lines on the way to the beach). 
+The big story this week? The education strike is still rolling strong across the Marina Alta. Teachers (and plenty of families) are out in force defending public education – massive demos in Valencia, local protests in Pedreguer, Xàbia, Dénia, and Ondara. Concentraciones are happening on Monday morning in front of the town halls. Whether you’ve got kids in school or not, it’s a reminder of how passionate this region is about its future. Fingers crossed for a fair resolution soon so everyone can get back to the classroom (and we can stop dodging those picket lines on the way to the beach). 
 
 **Good News for Jobs & Tourism**
 
@@ -31,7 +31,7 @@ On a brighter note, the Marina Alta saw a lovely seasonal boost in April – nea
 
 **Alicante City Quick Hits**
 
-Down in the capital, things are heating up with spring events, potential beach days hitting 27°C+, and the usual mix of flamenco, markets, and waterfront strolls. It’s the perfect day-trip destination when you fancy trading the quieter Marina Alta beaches for a bit more buzz.
+Down in Alicante, things are heating up with spring events, potential beach days hitting 27°C+, and the usual mix of flamenco, markets, and waterfront strolls. It’s the perfect day-trip destination when you fancy trading the quieter Marina Alta beaches for a bit more buzz.
 
 **The Expat Takeaway**
 
