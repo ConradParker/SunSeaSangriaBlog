@@ -18,8 +18,6 @@ Now I’ve turned that long-held dream into reality by relaunching **[sunseasang
 
 {{< image-caption src="/images/54518626_10155745709601642_8671203847210795008_n.jpg" >}}Me with Missy and our "Paws & Mischief" star Snoopy{{< /image-caption >}}
 
-
-
 **What You’ll Find Here**
 
 This is your friendly, no-nonsense guide to real life in the Marina Alta:
@@ -34,7 +32,6 @@ This is your friendly, no-nonsense guide to real life in the Marina Alta:
 * [**Sun Sea Books** ](https://sunseasangria.com/series/the-book-club/)— our little book club celebrating stories that capture the soul of Spain
 
 Everything is written straight from the heart — exactly as I’d chat to you over a glass of sangria on the terrace.
-
 
 **Come Join the Family**
 
@@ -51,3 +48,5 @@ Pull up a chair, pour yourself something cold, and stay a while.
 See you under the Spanish sun!
 
 **Joanne** 🌴🍷
+
+{{< image-caption src="/images/whatsapp-image-2026-05-11-at-08.39.21-2-.jpeg" >}}{{< /image-caption >}}
