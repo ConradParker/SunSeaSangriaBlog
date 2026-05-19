@@ -4,7 +4,11 @@ date: 2026-05-19T09:55:00.000+02:00
 draft: false
 menu_weight: 10
 ---
-**¡Hola from Costa Blanca North! 🌞🍷**
+
+
+**Welcome to Sun Sea Sangria 🌞🍷**
+
+**¡Hola from Costa Blanca North!**
 
 I’m Joanne, and I’ve called this beautiful corner of Spain home for over 20 years. What started as a sunny “let’s buy a holiday home” dream quickly turned into a full-on “sorry UK — we’re never leaving” love story. And honestly? We’ve never been happier.
 
