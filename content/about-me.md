@@ -1,33 +1,53 @@
 ---
-title: About Me
+title: About Sun Sea Sangria
 date: 2026-01-15T16:37:00.000+01:00
 draft: false
 menu_weight: 10
 ---
-**The New SunSeaSangria** 
 
-¡Hola! I’m Joanne, and I’ve called the Costa Blanca home for over 20 years. What started as a sunny “let’s buy a holiday home” dream quickly became a full-on “sorry, UK—we’re staying for the blue skies and never looking back” reality. And honestly? We’ve never been happier.
 
-For more than 14 years, my husband and I ran two little apartments under the name **SunSeaSangria**. We welcomed hundreds of amazing guests who arrived for the sea views and departed with sun-kissed noses, fuller hearts, and probably a few legendary stories from those epic sunset sangria sessions. Those apartments weren’t just a business—they were our immersive crash course in real Spanish life: mastering the endless red tape, building lifelong friendships, and raising our kids surrounded by almond blossoms and beach days.
+**¡Hola from Costa Blanca North! 🌞🍷**
 
-{{< image-compare src1="/images/img_8376.jpeg" src2="/images/img_8384.jpeg" caption1="Cumbre Del Sol Apartment" caption2="Golden Beach 2 Apartment" >}}
+I’m Joanne, and I’ve called this beautiful corner of Spain home for over 20 years. What started as a sunny “let’s buy a holiday home” dream quickly turned into a full-on “sorry UK — we’re never leaving” love story. And honestly? We’ve never been happier.
 
-Life since then has been wonderfully, gloriously chaotic. Along the way, I’ve:
+For more than 14 years, my husband and I ran two lovely apartments — **Cumbre Del Sol** and **Golden Beach 2** — under the name **Sun Sea Sangria**. We welcomed hundreds of wonderful guests who came for the sea views and left with sun-kissed noses, fuller hearts, and plenty of stories from those epic sunset sangria sessions on the terrace.
 
-•  Cleaned more villas and holiday lets than I ever thought possible—from villas full of bugs to apartments full of junk, you name it, I've cleaned it.
+Those years were our real crash course in Spanish life: mastering the endless red tape, building lifelong friendships, raising our kids surrounded by almond blossoms and beach days, and learning exactly what makes the Marina Alta so special.
 
-•  Hand-made and poured homemade scented candles that turned our home into a fragrant haven.
+Along the way, I’ve cleaned more villas than I can count, hand-poured scented candles that filled our home with gorgeous smells, and taught English online to students all over the world — sometimes with fireworks exploding outside the window mid-lesson!
 
-•  Taught English online to students across the globe—sometimes mid-fiesta, with fireworks exploding outside and my poor students convinced World War III had begun.
+Now I’ve turned that long-held dream into reality by relaunching **[sunseasangria.com](https://sunseasangria.com/)** as a proper website and blog. No corporate polish, no filtered perfection — just honest, warm, lived-in stories from someone who’s experienced every almond-blossom-pink, ridiculously beautiful (and occasionally absurd) moment of life here.
 
-{{< image-compare src1="/images/img_8361.jpeg" src2="/images/img_8421.jpeg" caption1="Online Teaching" caption2="Making Candles at home" >}}
+{{< image-caption src="/images/54518626_10155745709601642_8671203847210795008_n.jpg" >}}Me with Missy and our "Paws & Mischief" star Snoopy{{< /image-caption >}}
 
-Now, I'm finally turning that longtime dream into reality: relaunching **Sun Sea Sangria** as a proper website and blog. No corporate polish, no filtered perfection — just honest, lived-in stories from someone who’s experienced every almond-blossom-pink, ridiculously beautiful (and occasionally absurd) moment of Costa Blanca North life.
 
-Whether it's juggling the red tape with a cuppa in one hand and a NIE form in the other, chasing the perfect sunset photo, or simply surviving another gloriously chaotic fiesta, this is the real deal — the sunny highs, the quirky lows, and all the gloriously messy bits in between.
 
-I'd really love you to join me on this new adventure. Pop over to the comments, hit reply on the newsletter, or drop me a message to say hello — and while you're at it, tell me: what jobs (or mad side hustles!) have you tackled here in Spain? Bar work in Benidorm? Teaching English with a side of beach? Running a little holiday rental empire? Real estate viewings in the blazing sun? Or something completely off-the-wall? Your stories make this place sparkle, so please share — I'd love to feature some (with your permission, of course!) alongside photos of my own escapades. 💛
+**What You’ll Find Here**
 
-¡Bienvenidos! 🌞🍹
+This is your friendly go-to place for real Costa Blanca North life:
 
-{{< image-caption src="/images/img_5205.jpeg" >}}Loving the Costa Blanca and all it offers ❤️{{< /image-caption >}}
+* **[Hidden gems](https://sunseasangria.com/series/sss-town-guide/)** and secret spots the guidebooks miss.
+* **[Sun Sea News](https://sunseasangria.com/series/sun-sea-news/)** every Monday — what’s really happening in the Marina Alta.
+* **[Sun Sea Lifestyle](https://sunseasangria.com/series/sun-sea-lifestyle/)** — the honest expat experience (the wins, the red-tape tears, and all the glorious chaos in between)
+* **[Paws & Mischief](https://sunseasangria.com/series/test-story/)** — light-hearted stories inspired by my beloved Snoopy and the four-legged friends we meet along the coast
+* **[Hikes & Trails](https://sunseasangria.com/series/sunseatrails/)** — proper walks for the cooler months with maps and tips
+* **[Sun Sea Seekers](https://sunseasangria.com/series/sss-town-guide/)** — weekend adventures and places we think you’ll fall in love with
+* [**Sun Sea Books** ](https://sunseasangria.com/series/the-book-club/)— our little book club celebrating stories that capture the soul of Spain
+
+Everything is written straight from the heart, exactly as I’d chat to you over a glass of sangria on the terrace.
+
+**Come Join the Family**
+
+Whether you’re here for a holiday, planning your big move, or you already live in Costa Blanca North and just want more local secrets, you’re very welcome here.
+
+This is a real, down-to-earth space — the sunny highs, the quirky lows, and everything in between. I’d love you to join me on this adventure. Leave a comment, reply to the newsletter, or drop me a message to say hello.
+
+And while you’re at it… Tell me: what mad jobs or side hustles have you tackled in Spain? I’d love to hear (and maybe even feature) your stories!
+
+Pull up a chair, pour yourself something cold, and stay a while.
+
+**Welcome to the Sun Sea Sangria family.**
+
+See you under the Spanish sun!
+
+**Joanne** 🌴🍷
