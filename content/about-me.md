@@ -1,11 +1,9 @@
 ---
 title: About Sun Sea Sangria
-date: 2026-01-15T16:37:00.000+01:00
+date: 2026-05-19T09:55:00.000+02:00
 draft: false
 menu_weight: 10
 ---
-
-
 **¡Hola from Costa Blanca North! 🌞🍷**
 
 I’m Joanne, and I’ve called this beautiful corner of Spain home for over 20 years. What started as a sunny “let’s buy a holiday home” dream quickly turned into a full-on “sorry UK — we’re never leaving” love story. And honestly? We’ve never been happier.
@@ -20,21 +18,20 @@ Now I’ve turned that long-held dream into reality by relaunching **[sunseasang
 
 {{< image-caption src="/images/54518626_10155745709601642_8671203847210795008_n.jpg" >}}Me with Missy and our "Paws & Mischief" star Snoopy{{< /image-caption >}}
 
-
-
 **What You’ll Find Here**
 
-This is your friendly go-to place for real Costa Blanca North life:
+This is your friendly, no-nonsense guide to real life in the Marina Alta:
 
-* **[Hidden gems](https://sunseasangria.com/series/sss-town-guide/)** and secret spots the guidebooks miss.
-* **[Sun Sea News](https://sunseasangria.com/series/sun-sea-news/)** every Monday — what’s really happening in the Marina Alta.
-* **[Sun Sea Lifestyle](https://sunseasangria.com/series/sun-sea-lifestyle/)** — the honest expat experience (the wins, the red-tape tears, and all the glorious chaos in between)
+* **[Sun Sea Foodie](https://sunseasangria.com/series/sun-sea-foodie/)** — local recipes, tapas bars, sangria pairings, market secrets and all the best places to eat like a local
+* **[Sun Sea News](https://sunseasangria.com/series/through-the-looking-glass/)** every **Monday** — what’s really happening in the Marina Alta
+* **[Sun Sea Lifestyle](https://sunseasangria.com/series/sun-sea-lifestyle/)** — the honest expat experience (the sunny wins and the everyday realities)
+* **[Red Tape & Tears](https://sunseasangria.com/series/red-tape-tears/)** — practical help with all the bureaucracy: SIP cards, TIE cards, NIE, residency, healthcare, and everything else that makes new arrivals panic. We’ve turned our hard-won knowledge into a **free downloadable guide** so you don’t have to learn the hard way.
 * **[Paws & Mischief](https://sunseasangria.com/series/test-story/)** — light-hearted stories inspired by my beloved Snoopy and the four-legged friends we meet along the coast
 * **[Hikes & Trails](https://sunseasangria.com/series/sunseatrails/)** — proper walks for the cooler months with maps and tips
 * **[Sun Sea Seekers](https://sunseasangria.com/series/sss-town-guide/)** — weekend adventures and places we think you’ll fall in love with
 * [**Sun Sea Books** ](https://sunseasangria.com/series/the-book-club/)— our little book club celebrating stories that capture the soul of Spain
 
-Everything is written straight from the heart, exactly as I’d chat to you over a glass of sangria on the terrace.
+Everything is written straight from the heart — exactly as I’d chat to you over a glass of sangria on the terrace.
 
 **Come Join the Family**
 
@@ -51,3 +48,5 @@ Pull up a chair, pour yourself something cold, and stay a while.
 See you under the Spanish sun!
 
 **Joanne** 🌴🍷
+
+{{< image-caption src="/images/whatsapp-image-2026-05-11-at-08.39.21-2-.jpeg" >}}{{< /image-caption >}}
