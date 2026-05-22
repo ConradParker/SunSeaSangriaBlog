@@ -3,6 +3,7 @@ title: " Tourist Rules & Laws for Costa Blanca North – May 2026 Update"
 date: 2026-05-22T09:41:00.000+02:00
 draft: false
 series: red-tape-tears
+image: /images/tourist-rules-laws-for-costa-blanca-north.png
 comments: true
 socials: true
 ---
