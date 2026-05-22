@@ -7,11 +7,7 @@ image: /images/tourist-rules-laws-for-costa-blanca-north.png
 comments: true
 socials: true
 ---
-
-
 ***What every holidaymaker and future expat needs to know before you pack your flip-flops***
-
-
 
 Hola from the terrace! ☀️🍷
 
@@ -23,7 +19,7 @@ Don’t worry — it’s not all red tape. Most of it is common sense. Here’s 
 
 **1. Entry into Spain – The Digital Border Update**
 
-Since April 2026, the EU’s **Entry/Exit System (EES)** is fully live. Your passport gets scanned properly on arrival and departure. This helps track the 90-days-in-180 rule more accurately (super important for Brits and other non-EU visitors).
+Since April 2026, the EU’s **Entry/Exit System (EES)** has been fully live. Your passport gets scanned properly on arrival and departure. This helps track the 90-days-in-180 rule more accurately (super important for Brits and other non-EU visitors).
 
 **ETIAS** (the new pre-travel authorisation, a bit like ESTA) is still scheduled for the last quarter of 2026. As of May 2026, you don’t need it yet — but keep an eye on it if you’re planning autumn or winter trips.
 
@@ -37,7 +33,7 @@ Our local towns are cracking down on classic tourist excesses:
 * **Beach etiquette** — Towel “reserving” spots at dawn is frowned upon (and sometimes fined). No loud music, barbecues on the sand, or taking stones/shells home.
 * **Smoke-free zones** — Many beaches are now completely smoke- and vape-free.
 
-**Sunny reminder:** The locals love sharing their coast — just treat it like your own backyard.
+**Sunny reminder:** The locals love sharing their coast — treat it like your own backyard.
 
 {{< image-caption src="/images/untitled-1920-x-1080-px-.png" >}}Follow Beach Rules for a great day out{{< /image-caption >}}
 
@@ -47,17 +43,15 @@ While the famous “six-drink rule” is stricter in the Balearics, you’ll see
 
 * No street drinking (botellón) in many areas — fines start at €500.
 * Some chiringuitos and bars have clearer limits, especially in high season.
-* Always use licensed taxis or apps like Cabify/Uber equivalents.
+* Always use licensed taxis or apps like Cabify or Uber (if available)
 
-Balconing (jumping from balconies) is still a **very stupid** (and very expensive) idea.
-
-
+Balconing (jumping from balconies) is still a **very dangerous** (and very expensive) idea.
 
 **4. Driving & Rental Car Tips**
 
 * No driving in flip-flops or bare feet — €200–300 fine.
 * Roundabouts: priority to the right (as always).
-* Petrol stations often close for siesta — fill up early.
+* Petrol stations sometimes close for siesta — fill up early or late evenings.
 
 **5. Holiday Rentals & Accommodation Changes**
 
@@ -77,13 +71,13 @@ Book through trusted platforms and always check for the official registration nu
 * **Dogs & pets** — Many beaches have dog-friendly and dog-free zones. Check signs.
 * **Water & environment** — We’re in a dry region. Use water wisely and support businesses that do the same.
 
-{{< image-caption src="/images/whatsapp-image-2026-05-11-at-09.35.27-2-.jpeg" >}}When your here, relax an take in the beautiful area{{< /image-caption >}}
+{{< image-caption src="/images/whatsapp-image-2026-05-11-at-09.35.27-2-.jpeg" >}}When you arrive here, relax an take in the beautiful area.{{< /image-caption >}}
 
 **Final Glass of Sangria Wisdom**
 
-These rules aren’t here to spoil your fun — they’re about protecting the magic that makes the Costa Blanca North so special. Follow them and you’ll be welcomed like one of the gang (with extra smiles at the bar).
+These rules aren’t here to spoil your fun — they’re about protecting the magic that makes the Costa Blanca North so special. Follow them, and you’ll be welcomed like one of the gang (with extra smiles at the bar).
 
-You’re coming to one of the most beautiful corners of Spain. Do it right and it’ll feel like home from the first sunset.
+You’re coming to one of the most beautiful corners of Spain. Do it right, and it’ll feel like home from the first sunset.
 
 **Have you got a trip planned?** Drop your questions in the comments or send us a message. We’re always happy to share the latest local intel.
 
@@ -92,10 +86,6 @@ You’re coming to one of the most beautiful corners of Spain. Do it right and i
 Joanne & the Sun Sea Sangria Team
 
 Updated May 2026
-
-
-
-
 
 **Want more?**
 
