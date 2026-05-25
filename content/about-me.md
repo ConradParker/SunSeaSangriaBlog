@@ -1,5 +1,5 @@
 ---
-title: About Sun Sea Sangria
+title: "About "
 date: 2026-05-19T09:55:00.000+02:00
 draft: false
 menu_weight: 30
