@@ -4,7 +4,7 @@ series_id: sun-sea-news
 date: 2026-02-05T08:57:00.000+01:00
 draft: false
 image: 2nhrr.jpg
-menu_weight: 30
+menu_weight: ""
 nav_emoji: 📰
 nav_desc: Weekly Costa Blanca updates
 nav_color: "#e67e22"

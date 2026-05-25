@@ -19,6 +19,9 @@ copyright = '© 2025 Sun Sea Sangria. All rights reserved.'
   disable_breadcrumbs = true
   disable_credit = true
 
+# Home and Blog have no editable content pages with `menu_weight`, so they
+# live here. Everything else is driven by the `menu_weight` field on each
+# page or series (set via the CMS).
 [[menu.main]]
   name = "Home"
   url = "/"
@@ -28,14 +31,4 @@ copyright = '© 2025 Sun Sea Sangria. All rights reserved.'
   name = "Blog"
   url = "/blog/"
   weight = 20
-
-[[menu.main]]
-  name = "About Me"
-  url = "/about-me/"
-  weight = 30
-
-[[menu.main]]
-  name = "Contact"
-  url = "/contact-me/"
-  weight = 40
 

@@ -15,11 +15,26 @@
       <span></span><span></span><span></span>
     </button>
 
+    {{/* Menu = hugo.toml entries (Home, Blog) + any page or series with menu_weight set */}}
+    {{ $items := slice }}
+    {{ range site.Menus.main }}
+      {{ $items = $items | append (dict "name" .Name "url" (.URL | relURL) "weight" .Weight) }}
+    {{ end }}
+    {{ range site.Pages }}
+      {{ $p := . }}
+      {{ with $p.Params.menu_weight }}
+        {{ if ne $p.RelPermalink "/" }}
+          {{ $items = $items | append (dict "name" $p.Title "url" $p.RelPermalink "weight" .) }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+    {{ $items = sort $items "weight" }}
+
     <div class="nav-wrap">
       <nav class="primary-nav" aria-label="Primary">
-        {{ range .Site.Menus.main }}
-          {{ $active := or (eq .URL $page.RelPermalink) (and (ne .URL "/") (hasPrefix $page.RelPermalink .URL)) }}
-          <a href="{{ .URL | relURL }}"{{ if $active }} class="is-active" aria-current="page"{{ end }}>{{ .Name }}</a>
+        {{ range $items }}
+          {{ $active := or (eq .url $page.RelPermalink) (and (ne .url "/") (hasPrefix $page.RelPermalink .url)) }}
+          <a href="{{ .url }}"{{ if $active }} class="is-active" aria-current="page"{{ end }}>{{ .name }}</a>
         {{ end }}
       </nav>
       {{ partial "social-icons.html" (dict "context" . "variant" "nav") }}

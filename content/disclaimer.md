@@ -2,7 +2,7 @@
 title: Disclaimer
 date: 2026-03-10T17:40:00.000+01:00
 draft: false
-menu_weight: 40
+menu_weight: ""
 ---
 **Disclaimer**
 

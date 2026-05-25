@@ -4,7 +4,7 @@ series_id: sun-sea-hikes-trails
 date: 2026-03-04T13:00:00.000+01:00
 draft: false
 image: ecbcd52d-c6a0-4269-8fae-adddb118fe2e.jpg
-menu_weight: 70
+menu_weight: ""
 nav_emoji: 🥾
 nav_desc: Guide to the best walks & hikes
 nav_color: "#008000"

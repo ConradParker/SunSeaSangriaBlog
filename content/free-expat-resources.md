@@ -2,7 +2,7 @@
 title: Free Expat Resources
 date: 2026-05-19T11:13:00.000+02:00
 draft: false
-menu_weight: 40
+menu_weight: 50
 ---
 ###### **Free Resources & Guides**
 

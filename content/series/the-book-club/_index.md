@@ -4,7 +4,7 @@ series_id: sun-sea-books
 date: 2026-01-15T16:26:00.000+01:00
 draft: false
 image: ""
-menu_weight: 50
+menu_weight: ""
 nav_emoji: 📚
 nav_desc: Book chats over vino
 nav_color: "#2980b9"

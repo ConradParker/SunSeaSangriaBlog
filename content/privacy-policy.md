@@ -2,7 +2,7 @@
 title: "Privacy Policy "
 date: 2026-03-10T17:43:00.000+01:00
 draft: false
-menu_weight: 50
+menu_weight: ""
 ---
 Privacy Policy
 

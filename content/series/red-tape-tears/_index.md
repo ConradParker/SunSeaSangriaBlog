@@ -5,7 +5,7 @@ date: 2026-02-05T08:50:00.000+01:00
 draft: false
 image: 831ea636-69c0-4e14-a7d4-1977bbdeb156.jpg
 weight: ""
-menu_weight: 90
+menu_weight: ""
 nav_emoji: 📄
 nav_desc: Paperwork help & guides
 nav_color: "#D87654"

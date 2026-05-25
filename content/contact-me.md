@@ -2,7 +2,7 @@
 title: Contact Me
 date: 2026-01-06T13:09:00.000+01:00
 draft: false
-menu_weight: 30
+menu_weight: 40
 ---
 **¡Hola from the Costa Blanca! Let’s Chat 🌞🍹🐶**
 
