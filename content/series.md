@@ -2,7 +2,7 @@
 title: Series
 date: 2026-05-27T10:53:00.000+02:00
 draft: false
-menu_weight: 32
+menu_weight: 20
 ---
 **Hola and Welcome!** ☀️  
 
