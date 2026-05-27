@@ -4,23 +4,25 @@ date: 2026-05-27T10:53:00.000+02:00
 draft: false
 menu_weight: 32
 ---
-
-
 **Hola and Welcome!** ☀️  
 
 ### Our Series – Come Join the Terrace Crew
 
 **Pull up a seat and choose your favourite corner of Costa Blanca North life.** Each series is packed with the real stories, tips and adventures that make living (or holidaying) here so special.
 
-{{< image-caption src="/images/418180846_10159274087136642_5185954022180218685_n.jpg" >}}Sun Sea Lifestyle {{< /image-caption >}}
+{{< image-caption src="/images/418180846_10159274087136642_5185954022180218685_n.jpg" >}}Sun Sea Lifestyle{{< /image-caption >}}
 
 **🌊 Sun Sea Lifestyle:** *What it’s really like living here as an expat. Honest*, heart-warming stories about building a life on the Costa Blanca North. From making Spanish friends and surviving your first Spanish winter to the everyday magic (and occasional chaos) of “mañana” living. If you’re dreaming of the move or already here, this series feels like chatting with a friend on the terrace.
 
-
+{{< image-caption src="/images/2815.jpg" >}}Sun Sea Foodie{{< /image-caption >}}
 
 **🍽️ Sun Sea Foodie:** *Local flavours, hidden tapas bars & proper Costa Blanca eating. Where* to find the best arroz a banda, freshest market produce, sunset sangria jars, and those secret chiringuitos the locals don’t tell the tourists about. Recipes, restaurant recommendations, and foodie adventures that celebrate the real Mediterranean kitchen of the Marina Alta.
 
+{{< image-caption src="/images/whatsapp-image-2026-02-16-at-12.22.32.jpeg" >}}Sun Sea Seekers{{< /image-caption >}}
+
 **🗺️ Sun Sea Seekers:** *Hidden gems and must-do places in the Marina Alta. Your* guide to secret coves, mountain villages, dramatic viewpoints and authentic experiences that go way beyond the guidebooks. Whether you’re here for a week or forever, these posts help you explore like someone who actually belongs here.
+
+{{< image-caption src="/images/image-5-.jpg" >}}Sun Sea Hikes & Trails{{< /image-caption >}}
 
 **🥾 Sun Sea Hikes & Trails:** *Where to walk when the weather is kind. Beautiful*, doable routes across the Costa Blanca North — from gentle coastal paths with sea views to proper mountain adventures in the cooler months. Each hike comes with difficulty ratings, GPX tips, best season advice, and where to reward yourself with a well-earned beer or tostada afterwards.
 
