@@ -26,12 +26,24 @@ menu_weight: 32
 
 **🥾 Sun Sea Hikes & Trails:** *Where to walk when the weather is kind. Beautiful*, doable routes across the Costa Blanca North — from gentle coastal paths with sea views to proper mountain adventures in the cooler months. Each hike comes with difficulty ratings, GPX tips, best season advice, and where to reward yourself with a well-earned beer or tostada afterwards.
 
-**📬 Sun Sea News Every** *Monday – What’s really happening in Marina Alta Local* news with warmth and no nonsense: new beach projects, fiesta dates, road updates, expat-relevant changes, and the good stuff (new restaurants, beach clean-ups, community wins). Your friendly weekly catch-up from the terrace.
+
+
+{{< image-caption src="/images/your-paragraph-text.jpg" >}}Sun Sea News{{< /image-caption >}}
+
+📬 **Sun Sea News:** *Every* *Monday – What’s really happening in Marina Alta Local* news with warmth and no nonsense: new beach projects, fiesta dates, road updates, expat-relevant changes, and the good stuff (new restaurants, beach clean-ups, community wins). Your friendly weekly catch-up from the terrace.
+
+{{< image-caption src="/images/1d0d3d16-320d-499e-bb8d-e2f6e6dc1e33.jpg" >}}Sun Sea Books{{< /image-caption >}}
 
 **📚 Sun Sea Books:** *Our online book club with a Spanish twist.* Monthly reads, author spotlights (especially local Marina Alta writers), discussion prompts, and recommendations for beach, terrace or rainy-day reading. Join fellow book lovers who also understand the pull of the Mediterranean light.
 
+{{< image-caption src="/images/red-tape-and-tears.jpeg" >}}Red Tape & Tears{{< /image-caption >}}
+
 **📋 Red Tape & Tears:** *Paperwork survival guides for real life in Spain. The* practical stuff we all need but nobody enjoys. Clear, up-to-date help with NIE, SIP, TIE, padrón, gestors, and everything else that stands between you and peaceful terrace life. Includes our popular free downloadable brochure.
 
+{{< image-caption src="/images/img_8492.jpeg" >}}Fiestas & Sangria{{< /image-caption >}}
+
 **🎉 Fiestas & Sangria:** *Celebrations, traditions & proper Spanish partying. From* massive Moros y Cristianos parades to intimate village romerías and the wild Hogueras de San Juan. We show you when and where the magic happens, what to wear, what to expect, and how to join in like a local — always with a glass of sangria in hand, of course.
+
+{{< image-caption src="/images/img_8392.jpeg" >}}Paws & Mischief{{< /image-caption >}}
 
 **🐶 Paws & Mischief:** *Heartwarming (and cheeky) stories starring Snoopy. The* ongoing adventures of our beloved passed-over dog Snoopy and his four-legged friends on the Costa Blanca. Funny, emotional, and full of joy — these stories celebrate the animals that make expat life so much richer. Perfect for dog (and cat) parents who need a smile.
