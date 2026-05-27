@@ -1,0 +1,35 @@
+---
+title: Series
+date: 2026-05-27T10:53:00.000+02:00
+draft: false
+menu_weight: 32
+---
+
+
+**Hola and Welcome!** ☀️  
+
+### Our Series – Come Join the Terrace Crew
+
+**Pull up a seat and choose your favourite corner of Costa Blanca North life.** Each series is packed with the real stories, tips and adventures that make living (or holidaying) here so special.
+
+{{< image-caption src="/images/418180846_10159274087136642_5185954022180218685_n.jpg" >}}Sun Sea Lifestyle {{< /image-caption >}}
+
+**🌊 Sun Sea Lifestyle:** *What it’s really like living here as an expat. Honest*, heart-warming stories about building a life on the Costa Blanca North. From making Spanish friends and surviving your first Spanish winter to the everyday magic (and occasional chaos) of “mañana” living. If you’re dreaming of the move or already here, this series feels like chatting with a friend on the terrace.
+
+
+
+**🍽️ Sun Sea Foodie:** *Local flavours, hidden tapas bars & proper Costa Blanca eating. Where* to find the best arroz a banda, freshest market produce, sunset sangria jars, and those secret chiringuitos the locals don’t tell the tourists about. Recipes, restaurant recommendations, and foodie adventures that celebrate the real Mediterranean kitchen of the Marina Alta.
+
+**🗺️ Sun Sea Seekers:** *Hidden gems and must-do places in the Marina Alta. Your* guide to secret coves, mountain villages, dramatic viewpoints and authentic experiences that go way beyond the guidebooks. Whether you’re here for a week or forever, these posts help you explore like someone who actually belongs here.
+
+**🥾 Sun Sea Hikes & Trails:** *Where to walk when the weather is kind. Beautiful*, doable routes across the Costa Blanca North — from gentle coastal paths with sea views to proper mountain adventures in the cooler months. Each hike comes with difficulty ratings, GPX tips, best season advice, and where to reward yourself with a well-earned beer or tostada afterwards.
+
+**📬 Sun Sea News Every** *Monday – What’s really happening in Marina Alta Local* news with warmth and no nonsense: new beach projects, fiesta dates, road updates, expat-relevant changes, and the good stuff (new restaurants, beach clean-ups, community wins). Your friendly weekly catch-up from the terrace.
+
+**📚 Sun Sea Books:** *Our online book club with a Spanish twist.* Monthly reads, author spotlights (especially local Marina Alta writers), discussion prompts, and recommendations for beach, terrace or rainy-day reading. Join fellow book lovers who also understand the pull of the Mediterranean light.
+
+**📋 Red Tape & Tears:** *Paperwork survival guides for real life in Spain. The* practical stuff we all need but nobody enjoys. Clear, up-to-date help with NIE, SIP, TIE, padrón, gestors, and everything else that stands between you and peaceful terrace life. Includes our popular free downloadable brochure.
+
+**🎉 Fiestas & Sangria:** *Celebrations, traditions & proper Spanish partying. From* massive Moros y Cristianos parades to intimate village romerías and the wild Hogueras de San Juan. We show you when and where the magic happens, what to wear, what to expect, and how to join in like a local — always with a glass of sangria in hand, of course.
+
+**🐶 Paws & Mischief:** *Heartwarming (and cheeky) stories starring Snoopy. The* ongoing adventures of our beloved passed-over dog Snoopy and his four-legged friends on the Costa Blanca. Funny, emotional, and full of joy — these stories celebrate the animals that make expat life so much richer. Perfect for dog (and cat) parents who need a smile.
