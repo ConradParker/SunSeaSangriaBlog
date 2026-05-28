@@ -1,13 +1,13 @@
 hero:
   image: /images/whatsapp-image-2026-05-06-at-07.42.40-4-.jpeg
   eyebrow: Pull up a lounger…
-  headline: |
-    Welcome to the
-    Sun Sea Sangria Terrace 
+  headline: >
+    This is your no-nonsense home for real talk about expat life, hidden spots,
+    paperwork shortcuts, and the everyday magic of living on the Marina Alta.
   cta_label: Join the Terrace Crew
   cta_link: "#latest"
 newsletter:
   heading: Join the Terrace Crew
   body: Sun-soaked stories from the Costa Blanca, straight to your inbox.
-  cta_label: Sign up on Substack
+  cta_label: "Sign up "
   url: https://sunseasangria.substack.com
