@@ -6,11 +6,9 @@ menu_weight: 20
 ---
 **Hola and Welcome!** ☀️  
 
-### Our Series – Come Join the Terrace Crew
+###### Our Series – Come Join the Terrace Crew
 
 **Pull up a seat and choose your favourite corner of Costa Blanca North life.** Each series is packed with the real stories, tips and adventures that make living (or holidaying) here so special.
-
-
 
 {{< image-caption src="/images/418180846_10159274087136642_5185954022180218685_n.jpg" >}}Sun Sea Lifestyle{{< /image-caption >}}
 
@@ -36,8 +34,6 @@ menu_weight: 20
 
 From gentle coastal paths with sea views to proper mountain adventures in the cooler months. Each hike comes with difficulty ratings, GPX tips, best-season advice, and recommendations for where to reward yourself with a well-earned beer or tostada afterwards.
 
-
-
 {{< image-caption src="/images/your-paragraph-text.jpg" >}}Sun Sea News{{< /image-caption >}}
 
 📬[ **Sun Sea News:**](https://sunseasangria.com/series/through-the-looking-glass/)*Every* *Monday – **What’s really happening in Marina Alta Local*** **news** 
@@ -58,7 +54,7 @@ Thepractical stuff we all need but nobody enjoys. Clear, up-to-date help with NI
 
 {{< image-caption src="/images/img_8492.jpeg" >}}Fiestas & Sangria{{< /image-caption >}}
 
-**🎉 [Fiestas & Sangria:](https://sunseasangria.com/series/fiestas-sangria/)** ***Celebrations, traditions & proper Spanish partying**.* 
+**🎉 [Fiestas & Sangria:](https://sunseasangria.com/series/fiestas-sangria/)** **\*Celebrations, traditions & proper Spanish partying**.* 
 
 From massive Moros y Cristianos parades to intimate village romerías and the wild Hogueras de San Juan. We show you when and where the magic happens, what to wear, what to expect, and how to join in like a local — always with a glass of sangria in hand, of course.
 
