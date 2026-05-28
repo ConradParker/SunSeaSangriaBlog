@@ -1,9 +1,7 @@
 hero:
-  image: /images/whatsapp-image-2026-05-06-at-07.42.40-4-.jpeg
-  eyebrow: Pull up a lounger…
-  headline: |
-    Welcome to 
-    Sun Sea Sangria 
+  image: /images/image-11-.jpg
+  eyebrow: Pull up a lounger
+  headline: "\n"
   cta_label: Join the Terrace Crew
   cta_link: "#latest"
 newsletter:
