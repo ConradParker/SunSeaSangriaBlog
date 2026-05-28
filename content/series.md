@@ -4,62 +4,206 @@ date: 2026-05-27T10:53:00.000+02:00
 draft: false
 menu_weight: 20
 ---
-**Hola and Welcome!** ☀️  
+<div class="series-page">
 
-###### Our Series – Come Join the Terrace Crew
 
-**Pull up a seat and choose your favourite corner of Costa Blanca North life.** Each series is packed with the real stories, tips and adventures that make living (or holidaying) here so special.
 
-{{< image-caption src="/images/418180846_10159274087136642_5185954022180218685_n.jpg" >}}Sun Sea Lifestyle{{< /image-caption >}}
+  <!-- Hero Section -->
 
-**🌊[ Sun Sea Lifestyle](https://sunseasangria.com/series/sun-sea-lifestyle/):** ***What it’s really like living here as an expat.*** 
+  <section class="series-hero" style="background-image: url('YOUR-NEW-BEACH-IMAGE.jpg');">
 
-*Honest*, heart-warming stories about building a life on the Costa Blanca North. From making Spanish friends and surviving your first Spanish winter to the everyday magic (and occasional chaos) of “mañana” living. If you’re dreaming of the move or already here, this series feels like chatting with a friend on the terrace.
+\    <div class="hero-overlay">
 
-{{< image-caption src="/images/2815.jpg" >}}Sun Sea Foodie{{< /image-caption >}}
+\    <h1>Our Series</h1>
 
-**🍽️ [Sun Sea Foodie](https://sunseasangria.com/series/sunseafoodie/):** ***Local flavours, hidden tapas bars & proper Costa Blanca eating.*** 
+\    <p class="tagline">Your Costa Blanca North Terrace Companions</p>
 
-*Where* to find the best arroz a banda, freshest market produce, sunset sangria jars, and those secret chiringuitos the locals don’t tell the tourists about—recipes, restaurant recommendations, and foodie adventures that celebrate the real Mediterranean kitchen of the Marina Alta.
+\    </div>
 
-{{< image-caption src="/images/whatsapp-image-2026-02-16-at-12.22.32.jpeg" >}}Sun Sea Seekers{{< /image-caption >}}
+  </section>
 
-**🗺️ [Sun Sea Seekers](https://sunseasangria.com/series/sss-town-guide/):** ***Hidden gems and must-do places in the Marina Alta.***
 
- *Your* guide to secret coves, mountain villages, dramatic viewpoints and authentic experiences that go way beyond the guidebooks. Whether you’re here for a week or forever, these posts help you explore like someone who actually belongs here.
 
-{{< image-caption src="/images/image-5-.jpg" >}}Sun Sea Hikes & Trails{{< /image-caption >}}
+  <!-- Introduction -->
 
-**🥾[ Sun Sea Hikes & Trails](https://sunseasangria.com/series/sunseatrails/):** ***Where to walk when the weather is kind. Beautiful, doable routes across the Costa Blanca North***
+  <section class="intro-section">
 
-From gentle coastal paths with sea views to proper mountain adventures in the cooler months. Each hike comes with difficulty ratings, GPX tips, best-season advice, and recommendations for where to reward yourself with a well-earned beer or tostada afterwards.
+\    <p><strong>Pull up a lounger and stay a while.</strong></p>
 
-{{< image-caption src="/images/your-paragraph-text.jpg" >}}Sun Sea News{{< /image-caption >}}
+\    <p>Here you’ll find all the stories, tips, adventures and cheeky moments that make life on the Costa Blanca North so special. Whether you’re dreaming of moving here, planning your next holiday, or already living the dream, there’s a series just for you.</p>
 
-📬[ **Sun Sea News:**](https://sunseasangria.com/series/through-the-looking-glass/)*Every* *Monday – **What’s really happening in Marina Alta Local*** **news** 
+\    <p>Browse by what makes your heart happy — and don’t forget to join the Terrace Crew for updates!</p>
 
-Written with warmth and no nonsense: new beach projects, fiesta dates, road updates, expat-relevant changes, and the good stuff (new restaurants, beach clean-ups, community wins). Your friendly weekly catch-up from the terrace.
+  </section>
 
-{{< image-caption src="/images/1d0d3d16-320d-499e-bb8d-e2f6e6dc1e33.jpg" >}}Sun Sea Books{{< /image-caption >}}
 
-**📚 [Sun Sea Books](https://sunseasangria.com/series/the-book-club/):** ***Our online book club with a Spanish twist.*** 
 
-Monthly reads, author spotlights (especially local Marina Alta writers), discussion prompts, and recommendations for beach, terrace or rainy-day reading. Join fellow book lovers who also understand the pull of the Mediterranean light.
+  <!-- Series Grid -->
 
-{{< image-caption src="/images/red-tape-and-tears.jpeg" >}}Red Tape & Tears{{< /image-caption >}}
+  <section class="series-grid">
 
-**📋 [Red Tape & Tears:](https://sunseasangria.com/series/red-tape-tears/)** ***Paperwork survival guides for real life in Spain.***
 
-Thepractical stuff we all need but nobody enjoys. Clear, up-to-date help with NIE, SIP, TIE, padrón, gestors, and everything else that stands between you and peaceful terrace life. Includes our popular free downloadable brochure.
 
-{{< image-caption src="/images/img_8492.jpeg" >}}Fiestas & Sangria{{< /image-caption >}}
+\    <div class="series-card">
 
-**🎉 [Fiestas & Sangria:](https://sunseasangria.com/series/fiestas-sangria/)** **\*Celebrations, traditions & proper Spanish partying**.* 
+\    <div class="icon">🌊</div>
 
-From massive Moros y Cristianos parades to intimate village romerías and the wild Hogueras de San Juan. We show you when and where the magic happens, what to wear, what to expect, and how to join in like a local — always with a glass of sangria in hand, of course.
+\    <h3>Sun Sea Lifestyle</h3>
 
-{{< image-caption src="/images/img_8392.jpeg" >}}Paws & Mischief{{< /image-caption >}}
+\    <p><em>Real talk about expat life on the Costa Blanca North</em></p>
 
-**🐶 [Paws & Mischief](https://sunseasangria.com/series/test-story/):** ***Heartwarming (and cheeky) stories starring Snoopy.*** 
+\    <p>Honest, heart-warming stories about what it’s actually like to build a life here. From making Spanish friends and adjusting to “mañana” time, to the everyday magic of terrace living.</p>
 
-The ongoing adventures of our beloved passed-over dog Snoopy and his four-legged friends on the Costa Blanca. Funny, emotional, and full of joy — these stories celebrate the animals that make expat life so much richer. Perfect for dog (and cat) parents who need a smile.
+\    <a href="/category/sun-sea-lifestyle/" class="btn">Explore Series →</a>
+
+\    </div>
+
+
+
+\    <div class="series-card">
+
+\    <div class="icon">🍽️</div>
+
+\    <h3>Sun Sea Foodie</h3>
+
+\    <p><em>Local flavours, hidden tapas bars & proper Spanish eating</em></p>
+
+\    <p>Where to find the best arroz dishes, freshest market produce, sunset sangria jars, and those secret chiringuitos the locals love.</p>
+
+\    <a href="/category/sun-sea-foodie/" class="btn">Explore Series →</a>
+
+\    </div>
+
+
+
+\    <div class="series-card">
+
+\    <div class="icon">🗺️</div>
+
+\    <h3>Sun Sea Seekers</h3>
+
+\    <p><em>Hidden gems and must-do places in the Marina Alta</em></p>
+
+\    <p>Your friendly guide to secret coves, mountain villages, dramatic viewpoints and authentic experiences that go far beyond the tourist trail.</p>
+
+\    <a href="/category/sun-sea-seekers/" class="btn">Explore Series →</a>
+
+\    </div>
+
+
+
+\    <div class="series-card">
+
+\    <div class="icon">🥾</div>
+
+\    <h3>Sun Sea Hikes & Trails</h3>
+
+\    <p><em>Beautiful walks for the cooler months</em></p>
+
+\    <p>Real, doable routes across the Costa Blanca North with difficulty levels, best times, and where to stop for a well-earned drink.</p>
+
+\    <a href="/category/sun-sea-hikes-trails/" class="btn">Explore Series →</a>
+
+\    </div>
+
+
+
+\    <div class="series-card">
+
+\    <div class="icon">📬</div>
+
+\    <h3>Sun Sea News</h3>
+
+\    <p><em>Every Monday – What’s really happening locally</em></p>
+
+\    <p>Your warm weekly round-up of Marina Alta news: new restaurants, fiesta dates, expat updates, and the good stuff that matters.</p>
+
+\    <a href="/category/sun-sea-news/" class="btn">Explore Series →</a>
+
+\    </div>
+
+
+
+\    <div class="series-card">
+
+\    <div class="icon">📚</div>
+
+\    <h3>Sun Sea Books</h3>
+
+\    <p><em>Our friendly online book club with a Spanish twist</em></p>
+
+\    <p>Monthly book picks, local author spotlights, and perfect reads for the beach or terrace.</p>
+
+\    <a href="/category/sun-sea-books/" class="btn">Explore Series →</a>
+
+\    </div>
+
+
+
+\    <div class="series-card">
+
+\    <div class="icon">📋</div>
+
+\    <h3>Red Tape & Tears</h3>
+
+\    <p><em>No-nonsense help with Spanish paperwork</em></p>
+
+\    <p>Clear, up-to-date guides on NIE, SIP, TIE, gestors and more — including our popular free Expat Starter Pack.</p>
+
+\    <a href="/category/red-tape-tears/" class="btn">Explore Series →</a>
+
+\    </div>
+
+
+
+\    <div class="series-card">
+
+\    <div class="icon">🎉</div>
+
+\    <h3>Fiestas & Sangria</h3>
+
+\    <p><em>Celebrations, traditions & proper Spanish fun</em></p>
+
+\    <p>From massive Moros y Cristianos parades to intimate village fiestas — how to join in like a local.</p>
+
+\    <a href="/category/fiestas-sangria/" class="btn">Explore Series →</a>
+
+\    </div>
+
+
+
+\    <div class="series-card">
+
+\    <div class="icon">🐶</div>
+
+\    <h3>Paws & Mischief</h3>
+
+\    <p><em>Heartwarming and cheeky stories starring Snoopy</em></p>
+
+\    <p>The ongoing adventures of our beloved dog Snoopy and his four-legged friends on the Costa Blanca.</p>
+
+\    <a href="/category/paws-mischief/" class="btn">Explore Series →</a>
+
+\    </div>
+
+
+
+  </section>
+
+
+
+  <!-- Call to Action -->
+
+  <section class="cta-section">
+
+\    <h2>Join the Terrace Crew</h2>
+
+\    <p>Get weekly stories, local tips, and shop launch updates straight to your inbox.</p>
+
+\    <!-- Add your email signup form here -->
+
+  </section>
+
+
+
+</div>
