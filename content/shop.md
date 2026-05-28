@@ -14,7 +14,7 @@ menu_weight: 30
 
 I'm very busy creating a little collection of fun, practical, and properly Costa Blanca North merch that celebrates the life we all love here — sun-drenched mornings, hidden coves, mercado hauls, cheeky dogs, and plenty of sangria moments.
 
-###### ***What’s Coming to the Terrace Shop?***
+***What’s Coming to the Terrace Shop?***
 
 Here are some of the pieces we’re working on (more to be added soon!):
 
@@ -39,9 +39,5 @@ Joanne
 Founder 
 
 sunseasangria.com
-
-
-
-
 
 {{< image-caption src="/images/gts3l.jpg" >}}{{< /image-caption >}}
