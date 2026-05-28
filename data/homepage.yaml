@@ -1,12 +1,10 @@
 hero:
   image: /images/whatsapp-image-2026-05-06-at-07.42.40.jpeg
-  eyebrow: Pull up a lounger
+  eyebrow: "Welcome to the terrace "
   headline: |-
-    Sun Sea Sangria 
-    Costa Blanca North
-
-    Welcome to The Terrace
-  cta_label: Join the Terrace Crew
+    Sun Sea Sangria
+    Your warm guide to the Costa Blanca North
+  cta_label: Subscribe to the Terrace Crew
   cta_link: "#latest"
 newsletter:
   heading: Join the Terrace Crew
