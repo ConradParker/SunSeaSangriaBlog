@@ -4,8 +4,6 @@ date: 2026-05-27T10:53:00.000+02:00
 draft: false
 menu_weight: 20
 ---
-
-
 **Our Series – Your Costa Blanca North Terrace Companions**
 
 **Pull up a lounger and stay a while.**
@@ -16,8 +14,6 @@ Browse by what makes your heart happy — and don’t forget to join the Terrace
 
 {{< image-caption src="/images/c6r3v.jpg" >}}{{< /image-caption >}}
 
-
-
 **[🌊 Sun Sea Lifestyle](https://sunseasangria.com/series/sun-sea-lifestyle/)**
 
 ***Real talk about expat life on the Costa Blanca North***
@@ -26,7 +22,7 @@ Honest, heart-warming stories about what it’s actually like to build a life he
 
 **[🍽️ Sun Sea Foodie](https://sunseasangria.com/series/sunseafoodie/)**
 
-Local flavours, hidden tapas bars & proper Spanish eating
+***Local flavours, hidden tapas bars & proper Spanish eating***
 
 Where to find the best arroz dishes, freshest market produce, sunset sangria jars, and those secret chiringuitos the locals love. Expect restaurant recommendations, simple terrace recipes, and market haul inspiration from the Marina Alta.
 
