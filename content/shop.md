@@ -4,9 +4,7 @@ date: 2026-05-27T11:31:00.000+02:00
 draft: false
 menu_weight: 30
 ---
-
-
-### **The Terrace Shop**
+###### **The Terrace Shop**
 
 **Pull up a lounger… your favourite Sun Sea Sangria goodies are coming soon!**
 
@@ -14,9 +12,7 @@ Hola from the terrace!
 
 Im very busy creating a little collection of fun, practical, and properly Costa Blanca North merch that celebrates the life we all love here — sun-drenched mornings, hidden coves, mercado hauls, cheeky dogs, and plenty of sangria moments.
 
-
-
-### **What’s Coming to the Terrace Shop**
+###### **What’s Coming to the Terrace Shop**
 
 Here are some of the pieces we’re working on (more to be added soon!):
 
@@ -29,10 +25,6 @@ Here are some of the pieces we’re working on (more to be added soon!):
 **🧢 “Hidden Cove Explorer” Caps & Sun Hats:** Lightweight and stylish for those long days exploring the Marina Alta trails and secret beaches.
 
 **🍷 “Sangria O’Clock” Wine Glasses & Aprons:** For the Sun Sea Foodie crew — perfect for your next terrace gathering or Sunday paella session.
-
-
-
-
 
 **Thank you for being part of this little community.** 
 
