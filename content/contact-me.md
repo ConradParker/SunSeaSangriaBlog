@@ -1,20 +1,58 @@
 ---
-title: Contact Me
+title: "Contact "
 date: 2026-01-06T13:09:00.000+01:00
 draft: false
-menu_weight: 40
+menu_weight: 70
 ---
-**¡Hola from the Costa Blanca! Let’s Chat 🌞🍹🐶**
 
-Hey there! Whether you're dreaming of your next sun-drenched escape along our stunning coastline, scheming a full move to Spain (I've got the red-tape sagas and victory stories to share), or just want to swap tales about secret coves, dog-friendly beaches, and the best bites in town... I'm all ears (and tail-wags)!
 
-Drop me a message below or you can email with your photos jo@sunseasolutions.com —tell me your wildest "paws and mischief" doggie stories from chasing waves in Calpe or causing chaos on a Benissa beach walk, share your top travel hints for hidden gems from Alicante to Denia, rave about that killer restaurant find (or ask for my latest picks on spots like Amigos, D·Vora, Pistazi Gastro Lounge, or BenGen), or spill your own "only in Spain" moment with your furry sidekick in tow. Say hi if you're strolling through Benissa, Javea, or Moraira with your pup!
+**¡Hola from the Costa Blanca North Terrace!** 🌞🍹🐶!
 
-I reply personally (usually within a day or two, unless I'm out mid-sunset sangria chase with my own mischief-maker—kidding... mostly 😉).
+Whether you’re dreaming of making the big move to Spain, hunting for hidden coves and the best tapas spots, swapping dog stories, or just want a friendly chat about real expat life here in the Marina Alta — I’m all ears (and tail-wags).
 
-Can't wait to hear from you—grab that virtual sangria (and a treat for the pups), and let's swap stories, tips, tail-wags, and plans! 🐾☀️🏖️🍹
+**New! The Terrace Shop is Opening Soon**
 
-Joanne xx
+We’re busy creating a lovely little collection of Sun Sea Sangria merch — think “Official Terrace Crew” mugs, comfy tees for your hikes, Paws & Mischief dog bandanas, sangria glasses, and more goodies made for real life under the Spanish sun.
+
+Want to be the first to know when it launches and grab an **exclusive 15% off** discount? Join the waiting list on the Shop page or drop me a message below and I’ll make sure you’re on the list!
+
+
+
+
+
+### **Let’s Chat**
+
+Drop me a message using the form below or email me directly at **jo@sunseasolutions.com**.
+
+Tell me:
+
+* Your questions about moving to the Costa Blanca North
+* Wild “Paws and Mischief” stories with your four-legged friends
+* Favourite (or worst!) red tape moments
+* Recommendations for secret beaches, hikes, or tapas bars
+* Ideas for the new shop — what would you love to see?
+* Or just say hola if you’re passing through Jávea, Moraira, Calpe or Benissa!
+
+I reply personally (usually within a day or two — unless I’m chasing a sunset with a glass of sangria in hand 😉).
+
+
+
+
+
+**Can’t wait to hear from you!**
+
+Let’s swap stories, tips, tail-wags, and future terrace plans.
+
+With sun, sea, and plenty of sangria,
+
+**Joanne xx**
+
+Founder, Sun Sea Sangria
+
+
+
+
+
 
 ✉️"
 
