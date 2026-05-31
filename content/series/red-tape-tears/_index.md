@@ -3,7 +3,7 @@ title: Red Tape & Tears
 series_id: red-tape-tears
 date: 2026-02-05T08:50:00.000+01:00
 draft: false
-image: red-tape-and-tears.jpeg
+image: red-tape-tears.jpg
 weight: ""
 menu_weight: ""
 nav_emoji: 📄
