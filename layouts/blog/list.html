@@ -10,10 +10,17 @@
 <div class="blog-list" id="paige-page">
 
   <div class="blog-list__header">
-    <h1 class="blog-list__title">{{ .Title }}</h1>
-    {{ with .Description }}
-      <p class="blog-list__subtitle">{{ . }} 🍹</p>
-    {{ end }}
+    {{- with site.Data.blogpage -}}
+      <h1 class="blog-list__title">{{ .title | default $page.Title }}</h1>
+      {{- with .subtitle }}
+        <p class="blog-list__subtitle">{{ . }} 🍹</p>
+      {{- end }}
+    {{- else -}}
+      <h1 class="blog-list__title">{{ .Title }}</h1>
+      {{- with .Description }}
+        <p class="blog-list__subtitle">{{ . }} 🍹</p>
+      {{- end }}
+    {{- end -}}
   </div>
 
   <div class="blog-filter">

@@ -129,6 +129,13 @@ collections:
               - { label: "Button label", name: "cta_label", widget: "string" }
               - { label: "Substack URL", name: "url", widget: "string" }
 
+      - name: "blogpage"
+        label: "Blog Page"
+        file: "data/blogpage.yaml"
+        fields:
+          - { label: "Title", name: "title", widget: "string", hint: "Main heading at the top of the blog listing page" }
+          - { label: "Subtitle", name: "subtitle", widget: "string", required: false, hint: "Optional tagline shown under the title (a 🍹 is added automatically). Leave empty for no subtitle." }
+
       - name: "socials"
         label: "Social Media URLs"
         file: "data/socials.yaml"
