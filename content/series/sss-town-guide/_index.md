@@ -3,7 +3,7 @@ title: Sun Sea Seekers
 series_id: sun-sea-seekers
 date: 2026-01-15T18:24:00.000+01:00
 draft: false
-image: whatsapp-image-2026-05-11-at-09.35.28-7-.jpeg
+image: sun-sea-seekers.jpg
 weight: 3
 menu_weight: ""
 nav_emoji: 🗺️
