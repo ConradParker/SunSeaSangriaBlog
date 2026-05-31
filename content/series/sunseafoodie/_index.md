@@ -3,7 +3,7 @@ title: Sun Sea Foodie
 series_id: sun-sea-foodie
 date: 2026-03-04T12:21:00.000+01:00
 draft: false
-image: whatsapp-image-2026-04-15-at-11.14.35-5-.jpeg
+image: sun-sea-foodie.jpg
 weight: 2
 menu_weight: ""
 nav_emoji: 🍝
