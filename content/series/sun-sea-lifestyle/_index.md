@@ -4,7 +4,7 @@ series_id: sun-sea-lifestyle
 date: 2026-03-31T10:25:00.000+02:00
 draft: false
 image: whatsapp-image-2026-04-23-at-09.33.51-4-.jpeg
-weight: 2
+weight: 1
 nav_emoji: 🍹
 nav_desc: Cheeky, no-fluff guide to full-time living on Costa Blanca North.
 nav_color: "#1f2f6e"
