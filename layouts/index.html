@@ -91,12 +91,34 @@
       {{ end }}
     </div>
 
-    <aside class="home-newsletter">
-      <h3>{{ $n.heading }}</h3>
-      <p>{{ $n.body }}</p>
-      <a class="btn btn-primary" href="{{ $n.url }}" target="_blank" rel="noopener noreferrer">
-        {{ $n.cta_label }}
-      </a>
+    <aside class="home-latest-aside">
+
+      {{/* Shop the Terrace — placeholder until the shop launches */}}
+      <div class="blog-aside">
+        <h2 class="blog-aside__title">Shop the Terrace</h2>
+        <p class="shop-coming-soon">Coming soon 🛍️</p>
+      </div>
+
+      {{/* Featured Story — editable in the CMS (Site Settings → Featured Story) */}}
+      {{ with site.Data.featuredstory }}
+        <div class="blog-aside featured-story">
+          <h2 class="blog-aside__title">{{ .heading | default "Featured Story" }}</h2>
+          {{ with .image }}
+            {{ $src := . }}
+            {{ if hasPrefix . "/images/" }}
+              {{ with resources.Get (strings.TrimPrefix "/" .) }}
+                {{ $src = (.Resize "600x").RelPermalink }}
+              {{ end }}
+            {{ end }}
+            <img class="featured-story__img" src="{{ $src }}" alt="" loading="lazy">
+          {{ end }}
+          {{ with .body }}<div class="featured-story__body">{{ . | markdownify }}</div>{{ end }}
+          {{ if and .link_url .link_label }}
+            <a class="featured-story__link" href="{{ .link_url }}">{{ .link_label }} →</a>
+          {{ end }}
+        </div>
+      {{ end }}
+
     </aside>
 
   </div>

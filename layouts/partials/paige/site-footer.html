@@ -1,12 +1,36 @@
 {{ $page := . }}
+{{ $nl := site.Data.homepage.newsletter }}
 
 <footer class="site-footer" id="paige-site-footer">
-  <div class="site-footer-inner">
-    <p class="footer-copy">© {{ now.Year }} Sun Sea Sangria. All rights reserved.</p>
-    <p class="footer-links">
-      <a href="/privacy-policy/">Privacy</a> &middot;
-      <a href="/disclaimer/">Disclaimer</a>
-    </p>
-    {{ partial "social-icons.html" (dict "context" . "variant" "footer") }}
+
+  <div class="site-footer-top">
+
+    {{ with $nl }}
+    <div class="footer-col footer-newsletter">
+      <h2 class="footer-col-title">{{ .heading | default "Join the Crew" }}</h2>
+      {{ with .body }}<p class="footer-col-text">{{ . }}</p>{{ end }}
+      {{ with .url }}
+        <a class="btn btn-primary" href="{{ . }}" target="_blank" rel="noopener noreferrer">{{ $nl.cta_label | default "Sign up" }}</a>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    <div class="footer-col footer-social">
+      <h2 class="footer-col-title">Stay updated on the terrace</h2>
+      <p class="footer-col-text">Follow along for sun, sea &amp; sangria.</p>
+      {{ partial "social-icons.html" (dict "context" . "variant" "footer") }}
+    </div>
+
   </div>
+
+  <div class="site-footer-bottom">
+    <div class="site-footer-bottom-inner">
+      <p class="footer-copy">© {{ now.Year }} Sun Sea Sangria. All rights reserved.</p>
+      <p class="footer-links">
+        <a href="/privacy-policy/">Privacy</a> &middot;
+        <a href="/disclaimer/">Disclaimer</a>
+      </p>
+    </div>
+  </div>
+
 </footer>

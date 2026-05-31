@@ -137,6 +137,16 @@ collections:
           - { label: "Title", name: "title", widget: "string", hint: "Main heading at the top of the blog listing page" }
           - { label: "Subtitle", name: "subtitle", widget: "string", required: false, hint: "Optional tagline shown under the title (a 🍹 is added automatically). Leave empty for no subtitle." }
 
+      - name: "featuredstory"
+        label: "Featured Story"
+        file: "data/featuredstory.yaml"
+        fields:
+          - { label: "Heading", name: "heading", widget: "string", default: "Featured Story", hint: "Title shown at the top of the Featured Story panel on the homepage" }
+          - { label: "Image", name: "image", widget: "image", required: false, hint: "Optional image shown above the text" }
+          - { label: "Text", name: "body", widget: "markdown", required: false, hint: "Write whatever you like here — appears under the image" }
+          - { label: "Link label", name: "link_label", widget: "string", required: false, hint: "Optional link text, e.g. 'Read more' (leave empty for no link)" }
+          - { label: "Link URL", name: "link_url", widget: "string", required: false, hint: "Where the link goes (only used if a link label is set)" }
+
       - name: "socials"
         label: "Social Media URLs"
         file: "data/socials.yaml"
