@@ -2,7 +2,7 @@
 title: "Alicante to Denia Tram: Scenic Coastal Route Guide & Timetables 2026"
 date: 2026-05-16T08:21:00.000+02:00
 draft: false
-series: sun-sea-seekers
+series: sss-town-guide
 image: /images/3005.jpg
 comments: true
 socials: true

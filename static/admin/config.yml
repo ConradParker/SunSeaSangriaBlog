@@ -82,6 +82,7 @@ collections:
         hint: "Thumbnail shown on the blog listing page (optional — series emoji used if empty)"
       - { label: "Comments", name: "comments", widget: "boolean", default: false, required: false, hint: "Enable the comment section on this post" }
       - { label: "Socials", name: "socials", widget: "boolean", default: false, required: false, hint: "Show the social links bar at the end of this post" }
+      - { label: "Show in Popular Blogs", name: "popular", widget: "boolean", default: false, required: false, hint: "Feature this post in the 'Popular Blogs' sidebar on the blog page (newest featured posts appear first)" }
       - { label: "Body", name: "body", widget: "markdown" }
 
   - name: "pages"

@@ -797,3 +797,237 @@ a.blog-page-btn:hover,
     color: #aaa;
   }
 }
+
+/* ==========================================================================
+   Blog List — Layout (post grid + right sidebar)
+   ========================================================================== */
+
+.blog-layout {
+  max-width: 1100px;
+  margin: 24px auto 0;
+  padding: 0 32px 48px;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 300px;
+  gap: 32px;
+  align-items: start;
+}
+
+.blog-main {
+  min-width: 0;
+}
+
+/* Neutralise the standalone grid's own width/spacing inside the layout */
+.blog-layout .blog-grid {
+  max-width: none;
+  margin: 0;
+  padding: 0;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.blog-layout .blog-pagination {
+  justify-content: flex-start;
+  padding: 28px 0 0;
+}
+
+/* ==========================================================================
+   Blog List — Sidebar panels
+   ========================================================================== */
+
+.blog-sidebar {
+  position: sticky;
+  top: 88px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.blog-aside {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.07);
+  padding: 20px 22px;
+}
+
+.blog-aside__title {
+  font-family: 'Playfair Display', serif;
+  font-size: 16px;
+  font-weight: 700;
+  color: #1a0f0a;
+  margin: 0 0 16px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid #f0e9df;
+}
+
+.blog-aside__empty {
+  font-family: 'Lato', sans-serif;
+  font-size: 12.5px;
+  line-height: 1.6;
+  color: #aaa;
+  margin: 0;
+}
+
+/* Popular Blogs list */
+.popular-list {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.popular-item {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  text-decoration: none;
+  color: inherit;
+}
+
+.popular-item:hover {
+  text-decoration: none;
+}
+
+.popular-item__thumb,
+.popular-item__thumb-placeholder {
+  width: 56px;
+  height: 56px;
+  min-width: 56px;
+  border-radius: 8px;
+  object-fit: cover;
+  display: block;
+  background: #e8e0d4;
+}
+
+.popular-item__thumb-placeholder {
+  background: linear-gradient(135deg, #ede5d8 0%, #d4c4b0 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+}
+
+.popular-item__text {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.popular-item__title {
+  font-family: 'Playfair Display', serif;
+  font-size: 13.5px;
+  font-weight: 700;
+  line-height: 1.35;
+  color: #1a0f0a;
+  margin-bottom: 4px;
+  transition: color 0.15s ease;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.popular-item:hover .popular-item__title {
+  color: var(--color-terracotta);
+}
+
+.popular-item__meta {
+  font-family: 'Lato', sans-serif;
+  font-size: 11px;
+  color: #aaa;
+}
+
+/* Series list — wrapping inline pills */
+.series-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.series-list__item {
+  padding: 6px 14px;
+  border-radius: 20px;
+  border: 1.5px solid #e0d8ce;
+  background: white;
+  color: #555;
+  font-family: 'Lato', sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: all 0.15s ease;
+}
+
+.series-list__item:hover {
+  background: #f5f0ea;
+  border-color: #c8bfb4;
+  color: #1a0f0a;
+  text-decoration: none;
+}
+
+/* ==========================================================================
+   Blog List — Sidebar responsive
+   ========================================================================== */
+
+@media (max-width: 1000px) {
+  .blog-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .blog-sidebar {
+    position: static;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  .blog-aside {
+    flex: 1 1 280px;
+  }
+}
+
+@media (max-width: 600px) {
+  .blog-layout {
+    padding: 0 16px 32px;
+  }
+
+  .blog-layout .blog-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .blog-sidebar {
+    flex-direction: column;
+  }
+}
+
+/* ==========================================================================
+   Blog List — Sidebar dark mode
+   ========================================================================== */
+
+@media (prefers-color-scheme: dark) {
+  .blog-aside {
+    background: var(--bs-body-bg, #212529);
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.2);
+  }
+
+  .blog-aside__title {
+    color: var(--bs-body-color, #dee2e6);
+    border-bottom-color: #333;
+  }
+
+  .popular-item__title {
+    color: var(--bs-body-color, #dee2e6);
+  }
+
+  .popular-item__thumb-placeholder {
+    background: linear-gradient(135deg, #3a3a3a 0%, #2a2a2a 100%);
+  }
+
+  .series-list__item {
+    background: var(--bs-body-bg, #212529);
+    border-color: #444;
+    color: #aaa;
+  }
+
+  .series-list__item:hover {
+    background: #333;
+    border-color: #555;
+    color: #fff;
+  }
+}

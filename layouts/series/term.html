@@ -48,7 +48,17 @@
   </div>
 
   {{/* ── 3. SIBLING SERIES NAV STRIP ── */}}
-  {{- $allTerms := (site.GetPage "/series").Pages -}}
+  {{/* Build the term list from site.Taxonomies ((site.GetPage "/series").Pages
+       returns empty in this Hugo version); include only real series backed by
+       an _index.md so phantom terms from mistyped slugs don't appear. */}}
+  {{- $allTerms := slice -}}
+  {{- range $name, $_ := site.Taxonomies.series -}}
+    {{- with site.GetPage (printf "/series/%s" $name) -}}
+      {{- if .File -}}
+        {{- $allTerms = $allTerms | append . -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
   {{- $weighted := sort (where $allTerms ".Weight" "gt" 0) ".Weight" "asc" -}}
   {{- $unweighted := sort (where $allTerms ".Weight" "eq" 0) ".Title" "asc" -}}
   {{- $ordered := $weighted | append $unweighted -}}

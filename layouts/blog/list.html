@@ -1,11 +1,25 @@
 {{ define "main" }}
 {{- $page := . -}}
 
-{{/* Series ordering: weighted first by weight, then unweighted alphabetically */}}
-{{- $allTerms := (site.GetPage "/series").Pages -}}
+{{/* Series ordering: weighted first by weight, then unweighted alphabetically.
+     Build the term list from site.Taxonomies (site.GetPage "/series").Pages
+     returns empty in this Hugo version). */}}
+{{- $allTerms := slice -}}
+{{- range $name, $_ := site.Taxonomies.series -}}
+  {{- with site.GetPage (printf "/series/%s" $name) -}}
+    {{/* Only include real series (backed by an _index.md); skip phantom terms
+         created by posts with a mistyped/non-canonical series slug. */}}
+    {{- if .File -}}
+      {{- $allTerms = $allTerms | append . -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
 {{- $weighted := sort (where $allTerms ".Weight" "gt" 0) ".Weight" "asc" -}}
 {{- $unweighted := sort (where $allTerms ".Weight" "eq" 0) ".Title" "asc" -}}
 {{- $orderedSeries := $weighted | append $unweighted -}}
+
+{{/* Popular posts: newest blog posts flagged "popular" in the CMS */}}
+{{- $popular := first 5 (where (where site.RegularPages "Section" "blog") "Params.popular" true).ByDate.Reverse -}}
 
 <div class="blog-list" id="paige-page">
 
@@ -23,96 +37,143 @@
     {{- end -}}
   </div>
 
-  <div class="blog-filter">
-    <span class="blog-filter__label">Filter:</span>
-    <a class="blog-filter__btn active" href="/blog/">All</a>
-    {{- range $orderedSeries -}}
-      <a class="blog-filter__btn" href="{{ .RelPermalink }}">
-        {{- with .Params.nav_emoji }}{{ . }} {{ end -}}{{ .Title -}}
-      </a>
-    {{- end }}
-  </div>
+  <div class="blog-layout">
 
-  {{- $pager := .Paginate (.Pages.ByDate.Reverse) 9 -}}
+    {{/* ── MAIN COLUMN: post grid + pagination ── */}}
+    <div class="blog-main">
+      {{- $pager := .Paginate (.Pages.ByDate.Reverse) 9 -}}
 
-  <div class="blog-grid" id="blog-grid">
-    {{- range $index, $post := $pager.Pages -}}
-      {{- $emoji := "📝" -}}
-      {{- $color := "#999" -}}
-      {{- $seriesTitle := "" -}}
-      {{- with .Params.series -}}
-        {{- with site.GetPage (printf "/series/%s" .) -}}
-          {{- $emoji = .Params.nav_emoji | default "📝" -}}
-          {{- $color = .Params.nav_color | default "#999" -}}
-          {{- $seriesTitle = .Title -}}
-        {{- end -}}
-      {{- end -}}
-
-      {{- $isFeatured := and (eq $index 0) (eq $pager.PageNumber 1) -}}
-      {{- $isHorizontal := ge $index 6 -}}
-
-      <a class="blog-card{{ if $isFeatured }} blog-card--featured{{ end }}{{ if $isHorizontal }} blog-card--horizontal{{ end }}"
-         href="{{ .RelPermalink }}">
-
-        {{- with .Params.image -}}
-          {{- $imgPath := strings.TrimPrefix "/" . -}}
-          {{- with resources.Get $imgPath -}}
-            <img class="blog-card__thumb" src="{{ .RelPermalink }}" alt="" loading="lazy" />
-          {{- else -}}
-            <div class="blog-card__thumb-placeholder">{{ $emoji }}</div>
+      <div class="blog-grid" id="blog-grid">
+        {{- range $index, $post := $pager.Pages -}}
+          {{- $emoji := "📝" -}}
+          {{- $color := "#999" -}}
+          {{- $seriesTitle := "" -}}
+          {{- with .Params.series -}}
+            {{- with site.GetPage (printf "/series/%s" .) -}}
+              {{- $emoji = .Params.nav_emoji | default "📝" -}}
+              {{- $color = .Params.nav_color | default "#999" -}}
+              {{- $seriesTitle = .Title -}}
+            {{- end -}}
           {{- end -}}
-        {{- else -}}
-          <div class="blog-card__thumb-placeholder">{{ $emoji }}</div>
+
+          {{- $isFeatured := and (eq $index 0) (eq $pager.PageNumber 1) -}}
+          {{- $isHorizontal := ge $index 6 -}}
+
+          <a class="blog-card{{ if $isFeatured }} blog-card--featured{{ end }}{{ if $isHorizontal }} blog-card--horizontal{{ end }}"
+             href="{{ .RelPermalink }}">
+
+            {{- with .Params.image -}}
+              {{- $imgPath := strings.TrimPrefix "/" . -}}
+              {{- with resources.Get $imgPath -}}
+                <img class="blog-card__thumb" src="{{ .RelPermalink }}" alt="" loading="lazy" />
+              {{- else -}}
+                <div class="blog-card__thumb-placeholder">{{ $emoji }}</div>
+              {{- end -}}
+            {{- else -}}
+              <div class="blog-card__thumb-placeholder">{{ $emoji }}</div>
+            {{- end -}}
+
+            <div class="blog-card__body">
+              {{- with $seriesTitle }}
+                <span class="blog-card__category" style="color: {{ $color }};">{{ $emoji }} {{ . }}</span>
+              {{- end }}
+              <div class="blog-card__title">{{ $post.Title }}</div>
+              <div class="blog-card__excerpt">
+                {{- with $post.Description -}}
+                  {{ . }}
+                {{- else -}}
+                  {{ $post.Summary | plainify | truncate 160 }}
+                {{- end -}}
+              </div>
+              <div class="blog-card__meta">
+                <span>{{ $post.Date.Format "January 2, 2006" }}</span>
+                <span class="blog-card__meta-dot"></span>
+                <span>{{ $post.ReadingTime }} min read</span>
+                {{- if not $isHorizontal }}
+                  <span class="blog-card__read-more">Read more →</span>
+                {{- end }}
+              </div>
+            </div>
+          </a>
+        {{- end }}
+      </div>
+
+      {{ if gt $pager.TotalPages 1 }}
+      <nav class="blog-pagination" aria-label="Blog pagination">
+        {{- if $pager.HasPrev }}
+          <a class="blog-page-btn" href="{{ $pager.Prev.URL }}">‹</a>
+        {{- else }}
+          <span class="blog-page-btn disabled">‹</span>
         {{- end -}}
 
-        <div class="blog-card__body">
-          {{- with $seriesTitle }}
-            <span class="blog-card__category" style="color: {{ $color }};">{{ $emoji }} {{ . }}</span>
-          {{- end }}
-          <div class="blog-card__title">{{ $post.Title }}</div>
-          <div class="blog-card__excerpt">
-            {{- with $post.Description -}}
-              {{ . }}
-            {{- else -}}
-              {{ $post.Summary | plainify | truncate 160 }}
+        {{- range $pager.Pagers }}
+          {{- if eq .PageNumber $pager.PageNumber }}
+            <span class="blog-page-btn active">{{ .PageNumber }}</span>
+          {{- else }}
+            <a class="blog-page-btn" href="{{ .URL }}">{{ .PageNumber }}</a>
+          {{- end -}}
+        {{- end -}}
+
+        {{- if $pager.HasNext }}
+          <a class="blog-page-btn" href="{{ $pager.Next.URL }}">›</a>
+        {{- else }}
+          <span class="blog-page-btn disabled">›</span>
+        {{- end }}
+      </nav>
+      {{ end }}
+    </div>
+
+    {{/* ── RIGHT SIDEBAR ── */}}
+    <aside class="blog-sidebar">
+
+      {{/* Popular Blogs */}}
+      <div class="blog-aside">
+        <h2 class="blog-aside__title">Popular Blogs</h2>
+        {{- if $popular -}}
+          <div class="popular-list">
+            {{- range $popular -}}
+              {{- $emoji := "📝" -}}
+              {{- with .Params.series -}}
+                {{- with site.GetPage (printf "/series/%s" .) -}}
+                  {{- $emoji = .Params.nav_emoji | default "📝" -}}
+                {{- end -}}
+              {{- end -}}
+              <a class="popular-item" href="{{ .RelPermalink }}">
+                {{- with .Params.image -}}
+                  {{- $imgPath := strings.TrimPrefix "/" . -}}
+                  {{- with resources.Get $imgPath -}}
+                    <img class="popular-item__thumb" src="{{ .RelPermalink }}" alt="" loading="lazy" />
+                  {{- else -}}
+                    <span class="popular-item__thumb-placeholder">{{ $emoji }}</span>
+                  {{- end -}}
+                {{- else -}}
+                  <span class="popular-item__thumb-placeholder">{{ $emoji }}</span>
+                {{- end -}}
+                <span class="popular-item__text">
+                  <span class="popular-item__title">{{ .Title }}</span>
+                  <span class="popular-item__meta">{{ .Date.Format "January 2, 2006" }}</span>
+                </span>
+              </a>
             {{- end -}}
           </div>
-          <div class="blog-card__meta">
-            <span>{{ $post.Date.Format "January 2, 2006" }}</span>
-            <span class="blog-card__meta-dot"></span>
-            <span>{{ $post.ReadingTime }} min read</span>
-            {{- if not $isHorizontal }}
-              <span class="blog-card__read-more">Read more →</span>
-            {{- end }}
-          </div>
+        {{- else -}}
+          <p class="blog-aside__empty">No popular posts yet. Tick &ldquo;Show in Popular Blogs&rdquo; on a post to feature it here.</p>
+        {{- end -}}
+      </div>
+
+      {{/* Series */}}
+      <div class="blog-aside">
+        <h2 class="blog-aside__title">Series</h2>
+        <div class="series-list">
+          {{- range $orderedSeries -}}
+            <a class="series-list__item" href="{{ .RelPermalink }}">{{ .Title }}</a>
+          {{- end -}}
         </div>
-      </a>
-    {{- end }}
+      </div>
+
+    </aside>
+
   </div>
-
-  {{ if gt $pager.TotalPages 1 }}
-  <nav class="blog-pagination" aria-label="Blog pagination">
-    {{- if $pager.HasPrev }}
-      <a class="blog-page-btn" href="{{ $pager.Prev.URL }}">‹</a>
-    {{- else }}
-      <span class="blog-page-btn disabled">‹</span>
-    {{- end -}}
-
-    {{- range $pager.Pagers }}
-      {{- if eq .PageNumber $pager.PageNumber }}
-        <span class="blog-page-btn active">{{ .PageNumber }}</span>
-      {{- else }}
-        <a class="blog-page-btn" href="{{ .URL }}">{{ .PageNumber }}</a>
-      {{- end -}}
-    {{- end -}}
-
-    {{- if $pager.HasNext }}
-      <a class="blog-page-btn" href="{{ $pager.Next.URL }}">›</a>
-    {{- else }}
-      <span class="blog-page-btn disabled">›</span>
-    {{- end }}
-  </nav>
-  {{ end }}
 
 </div>
 {{ end }}

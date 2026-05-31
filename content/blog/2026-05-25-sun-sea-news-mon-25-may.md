@@ -2,7 +2,7 @@
 title: Sun Sea News Mon 25 May
 date: 2026-05-25T14:59:00.000+02:00
 draft: false
-series: sun-sea-news
+series: through-the-looking-glass
 image: /images/2nhrr.jpg
 comments: true
 socials: true

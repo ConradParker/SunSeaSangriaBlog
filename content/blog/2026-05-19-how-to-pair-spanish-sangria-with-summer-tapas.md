@@ -2,7 +2,7 @@
 title: How to Pair Spanish Sangria with Summer Tapas
 date: 2026-05-19T09:10:00.000+02:00
 draft: false
-series: sun-sea-foodie
+series: sunseafoodie
 image: /images/5ex8a.jpg
 comments: true
 socials: true

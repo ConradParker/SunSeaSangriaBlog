@@ -2,7 +2,7 @@
 title: "Sun Sea News 18th May "
 date: 2026-05-18T11:20:00.000+02:00
 draft: false
-series: sun-sea-news
+series: through-the-looking-glass
 image: /images/www.reallygreatsite.com-123-456-7890.png
 comments: true
 socials: true

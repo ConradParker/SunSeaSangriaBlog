@@ -5,10 +5,18 @@
 
     <a class="brand" href="{{ "/" | relURL }}">
       {{ with .Site.Params.logo }}
-        <img src="{{ . }}" alt="{{ $.Site.Params.logoAlt | default "Sun Sea Sangria" }}" height="40">
-      {{ else }}
-        <span class="brand-text"><span class="brand-text__accent">Sun</span>Sea<span class="brand-text__accent">Sangria</span></span>
+        {{/* Resolve via assets pipeline (resized) when it's an /images/ path,
+             otherwise fall back to the raw path. Decorative (alt="") since the
+             wordmark beside it already names the site. */}}
+        {{ $src := . }}
+        {{ if hasPrefix . "/images/" }}
+          {{ with resources.Get (strings.TrimPrefix "/" .) }}
+            {{ $src = (.Resize "x88").RelPermalink }}
+          {{ end }}
+        {{ end }}
+        <img class="brand-logo" src="{{ $src }}" alt="" height="44">
       {{ end }}
+      <span class="brand-text"><span class="brand-text__accent">Sun</span>Sea<span class="brand-text__accent">Sangria</span></span>
     </a>
 
     <button class="nav-toggle" type="button" aria-label="Menu" aria-expanded="false">
