@@ -3,7 +3,7 @@ title: "Fiestas & Sangria "
 series_id: fiestas-sangria
 date: 2026-02-25T08:36:00.000+01:00
 draft: false
-image: fiestas-2026.webp
+image: fiestas-sangria.jpg
 weight: ""
 menu_weight: ""
 nav_emoji: 🎉
