@@ -3,7 +3,7 @@ title: Sun Sea Books
 series_id: sun-sea-books
 date: 2026-01-15T16:26:00.000+01:00
 draft: false
-image: ""
+image: sun-sea-books.jpg
 menu_weight: ""
 nav_emoji: 📚
 nav_desc: Book chats over vino
