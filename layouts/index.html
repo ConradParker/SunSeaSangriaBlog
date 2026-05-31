@@ -34,15 +34,8 @@
       {{ range $top3 }}
         {{ $page := . }}
         {{ $emoji := .Params.nav_emoji | default "✨" }}
-        {{ $hasImg := false }}
-        {{ $imgURL := "" }}
-        {{ with .Params.image }}
-          {{/* Series images live as page-bundle resources beside the _index.md */}}
-          {{ with $page.Resources.GetMatch . }}
-            {{ $hasImg = true }}
-            {{ $imgURL = .RelPermalink }}
-          {{ end }}
-        {{ end }}
+        {{ $imgURL := trim (partial "series-image.html" $page) " " }}
+        {{ $hasImg := ne $imgURL "" }}
         <a class="home-series-card{{ if not $hasImg }} home-series-card--fallback{{ end }}"
            href="{{ .RelPermalink }}"
            {{ if $hasImg }}style="background-image: url('{{ $imgURL }}');"{{ end }}>

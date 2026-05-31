@@ -1,0 +1,24 @@
+{{- /*
+  Resolve a series term page's `image` to a published URL.
+
+  Context: the series term page (e.g. site.GetPage "/series/sun-sea-lifestyle").
+  Returns: the image RelPermalink, or "" if no image is set / none matches.
+
+  The series `image` field stores a bare filename (that's what the Decap CMS
+  writes), but the file lives in the page bundle beside _index.md. On taxonomy
+  term pages Hugo names bundle resources with the term-folder prefix
+  (e.g. "sun-sea-lifestyle/photo.jpg"), so we match on the basename rather than
+  the bare filename. If an image is set but no resource matches, warn loudly so
+  the miss shows up in the build log instead of silently rendering a fallback.
+*/ -}}
+{{- $page := . -}}
+{{- $url := "" -}}
+{{- with .Params.image -}}
+  {{- $match := or ($page.Resources.GetMatch (printf "**/%s" .)) ($page.Resources.GetMatch .) -}}
+  {{- with $match -}}
+    {{- $url = .RelPermalink -}}
+  {{- else -}}
+    {{- warnf "series-image: %q sets image %q but no matching page resource was found" $page.Title . -}}
+  {{- end -}}
+{{- end -}}
+{{- $url -}}

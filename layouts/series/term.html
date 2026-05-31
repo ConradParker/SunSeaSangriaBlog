@@ -36,14 +36,10 @@
         </div>
       </div>
       <div class="series-hero-image">
-        {{- with .Params.image -}}
-          {{- $imgPath := strings.TrimPrefix "/" . -}}
-          {{- with resources.Get $imgPath -}}
-            <img src="{{ .RelPermalink }}" alt="{{ $page.Title }}" />
-            <div class="series-hero-image-overlay"></div>
-          {{- else -}}
-            <span>{{ $emoji }}</span>
-          {{- end -}}
+        {{- $heroImg := trim (partial "series-image.html" .) " " -}}
+        {{- if $heroImg -}}
+          <img src="{{ $heroImg }}" alt="{{ $page.Title }}" />
+          <div class="series-hero-image-overlay"></div>
         {{- else -}}
           <span>{{ $emoji }}</span>
         {{- end -}}
