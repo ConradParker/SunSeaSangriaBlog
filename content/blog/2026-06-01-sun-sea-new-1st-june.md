@@ -1,5 +1,5 @@
 ---
-title: "Sun Sea New 1st June "
+title: "Sun Sea News 1st June "
 date: 2026-06-01T12:20:00.000+02:00
 draft: false
 series: sun-sea-news
