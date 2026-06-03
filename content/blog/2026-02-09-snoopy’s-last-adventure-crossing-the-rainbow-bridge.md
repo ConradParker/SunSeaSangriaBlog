@@ -1,12 +1,14 @@
 ---
-title: "Snoopy’s Last Adventure: Crossing the Rainbow Bridge"
+title: "Snoopy’s Last Adventure: Crossing the Rainbow Bridge "
 date: 2026-02-09T21:29:00.000+01:00
 draft: false
-series: test-story
+series: paws-mischief
 image: /images/img_8420.jpeg
 comments: true
 socials: true
 ---
+***Chapter 7***
+
 After those really tough months, Missy finally settled into her calmer self. She still loved her little game of sneaking Snoopy’s collar off whenever we weren’t looking—pure mischief, her way of saying “you’re still my big brother.” Snoopy, growing older and quieter, spent more days napping in the sunshine or curled up in his bed.
 
 When the dementia began, it broke our hearts to see the confusion settle in—those moments when he’d pause and look around, as if searching for something he couldn’t quite place, or forget the path to his usual spot. Yet even then, his tail would give the softest wag at the sound of my voice or Missy’s gentle nudge, reminding us that love still cut through the fog.
@@ -22,7 +24,6 @@ Snoopy slipped away so gently, without pain – his breathing slowing until it b
 We still talk about Snoopy all the time, and we laugh – because he was such a lovable rogue, full of mischief and adventure right to his core. His big heart, goofy grin, and gentle spirit live on in every story we share.
 
 Goodnight, Snoopy. Until we meet again… woo woo wooooooo. 🌈🐾❤️
-
 
 **Got your own pet legend story? Share in the comments or newsletter reply – let's keep the mischief alive! 💛"**
 
