@@ -1,7 +1,7 @@
 ---
 title: Paws & Mischief
 series_id: paws-mischief
-date: 2026-01-15T10:02:00.000+01:00
+date: 2026-06-03T09:10:00.000+02:00
 draft: false
 image: paws-mischief.jpg
 weight: ""
