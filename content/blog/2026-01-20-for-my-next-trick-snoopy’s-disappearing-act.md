@@ -1,12 +1,14 @@
 ---
-title: For My Next Trick -Snoopy’s Disappearing Act
+title: For My Next Trick -Snoopy’s Disappearing Act - Chapter 5
 date: 2026-01-20T16:02:00.000+01:00
 draft: false
-series: test-story
+series: paws-mischief
 image: /images/2624.jpg
 comments: true
 socials: true
 ---
+***Chapter 5***
+
 **The Great Snoopy Vanishing Act: The Boot Edition**
 
 It started like every other school run in our little corner of the world. Snoopy, our allegedly very good dog (heavy emphasis on allegedly), trotted up to the school gates like the furry rock star he is. Kids smiled and petted him, parents grinned nervously (whispering prayers of “please no peeing on trainers today”), and he lapped up every second of the adoration with that unstoppable propeller-tail wag. Routine perfection… or so we thought.
