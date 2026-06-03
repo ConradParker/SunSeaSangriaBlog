@@ -3,7 +3,7 @@ title: Buggy Blunders & School Run Splashes Chapter 2
 date: 2026-01-15T10:55:00.000+01:00
 draft: false
 description: Snoopys Reign of Wee Terror
-series: paws-mischief
+series: ""
 image: /images/img_8418.jpeg
 comments: true
 socials: true
