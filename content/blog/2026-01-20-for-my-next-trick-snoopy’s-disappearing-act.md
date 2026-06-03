@@ -2,7 +2,7 @@
 title: For My Next Trick -Snoopy’s Disappearing Act - Chapter 5
 date: 2026-01-20T16:02:00.000+01:00
 draft: false
-series: paws-mischief
+series: ""
 image: /images/2624.jpg
 comments: true
 socials: true
