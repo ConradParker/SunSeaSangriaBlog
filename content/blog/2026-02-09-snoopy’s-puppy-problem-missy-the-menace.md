@@ -1,12 +1,14 @@
 ---
-title: "Snoopy’s Puppy Problem: Missy the Menace"
+title: "Snoopy’s Puppy Problem: Missy the Menace - Chapter 6"
 date: 2026-02-09T20:50:00.000+01:00
 draft: false
-series: test-story
+series: paws-mischief
 image: /images/whatsapp-image-2026-02-13-at-18.08.58.jpeg
 comments: true
 socials: true
 ---
+***Chapter 6***
+
 **The Real Life of Pets** \
 \
 We shared so many moments of laughter and stories with Snoopy that still bring a smile to my face whenever I think of him. As the years passed, he grew older; though he remained lively and full of spirit, a stroke one summer marked the beginning of his decline. 
