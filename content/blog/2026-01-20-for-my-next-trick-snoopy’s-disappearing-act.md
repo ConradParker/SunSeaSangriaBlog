@@ -7,7 +7,7 @@ image: /images/2624.jpg
 comments: true
 socials: true
 ---
-***Chapter 3***
+***Chapter 4***
 
 **The Great Snoopy Vanishing Act: The Boot Edition**
 
