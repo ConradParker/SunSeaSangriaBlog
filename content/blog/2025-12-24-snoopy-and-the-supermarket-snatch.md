@@ -1,12 +1,14 @@
 ---
-title: "Snoopy and the  Supermarket Snatch "
+title: Snoopy and the Supermarket Snatch - Chapter 4
 date: 2026-02-17T10:38:00.000+01:00
 draft: false
-series: test-story
+series: paws-mischief
 image: /images/whatsapp-image-2026-02-14-at-14.50.00.jpeg
 comments: true
 socials: true
 ---
+***Chapter 4***
+
 **The Great Snoopy Supermarket Snatch: The Tree-Tied Twist!**
 
 It was one of those gloriously sunny days where the sky is that impossible blue and everything feels good. I needed a few essentials from the local shop, so lead on, and off we trotted—Snoopy leading the way like the boss he always was. Tail high, nose to the ground, ready for his classic “pea on every tree” routine (because why walk past a tree without claiming it?).
