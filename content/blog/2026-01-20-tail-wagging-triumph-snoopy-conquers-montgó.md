@@ -1,11 +1,15 @@
 ---
-title: "Tail-Wagging Triumph: Snoopy Conquers Montgó "
+title: "Tail-Wagging Triumph: Snoopy Conquers Montgó Chapter 3"
 date: 2026-01-20T15:37:00.000+01:00
 draft: false
 description: ""
-series: test-story
+series: paws-mischief
 image: /images/img_8417.jpeg
+comments: true
+socials: true
 ---
+***Chapter 3***
+
  One ordinary lunchtime walk with my dog Snoopy turned into the most heart-stopping ordeal of my life—right on top of Montgó Mountain in Jávea.
 
 It was a beautiful, warm day, the kind that begs for an adventure. The sun was high, the sky a perfect royal blue, and we decided to head up to the historic windmills on the Montgó. Snoopy, as always, led the way with his lead on, full of energy and confidence, just like so many times before.
@@ -30,7 +34,7 @@ I opened it to find our neighbour standing there, holding Snoopy in his arms. Sn
 
 What? Relief hit me like a wave. The kids rushed forward, squealing with joy, wrapping their arms around him as he licked every face in reach. The house filled with laughter, barks, and pure happiness.
 
-{{< image-caption src="/images/whatsapp-image-2026-02-13-at-16.56.23.jpeg" >}}Snoopy Conquers Montgo {{< /image-caption >}}
+{{< image-caption src="/images/whatsapp-image-2026-02-13-at-16.56.23.jpeg" >}}Snoopy Conquers Montgo{{< /image-caption >}}
 
 He hadn’t got lost in the wild at all. He’d trotted down the mountain on his own, found his way to Mercadona, where, after dropping the kids off at school daily, I would pick up my shopping with him on morning walks. He simply sat there, loyal as ever, waiting for his family.
 
