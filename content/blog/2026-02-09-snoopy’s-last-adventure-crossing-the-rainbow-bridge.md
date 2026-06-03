@@ -1,5 +1,5 @@
 ---
-title: "Snoopy’s Last Adventure: Crossing the Rainbow Bridge"
+title: "Snoopy’s Last Adventure: Crossing the Rainbow Bridge - End Chapter"
 date: 2026-02-09T21:29:00.000+01:00
 draft: false
 series: paws-mischief
