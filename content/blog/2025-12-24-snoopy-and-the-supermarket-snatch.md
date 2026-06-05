@@ -2,7 +2,7 @@
 title: Snoopy and the Supermarket Snatch - Chapter 4
 date: 2026-02-17T10:38:00.000+01:00
 draft: false
-series: ""
+series: paws-and-mischief
 image: /images/whatsapp-image-2026-02-14-at-14.50.00.jpeg
 comments: true
 socials: true

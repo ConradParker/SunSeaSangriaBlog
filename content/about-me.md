@@ -28,7 +28,7 @@ This is your friendly, no-nonsense guide to real life in the Marina Alta:
 * **[Sun Sea News](https://sunseasangria.com/series/sun-sea-news/)** every* **Monday*** — what’s really happening in the Marina Alta
 * **[Sun Sea Lifestyle](https://sunseasangria.com/series/sun-sea-lifestyle/)** — the honest expat experience (the sunny wins and the everyday realities)
 * **[Red Tape & Tears](https://sunseasangria.com/series/red-tape-tears/)** — practical help with all the bureaucracy: SIP cards, TIE cards, NIE, residency, healthcare, and everything else that makes new arrivals panic. We’ve turned our hard-won knowledge into a ***free downloadable guide*** so you don’t have to learn the hard way.
-* **[Paws & Mischief](https://sunseasangria.com/series/test-story/)** — light-hearted stories inspired by my beloved Snoopy and the four-legged friends we meet along the coast
+* **[Paws & Mischief](https://sunseasangria.com/series/paws-and-mischief/)** — light-hearted stories inspired by my beloved Snoopy and the four-legged friends we meet along the coast
 * **[Hikes & Trails](https://sunseasangria.com/series/sunseatrails/)** — proper walks for the cooler months with maps and tips
 * **[Sun Sea Seekers](https://sunseasangria.com/series/sss-town-guide/)** — weekend adventures and places we think you’ll fall in love with
 * [**Sun Sea Books** ](https://sunseasangria.com/series/the-book-club/)— our little book club celebrating stories that capture the soul of Spain

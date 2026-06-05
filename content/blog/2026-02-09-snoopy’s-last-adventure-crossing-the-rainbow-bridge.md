@@ -2,7 +2,7 @@
 title: "Snoopy’s Last Adventure: Crossing the Rainbow Bridge "
 date: 2026-02-09T21:29:00.000+01:00
 draft: false
-series: paws-mischief
+series: paws-and-mischief
 image: /images/img_8420.jpeg
 comments: true
 socials: true

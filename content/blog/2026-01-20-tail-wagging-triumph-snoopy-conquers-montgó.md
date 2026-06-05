@@ -3,7 +3,7 @@ title: "Tail-Wagging Triumph: Snoopy Conquers Montgó Chapter 3"
 date: 2026-01-20T15:37:00.000+01:00
 draft: false
 description: ""
-series: ""
+series: paws-and-mischief
 image: /images/img_8417.jpeg
 comments: true
 socials: true
