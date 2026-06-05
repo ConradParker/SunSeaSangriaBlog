@@ -2,7 +2,7 @@
 title: "Sun Sea News 27 April "
 date: 2026-04-27T10:16:00.000+02:00
 draft: false
-series: through-the-looking-glass
+series: sun-sea-news
 image: /images/your-paragraph-text.jpg
 comments: true
 socials: true

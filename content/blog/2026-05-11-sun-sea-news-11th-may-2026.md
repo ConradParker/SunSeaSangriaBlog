@@ -2,7 +2,7 @@
 title: Sun Sea News 11th May 2026
 date: 2026-05-11T08:42:00.000+02:00
 draft: false
-series: through-the-looking-glass
+series: sun-sea-news
 image: /images/2nhrr.jpg
 comments: true
 socials: true

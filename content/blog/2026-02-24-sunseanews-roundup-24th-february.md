@@ -2,7 +2,7 @@
 title: "Sun Sea News Roundup 24th February "
 date: 2026-02-24T20:08:00.000+01:00
 draft: false
-series: through-the-looking-glass
+series: sun-sea-news
 image: /images/your-paragraph-text.jpg
 ---
 **Costa Blanca Weekly Roundup: February 17–24, 2026**

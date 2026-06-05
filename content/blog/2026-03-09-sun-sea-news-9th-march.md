@@ -2,7 +2,7 @@
 title: "Sun Sea News 9th March "
 date: 2026-03-09T10:26:00.000+01:00
 draft: false
-series: through-the-looking-glass
+series: sun-sea-news
 image: /images/your-paragraph-text.jpg
 comments: true
 socials: true

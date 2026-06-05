@@ -25,7 +25,7 @@ Now I’ve turned that long-held dream into reality by relaunching **[sunseasang
 This is your friendly, no-nonsense guide to real life in the Marina Alta:
 
 * **[Sun Sea Foodie](https://sunseasangria.com/series/sun-sea-foodie/)** — local recipes, tapas bars, sangria pairings, market secrets and all the best places to eat like a local
-* **[Sun Sea News](https://sunseasangria.com/series/through-the-looking-glass/)** every* **Monday*** — what’s really happening in the Marina Alta
+* **[Sun Sea News](https://sunseasangria.com/series/sun-sea-news/)** every* **Monday*** — what’s really happening in the Marina Alta
 * **[Sun Sea Lifestyle](https://sunseasangria.com/series/sun-sea-lifestyle/)** — the honest expat experience (the sunny wins and the everyday realities)
 * **[Red Tape & Tears](https://sunseasangria.com/series/red-tape-tears/)** — practical help with all the bureaucracy: SIP cards, TIE cards, NIE, residency, healthcare, and everything else that makes new arrivals panic. We’ve turned our hard-won knowledge into a ***free downloadable guide*** so you don’t have to learn the hard way.
 * **[Paws & Mischief](https://sunseasangria.com/series/test-story/)** — light-hearted stories inspired by my beloved Snoopy and the four-legged friends we meet along the coast
