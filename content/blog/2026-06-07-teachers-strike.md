@@ -1,29 +1,29 @@
 ---
-title: "Teachers Strike "
-date: 2026-06-07T11:23:00.000+02:00
+title: The Teachers’ Strike Hitting Home in Calpe & Benissa 🌊🍷
+date: 2026-06-08T08:50:00.000+02:00
 draft: true
 series: sun-sea-lifestyle/_index
 comments: true
 socials: true
 popular: true
 ---
-**🌞 SunSeaSangria Blog – The Teachers’ Strike Hitting Home in Calpe & Benissa 🌊🍷**
 
-*Straight-from-the-terrace thoughts on life, schools, and keeping the North coast spirit strong even when things get bumpy.*
 
-¡Hola familia! Come sit with me on the balcony with a fresh lemonade or whatever cools you down best. Here on the Costa Blanca North, we’re usually all about those golden sunsets, beach days, and easy rhythms. But lately, the school gates in places like Calpe and Benissa have been quieter than usual, and it’s weighing on a lot of us parents. If you’ve got kids in public schools around here, you’ll know exactly what I mean. My son James has been stressed, glued to the Familia app hoping for updates, and worrying whether he’s done enough this year. Let’s unpack what’s happening in our own words. 
+***Straight-from-the-terrace thoughts on life, schools, and keeping the North coast spirit strong even when things get bumpy.***
+
+¡Hola, familia! Sit with me on the balcony with a fresh lemonade or whatever cools you down best. Here on the Costa Blanca North, we’re usually all about those golden sunsets, beach days, and easy rhythms. But lately, the school gates in places like Calpe and Benissa have been quieter than usual, and it’s weighing on a lot of us parents. If you’ve got kids in public schools around here, you’ll know exactly what I mean. My son James has been stressed, glued to the Familia app, hoping for updates, and worrying whether he’s done enough this year. Let’s unpack what’s happening in our own words. 
 
 **How It All Began**
 
-This indefinite teachers’ strike kicked off on **Monday 11th May 2026** across the whole Valencian Community – the first big one of its kind in decades. From Dénia down through our local spots in Calpe, Benissa, and the wider Marina Alta, teachers walked out in big numbers. Unions reported really high participation at the start, and even official figures showed it was significant. It’s been rolling for weeks now, with green waves of protests filling streets in Alicante, Valencia, and beyond. 
+This indefinite teachers’ strike kicked off on **Monday, 11th May 2026,** across the entire Valencian Community – the first of its kind in decades. From Dénia down through our local spots in Calpe, Benissa, and the wider Marina Alta, teachers walked out in big numbers. Unions reported really high participation at the start, and even official figures showed it was significant. It’s been rolling for weeks now, with green waves of protests filling streets in Alicante, Valencia, and beyond. 
 
 **What Teachers Are Asking For**
 
-It’s not one single issue – it’s a build-up. Better pay that actually matches the cost of living, smaller classes so kids get more attention, extra support for students who need it, and fair resources for teaching in Valencian alongside Spanish. Many local teaches say they’re passionate about the classroom but feel the system has been stretched too thin for years. They’re not striking against the kids; they’re pushing for a stronger public education that works better for everyone long-term.
+It’s not one single issue – it’s a build-up. Better pay that actually matches the cost of living, smaller classes so kids get more attention, extra support for students who need it, and fair resources for teaching in Valencian alongside Spanish. Many local teachers say they’re passionate about the classroom but feel the system has been stretched too thin for years. They’re not striking against the kids; they’re pushing for a stronger public education that works better for everyone long-term.
 
 **Where Talks Stand Right Now (Early June Update)**
 
-We’re well into the fourth week or more, and it’s still going. There have been big marches, some teachers even camping out in city squares to keep the pressure on. The regional education department called fresh negotiation meetings recently – including one around 5th-6th June – but unions say the offers so far haven’t gone far enough. Plenty of determination on both sides, with warnings that this could stretch into the new school year if things don’t move. Minimum services are keeping some essential bits running, especially around exams, but it’s been inconsistent. 
+We’re well into the fourth week or more, and it’s still going. There have been big marches, and some teachers even camped out in city squares to keep the pressure on. The regional education department called fresh negotiation meetings recently – including one around 5th-6th June – but unions say the offers so far haven’t gone far enough. Plenty of determination on both sides, with warnings that this could stretch into the new school year if things don’t move. Minimum services are keeping some essential bits running, especially around exams, but it’s been inconsistent. 
 
 **The Real Impact on Families Like Ours**
 
@@ -47,6 +47,6 @@ We’ll keep following developments and share any fresh updates that matter loca
 
 What’s been your experience in Calpe, Benissa, or nearby schools? Share your thoughts below – we’re stronger together.
 
-**¡Fuerza, sol, mar, y una educación pública de calidad para todos!** 🍹🏖️📚
+**¡Fuerza, sol, mar y una educación pública de calidad para todos!** 🍹🏖️📚
 
 *SunSeaSangria – Keeping it real and supportive on the Costa Blanca North.*
