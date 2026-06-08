@@ -1,7 +1,7 @@
 ---
 title: "Sun Sea News - 8th June "
 date: 2026-06-08T09:08:00.000+02:00
-draft: true
+draft: false
 image: /images/sun-sea-news.jpg
 comments: true
 socials: true
