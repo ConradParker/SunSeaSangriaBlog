@@ -1,41 +1,53 @@
 ---
 title: "Sun Sea News - 8th June "
-date: 2026-06-08T09:00:00.000+02:00
+date: 2026-06-08T09:08:00.000+02:00
 draft: true
+image: /images/sun-sea-news.jpg
 comments: true
 socials: true
-popular: false
+popular: true
 ---
-**🌞 SunSeaSangria News – Sunday 8th June 2026 Edition 🌊🍷**
+**Sun Sea News – Monday 8 June 2026** ☀️🍹
 
-*Your laid-back local lowdown on Costa Blanca North – where the sea sparkles, the sangria chills, and every day feels like a mini fiesta.*
+Hola from the terrace, Terrace Crew!
 
-¡Hola familia! Pull up a chair under the pergola, kick off those flip-flops, and pour yourself a proper tinto de verano. We’re riding that sweet early-summer wave up here on the North coast, with the Marina Alta humming from Dénia’s ports right down to Altea’s whitewashed streets. Long golden evenings, salty air, and that unmistakable feeling that proper summer has landed early. 
+Pull up a chair and grab something cold. It’s been another lovely week in the Marina Alta — the sun is shining, the days are stretching out, and summer is properly settling in.
 
-**🔥 Weather Vibes**
+**The teachers’ strike hits home.**
 
-Proper heatwave territory this week – July temps crashing the June party with daytime highs pushing low-to-mid 30s and those warm tropical nights that keep the terraces buzzing till late. “It caught me out,” laughs local expat Maria in Javea. “Still had my jumpers out from that weird spring, but now it’s full beach mode from breakfast onwards!” Hydrate, chase the shade midday, and save your energy for those magical sunset swims or aperitivo hours. 
+The ongoing indefinite strike by public school teachers across the Valencian Community continues to affect families right across Calpe, Benissa, Dénia, Javea and the rest of the Marina Alta. Participation has been strong, with many schools running on minimum services. Teachers are calling for better pay, smaller class sizes, and real support for students. It’s a tough situation for everyone — parents, teachers, and kids alike. We’ll keep following developments closely and bring you the latest as it happens.
 
-**🏖️ Voices from the North Coast**
+{{< image-caption src="/images/the-teachers’-strike-hitting-home-in-calpe-benissa.png" >}}Teaches Strike {{< /image-caption >}}
 
-•  **Moraira’s Fiesta Fire**: The town’s been alive with Moros y Cristianos energy all week. The Conquista Mora on the 12th, Reconquista on the 13th, and that massive Desfile de Gala on the 14th are pulling crowds from everywhere. “You feel the history in your bones with the costumes, the horses, the fireworks over the bay,” says local bar owner Paco. “Best way to kick off summer – come join us, it’s electric!” Medieval markets, beach battles, and pure cultural buzz have everyone smiling. 
+**Weather – summer arrived early**
 
-•  **Altea Blues Magic**: The old town is swinging to live riffs with the Altea Blues Festival in full flow. Blue Chiefs Trio, Rey Pereira Blues Explosion, and more turning Plaça de l’Aigua into a soulful open-air stage by the sea. “The music hits different here with the Mediterranean as the backdrop,” shares longtime resident and musician Elena. “You leave feeling lighter, like the blues washed the week away.” Catch the remaining dates – pure North coast soul. 
+We’ve had a properly warm week with temperatures often in the late 20s and low 30s. The sea has warmed up beautifully (around 21–22°C now) and those long golden evenings are back in full force. The talk of a strong Super Niño feels very real — we’re in for a hotter and drier than average summer. The next few days look settled and sunny, so remember the sun cream and stay hydrated.
 
-•  **Calpe’s Summer Programme**: The “Calpe Te Ofrece” calendar is packed with concerts, Zumba by the sea, guided tours around the Peñón, theatre, and family fun. Locals say it’s keeping the vibe high ahead of San Juan bonfires. “Every evening there’s something – it makes you feel part of the community even in peak season,” notes Calpe resident Javier.
+**Fiesta season is waking up.**
 
-•  **Dénia Beach Glow**: Improvements along the beaches are making towel time even better as peak season builds. “The sand and facilities look fresh – perfect for our long family days,” says beach regular Sofia from the port area. Dénia’s gearing up nicely for its own summer fiestas too.
+Great news for those who love the traditional celebrations — Moraira has officially kicked off its **Moros y Cristianos** festivities (running until 14 June). There’s already been a medieval market, marching bands, and concerts, with the big Conquista Mora on the 12th, Reconquista Cristiana on the 13th, and the spectacular Gala Parade on the 14th. The bunting is up, and the town is buzzing!
 
-**🚨 Around the North**
+{{< image-caption src="/images/480785077_10160337799851642_2133376179380167001_n.jpg" >}}The Summer is Waking Up {{< /image-caption >}}
 
-Property chats are everywhere – limited supply in spots like Moraira and Javea keeping things premium, with expats loving the year-round community feel. Standard summer reminders on keeping an eye on belongings amid the crowds, plus plenty of buzz around rental regs and long-term living options. Hogueras de San Juan bonfires are building momentum coast-wide for mid-month magic. 
+**Other local bits**
 
-**💡 SunSeaSangria Tip of the Week**
+* Calpe has released its full summer events calendar — plenty of music, markets and beach activities coming up.
+* There was a brilliant turnout for the Circuit à Peu running event in La Xara at the weekend.
+* Dénia has launched a new volunteer campaign for whale watching — always exciting when the marine life shows up off our coast.
+* Beaches are looking gorgeous and starting to fill gently with early holidaymakers.
 
-Listen to the locals: “Market in the morning, long lunch with whatever the boat brought in, siesta or shady plaza chat, then golden hour paseo,” advises Dénia local Carlos. That’s the rhythm that makes life here special – slow, connected, and full of flavour.
+**Terrace tip of the week**
 
-That’s your fresh North coast roundup – real voices, real vibes. Whether you’re dancing at a Moraira parade, swaying to blues in Altea, or hunting the perfect cove in Javea, this stretch delivers every time.
+Early mornings and late afternoons are still the sweetest times for walks, hikes or getting things done. The light is just beautiful right now.
 
-What’s your highlight this week – fiesta chaos, blues nights, or a quiet beach day? Share below! Until next Sunday… **¡Sol, mar, y buena gente!** 🍹🏖️
+How’s everything feeling in your corner of the Marina Alta? Dealing with school strike chaos, heading down to the Moraira fiestas, or just soaking up these warm evenings? Drop a comment below — I genuinely love hearing your stories.
 
-*SunSeaSangria – Keeping the North coast spirit alive.*
+Until next Monday… keep it slow, keep it sunny, and don’t forget the ice in the sangria.
+
+**¡Salud, mis amigos!**
+
+Joanne
+
+Sun Sea Sangria
+
+[www.sunseasangria.com](http://www.sunseasangria.com)
