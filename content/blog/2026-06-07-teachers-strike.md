@@ -3,6 +3,7 @@ title: The Teachers’ Strike Hitting Home in Calpe & Benissa 🌊🍷
 date: 2026-06-08T08:50:00.000+02:00
 draft: true
 series: sun-sea-lifestyle/_index
+image: /images/the-teachers’-strike-hitting-home-in-calpe-benissa.png
 comments: true
 socials: true
 popular: true
@@ -21,6 +22,8 @@ This indefinite teachers’ strike kicked off on **Monday, 11th May 2026,** acro
 
 It’s not one single issue – it’s a build-up. Better pay that actually matches the cost of living, smaller classes so kids get more attention, extra support for students who need it, and fair resources for teaching in Valencian alongside Spanish. Many local teachers say they’re passionate about the classroom but feel the system has been stretched too thin for years. They’re not striking against the kids; they’re pushing for a stronger public education that works better for everyone long-term.
 
+{{< image-caption src="/images/the-teachers’-strike-hitting-home-in-calpe-benissa-1-.png" >}}{{< /image-caption >}}
+
 **Where Talks Stand Right Now (Early June Update)**
 
 We’re well into the fourth week or more, and it’s still going. There have been big marches, and some teachers even camped out in city squares to keep the pressure on. The regional education department called fresh negotiation meetings recently – including one around 5th-6th June – but unions say the offers so far haven’t gone far enough. Plenty of determination on both sides, with warnings that this could stretch into the new school year if things don’t move. Minimum services are keeping some essential bits running, especially around exams, but it’s been inconsistent. 
@@ -30,6 +33,8 @@ We’re well into the fourth week or more, and it’s still going. There have be
 This has hit home hard for the children. James and his classmates have faced disrupted lessons, postponed bits of assessment, and patchy communication. The Familia web app has had a few official messages from teachers, but nothing like the usual flow – it leaves everyone guessing. He’s been anxious, wondering if he’s covered the material well enough and whether he’ll “pass” into the next stage. It’s the same story for many families in Calpe and Benissa: worried teens checking apps obsessively, parents juggling work and trying to reassure them. End-of-year evaluations and prep for next year have felt the strain, even with safeguards for key exam periods. 
 
 It’s emotional watching them carry this uncertainty when they’ve put in the effort all year. Teachers feel it too – many have said publicly they hate the disruption but see no other way to highlight the bigger problems.
+
+{{< image-caption src="/images/the-teachers’-strike-hitting-home-in-calpe-benissa-2-.png" >}}{{< /image-caption >}}
 
 **What’s Likely for September and the New Term?**
 
