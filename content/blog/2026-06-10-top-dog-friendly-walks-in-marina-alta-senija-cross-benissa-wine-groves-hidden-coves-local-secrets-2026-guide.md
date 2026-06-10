@@ -76,7 +76,7 @@ Other strong contenders:
 * **Sierra Bernia ridge paths** — for fitter dogs and humans, with epic views.
 * **Inland village circuits** around Jesús Pobre or Gata de Gorgos — flatter, shaded, and great for people-watching pups.
 
-{{< image-caption src="/images/468304376_10159990660391642_2329545972928164658_n.jpg" >}}Nice to stop and have a break {{< /image-caption >}}
+{{< image-caption src="/images/_mg_5789.jpg" >}}Just Walking the Dog{{< /image-caption >}}
 
 **Practical Dog-Walking Tips for Marina Alta Expats**
 
