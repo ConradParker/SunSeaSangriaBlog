@@ -20,9 +20,7 @@ We’ve walked these trails through every season, learning the hard way about mi
 
 Here’s our updated 2026 list of favourite dog-friendly walks in the Marina Alta. All accessible from the north coast (Dénia, Jávea, Moraira, Benissa, Calpe area), doable in a few hours, and perfect for building that slow, joyful expat rhythm.
 
-{{< image-caption src="/images/54518626_10155745709601642_8671203847210795008_n.jpg" >}}Snoopy & Missy Granadella {{< /image-caption >}}
-
-
+{{< image-caption src="/images/54518626_10155745709601642_8671203847210795008_n.jpg" >}}Snoopy & Missy Granadella{{< /image-caption >}}
 
 **1. The Senija Cross Walk – Peaceful Village Views & Gentle Hills**
 
@@ -77,6 +75,8 @@ Other strong contenders:
 * **Montgó Natural Park lower loops** (Dénia/Jávea side) — big skies, varied terrain, and room to roam.
 * **Sierra Bernia ridge paths** — for fitter dogs and humans, with epic views.
 * **Inland village circuits** around Jesús Pobre or Gata de Gorgos — flatter, shaded, and great for people-watching pups.
+
+{{< image-caption src="/images/468304376_10159990660391642_2329545972928164658_n.jpg" >}}Nice to stop and have a break {{< /image-caption >}}
 
 **Practical Dog-Walking Tips for Marina Alta Expats**
 
