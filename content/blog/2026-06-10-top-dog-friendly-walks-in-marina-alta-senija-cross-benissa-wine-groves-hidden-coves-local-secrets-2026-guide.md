@@ -1,6 +1,6 @@
 ---
-title: "Top Dog-Friendly Walks in Marina Alta: Senija Cross, Benissa Wine
-  Groves, Hidden Coves & Local Secrets (2026 Guide)"
+title: "Top Dog-Friendly Walks in Marina Alta: Senija Cross, Benissa Wine Groves
+  (2026 Guide)"
 date: 2026-06-10T09:04:00.000+02:00
 draft: false
 description: Top dog-friendly walks in Marina Alta, Costa Blanca North — from
