@@ -1,5 +1,5 @@
 ---
-title: "Sun Sea News June 15th "
+title: Sun Sea New June 15
 date: 2026-06-15T08:00:00.000+02:00
 draft: false
 description: Local Marina Alta news — teachers temporarily suspend strike,
@@ -17,7 +17,7 @@ Happy Monday! Let’s catch up on the latest happenings across the Marina Alta, 
 
 We’ve had a nice stretch of cooler days, but proper summer heat is arriving this week. The sea is warming beautifully, and the whole region is shifting into full summer mode.
 
-{{< image-caption src="/images/les-bassetes-marina-benissa.jpeg" >}}Les Bassetes Benissa{{< /image-caption >}}
+{{< image-caption src="/images/les-bassetes-marina-benissa.jpeg" >}}Les Bassetes Benissa (Club Nautica){{< /image-caption >}}
 
 **This Week in the Marina Alta (Denia to Calpe & Beyond)**
 
@@ -35,7 +35,6 @@ If you’re looking to get outdoors with the pups (or yourself) before the real 
 From the peaceful Senija Cross (with surprise Ibiza views on clear days) to Benissa wine groves, dramatic Granadella cliffs & hidden coves, and more — complete with practical tips and Snoopy stories.
 
 👉[ **Read the full guide here**](https://sunseasangria.netlify.app/blog/2026-06-10-top-dog-friendly-walks-in-marina-alta-senija-cross-benissa-wine-groves-hidden-coves-local-secrets-2026-guide/)
-
 
 **Quick Reminder**
 
