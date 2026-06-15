@@ -28,13 +28,7 @@ We’ve had a nice stretch of cooler days, but proper summer heat is arriving th
 * **Sport & summer activities:** The Marina Alta Open Water Circuit starts soon with six events, beginning with the “Entre Cales” crossing in Benissa on 15 June. There are also new swimming courses starting in Teulada-Moraira and guided meditations returning in Benitatxell for conscious summer wellbeing.
 * **Beaches & tourism prep:** Dénia continues major clean-ups ahead of peak season, and the Marina Alta is flying a strong number of Blue Flags again this year across Denia, Calpe, Benissa, and surrounding areas.
 
-**New on the Blog**
 
-If you’re looking to get outdoors with the pups (or yourself) before the real heat settles in, our new **2026 guide to the best dog-friendly walks in Marina Alta** is now live.
-
-From the peaceful Senija Cross (with surprise Ibiza views on clear days) to Benissa wine groves, dramatic Granadella cliffs & hidden coves, and more — complete with practical tips and Snoopy stories.
-
-👉[ **Read the full guide here**](https://sunseasangria.netlify.app/blog/2026-06-10-top-dog-friendly-walks-in-marina-alta-senija-cross-benissa-wine-groves-hidden-coves-local-secrets-2026-guide/)
 
 **Quick Reminder**
 
