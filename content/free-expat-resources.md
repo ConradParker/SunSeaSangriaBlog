@@ -16,6 +16,10 @@ I’ve created these helpful guides to make your move to (or holiday in) **Costa
 
 **📥** [Sun Sea Sangria Free Expat Starter Guide 2026](https://drive.google.com/file/d/1u1xR3Qj80TBnK4-p3lQnHfaPOKHeE2Kg/view?usp=drive_link)
 
+
+
+
+
 **Important Note: All** information in these guides is up to date as of **May 2026**. However, rules and procedures (especially with paperwork) can change. Please always double-check with official sources, your local Town Hall, or a gestor before taking any action.
 
 These are here to help and guide you — not replace official advice.
