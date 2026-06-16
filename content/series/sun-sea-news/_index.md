@@ -1,9 +1,10 @@
 ---
-title: Sun Sea News
-series_id: sun-sea-news
-date: 2026-02-05T08:57:00.000+01:00
 draft: false
-image: sun-sea-news.jpg
+series_id: sun-sea-news
+title: Sun Sea News
+date: 2026-02-05T08:57:00.000+01:00
+image: sun-sea-news-2-.jpg
+weight: 10
 menu_weight: ""
 nav_emoji: 📰
 nav_desc: Weekly Costa Blanca updates
