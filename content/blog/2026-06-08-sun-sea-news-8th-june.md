@@ -1,5 +1,5 @@
 ---
-title: Moraira Fiesta Guide & School Strike Updates | Costa Blanca North News
+title: Teacher Strike Updates | Costa Blanca North News (Sun Sea News - 8th June)
 date: 2026-06-08T09:08:00.000+02:00
 draft: false
 description: Sun Sea News - 8th June
