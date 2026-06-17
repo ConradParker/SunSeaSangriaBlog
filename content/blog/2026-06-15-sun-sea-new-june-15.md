@@ -1,5 +1,5 @@
 ---
-title: Sun Sea New June 15
+title: Beaches & tourism, Costa Blanca North News (Sun Sea News - 15th June)
 date: 2026-06-15T08:00:00.000+02:00
 draft: false
 description: Local Marina Alta news — teachers temporarily suspend strike,
