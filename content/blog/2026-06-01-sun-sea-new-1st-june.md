@@ -1,8 +1,9 @@
 ---
-title: "Sun Sea News 1st June "
+title: Property Market Still Strong - Costa Blanca North News (Sun Sea News -
+  1st June)
 date: 2026-06-01T12:20:00.000+02:00
 draft: false
-series: sun-sea-news
+series: sun-sea-news/_index
 image: /images/sun-sea-sangria-calpe-7-.jpeg
 comments: true
 socials: true
