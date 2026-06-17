@@ -1,5 +1,6 @@
 ---
-title: The Teachers’ Strike Hitting Home in Calpe & Benissa 🌊🍷
+title: "Calpe and Benissa School Strikes: Dates, Closures, and What Local
+  Parents Need to Know "
 date: 2026-06-08T08:50:00.000+02:00
 draft: false
 series: sun-sea-lifestyle/_index
