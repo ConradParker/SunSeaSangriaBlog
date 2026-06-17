@@ -1,6 +1,7 @@
 ---
-title: The Teachers’ Strike Hitting Home in Calpe & Benissa 🌊🍷
-date: 2026-06-08T08:50:00.000+02:00
+title: "Calpe and Benissa School Strikes: Dates, Closures, and What Local
+  Parents Need to Know "
+date: 2026-06-17T10:18:00.000+02:00
 draft: false
 series: sun-sea-lifestyle/_index
 image: /images/the-teachers’-strike-hitting-home-in-calpe-benissa.png
@@ -8,50 +9,70 @@ comments: true
 socials: true
 popular: true
 ---
+**The Teachers’ Strike Hitting Home in Calpe & Benissa, and Marina Alta**
 
+Hola Terrace Crew,
 
-***Straight-from-the-terrace thoughts on life, schools, and keeping the North coast spirit strong even when things get bumpy.***
+It’s been a tough few weeks for a lot of families here on the north coast. The teachers’ strike across the Valencian Community has been running since mid-May, and it’s starting to affect daily life in places like Calpe and Benissa more than we first expected.
 
-¡Hola, familia! Sit with me on the balcony with a fresh lemonade or whatever cools you down best. Here on the Costa Blanca North, we’re usually all about those golden sunsets, beach days, and easy rhythms. But lately, the school gates in places like Calpe and Benissa have been quieter than usual, and it’s weighing on a lot of us parents. If you’ve got kids in public schools around here, you’ll know exactly what I mean. My son James has been stressed, glued to the Familia app, hoping for updates, and worrying whether he’s done enough this year. Let’s unpack what’s happening in our own words. 
+My son James has been checking the **Familia** app almost every day, hoping for some clarity on what’s happening with his classes. Like a lot of kids, he’s worried about falling behind, even though we keep telling him it’s not his fault.
 
 **How It All Began**
 
-This indefinite teachers’ strike kicked off on **Monday, 11th May 2026,** across the entire Valencian Community – the first of its kind in decades. From Dénia down through our local spots in Calpe, Benissa, and the wider Marina Alta, teachers walked out in big numbers. Unions reported really high participation at the start, and even official figures showed it was significant. It’s been rolling for weeks now, with green waves of protests filling streets in Alicante, Valencia, and beyond. 
+The indefinite strike started on **Monday, 11th May 2026**. Teachers across the region, including here in the Marina Alta, walked out over pay, class sizes, and resources. Participation has been high, and there have been regular protests in Alicante and Valencia.
 
 **What Teachers Are Asking For**
 
-It’s not one single issue – it’s a build-up. Better pay that actually matches the cost of living, smaller classes so kids get more attention, extra support for students who need it, and fair resources for teaching in Valencian alongside Spanish. Many local teachers say they’re passionate about the classroom but feel the system has been stretched too thin for years. They’re not striking against the kids; they’re pushing for a stronger public education that works better for everyone long-term.
+Teachers are pushing for better pay that reflects the rising cost of living, smaller class sizes, more support staff, and fairer conditions for teaching both Valencian and Spanish. A lot of them have said they don’t want to strike, but they feel the system has been stretched too thin for too long.
+
+
+
 
 {{< image-caption src="/images/the-teachers’-strike-hitting-home-in-calpe-benissa-1-.png" >}}{{< /image-caption >}}
 
 **Where Talks Stand Right Now (Early June Update)**
 
-We’re well into the fourth week or more, and it’s still going. There have been big marches, and some teachers even camped out in city squares to keep the pressure on. The regional education department called fresh negotiation meetings recently – including one around 5th-6th June – but unions say the offers so far haven’t gone far enough. Plenty of determination on both sides, with warnings that this could stretch into the new school year if things don’t move. Minimum services are keeping some essential bits running, especially around exams, but it’s been inconsistent. 
+By early June, negotiations between the unions and the regional education department were still ongoing. The latest offers were rejected as not going far enough. Some schools have been running with minimum services, especially around exam periods, but it’s been patchy. There’s growing concern that if nothing is resolved before summer, the strike could roll into the new school year.
 
-**The Real Impact on Families Like Ours**
+**Latest Update – Mid June**
 
-This has hit home hard for the children. James and his classmates have faced disrupted lessons, postponed bits of assessment, and patchy communication. The Familia web app has had a few official messages from teachers, but nothing like the usual flow – it leaves everyone guessing. He’s been anxious, wondering if he’s covered the material well enough and whether he’ll “pass” into the next stage. It’s the same story for many families in Calpe and Benissa: worried teens checking apps obsessively, parents juggling work and trying to reassure them. End-of-year evaluations and prep for next year have felt the strain, even with safeguards for key exam periods. 
+As of mid-June, there hasn’t been a major breakthrough. Talks are still happening, but unions have said they’re not seeing enough movement on the key issues. Some schools have managed to keep a bit more normality than others, but many parents are reporting that their children are still missing lessons or having work sent home inconsistently.
 
-It’s emotional watching them carry this uncertainty when they’ve put in the effort all year. Teachers feel it too – many have said publicly they hate the disruption but see no other way to highlight the bigger problems.
+There’s also talk among unions about what action might look like after the summer if no agreement is reached. For now, most schools are trying to finish the term as best they can, but a lot of families are already thinking ahead to September and what that might bring.
+
+Locally, parent groups and AMPAs in Calpe and Benissa have been sharing information and trying to support each other. It’s been helpful, even if it doesn’t fix the bigger problems.
+
+
+
 
 {{< image-caption src="/images/the-teachers’-strike-hitting-home-in-calpe-benissa-2-.png" >}}{{< /image-caption >}}
 
-**What’s Likely for September and the New Term?**
+**The Real Impact on Families Like Ours**
 
-This is the question buzzing in every parent WhatsApp group and school pickup chat. If no solid agreement lands before summer break, the strike could pick up again or cause ripples at the start of the new year. Schools will naturally try to catch up and stabilise things, but it might mean some adjusted schedules or extra focus on priority areas early on. There’s real hope that talks will deliver progress over the coming weeks, especially with everyone feeling the pressure to settle before the holidays fully hit. Local AMPAs and parent networks are great for the latest school-specific info.
+For many of us, the biggest issue isn’t just the missed lessons — it’s the uncertainty. Kids like James are anxious about whether they’ll be ready for the next year. Parents are stuck trying to fill in the gaps while also dealing with their own work and stress.
+
+It’s been hard on teachers too. Most of them don’t want to cause disruption, but they’re fighting for better conditions.
+
+**What’s Likely for September?**
+
+If there’s no deal over the summer, the strike may resume or affect the start of the new term. Some schools may try to adjust timetables or catch-up plans, but it’s still unclear how that would work in practice.
+
+For now, the best thing many of us can do is stay in touch with our children’s schools and local parent networks. They often have the most up-to-date information for each specific school.
 
 **A Bit of North Coast Perspective**
 
-Here in Calpe and Benissa, we’re a tight-knit bunch. The strike reminds us how much we value good education alongside our sunny lifestyle. It’s tough right now, but communities are supporting each other – sharing resources, offering study help, and keeping spirits up with beach time or terrace chats.
+Around Calpe and Benissa, people have been trying to keep things as normal as possible. Some parents have been organising small study groups or sharing resources. Others have been using the extra time at home to do more practical things with their kids — trips to the market, walks along the coast, or just slowing down a bit.
 
-**SunSeaSangria Advice from One Parent to Another**
+**Sun Sea Sangria Advice from One Parent to Another**
 
-Talk it through with your kids openly, like James and I have over ice cream by the sea. Limit the constant app refreshing, encourage breaks, and focus on what they *have* achieved. Use this time for some real-world learning – market visits for languages, swimming for confidence, or just exploring our beautiful coast. The teachers are fighting for the same quality education we all want for our children.
+If your child is feeling anxious about school right now, try to keep conversations open but light. Limit how often you check the **Familia** app in front of them, and focus on what they *have* managed to do rather than what’s been missed.
 
-We’ll keep following developments and share any fresh updates that matter locally. Hang in there, families – this coast has a way of turning challenges into stronger tomorrows.
+This extra time at home can also be used for real-world learning. A trip to the beach or a local hike can sometimes teach more than a missed lesson.
 
-What’s been your experience in Calpe, Benissa, or nearby schools? Share your thoughts below – we’re stronger together.
+Teachers are fighting for better education for our kids. It’s not an easy situation for anyone, but keeping perspective and supporting each other locally helps.
 
-**¡Fuerza, sol, mar y una educación pública de calidad para todos!** 🍹🏖️📚
+I’ll keep sharing updates here as things develop. In the meantime, look after yourselves and each other.
 
-*SunSeaSangria – Keeping it real and supportive on the Costa Blanca North.*
+¡Fuerza, sol, mar y una educación pública de calidad para todos! 🍹🏖️📚
+
+— Joanne
