@@ -71,4 +71,10 @@ Salud and see you on the coast,
 
 Joanne
 
+
+
+*"Joanne Maddison has called the Costa Blanca North home for over 14 years. With extensive experience managing properties in Javea and Cumbre del Sol, she founded SunSeaSangria.com to share the real day-to-day life, practical tips, and local know-how that actually helps expats and holidaymakers settle in and enjoy this corner of Spain."*
+
+
+
 {{< image-caption src="/images/sun-sea-sangria-denia-124-.webp" >}}{{< /image-caption >}}
