@@ -72,3 +72,7 @@ What's your favourite thing about Denia so far, or what are you most looking for
 Salud and see you on the coast,
 
 Joanne
+
+
+
+{{< image-caption src="/images/sun-sea-sangria-denia-124-.webp" >}}{{< /image-caption >}}
