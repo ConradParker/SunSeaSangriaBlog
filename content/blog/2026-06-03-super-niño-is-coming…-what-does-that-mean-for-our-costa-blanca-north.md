@@ -2,13 +2,14 @@
 title: Super Niño is Coming… What Does That Mean for Our Costa Blanca North?
 date: 2026-06-03T08:02:00.000+02:00
 draft: false
-series: sun-sea-lifestyle
+description: Super Niño is Coming… What Does That Mean for Our Costa Blanca North?
+series: sun-sea-lifestyle/_index
 image: /images/aedvs.jpg
 comments: false
 socials: true
 popular: true
 ---
-**Super Niño is Coming… What Does That Mean for Our Costa Blanca North?**
+
 
 Hola from the terrace!
 
@@ -23,8 +24,6 @@ Should we be more mindful? Maybe. Let’s break it down the real way with the la
 El Niño is a natural climate pattern where the Pacific Ocean gets significantly warmer than usual. When it’s a **Super Niño**, that warming is extra strong. Scientists are currently giving it a high chance of developing strongly through late 2026 and into 2027.
 
 For us on the Costa Blanca North, it doesn’t mean we’ll suddenly get tropical storms (we’re not that lucky), but it does tilt the odds on our weather.
-
-
 
 {{< image-caption src="/images/super.png" >}}Super El Nino Costa Blanca North?{{< /image-caption >}}
 
@@ -67,8 +66,6 @@ A bit more winter rain would be very welcome after some recent dry years. And le
 * Prepare your home for stronger heat (good shutters, fans, outdoor shading)
 * Support local farmers where you can
 * Keep enjoying the incredible winters and shoulder seasons here — they might be even lovelier.
-
-
 
 We’ll be keeping a close eye on any solid updates about this and will share them with you in plain English (with the usual side of sangria wisdom) in future posts and our **Sun Sea News** every Monday.
 
