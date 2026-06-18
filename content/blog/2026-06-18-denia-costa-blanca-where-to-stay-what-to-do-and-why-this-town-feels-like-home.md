@@ -34,9 +34,7 @@ For longer stays or remote workers, villas and fincas a short drive inland give 
 
 **Pro tip:** Book something with a proper terrace or balcony. Mornings with coffee, looking towards the sea (or the Montgó mountain), make all the difference here.
 
-
-
-{{< image-caption src="/images/20260525_105500.jpg" >}}I always find the Sangria{{< /image-caption >}}
+{{< image-caption src="/images/sun-sea-sangria-denia-bars.jpg" >}}I always find the Sangria{{< /image-caption >}}
 
 **What to Do in Denia — Boots-on-the-Ground Ideas**
 
@@ -51,8 +49,6 @@ Market days are Tuesday and Friday — brilliant for fresh produce, local honey,
 For days out, the natural park around Montgó is right there for hikes with proper sea views. Or take the little road out to Las Rotas for rocky coves perfect for snorkelling. If you're into water sports, the bay is well sheltered, and there are places to hire kayaks or paddleboards.
 
 Evenings in Denia are simple and good. Find a spot with sangria or local wine, watch the light change over the water, and just let the day slow down. That's the rhythm here.
-
-
 
 {{< image-caption src="/images/img_8575.jpeg" >}}Els Magazinos - Street Food{{< /image-caption >}}
 
