@@ -1,5 +1,5 @@
 ---
-title: Sharks in the Marina Alta? The Real Story Before You Jump In This Summer
+title: "Sharks in the Mediterranean: What It Means for Costa Blanca Swimmers"
 date: 2026-06-15T09:25:00.000+02:00
 draft: false
 description: Sharks in the Marina Alta? The honest local guide to safe swimming
