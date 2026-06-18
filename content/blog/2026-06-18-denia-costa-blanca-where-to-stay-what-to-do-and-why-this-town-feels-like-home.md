@@ -34,7 +34,11 @@ For longer stays or remote workers, villas and fincas a short drive inland give 
 
 **Pro tip:** Book something with a proper terrace or balcony. Mornings with coffee, looking towards the sea (or the Montgó mountain), make all the difference here.
 
-**[Denia Deals - Booking.com](https://www.booking.com/city/es/denia.html?aid=1610684;label=denia-jeiPBMD2_NvIqqgpii0EngS379676729033:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-302457411273:lp9181127:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YfqnDqqG8nt10AsofPfvtt0;ws=&gad_source=1&gad_campaignid=1573322584&gbraid=0AAAAAD_Ls1JPlV9dZhsclHA6iMEsHkAlq&gclid=Cj0KCQjwrs7RBhDuARIsAIVfBD2ZIJaxD3Rf49TtMEeu4MbIHk93fSR8PKkR_egYaM1Tc878pTUEyeYaAsYrEALw_wcB)**
+You can check out the best area rates here:  [see current Dénia hotel and apartment deals here](https://www.booking.com/city/es/denia.html?aid=1610684;label=denia-6XAICTnP0YxCzTVWCJCFYgS380965672286:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-610131390217:lp9181127:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YfqnDqqG8nt10AsofPfvtt0;ws=&gad_source=1&gad_campaignid=1573322584&gbraid=0AAAAAD_Ls1JPlV9dZhsclHA6iMEsHkAlq&gclid=Cj0KCQjwrs7RBhDuARIsAIVfBD0uYcRGvlVphevKa2tEb69Wow_bsNjjYkzfDcEPuVxlGrVXXcD8J1kaAq5fEALw_wcB).
+
+
+
+{{< image-caption src="/images/20260525_105500.jpg" >}}I always find the Sangria {{< /image-caption >}}
 
 **What to Do in Denia — Boots-on-the-Ground Ideas**
 
@@ -42,7 +46,7 @@ Start with the obvious, but do it properly: walk the seafront from the port all 
 
 Head up to the castle for the views. It's not a huge trek, and the panorama over the town, sea and mountains is worth it. On clear days, you can see across to the islands.
 
-> *On crisp mornings or clear winter days, look straight past the port—you can often see the distinct outline of Ibiza rising up on the horizon*
+*"On crisp mornings or clear winter days, look straight past the port—you can often see the distinct outline of Ibiza rising on the horizon."*
 
 Market days are Tuesday and Friday — brilliant for fresh produce, local honey, and people-watching with a coffee. The fish market down by the port is worth a wander too if you're into cooking (or just eating).
 
