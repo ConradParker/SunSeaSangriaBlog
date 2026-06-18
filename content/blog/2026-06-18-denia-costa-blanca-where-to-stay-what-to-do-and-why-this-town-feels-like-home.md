@@ -7,7 +7,7 @@ description: Planning a stay in Denia on the Costa Blanca North? Real tips on
   where to stay, best beaches, what to do and local life from someone who knows
   the town inside out.
 series: sss-town-guide/_index
-image: /images/sun-sea-sangria-denia.jpg
+image: /images/sun-sea-sangria-denia.jpeg
 comments: true
 socials: true
 popular: true
@@ -36,9 +36,7 @@ For longer stays or remote workers, villas and fincas a short drive inland give 
 
 You can check out the best area rates here:  [see current Dénia hotel and apartment deals here](https://www.booking.com/city/es/denia.html?aid=1610684;label=denia-6XAICTnP0YxCzTVWCJCFYgS380965672286:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-610131390217:lp9181127:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YfqnDqqG8nt10AsofPfvtt0;ws=&gad_source=1&gad_campaignid=1573322584&gbraid=0AAAAAD_Ls1JPlV9dZhsclHA6iMEsHkAlq&gclid=Cj0KCQjwrs7RBhDuARIsAIVfBD0uYcRGvlVphevKa2tEb69Wow_bsNjjYkzfDcEPuVxlGrVXXcD8J1kaAq5fEALw_wcB).
 
-
-
-{{< image-caption src="/images/20260525_105500.jpg" >}}I always find the Sangria {{< /image-caption >}}
+{{< image-caption src="/images/20260525_105500.jpg" >}}I always find the Sangria{{< /image-caption >}}
 
 **What to Do in Denia — Boots-on-the-Ground Ideas**
 
@@ -65,7 +63,7 @@ Evenings in Denia are simple and good. Find a spot with sangria or local wine, w
 
 Denia isn't flashy, but it delivers. It's the kind of town where you arrive thinking you'll stay a few days and suddenly you're planning your next visit — or your move.
 
-{{< image-compare src1="/images/sun-sea-sangria-denia-124-.jfif" src2="/images/sun-sea-sangria-denia-127-.webp" caption1="Denia" caption2="Denia Castle" >}}
+{{< image-compare src1="/images/sun-sea-sangria-denia-bars-and-resturants.jpeg" src2="/images/sun-sea-sangria-denia-127-.webp" caption1="Denia narrow eating streets" caption2="Denia Castle" >}}
 
 If you're sorting a trip here or thinking longer term, grab our **free Costa Blanca North Expat Starter Pack** for more of the practical stuff that actually matters. Link in the comments or pinned below.
 
