@@ -34,9 +34,7 @@ For longer stays or remote workers, villas and fincas a short drive inland give 
 
 **Pro tip:** Book something with a proper terrace or balcony. Mornings with coffee, looking towards the sea (or the Montgó mountain), make all the difference here.
 
-
-
-{{< image-caption src="/images/20260525_105500.jpg" >}}I always find the Sangria{{< /image-caption >}}
+{{< image-caption src="/images/sun-sea-sangria-denia-bars.jpg" >}}I always find the Sangria{{< /image-caption >}}
 
 **What to Do in Denia — Boots-on-the-Ground Ideas**
 
