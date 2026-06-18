@@ -1,11 +1,10 @@
 ---
-title: "Denia Costa Blanca: Where to Stay, What to Do and Why This Town Feels
-  Like Home"
+title: "Denia Costa Blanca: Where to Stay, Best Areas & Things to Do 2026"
 date: 2026-06-18T11:41:00.000+02:00
 draft: false
-description: Planning a stay in Denia on the Costa Blanca North? Real tips on
-  where to stay, best beaches, what to do and local life from someone who knows
-  the town inside out.
+description: Where to stay in Denia on the Costa Blanca North, best areas for
+  expats, hotel tips, beaches and things to do. Honest local advice for your
+  next trip or move.
 series: sss-town-guide/_index
 image: /images/sun-sea-sangria-denia.jpeg
 comments: true
@@ -70,5 +69,11 @@ What's your favourite thing about Denia so far, or what are you most looking for
 Salud and see you on the coast,
 
 Joanne
+
+
+
+*"Joanne Maddison has called the Costa Blanca North home for over 14 years. With extensive experience managing properties in Javea and Cumbre del Sol, she founded SunSeaSangria.com to share the real day-to-day life, practical tips, and local know-how that actually helps expats and holidaymakers settle in and enjoy this corner of Spain."*
+
+
 
 {{< image-caption src="/images/sun-sea-sangria-denia-124-.webp" >}}{{< /image-caption >}}
