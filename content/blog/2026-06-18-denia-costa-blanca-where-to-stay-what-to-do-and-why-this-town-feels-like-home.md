@@ -50,7 +50,7 @@ For days out, the natural park around Montgó is right there for hikes with prop
 
 Evenings in Denia are simple and good. Find a spot with sangria or local wine, watch the light change over the water, and just let the day slow down. That's the rhythm here.
 
-{{< image-caption src="/images/sun-sea-sangria-denia-124-.jpg" >}}Els Magazinos - Street Food{{< /image-caption >}}
+{{< image-caption src="/images/img_8575.jpeg" >}}Els Magazinos - Street Food{{< /image-caption >}}
 
 **Practical Bits for Your Stay**
 
