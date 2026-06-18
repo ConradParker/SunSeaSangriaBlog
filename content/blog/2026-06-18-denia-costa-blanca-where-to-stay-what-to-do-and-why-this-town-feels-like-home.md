@@ -24,7 +24,7 @@ It's got good connections: the AP7 motorway gets you to Alicante airport in unde
 
 {{< image-caption src="/images/sun-sea-sangria-denia-125-.webp" >}}Denia New Marina{{< /image-caption >}}
 
-**Where to Stay in Denia — Real Recommendations**
+***"You can check out the best area rates and [see current Dénia hotel and apartment deals here](https://www.booking.com/city/es/denia.html?aid=1610684;label=denia-jeiPBMD2_NvIqqgpii0EngS380965672286:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-302457411273:lp9181127:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YfqnDqqG8nt10AsofPfvtt0;ws=&gad_source=1&gad_campaignid=1573322584&gbraid=0AAAAAD_Ls1JPlV9dZhsclHA6iMEsHkAlq&gclid=Cj0KCQjwrs7RBhDuARIsAIVfBD3cK8MlBk4em5EgRe8lWhz3pudpyVDGEUFxD2IeIhbov9vY2wu7Yi4aAjkCEALw_wcB)."***
 
 **For beach days and easy living:** Look at the areas around Les Marines or Las Rotas. These are the bits with direct beach access, good restaurants within walking distance, and that classic blue-and-white Mediterranean feel—plenty of apartments and small hotels here that work well for couples or families.
 
@@ -42,13 +42,15 @@ Start with the obvious, but do it properly: walk the seafront from the port all 
 
 Head up to the castle for the views. It's not a huge trek, and the panorama over the town, sea and mountains is worth it. On clear days, you can see across to the islands.
 
+> *On crisp mornings or clear winter days, look straight past the port—you can often see the distinct outline of Ibiza rising up on the horizon*
+
 Market days are Tuesday and Friday — brilliant for fresh produce, local honey, and people-watching with a coffee. The fish market down by the port is worth a wander too if you're into cooking (or just eating).
 
 For days out, the natural park around Montgó is right there for hikes with proper sea views. Or take the little road out to Las Rotas for rocky coves perfect for snorkelling. If you're into water sports, the bay is well sheltered, and there are places to hire kayaks or paddleboards.
 
 Evenings in Denia are simple and good. Find a spot with sangria or local wine, watch the light change over the water, and just let the day slow down. That's the rhythm here.
 
-{{< image-caption src="/images/sun-sea-sangria-denia-124-.jpg" >}}Els Magazinos - Street Food {{< /image-caption >}}
+{{< image-caption src="/images/sun-sea-sangria-denia-124-.jpg" >}}Els Magazinos - Street Food{{< /image-caption >}}
 
 **Practical Bits for Your Stay**
 
