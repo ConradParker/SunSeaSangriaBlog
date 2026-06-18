@@ -34,7 +34,7 @@ For longer stays or remote workers, villas and fincas a short drive inland give 
 
 **Pro tip:** Book something with a proper terrace or balcony. Mornings with coffee, looking towards the sea (or the Montgó mountain), make all the difference here.
 
-You can check out the best area rates here:  [see current Dénia hotel and apartment deals here](https://www.booking.com/city/es/denia.html?aid=1610684;label=denia-6XAICTnP0YxCzTVWCJCFYgS380965672286:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-610131390217:lp9181127:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YfqnDqqG8nt10AsofPfvtt0;ws=&gad_source=1&gad_campaignid=1573322584&gbraid=0AAAAAD_Ls1JPlV9dZhsclHA6iMEsHkAlq&gclid=Cj0KCQjwrs7RBhDuARIsAIVfBD0uYcRGvlVphevKa2tEb69Wow_bsNjjYkzfDcEPuVxlGrVXXcD8J1kaAq5fEALw_wcB).
+
 
 {{< image-caption src="/images/20260525_105500.jpg" >}}I always find the Sangria{{< /image-caption >}}
 
@@ -72,7 +72,5 @@ What's your favourite thing about Denia so far, or what are you most looking for
 Salud and see you on the coast,
 
 Joanne
-
-
 
 {{< image-caption src="/images/sun-sea-sangria-denia-124-.webp" >}}{{< /image-caption >}}
