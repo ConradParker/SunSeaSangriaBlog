@@ -1,5 +1,5 @@
 ---
-title: Best WiFi Cafes & Gaming Spots in Javea & Denia 2026
+title: Best WiFi Cafes & Gaming Spots in Costa Blanca North for Remote Work & Gamers
 date: 2026-06-18T13:08:00.000+02:00
 draft: false
 description: Best WiFi Cafes & Gaming Spots in Javea & Denia for Remote Work & Gamers
