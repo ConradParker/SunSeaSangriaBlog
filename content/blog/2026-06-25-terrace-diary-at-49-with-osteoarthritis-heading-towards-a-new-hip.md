@@ -11,7 +11,7 @@ popular: true
 ---
 **Hola Terrace Crew,** 🌞🍹
 
-Thursday 25 June, coffee on the terrace, dogs at my feet, and a few honest thoughts swirling around. I’m heading to physiotherapy again this morning, and I wanted to write this down while it’s fresh.
+Thursday 25 June, coffee on the terrace, dog at my feet, and a few honest thoughts swirling around. I’m heading to physiotherapy again this morning, and I wanted to write this down while it’s fresh.
 
 I’ve been told that my grade 2-3 osteoarthritis is likely leading to a new hip at some point. I’m only 49. That number still surprises me when I say it out loud. I always pictured myself as the one bounding up the hills in Javea or chasing sunsets with the dogs well into my 60s and beyond. Reality, as it often does, had other plans.
 
@@ -29,7 +29,7 @@ The stiffness and pain are manageable most days with the tools we’re building:
 
 •  The sea and lighter movement help more than I expected. Even a careful paddle or swim eases things.
 
-•  Local healthcare has been reassuring so far. I’m learning the system, asking questions, and feeling supported.
+•  The healthcare has been reassuring so far. I’m learning the system, asking questions, and feeling supported.
 
 The heat doesn’t always help (those warm nights can make joints grumble), but the lifestyle here gives us options that many places don’t — proximity to good care, beautiful flat walks when hills are too much, and a community that understands taking things slower sometimes.
 
