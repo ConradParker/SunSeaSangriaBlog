@@ -2,6 +2,7 @@
 title: Terrace Diary
 date: 2026-06-25T09:00:00.000+02:00
 draft: false
+menu_weight: 80
 ---
 **Welcome to the Terrace Diary**
 
