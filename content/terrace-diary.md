@@ -30,3 +30,7 @@ Thanks for sitting with me on the terrace. More diary entries coming soon.
 **With love and a little extra care,**
 
 **Joanne xx** 🌴🐾
+
+
+
+{{< image-caption src="/images/img_8648.jpeg" >}}Terrace Diary{{< /image-caption >}}
