@@ -3,6 +3,10 @@ title: "Northern Costa Blanca News: Fiestas, Calpe Events & Summer 2026 | Sun
   Sea Weekly News | 29 June 2026"
 date: 2026-06-28T09:48:00.000+02:00
 draft: false
+description: "Discover the latest Northern Costa Blanca news for 29 June 2026:
+  Benissa smart pool upgrade, Calpe security cameras & fiesta queens, Marina
+  Alta fiestas in Javea, Denia & Moraira, plus new Terrace Diary and summer heat
+  tips."
 series: sun-sea-news/_index
 comments: true
 socials: true
