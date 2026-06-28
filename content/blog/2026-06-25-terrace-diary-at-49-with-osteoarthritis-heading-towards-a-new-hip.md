@@ -4,7 +4,7 @@ date: 2026-06-25T09:08:00.000+02:00
 draft: false
 description: At 49 with Osteoarthritis Heading Towards a New Hip Real Talk from
   the Costa Blanca North (25 June 2026)
-series: sun-sea-lifestyle/_index
+series: terrace-diary
 image: /images/gmbng.jpg
 comments: true
 socials: true
