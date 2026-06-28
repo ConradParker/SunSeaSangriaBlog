@@ -20,7 +20,7 @@ If you’re searching for the latest Northern Costa Blanca news this week — co
 
 Big news for families and swimmers in Benissa: the municipal pool now features a cutting-edge digital water treatment system, putting the town at the forefront of health and sustainability on the Costa Blanca North. Check the latest opening hours if you’re planning a refreshing dip this summer.
 
-{{< image-caption src="/images/sun-sea-sangria-benissa-swimming.png" >}}Swimming Pool Benissa{{< /image-caption >}}
+{{< image-caption src="/images/zk8qk.jpg" >}}Swimming Pool Benissa{{< /image-caption >}}
 
 * **Calpe News: New Security Cameras, Environmental Stations & 2026 Fiesta Queens**
 
@@ -34,9 +34,13 @@ Fiesta season is heating up beautifully. Moraira’s Moros y Cristianos wrapped 
 
 On the website, we published a very honest new Terrace Diary entry (25 June 2026) sharing real-life experiences of living with osteoarthritis at 49 and navigating the path towards a new hip while embracing Costa Blanca life. We also added fresh practical guides on where to stay and things to do in Denia and Calpe — ideal reading whether you’re an expat planning a move or visiting the Northern Costa Blanca.
 
+{{< image-caption src="" >}}The New Terrace Diary{{< /image-caption >}}
+
 * **Summer Heat Tips for Costa Blanca North 2026**
 
 With the temperatures climbing, remember to stay hydrated, wear a hat, and avoid the strongest midday sun. Early morning beach walks in Javea or Denia, or late afternoon swims in Calpe or Moraira, are still the highlight of the day.
+
+{{< image-caption src="/images/sa5pp.jpg" >}}Sun Sea Sangria Heatwave {{< /image-caption >}}
 
 **A quick heat reminder:** Stay hydrated, avoid the midday sun if you can, and look out for older neighbours and pets. The sea is still beautifully refreshing, though — early morning or late afternoon dips are my favourite.
 
