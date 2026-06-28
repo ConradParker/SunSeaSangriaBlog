@@ -7,7 +7,8 @@ description: "Discover the latest Northern Costa Blanca news for 29 June 2026:
   Benissa smart pool upgrade, Calpe security cameras & fiesta queens, Marina
   Alta fiestas in Javea, Denia & Moraira, plus new Terrace Diary and summer heat
   tips."
-series: sun-sea-news/_index
+series: sun-sea-news
+image: /images/sun-sea-news-2-.jpg
 comments: true
 socials: true
 popular: true
