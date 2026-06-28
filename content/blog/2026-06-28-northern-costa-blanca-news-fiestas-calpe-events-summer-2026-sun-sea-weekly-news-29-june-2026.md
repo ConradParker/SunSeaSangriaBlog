@@ -21,11 +21,15 @@ If you’re searching for the latest Northern Costa Blanca news this week — co
 
 Big news for families and swimmers in Benissa: the municipal pool now features a cutting-edge digital water treatment system, putting the town at the forefront of health and sustainability on the Costa Blanca North. Check the latest opening hours if you’re planning a refreshing dip this summer.
 
+<https://www.piscinamunicipalbenissa.com/>
+
 {{< image-caption src="/images/zk8qk.jpg" >}}Summer heat tips for Costa Blanca North 2026 stay cool in Javea, Calpe & : StayDenia{{< /image-caption >}}
 
 * **Calpe News: New Security Cameras, Environmental Stations & 2026 Fiesta Queens**
 
 In Calpe, the town hall is rolling out 30 new intelligent security cameras plus fresh air quality and weather monitoring stations — great for safety and keeping us informed. This weekend also brings the much-anticipated election and coronation of the Calpe 2026 fiesta queens in the Plaça Major. Perfect summer vibes!
+
+[Where to Stay in Calpe: Best Areas for Expats & Visitors (2026)](https://www.google.com/search?q=booking.com+calpe&oq=booking.com+calpe&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg7MgYIAhBFGDsyBggDEEUYPDIGCAQQRRg80gEJNDI0N2owajE1qAIIsAIB&sourceid=chrome&ie=UTF-8)
 
 * **Fiestas & Events Across Marina Alta – Moraira, Benissa, Denia & Javea**
 
@@ -35,7 +39,9 @@ Fiesta season is heating up beautifully. Moraira’s Moros y Cristianos wrapped 
 
 On the website, we published a very honest new Terrace Diary entry (25 June 2026) sharing real-life experiences of living with osteoarthritis at 49 and navigating the path towards a new hip while embracing Costa Blanca life. We also added fresh practical guides on where to stay and things to do in Denia and Calpe — ideal reading whether you’re an expat planning a move or visiting the Northern Costa Blanca.
 
-{{< image-caption src="" >}}The New Terrace Diary{{< /image-caption >}}
+[Terrace Diary: At 49 with Osteoarthritis Heading Towards a New Hip](https://sunseasangria.com/blog/2026-06-25-terrace-diary-at-49-with-osteoarthritis-heading-towards-a-new-hip/)
+
+
 
 * **Summer Heat Tips for Costa Blanca North 2026**
 
