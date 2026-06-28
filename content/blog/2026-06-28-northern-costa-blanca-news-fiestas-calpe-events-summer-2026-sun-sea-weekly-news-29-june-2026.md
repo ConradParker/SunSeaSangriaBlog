@@ -53,3 +53,7 @@ Pull up a chair with the Terrace Crew! 🍹
 * Subscribe: Sign up for our weekly newsletter to get the latest news and insider tips delivered straight to your inbox every Friday.
 * Download: Don't forget to grab your Free Northern Costa Blanca Expat Guide right now!
 * Shop: Keep an eye out—our official Sun Sea Sangria shop is coming very soon!
+
+See you next week with more news and stories,
+
+Joanne
