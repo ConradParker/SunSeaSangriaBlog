@@ -5,7 +5,7 @@ draft: false
 description: Local Marina Alta news — teachers temporarily suspend strike,
   Benissa Town Hall renovation, Calpe business aid & fire prevention, open water
   circuit, Moros y Cristianos, and more from Denia to Calpe.
-series: sun-sea-news/_index
+series: sun-sea-news
 image: /images/sun-sea-news-2-.jpg
 comments: false
 socials: true

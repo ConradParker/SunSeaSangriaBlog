@@ -6,7 +6,7 @@ description: Sharks in the Marina Alta? The honest local guide to safe swimming
   in Javea, Denia, and Costa Blanca waters this summer. Real sightings,
   practical tips, and why you can relax and enjoy the turquoise sea. Perfect for
   beach lovers and expats.
-series: sun-sea-lifestyle/_index
+series: sun-sea-lifestyle
 image: /images/trgfl.jpg
 comments: true
 socials: true

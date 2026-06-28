@@ -3,7 +3,7 @@ title: Best WiFi Cafes & Gaming Spots in Costa Blanca North for Remote Work & Ga
 date: 2026-06-18T13:08:00.000+02:00
 draft: false
 description: Best WiFi Cafes & Gaming Spots in Javea & Denia for Remote Work & Gamers
-series: sun-sea-lifestyle/_index
+series: sun-sea-lifestyle
 image: /images/sun-sea-sangria-lifestyle.jpg
 comments: true
 socials: true

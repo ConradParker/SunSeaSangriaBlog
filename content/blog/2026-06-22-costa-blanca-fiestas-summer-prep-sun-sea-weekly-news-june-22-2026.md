@@ -2,7 +2,7 @@
 title: Costa Blanca Fiestas & Summer Prep | Sun Sea Weekly News | June 22, 2026
 date: 2026-06-22T09:36:00.000+02:00
 draft: false
-series: sun-sea-news/_index
+series: sun-sea-news
 image: /images/sun-sea-news-2-.jpg
 comments: false
 socials: true

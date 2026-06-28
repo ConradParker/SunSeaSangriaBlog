@@ -5,7 +5,7 @@ draft: false
 description: Looking for the best place to stay in Javea? Discover the top areas
   including the Old Town, port, Arenal beach, and Cala Granadella, with
   practical advice for first-time visitors, expats.
-series: sss-town-guide/_index
+series: sss-town-guide
 image: /images/sun-sea-sangria-javea-1-.png
 comments: true
 socials: true

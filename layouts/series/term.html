@@ -59,6 +59,9 @@
       {{- end -}}
     {{- end -}}
   {{- end -}}
+  {{/* Collapse duplicate term pages (e.g. a "<slug>/_index" value that resolves
+       to the same _index.md) so a series isn't listed twice in the nav strip. */}}
+  {{- $allTerms = $allTerms | uniq -}}
   {{- $weighted := sort (where $allTerms ".Weight" "gt" 0) ".Weight" "asc" -}}
   {{- $unweighted := sort (where $allTerms ".Weight" "eq" 0) ".Title" "asc" -}}
   {{- $ordered := $weighted | append $unweighted -}}

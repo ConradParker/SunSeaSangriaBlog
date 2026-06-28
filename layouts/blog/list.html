@@ -14,6 +14,10 @@
     {{- end -}}
   {{- end -}}
 {{- end -}}
+{{/* A stray series value like "sun-sea-news/_index" (a CMS relation quirk) makes
+     a second taxonomy term that resolves to the same _index.md — collapse those
+     duplicate pages so a series can't appear twice. */}}
+{{- $allTerms = $allTerms | uniq -}}
 {{- $weighted := sort (where $allTerms ".Weight" "gt" 0) ".Weight" "asc" -}}
 {{- $unweighted := sort (where $allTerms ".Weight" "eq" 0) ".Title" "asc" -}}
 {{- $orderedSeries := $weighted | append $unweighted -}}

@@ -65,6 +65,10 @@ collections:
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Draft", name: "draft", widget: "boolean", default: false }
       - { label: "Description", name: "description", widget: "string", required: false }
+      # value_field resolves to "<folder>/_index" because the series collection's
+      # path is "{{slug}}/_index". A preSave hook in admin.js strips the trailing
+      # "/_index" so posts store the bare folder slug = Hugo's taxonomy key.
+      # Keep that hook if you touch this relation.
       - label: "Series"
         name: "series"
         widget: "relation"

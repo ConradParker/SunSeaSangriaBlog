@@ -6,7 +6,7 @@ description: Planning a trip or moving to Calpe? Here’s a practical guide to t
   best areas to stay in Calpe, including Playa de la Fossa, the Old Town, Peñón
   de Ifach, and Puerto Blanco — with honest pros, cons, and tips for expats and
   dog owners.
-series: sss-town-guide/_index
+series: sss-town-guide
 image: /images/sun-sea-sangria-calpe-y-benissa-69-.jpeg
 comments: true
 socials: true

@@ -1,18 +1,19 @@
-// Auto-populate series_id from title on save
+// Normalize the blog "series" relation value before saving.
+//
+// Each series lives at content/series/<folder>/_index.md, so the collection's
+// path is "{{slug}}/_index". That makes Decap's relation widget resolve
+// value_field {{slug}} to "<folder>/_index" rather than the bare folder name.
+// Hugo keys the series taxonomy on the folder name, so an unnormalized value
+// like "sun-sea-news/_index" spawns a duplicate taxonomy term (series shown
+// twice) and drops the post off its real series page. Strip the suffix so posts
+// always point at the canonical folder slug = Hugo's taxonomy key.
 CMS.registerEventListener({
   name: "preSave",
   handler: ({ entry }) => {
-    const collection = entry.get("collection");
-    if (collection === "series") {
-      const title = entry.getIn(["data", "title"]) || "";
-      const slug = title
-        .toLowerCase()
-        .trim()
-        .replace(/[^a-z0-9\s-]/g, "")
-        .replace(/[\s]+/g, "-")
-        .replace(/-+/g, "-")
-        .replace(/^-|-$/g, "");
-      return entry.get("data").set("series_id", slug);
+    if (entry.get("collection") !== "blog") return;
+    const series = entry.getIn(["data", "series"]);
+    if (typeof series === "string" && series.endsWith("/_index")) {
+      return entry.get("data").set("series", series.replace(/\/_index$/, ""));
     }
   },
 });

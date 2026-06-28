@@ -1,6 +1,5 @@
 ---
 title: Sun Sea Lifestyle
-series_id: sun-sea-lifestyle
 date: 2026-03-31T10:25:00.000+02:00
 draft: false
 image: sun-sea-lifestyle.jpg

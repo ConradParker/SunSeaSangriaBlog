@@ -6,7 +6,7 @@ draft: false
 description: Top dog-friendly walks in Marina Alta, Costa Blanca North — from
   peaceful Senija Cross hikes to Benissa vineyards and hidden beaches. Personal
   tips, distances, and Snoopy & Missy-inspired adventures for cooler months.
-series: sunseatrails/_index
+series: sunseatrails
 image: /images/132526649_10157315403026642_3068555832095742196_n.jpg
 comments: true
 socials: true

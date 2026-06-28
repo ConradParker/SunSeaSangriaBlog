@@ -3,7 +3,7 @@ title: Super Niño is Coming… What Does That Mean for Our Costa Blanca North?
 date: 2026-06-03T08:02:00.000+02:00
 draft: false
 description: Super Niño is Coming… What Does That Mean for Our Costa Blanca North?
-series: sun-sea-lifestyle/_index
+series: sun-sea-lifestyle
 image: /images/aedvs.jpg
 comments: false
 socials: true

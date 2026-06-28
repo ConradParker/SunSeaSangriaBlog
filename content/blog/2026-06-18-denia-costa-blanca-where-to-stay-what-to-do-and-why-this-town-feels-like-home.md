@@ -5,7 +5,7 @@ draft: false
 description: Where to stay in Denia on the Costa Blanca North, best areas for
   expats, hotel tips, beaches and things to do. Honest local advice for your
   next trip or move.
-series: sss-town-guide/_index
+series: sss-town-guide
 image: /images/sun-sea-sangria-denia.jpeg
 comments: true
 socials: true

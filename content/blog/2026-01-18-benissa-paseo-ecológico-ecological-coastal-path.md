@@ -2,7 +2,7 @@
 title: "Walking the Benissa Eco Path: A Straightforward Coastal Walk"
 date: 2026-01-18T17:58:00.000+01:00
 draft: false
-series: sunseatrails/_index
+series: sunseatrails
 image: /images/499.jpg
 comments: true
 socials: true

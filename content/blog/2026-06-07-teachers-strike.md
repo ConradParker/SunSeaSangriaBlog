@@ -3,7 +3,7 @@ title: "Calpe and Benissa School Strikes: Dates, Closures, and What Local
   Parents Need to Know "
 date: 2026-06-17T10:18:00.000+02:00
 draft: false
-series: sun-sea-lifestyle/_index
+series: sun-sea-lifestyle
 image: /images/the-teachers’-strike-hitting-home-in-calpe-benissa.png
 comments: true
 socials: true

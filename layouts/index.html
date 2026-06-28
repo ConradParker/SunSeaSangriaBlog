@@ -27,6 +27,9 @@
         {{ $all = $all | append . }}
       {{ end }}
     {{ end }}
+    {{/* Collapse duplicate term pages (e.g. a "<slug>/_index" value that resolves
+         to the same _index.md) so a series can't show twice in the cards. */}}
+    {{ $all = $all | uniq }}
     {{ $sorted := sort (where $all ".Weight" "gt" 0) ".Weight" "asc" }}
     {{ $top3 := first 3 $sorted }}
 
