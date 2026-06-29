@@ -3,6 +3,9 @@ title: "Spain 2026 Travel & Expat Rules: What Holidaymakers and New Residents
   Need to Know Before Arriving"
 date: 2026-06-29T09:23:00.000+02:00
 draft: false
+description: "Spain 2026 Travel & Expat Rules: Essential updates for
+  holidaymakers and new residents on entry systems, rentals, driving, visas and
+  more. Practical Northern Costa Blanca advice from a local."
 series: sun-sea-lifestyle
 image: /images/3o3yd-1-.jpg
 comments: true
