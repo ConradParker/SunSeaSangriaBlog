@@ -16,6 +16,8 @@ Hello Terrace Crew,
 
 It’s Monday, 29 June 2026, and you can already feel the summer energy building here on the Northern Costa Blanca. The beaches in Calpe and Javea are getting busier, and I’ve heard hotel occupancy in Benidorm is sitting at around 88%. With more people arriving every week, Spain has introduced several important updates this year. I’ve pulled together everything holidaymakers and potential new expats need to know so you can arrive relaxed and ready to enjoy the good life.
 
+
+
 {{< image-caption src="/images/3o3yd-1-.jpg" >}}Spain 2026 Travel and Expat Rules guide for Northern Costa Blanca{{< /image-caption >}}
 
 **Entry & Border Changes – What’s New in 2026**
@@ -28,9 +30,11 @@ Later this year, ETIAS (the new travel authorisation) will roll out for most vis
 
 Border staff may ask for proof of funds — roughly €122 per person per day (with a minimum of around €1,099). A recent bank statement or credit card is usually enough.
 
-
-
 **My Terrace Tip:** Get good travel insurance that covers health emergencies and cancellations. It’s one of those things that gives you proper peace of mind while you’re out exploring.
+
+Expat Travel Insurance (this is one i use) : [Stay Sure Expat Insurance  ](https://www.staysure.com/expat/travel-insurance/?infinity=ict2~net~gaw~cmp~Expat_ES_GOOG_SEA_B_None_Pure%20Brand~ag~Pure%20Brand~ar~780074422459~kw~staysure~mt~e&cq_cmp=22822927325&cq_term=staysure&cq_net=g&cq_plt=gp&gclsrc=aw.ds&&utm_source=google&utm_medium=cpc&utm_term=staysure&gad_source=1&gad_campaignid=22822927325&gbraid=0AAAAADylPaP0vstKDa8BQRPN14VHoEyHY&gclid=Cj0KCQjwr4jSBhCSARIsAOX1E-Ktef9Mw7oe7exKRQFRAa1WupwK_P80HEbeGhL8dg_c0KkJucmVUaMaAlRiEALw_wcB)
+
+Holiday Makers Insurance, why not compare whats best for you: <https://www.gocompare.com/travel-insurance/destinations/spain/>
 
 {{< image-caption src="/images/wybwd.jpg" >}}Entry & Border Changes – What’s New in 2026{{< /image-caption >}}
 
@@ -45,8 +49,8 @@ Short-term rentals (Airbnb, booking.com, etc.) are facing stricter licensing rul
 **Recommended Stays in the Northern Costa Blanca**
 
 * For a touch of luxury: Hotel El Rodat in Javea or Asia Gardens near Benidorm
-* Great for families with sea views: Hotel Arenal in Calpe or Hotel Jávea
-* Charming boutique feel: La Casa del Maco in Javea or lovely spots in Moraira
+* Great for families with sea views: Hotel Parador Arenal in Javea or Hotel Sol y Mar Calpe
+* Charming boutique feel: La Casa del Maco in Calpe
 
 Book early if you’re coming in July or August — the good ones go fast!
 
