@@ -1,42 +1,42 @@
 ---
-title: "Sun Sea  News: Costa Blanca Buzz – July 7-14, 2026 "
-date: 2026-07-14T09:22:00.000+02:00
+title: Late Summer Vibes & Fiestas in Northern Costa Blanca | Sun Sea Weekly
+  News Late Edition | 14 July 2026
+date: 2026-07-14T11:43:00.000+02:00
 draft: false
 series: sun-sea-news
+image: /images/4jzgs.jpg
 comments: true
 socials: true
 popular: true
 ---
-Hey Terrace crew, sorry for my late news this week. After traveling to the UK I’ve now got a full on flu bug, 
+Hola Terrace Crew!
 
-**Hola from the sunny shores of the Costa Blanca!** As the mercury climbs and the Mediterranean sparkles, the stretch from Alicante to Denia (and beyond) has been alive with fiestas, music, debates, and that unbeatable summer energy. Here’s your weekly roundup of all things sun, sea, and sangria.
+Sorry this week’s roundup is a little late — I’ve just got back from a quick trip to the UK and returned with a proper awful summer cold that’s had me hiding under a blanket instead of on the terrace. But the Northern Costa Blanca news doesn’t stop, and there’s plenty to catch up on from Denia to Alicante as the summer heat really kicks in.
 
-**Denia Steals the Spotlight with Bous al Mar**
+**Denia Bous al Mar 2026 Lights Up the Port.**
 
-The port of Denia pulsed with excitement during the **Bous al Mar** festival (roughly July 4-10), a highlight of the local fiestas honoring the Santísima Sangre. This traditional (and controversial) event of National Tourist Interest saw brave participants guiding bulls and vaquillas toward the sea in the specially set-up port arena – a spectacular, adrenaline-fueled tradition blending culture, fireworks, parades, and community vibes. 
+The highlight of the week was definitely Denia’s famous **Bous al Mar** during the Santísima Sangre fiestas (roughly 4–10 July 2026). Crowds gathered in the port for the thrilling traditional event where participants guide bulls and vaquillas toward the sea — a spectacular (and always talked-about) part of local heritage complete with fireworks, parades, and live music. Whether you love the adrenaline or prefer watching safely from afar with a cold drink, it’s pure Marina Alta summer energy.
 
-Animal rights groups documented and criticized aspects of the event, but crowds turned out for the unique spectacle, concerts, and family activities. Denia continues to balance its heritage with its appeal as a top Costa Blanca destination. 
+**FIJAZZ Alicante 2026 Brings Flamenco-Jazz Magic**
 
-**Alicante Grooves to Jazz & Summer Beats**
+Over in Alicante, the **FIJAZZ Festival 2026** got underway on 11 July at the ADDA, running until the 19th. This year’s “En compás de paz” theme is delivering beautiful fusions with artists like Las Migas, Jorge Pardo, Niño Josele, and Zenet. Tickets have been flying out, so if you’re in the area it’s worth checking for last-minute seats. Pair it with the ongoing aQuarela Music Festival at the port for perfect evening vibes with sea views.
 
-Music lovers flocked to Alicante as the **FIJAZZ Festival** kicked off on July 11 at the ADDA (Auditorio de la Diputación de Alicante), running through July 19. This year’s edition fuses flamenco and jazz under the theme of peace and coexistence, featuring acts like Las Migas, Jorge Pardo, Niño Josele, and Zenet. Advance tickets sold out fast – a testament to its growing reputation. 
+**Tourism Conversations & Nearby Celebrations**
 
-Meanwhile, the **aQuarela Music** festival at the Port of Alicante continues through mid-July (July 2-18), delivering live performances with sea views – perfect for evening vibes with a cold drink in hand. 
+Alicante saw a protest on 13 July highlighting local concerns around mass tourism, housing, and summer crowds — part of a wider discussion happening across the Costa Blanca. On a brighter note, towns like Altea are gearing up for San Pere and Mare de Déu del Carme festivities with traditional boat processions and fireworks. The South Costa Blanca has also released its full 2026 events calendar if you’re planning ahead.
 
-**Tourism Tensions Surface in Alicante**
+**Summer Heat Update Costa Blanca North 2026**
 
-On Saturday, July 13, Alicante joined the growing chorus of Spanish cities with a protest against mass tourism. Locals highlighted concerns over housing pressures, overcrowding, and the impact on daily life in this popular Costa Blanca hub. It’s part of a broader national conversation as the peak summer season rolls on. 
+We’re firmly in the July heat (27–35°C+ most days), perfect for beach days but a reminder to stay hydrated, use sunscreen, and take it easy during the hottest hours. Wildfires have been an issue elsewhere in Spain, but our stretch of the Northern Costa Blanca has been focusing on enjoying the season safely.
 
-Nearby towns like Altea are gearing up for **San Pere and Mare de Déu del Carme** festivities around July 14, with traditional seafaring celebrations, boat processions, and fireworks honoring fishermen and the Virgin. 
+**Other Local Updates Around Calpe, Benissa & Beyond**
 
-**Broader Costa Blanca Vibes**
+Calpe has been strengthening its local police presence for the busy summer and making improvements to seafront promenades with European funding. Small wins that help everyone enjoy life here a bit more smoothly.
 
-•  **Events Calendar Rolling**: South Costa Blanca (Orihuela Costa, Torrevieja, La Zenia) has released its full 2026 lineup, promising more fiestas, music, and cultural happenings throughout the year. 
+Even with my fuzzy head and this late edition, it’s hard not to feel grateful for these sunny days on the coast. Hope you’ve all been making the most of it — whether chasing fiestas, finding shade with a good book, or simply watching the sunset.
 
-•  **Summer Heat & Caution**: July’s high temperatures are in full swing (typically 27-35°C+), ideal for beaches but a reminder to stay hydrated and sun-smart. Wildfires have affected parts of Spain (notably in Andalusia and northeast regions), but the immediate Costa Blanca coast has focused more on enjoying the season. 
+Pull up a chair with the Terrace Crew! 🍹
 
-•  **Beyond Denia & Alicante**: The region from Elche to further afield buzzes with smaller events, markets, and the ongoing appeal of its golden beaches and charming villages.
-
-The Costa Blanca remains a magnet for sun-seekers, with a mix of tradition, music, and lively debate shaping these hot summer days. Whether you’re here for the fiestas, jazz under the stars, or simply paella by the sea, there’s something for everyone.
-
-**¡Salud!** Raise a glass of sangria to the Costa Blanca – stay tuned for next week’s highlights. For the latest, check local tourism sites or event calendars. Safe travels and enjoy responsibly! 🌞🏖️🍷
+* Subscribe: Sign up for our weekly newsletter to get the latest news and insider tips delivered straight to your inbox every Friday.
+* Download: Don't forget to grab your Free Northern Costa Blanca Expat Guide right now!
+* Shop: Keep an eye out—our official Sun Sea Sangria shop is coming very soon!
