@@ -1,5 +1,5 @@
 ---
-title: "Costa Blanca North News July 20th 2026: Heatwave, Dénia Fiestas, Summer
+title: "Costa Blanca North News July 19th 2026: Heatwave, Dénia Fiestas, Summer
   Traffic & Local Updates from Alicante to Denia"
 date: 2026-07-19T09:56:00.000+02:00
 draft: false
@@ -14,6 +14,10 @@ socials: true
 popular: true
 ---
 Hola from the terrace, Terrace Crew!
+
+Today’s news is a day early because I’m off to Alicante tomorrow for my new PRP treatment. For all the details (and the dramatic updates), check my new Terrace Diary blog — I’ll be posting everything that happens once I’m back.
+
+*Anyway, back to the news and the heat…*
 
 Summer is well and truly here on the Costa Blanca North — you can tell by the sudden rush to book restaurants for evening meals, the sight of bikini-clad shoppers in the supermarket (complete with flip-flops and a bottle of rosé), and the familiar sound of cars politely honking at roundabouts because someone’s forgotten which lane they’re in. The beaches are busy, the evenings are gloriously long, and there’s plenty happening from Alicante right up to Denia, including Javea, El Campello, Benidorm, Villajoyosa and the inland towns. Here’s what’s been going on this week.
 
@@ -54,10 +58,6 @@ Joanne
 Sun Sea Sangria
 
 [www.sunseasangria.com](http://www.sunseasangria.com)
-
-
-
-
 
 **Pull up a chair with the Terrace Crew!** 🍹
 
