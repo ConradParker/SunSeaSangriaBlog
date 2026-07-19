@@ -3,6 +3,10 @@ title: "Costa Blanca North News July 20th 2026: Heatwave, Dénia Fiestas, Summer
   Traffic & Local Updates from Alicante to Denia"
 date: 2026-07-19T09:56:00.000+02:00
 draft: false
+description: "Costa Blanca North news July 2026: extreme heatwave alert, Dénia
+  Festa Major, summer traffic tips, fiestas in Moraira & Benissa, and local
+  updates from Javea, Calpe, El Campello, Villajoyosa and inland towns. Stay
+  informed with Sun Sea News."
 series: sun-sea-news
 image: /images/9rga7.jpg
 comments: true
