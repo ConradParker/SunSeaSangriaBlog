@@ -1,14 +1,13 @@
 hero:
   image: /images/add-sangria-glass-to-table.png
   eyebrow: Pull up a Lounger
-  headline: >
-    Your honest, sun-drenched insider guide to real life, local news, and
-    settling in on the Costa Blanca North.
+  headline: |
+    Sun, sea & real life on the Costa Blanca North
   cta_label: Sun-soaked stories... straight to your inbox every Friday
   cta_link: "#latest"
 newsletter:
   heading: Join the Terrace Crew
   body: Sun-soaked stories from the Costa Blanca, straight to your inbox every
     Friday.
-  cta_label: "Sign up "
+  cta_label: Join the Terrace Crew
   url: https://sunseasangria.substack.com
