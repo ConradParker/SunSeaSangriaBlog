@@ -22,9 +22,13 @@ So here’s my no-fluff mid-summer list — the things that actually turn these 
 
 Setting out early and finding quieter calas that still look magical when the light is soft and the sand isn’t frying eggs. Midday? Leave it to the brave (or the people who forgot sunscreen).
 
+{{< image-caption src="/images/4254.jpg" >}}Hit the beach before 10am (or after 6pm){{< /image-caption >}}
+
 **2. Find a proper shaded terrace with a breeze**
 
 Not every “sea view” terrace is equal. Look for the ones that catch the afternoon *terral* or have proper trees. My current favourites change with the wind, but a cold tinto de verano never does.
+
+{{< image-caption src="/images/whatsapp-image-2026-05-28-at-08.22.44.jpeg" >}}Chilling by the sea{{< /image-caption >}}
 
 **3. Make (or order) real Spanish sangria the proper way**
 
@@ -37,6 +41,8 @@ Flat, beautiful, and the sea breeze actually works. Perfect when the mountains a
 **5. Do your shopping and errands early**
 
 Markets, post office, bank, supermarket — everything is easier (and cooler) before 11am. Afternoon siesta is not laziness; it’s strategy.
+
+{{< image-caption src="/images/mercadona.png" >}}Early shopping is a must{{< /image-caption >}}
 
 **6. Try a midweek cala that the day-trippers miss**
 
@@ -58,9 +64,6 @@ Museum, air-conditioned café, a friend’s pool, or simply the coolest room in 
 
 The light at 8pm. The sound of the cicadas. The first proper cold drink of the evening. The fact that even on the hottest days, the Mediterranean is still right there.
 
-
-
-
 That’s my midsummer list from the terrace this week.
 
 What would you add? Favourite early-morning beach? Best shaded bar? Secret cala? Drop it in the comments — the Terrace Crew always knows the good stuff.
@@ -72,3 +75,5 @@ Joanne
 Sun Sea Sangria
 
 Costa Blanca North
+
+{{< image-caption src="/images/img_8685.jpeg" >}}Terrace Crew {{< /image-caption >}}
