@@ -6,27 +6,28 @@ description: Beat the Costa Blanca heatwave with this honest mid-summer list —
   best early beaches, cooler hikes, local sangria tricks, and the spots tourists
   miss in Calpe, Jávea and Dénia.
 series: sun-sea-lifestyle
+image: /images/5ex8a.jpg
 comments: true
 socials: true
 popular: true
 ---
- **Pull up a lounger… it’s midsummer and the Costa Blanca North is busy and hot.**
+ **Pull up a lounger… It’s midsummer and the Costa Blanca North is busy and hot.**
 
 Hola Terrace Crew!
 
-July is in full swing and August is just days away. I’ve been following Mr Weatherman Europe on YouTube (one of the best channels for European weather), and his outlook for August is another long heatwave. Natural parks have already closed in July because of the extreme temperatures. Towns are packed with tourists, parking is pure luck, and the beaches are overflowing.
+July is in full swing, and August is just days away. I’ve been following Mr Weatherman Europe on YouTube (one of the best channels for European weather), and his outlook for August is another long heatwave. Natural parks have already closed in July because of the extreme temperatures. Towns are packed with tourists, parking is pure luck, and the beaches are overflowing.
 
 So here’s my no-fluff mid-summer list — the things that actually turn these weeks from a sauna with better views into the dream.
 
-**1. Hit the beach before 10am (or after 6pm)**
+**1. Hit the beach before 10 am (or after 6 pm)**
 
-Setting out early and finding quieter calas that still look magical when the light is soft and the sand isn’t frying eggs. Midday? Leave it to the brave (or the people who forgot sunscreen).
+Setting out early and finding quieter calas that still look magical when the light is soft, and the sand isn’t frying eggs. Midday? Leave it to the brave (or the people who forgot sunscreen).
 
 {{< image-caption src="/images/4254.jpg" >}}Hit the beach before 10am (or after 6pm){{< /image-caption >}}
 
-**2. Find a proper shaded terrace with a breeze**
+**2. Find a nice cool shaded terrace with a breeze**
 
-Not every “sea view” terrace is equal. Look for the ones that catch the afternoon *terral* or have proper trees. My current favourites change with the wind, but a cold tinto de verano never does.
+Not every “sea view” terrace is equal. Look for the ones that catch the afternoon *terral* or have proper trees. My current favourites change with the wind, but a cold tinto de verano or pint of cold lager (my northern roots never are far away) never does.
 
 {{< image-caption src="/images/whatsapp-image-2026-05-28-at-08.22.44.jpeg" >}}Chilling by the sea{{< /image-caption >}}
 
@@ -76,4 +77,4 @@ Sun Sea Sangria
 
 Costa Blanca North
 
-{{< image-caption src="/images/img_8685.jpeg" >}}Terrace Crew {{< /image-caption >}}
+{{< image-caption src="/images/img_8685.jpeg" >}}Terrace Crew{{< /image-caption >}}
