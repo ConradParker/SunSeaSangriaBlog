@@ -20,13 +20,11 @@ We are in peak August now — the Marina Alta is very busy, the beaches are full
 
 **The heat is sticking around.**
 
-Yellow alerts have been active again across the northern Costa Blanca, with inland spots and parts of the Marina Alta pushing into the high 30s (even touching near 40°C in places further inland). Coastal towns like Dénia, Jávea and Calpe have been a bit more merciful thanks to the sea breeze, but nights remain sticky and tropical, and if you're like me, not getting enough sleep. AEMET continues to keep an eye on things, so keep the fans going, stay hydrated, and maybe shift those walks or shopping trips to early morning or late evening for a few more days.
+Yellow alerts have been active again across the northern Costa Blanca, with inland spots and parts of the Marina Alta pushing into the high 30s (even touching near 40°C in places further inland). Coastal towns like Dénia, Jávea and Calpe have been a bit more merciful thanks to the sea breeze, but nights remain sticky and tropical, and if you're like me, you're not getting enough sleep. AEMET continues to keep an eye on things, so keep the fans going, stay hydrated, and maybe shift those walks or shopping trips to early morning or late evening for a few more days.
 
 **Dénia’s Moros y Cristianos are officially underway.**
 
-The big one for August has started! On Saturday the Pregón, the formal handover of the city keys and the raising of the standards kicked everything off in the Plaza del Consell, followed by a lively gala dinner that rolled on into the early hours. The full programme runs through to 16 August, with entraetes, parades, the Moorish landing and all the traditional colour and noise we’ve come to love. If you’re in or near Dénia over the next couple of weeks, the streets will be full of filaes, music and that unmistakable festive energy. Perfect excuse to head out for an evening stroll and soak it up.
-
-
+The big one for August has started! On Saturday, the Pregón, the formal handover of the city keys and the raising of the standards kicked everything off in the Plaza del Consell, followed by a lively gala dinner that rolled on into the early hours. The full programme runs through to 16 August, with entraetes, parades, the Moorish landing and all the traditional colour and noise we’ve come to love. If you’re in or near Dénia over the next couple of weeks, the streets will be full of filaes, music and that unmistakable festive energy—perfect excuse to head out for an evening stroll and soak it up.
 
 {{< image-caption src="/images/img_8492.jpeg" >}}Dénia’s Moros y Cristianos are officially underway.{{< /image-caption >}}
 
@@ -44,8 +42,6 @@ It won’t be a full total eclipse here (the path of totality is a bit further n
 
 {{< image-caption src="/images/sun-sea-sangria-7-.png" >}}Almost-total solar eclipse on 12 August{{< /image-caption >}}
 
-
-
 **Quick local notes from up and down the coast**
 
 * **Calpe** has added around 150 new public parking spaces to ease the summer squeeze — always welcome news in high season.
@@ -58,7 +54,7 @@ That’s the main flavour of the week: big fiestas, sticky heat, nature remindin
 
 Stay cool, keep an eye on the beach flags, and if you’re out and about for the Moors and Christians or the eclipse, stay safe and cool.
 
-The new Terrace shop should be up and running this week, with mugs, tote bags and t shirts so keep a eye out on my instagram or facebook page.
+The new Terrace shop should be up and running this week, with mugs, tote bags and T-shirts, so keep an eye out on my Instagram or Facebook page.
 
 Until next Monday — more sun, sea and (hopefully slightly cooler) sangria vibes.
 
