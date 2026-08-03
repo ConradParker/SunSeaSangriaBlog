@@ -6,6 +6,7 @@ description: "Weekly Costa Blanca North news: Dénia Moros y Cristianos kick off
   sticky heatwave continues, posidonia clean-up on the beaches, and the
   nearly-total solar eclipse on 12 August. Local updates from the Marina Alta."
 series: sun-sea-news
+image: /images/2nhrr.jpg
 comments: true
 socials: true
 popular: true
