@@ -14,7 +14,9 @@ popular: true
 
 Pull up a lounger, grab something cold (the fridge is working overtime this week), and let’s catch up on what’s been happening along our stretch of coast from Dénia down towards Alicante and the lovely spots in between.
 
-We are in peak August now — the Marina Alta is very busy, the beaches are full, and the heat is still very much in charge. Here’s your friendly, no-nonsense roundup of the stories that actually matter to those of us living or holidaying here.
+We are in peak August now; the Marina Alta is very busy, the beaches are full, and the heat is still very much in charge. 
+
+So let's get on with your friendly, no-nonsense roundup of the stories that actually matter to those of us living or enjoying your holidays here.
 
 {{< image-caption src="/images/sun-sea-sangria-8-.png" >}}Costa Blanca North News: Dénia Fiestas Kick Off, Sticky Heat & August Eclipse{{< /image-caption >}}
 
@@ -30,7 +32,7 @@ The big one for August has started! On Saturday, the Pregón, the formal handove
 
 **Beaches, posidonia and a bit of nature’s housekeeping**
 
-After the weekend swell earlier, Dénia’s beaches (especially Marineta Cassiana and Marge Roig) collected a serious amount of posidonia — nearly 370 tonnes cleared in the first couple of nights alone. The council and the beach cleaning team are working through the nights to get things tidy again, and it’s expected to take a couple of weeks in total.
+After the weekend swell earlier, Dénia’s beaches (especially Marineta Cassiana and Marge Roig) collected a serious amount of posidonia, nearly 370 tonnes cleared in the first couple of nights alone. The council and the beach cleaning team are working through the nights to get things tidy again, and it’s expected to take a couple of weeks in total.
 
 Remember: those “seaweed” piles are actually a good sign of healthy waters and they protect the sand from erosion. The living meadows offshore are in pretty good shape overall, so while it looks messy for a while, it’s nature doing its thing. The beaches remain open, and the water’s still lovely once you’re past the wrack.
 
@@ -38,7 +40,7 @@ Remember: those “seaweed” piles are actually a good sign of healthy waters a
 
 Mark your calendars! On Wednesday 12 August, just before sunset, we’re in for a spectacular nearly-total solar eclipse. In Dénia it reaches about 99.9 % coverage, with Jávea, Pego, Benissa, Calpe and the rest of the Marina Alta very close behind. The maximum happens around 20:34 when the sun is already low on the horizon.
 
-It won’t be a full total eclipse here (the path of totality is a bit further north), but the sky will darken dramatically, and it’ll feel very special. Proper eclipse glasses are essential, and most shops sell them at the counter for around 2 euros — don’t risk your eyes. Many people are already planning terrace viewing parties or heading to higher spots with a clear western view. The Perseids meteor shower peaks around the same time too, so it could be a magical evening if the skies stay clear.
+It won’t be a full total eclipse here (the path of totality is a bit further north), but the sky will darken dramatically, and it’ll feel very special. Proper eclipse glasses are essential, and most shops sell them at the counter for around 2 euros; please don’t risk your eyes. Many people are already planning terrace viewing parties or heading to higher spots with a clear western view. The Perseids meteor shower peaks around the same time too, so it could be a magical evening if the skies stay clear.
 
 {{< image-caption src="/images/sun-sea-sangria-7-.png" >}}Almost-total solar eclipse on 12 August{{< /image-caption >}}
 
