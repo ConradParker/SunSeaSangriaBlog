@@ -25,11 +25,7 @@ The roads are packed with people heading home or still clinging to their holiday
 
 AEMET has issued an **orange alert** for inland Alicante this afternoon (roughly 14:00–22:00) for intense storms, large hail and strong wind gusts. The coastal strip (Benidorm, Calpe, Dénia and the rest of us) is on yellow. Up to 40 mm of rain in an hour is possible inland, with the coast expecting less but still some drama. After the recent torrid nights (Dénia sensors hit 35 °C past 11 pm at one point), a proper storm might actually be welcome — don’t leave the sunbeds out.
 
-
-
 {{< image-caption src="/images/a-great-start-to-the-week-1-.png" >}}Weather first – keep an eye on the sky today{{< /image-caption >}}
-
-
 
 *The weekend’s hardest news*
 
@@ -53,7 +49,7 @@ On a brighter note, Calpe’s unemployment rate was recently recorded at its low
 
 El Portet beach was temporarily closed to swimming after elevated microbiological levels were detected. The red flag went up on Friday; by the weekend, the latest tests confirmed the water was safe again, and it reopened. A sensible, quick response. (There had been a similar short closure at Cala de l’Andragó earlier.)
 
-### **Inland & the wider Marina Alta**
+###### **Inland & the wider Marina Alta**
 
 * A Guardia Civil operation in the comarca (triggered by a neighbour’s tip-off about suspicious rubbish bags and the smell of marijuana in the Pego area) dismantled two indoor grow-ops. Four people were arrested, and 265 plants seized, along with a firearm and cash.
 * The extreme overnight heat has been the talk of every village from Benissa and Pedreguer up through the valleys — those 26–35 °C midnight readings are brutal even by our standards.
