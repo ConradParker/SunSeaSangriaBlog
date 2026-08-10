@@ -19,7 +19,7 @@ It’s one of those sticky Mondays when the air still feels like yesterday’s h
 
 The roads are packed with people heading home or still clinging to their holidays, and the Costa Blanca North has thrown us the usual mix of tragedy, literal fireworks, fiestas and the odd bit of good news. Here’s the fuller round-up from Alicante northwards through the Marina Alta — including a few of the inland towns too.
 
-{{< image-caption src="/images/a-great-start-to-the-week-.png" >}}Hola Terrace Crew, It’s one of those sticky Mondays when the air still feels like yesterday’s heatwave never quite left… and my car has decided to stage a full-blown breakdown. Garage appointment booked, no wheels for a week, so I’m firmly stuck on the sofa with a large coffee and the local news. The roads are packed with people heading home or still clinging to their holidays, and the Costa Blanca North has thrown us the usual mix of tragedy, literal fireworks, fiestas and the odd bit of good news. Here’s the fuller round-up from Alicante northwards through the Marina Alta — including a few of the inland towns too.{{< /image-caption >}}
+{{< image-caption src="/images/a-great-start-to-the-week-.png" >}}A Great Start to the Week{{< /image-caption >}}
 
 **Weather first – keep an eye on the sky today**
 
