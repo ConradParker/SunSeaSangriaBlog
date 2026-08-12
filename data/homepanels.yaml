@@ -1,9 +1,16 @@
 panels:
   - visible: true
-    heading: Shop the Terrace
-    body: Coming soon 🛍️
-  -
-    visible: true
+    heading: Advertise with me
+    body: >-
+      Let’s work together,
+
+
+      Got a local business, service or product that fits real Costa Blanca North life? I’d love to chat about featuring you here.
+
+
+      [Get in touch →](https://sunseasangria.com/contact-me/)
+    image: /images/image-11-.jpg
+  - visible: true
     heading: Featured on the Terrace
     image: /images/sun-sea-sangria-calpe-y-benissa-97-.jpg
     body: >-
