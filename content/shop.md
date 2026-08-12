@@ -4,40 +4,52 @@ date: 2026-05-27T11:31:00.000+02:00
 draft: false
 menu_weight: 30
 ---
+**The Terrace Shop is open!**
 
-
-**The Terrace Shop**
-
-*Pull up a lounger… your favourite Sun Sea Sangria goodies are coming soon!*
+Pull up a lounger… your favourite Sun Sea Sangria goodies are finally here.
 
 **Hola from the terrace!**
 
-I'm very busy creating a little collection of fun, practical, and properly Costa Blanca North merch that celebrates the life we all love here — sun-drenched mornings, hidden coves, mercado hauls, cheeky dogs, and plenty of sangria moments.
+I’ve been quietly putting together a little collection of simple, useful things that feel like real life on the Northern Costa Blanca — nothing flashy, nothing touristy. Just soft tees for terrace days, sturdy totes for the mercado, a proper mug for your morning coffee (or carajillo), and a few bits that say “I’m part of the Terrace Crew”.
 
-***What’s Coming to the Terrace Shop?***
+Everything is designed to feel like home under the Spanish sun.
 
-Here are some of the pieces we’re working on (more to be added soon!):
+**What’s in the shop right now**
 
-**☕ Official Terrace Crew” Mug**: Start your day with coffee and a reminder that you made it to paradise. Featuring our sun-and-sangria logo and a little Peñón illustration.
+**👕 Sun Sea Sangria Terrace Crew Tee**
 
-👕 **Pull Up a Lounger” T-Shirts & Hoodies**: Soft, comfy unisex styles perfect for hikes, market mornings or sunset aperitivos. Available in a few gorgeous Mediterranean colours.
+Soft, comfy unisex tee with our sun-and-wave logo. Perfect for market mornings, hikes, or just hanging on the terrace with a cold one.
 
-🐶 **Paws & Mischief Collection:** Snoopy-inspired dog bandanas, bandanas for humans, and tote bags. Because every terrace needs a four-legged mischief maker.
+**☕ Sun Sea Sangria Terrace Crew Mug**
 
-🧢 **Hidden Cove Explorer” Caps & Sun Hats**: Lightweight and stylish for those long days exploring the Marina Alta trails and secret beaches.
+Start the day the proper way — coffee, tea, or a cheeky carajillo in a mug that reminds you why you chose this life.
 
-🍷  **Sangria O’Clock” Wine Glasses & Aprons**: For the Sun Sea Foodie crew — perfect for your next terrace gathering or Sunday paella session.
+**👜 Sun Sea Sangria Terrace Crew Tote**
 
-Thank you for being part of this little community.
+Sturdy and practical for mercado hauls, beach days, or carrying bits and pieces around Calpe, Jávea or Dénia.
 
-We’re so grateful you’re here under the same Spanish sun with us.
+**🧢 Sun Sea Sangria Terrace Crew Bucket Hat**
+
+Lightweight sun protection with a smile. Ideal for those long days exploring the Marina Alta or just keeping the midday sun off while you sip sangria.
+
+**🟦 Sun Sea Sangria Terrace Crew Coaster**
+
+Because every proper terrace needs a coaster that looks the part.
+
+More pieces will be added soon (including a few treats for the four-legged members of the Terrace Crew), so keep an eye on the shop.
+
+### **Shop now**
+
+Everything is available in the official Sun Sea Sangria shop:
+
+**→[ sunseasangria-shop.fourthwall.com/en-gbp](https://sunseasangria-shop.fourthwall.com/en-gbp)**
+
+(You can switch currency if you prefer.)
+
+Thank you for being part of this little community. Whether you’re already living the Costa Blanca North life or just dreaming about it from afar, you’re officially part of the Terrace Crew now.
 
 With sun, sea, and plenty of sangria,
 
-Joanne
+**Joanne**
 
-Founder 
-
-sunseasangria.com
-
-{{< image-caption src="/images/gts3l.jpg" >}}{{< /image-caption >}}
+Founder, Sun Sea Sangria
