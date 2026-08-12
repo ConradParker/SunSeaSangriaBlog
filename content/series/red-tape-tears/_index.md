@@ -3,7 +3,7 @@ title: Red Tape & Tears
 date: 2026-02-05T08:50:00.000+01:00
 draft: false
 image: red-tape-tears.jpg
-weight: ""
+weight: 3
 menu_weight: ""
 nav_emoji: 📄
 nav_desc: Paperwork help & guides
