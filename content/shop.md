@@ -53,3 +53,5 @@ With sun, sea, and plenty of sangria,
 **Joanne**
 
 Founder, Sun Sea Sangria
+
+{{< image-caption src="/images/image-10-.jpg" >}}{{< /image-caption >}}
