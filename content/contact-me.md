@@ -4,7 +4,7 @@ date: 2026-01-06T13:09:00.000+01:00
 draft: false
 menu_weight: 70
 ---
-**¡Hola from the Costa Blanca North Terrace!** ☀️🍹🐶
+**¡Hola from the Costa Blanca North Terrace!** ☀️🍹
 
 Whether you’re dreaming of making the big move to Spain, hunting for hidden coves and the best tapas spots, swapping dog stories, or just want a friendly chat about real expat life here in the Marina Alta.
 
@@ -36,9 +36,6 @@ With sun, sea, and plenty of sangria,
 **Joanne xx**
 
 Founder, Sun Sea Sangria
-
-
-
 
 ✉️"
 
