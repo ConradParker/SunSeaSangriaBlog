@@ -22,8 +22,9 @@
 
   min-height: 560px;
   padding-bottom: 120px;
-  background-size: cover;
-  background-position: center;
+  /* Base colour behind the slides — briefly visible before the first image
+     paints, and the whole backdrop if no hero images are set. */
+  background-color: var(--color-ink);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -33,11 +34,65 @@
 .home-hero::before {
   content: "";
   position: absolute; inset: 0;
+  z-index: 1;
   background: linear-gradient(180deg, rgba(0,0,0,0.05) 0%, rgba(0,0,0,0.40) 100%);
 }
 .home-hero-overlay {
-  position: relative; z-index: 1;
+  position: relative; z-index: 2;
   max-width: 760px; padding: var(--space-xl);
+}
+
+/* ── Hero slides — stacked layers that crossfade (hero-carousel.js) ─────── */
+
+.home-hero-slides {
+  position: absolute; inset: 0;
+  z-index: 0;
+  overflow: hidden;
+}
+.home-hero-slide {
+  position: absolute; inset: 0;
+  background-size: cover;
+  background-position: center;
+  opacity: 0;
+  transition: opacity 1.2s ease-in-out;
+}
+.home-hero-slide.is-active { opacity: 1; }
+.home-hero--no-motion .home-hero-slide { transition: none; }
+
+.home-hero-dots {
+  position: absolute;
+  left: 0; right: 0;
+  bottom: 136px; /* clear the series cards overlapping the hero's bottom edge */
+  z-index: 3;
+  display: flex;
+  justify-content: center;
+  gap: var(--space-xs);
+}
+.home-hero-dot {
+  /* 28px keeps the tap target usable; the visible dot is the ::before. */
+  width: 28px; height: 28px;
+  padding: 0; border: 0;
+  background: transparent;
+  cursor: pointer;
+  display: grid; place-items: center;
+  border-radius: var(--radius-pill);
+}
+.home-hero-dot::before {
+  content: "";
+  width: 10px; height: 10px;
+  border-radius: var(--radius-pill);
+  border: 1px solid rgba(255,255,255,0.9);
+  background: rgba(255,255,255,0.25);
+  transition: background-color .2s, transform .2s;
+}
+.home-hero-dot:hover::before { background: rgba(255,255,255,0.6); }
+.home-hero-dot.is-active::before {
+  background: var(--color-white);
+  transform: scale(1.2);
+}
+.home-hero-dot:focus-visible {
+  outline: 2px solid var(--color-white);
+  outline-offset: 2px;
 }
 .home-hero-eyebrow {
   font-style: italic;
@@ -227,6 +282,8 @@
 }
 
 @media (max-width: 720px) {
+  /* Series cards only overlap by 50px here, so the dots can sit lower. */
+  .home-hero-dots { bottom: 86px; }
   .home-series { margin-top: -50px; padding: 0 var(--space-md) var(--space-xl); }
   .home-series-grid { grid-template-columns: 1fr; gap: var(--space-md); }
   .home-series-card { aspect-ratio: 16 / 9; }

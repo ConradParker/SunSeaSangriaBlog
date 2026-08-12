@@ -2,20 +2,67 @@
 {{ $h := .Site.Data.homepage.hero }}
 {{ $n := .Site.Data.homepage.newsletter }}
 
-{{/* Resolve hero image: assets/ pipeline if path is /images/..., otherwise use as-is (static/). */}}
-{{ $heroURL := $h.image }}
-{{ if hasPrefix $h.image "/images/" }}
-  {{ with resources.Get (strings.TrimPrefix "/" $h.image) }}
-    {{ $heroURL = .RelPermalink }}
+{{/* Hero slides come from `hero.images` (CMS list). `hero.image` is the legacy
+     single-image key — kept as a fallback so an old draft merging can't leave
+     the hero blank. */}}
+{{ $sources := slice }}
+{{ with $h.images }}
+  {{ $sources = . }}
+{{ else }}
+  {{ with $h.image }}{{ $sources = slice . }}{{ end }}
+{{ end }}
+
+{{/* Resolve each path: assets/ pipeline if it starts /images/, otherwise use
+     as-is (static/). Oversized originals are downscaled — with several slides
+     the page would otherwise ship a few MB of hero imagery. */}}
+{{ $slides := slice }}
+{{ range $sources }}
+  {{ if . }}
+    {{ $url := . }}
+    {{ if hasPrefix . "/images/" }}
+      {{ with resources.Get (strings.TrimPrefix "/" .) }}
+        {{ $url = .RelPermalink }}
+        {{ if in (slice "image/jpeg" "image/png" "image/webp" "image/tiff" "image/bmp") .MediaType.Type }}
+          {{ if gt .Width 2000 }}
+            {{ $url = (.Resize "2000x webp q82").RelPermalink }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+    {{ $slides = $slides | append $url }}
   {{ end }}
 {{ end }}
 
-<section class="home-hero" style="background-image: url('{{ $heroURL }}');">
+{{ $multi := gt (len $slides) 1 }}
+
+<section class="home-hero{{ if $multi }} home-hero--carousel{{ end }}"
+  {{ if $multi }}data-hero-carousel data-interval="{{ mul ($h.interval | default 6) 1000 }}"{{ end }}>
+
+  {{/* Only the first slide gets an inline background so the browser fetches one
+       image on first paint; the rest are hydrated by hero-carousel.js. */}}
+  <div class="home-hero-slides" aria-hidden="true">
+    {{ range $i, $url := $slides }}
+      <div class="home-hero-slide{{ if eq $i 0 }} is-active{{ end }}"
+        {{- if eq $i 0 }} style="background-image: url('{{ $url }}');"
+        {{- else }} data-bg="{{ $url }}"{{ end }}></div>
+    {{ end }}
+  </div>
+
   <div class="home-hero-overlay">
     {{ with $h.eyebrow }}<p class="home-hero-eyebrow">{{ . }}</p>{{ end }}
     <h1 class="home-hero-headline">{{ replace (chomp $h.headline) "\n" "<br>" | safeHTML }}</h1>
     {{ with $h.cta_label }}<a class="btn btn-primary btn-lg" href="{{ $h.cta_link }}">{{ . }}</a>{{ end }}
   </div>
+
+  {{ if $multi }}
+    <div class="home-hero-dots" role="group" aria-label="Choose hero image">
+      {{ range $i, $url := $slides }}
+        <button type="button" class="home-hero-dot{{ if eq $i 0 }} is-active{{ end }}"
+                data-slide="{{ $i }}" aria-label="Show image {{ add $i 1 }}"
+                {{ if eq $i 0 }}aria-current="true"{{ end }}></button>
+      {{ end }}
+    </div>
+  {{ end }}
 </section>
 
 <section class="home-series">
@@ -126,4 +173,11 @@
 
   </div>
 </section>
+
+{{ if $multi }}
+  {{ with resources.Get "js/hero-carousel.js" }}
+    {{ $js := . | minify | fingerprint }}
+    <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" crossorigin="anonymous" defer></script>
+  {{ end }}
+{{ end }}
 {{ end }}

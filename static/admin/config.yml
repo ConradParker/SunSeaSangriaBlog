@@ -117,7 +117,15 @@ collections:
             name: "hero"
             widget: "object"
             fields:
-              - { label: "Background image", name: "image", widget: "image" }
+              - label: "Background images"
+                name: "images"
+                widget: "list"
+                min: 1
+                field: { label: "Image", name: "image", widget: "image" }
+                hint: "Add up to 4 or 5 photos and they'll fade from one to the next automatically. Drag the rows to reorder — the top one shows first. Just one image = no slideshow, it stays still."
+              - { label: "Seconds each image stays on screen", name: "interval", widget: "number", default: 6,
+                  value_type: "int", min: 2, max: 30, required: false,
+                  hint: "Only used when there's more than one image. 6 is a good default." }
               - { label: "Small italic line above headline", name: "eyebrow", widget: "string" }
               - { label: "Big headline", name: "headline", widget: "text",
                   hint: "Press Enter to add a line break (e.g. break after 'the')" }

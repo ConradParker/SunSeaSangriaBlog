@@ -1,5 +1,7 @@
 hero:
-  image: /images/add-sangria-glass-to-table.png
+  images:
+    - /images/add-sangria-glass-to-table.png
+  interval: 6
   eyebrow: Pull up a Lounger
   headline: |
     Sun, sea & real life on the Costa Blanca North
