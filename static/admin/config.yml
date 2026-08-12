@@ -118,9 +118,11 @@ collections:
             widget: "object"
             fields:
               - label: "Background images"
+                label_singular: "Image"
                 name: "images"
                 widget: "list"
                 min: 1
+                collapsed: false
                 field: { label: "Image", name: "image", widget: "image" }
                 hint: "Add up to 4 or 5 photos and they'll fade from one to the next automatically. Drag the rows to reorder — the top one shows first. Just one image = no slideshow, it stays still."
               - { label: "Seconds each image stays on screen", name: "interval", widget: "number", default: 6,
