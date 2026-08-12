@@ -2,7 +2,7 @@
 title: Sun Sea Lifestyle
 date: 2026-03-31T10:25:00.000+02:00
 draft: false
-image: sun-sea-lifestyle.jpg
+image: image-12-.jpg
 weight: 2
 nav_emoji: 🍹
 nav_desc: Cheeky, no-fluff guide to full-time living on Costa Blanca North.
