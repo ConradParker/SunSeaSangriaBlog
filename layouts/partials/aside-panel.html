@@ -1,0 +1,28 @@
+{{/* One free-form panel from the homepage right-hand column.
+
+     Called once per entry in data/homepanels.yaml, with the panel itself as
+     the context. Jo edits these in the CMS under Site Settings → Homepage
+     Panels, so the keys read here must stay in step with the list fields in
+     static/admin/config.yml.
+
+     Every field is optional — a panel may be heading-only, image-only, or any
+     combination. `visible` defaults to on: only an explicit false hides a
+     panel, so a panel saved before the toggle existed still renders. */}}
+{{ if ne .visible false }}
+  <div class="blog-aside aside-panel">
+    {{ with .heading }}<h2 class="blog-aside__title">{{ . }}</h2>{{ end }}
+    {{ with .image }}
+      {{ $src := . }}
+      {{ if hasPrefix . "/images/" }}
+        {{ with resources.Get (strings.TrimPrefix "/" .) }}
+          {{ $src = (.Resize "600x").RelPermalink }}
+        {{ end }}
+      {{ end }}
+      <img class="aside-panel__img" src="{{ $src }}" alt="" loading="lazy">
+    {{ end }}
+    {{ with .body }}<div class="aside-panel__body">{{ . | markdownify }}</div>{{ end }}
+    {{ if and .link_url .link_label }}
+      <a class="aside-panel__link" href="{{ .link_url }}">{{ .link_label }} →</a>
+    {{ end }}
+  </div>
+{{ end }}

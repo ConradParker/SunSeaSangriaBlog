@@ -11,7 +11,7 @@ public_folder: /images
 
 collections:
   - name: "series"
-    label: "Story Series"
+    label: "Series"
     folder: "content/series"
     path: "{{slug}}/_index"
     create: true
@@ -53,7 +53,7 @@ collections:
         widget: "string"
         required: false
         hint: "Hex colour for the card accent (e.g. #e67e22)"
-      - { label: "Body", name: "body", widget: "markdown", hint: "Introduction to this story series" }
+      - { label: "Body", name: "body", widget: "markdown", hint: "Introduction to this series" }
 
   - name: "blog"
     label: "Blog"
@@ -77,7 +77,7 @@ collections:
         value_field: "{{slug}}"
         display_fields: ["title"]
         required: false
-        hint: "Optionally assign this post to a story series"
+        hint: "Optionally assign this blog to a series"
       - label: "Featured Image"
         name: "image"
         widget: "image"
@@ -150,15 +150,28 @@ collections:
           - { label: "Title", name: "title", widget: "string", hint: "Main heading at the top of the blog listing page" }
           - { label: "Subtitle", name: "subtitle", widget: "string", required: false, hint: "Optional tagline shown under the title (a 🍹 is added automatically). Leave empty for no subtitle." }
 
-      - name: "featuredstory"
-        label: "Featured Story"
-        file: "data/featuredstory.yaml"
+      # Free-form panels down the right-hand side of the homepage. Add, reorder
+      # or remove them freely — the field names must stay in step with
+      # layouts/partials/aside-panel.html.
+      - name: "homepanels"
+        label: "Homepage Panels"
+        file: "data/homepanels.yaml"
         fields:
-          - { label: "Heading", name: "heading", widget: "string", default: "Featured Story", hint: "Title shown at the top of the Featured Story panel on the homepage" }
-          - { label: "Image", name: "image", widget: "image", required: false, hint: "Optional image shown above the text" }
-          - { label: "Text", name: "body", widget: "markdown", required: false, hint: "Write whatever you like here — appears under the image" }
-          - { label: "Link label", name: "link_label", widget: "string", required: false, hint: "Optional link text, e.g. 'Read more' (leave empty for no link)" }
-          - { label: "Link URL", name: "link_url", widget: "string", required: false, hint: "Where the link goes (only used if a link label is set)" }
+          - label: "Panels"
+            label_singular: "Panel"
+            name: "panels"
+            widget: "list"
+            collapsed: false
+            summary: "{{fields.heading}}"
+            required: false
+            hint: "The boxes down the right-hand side of the homepage. Drag the rows to reorder — the top one shows first. Every field is optional, so a panel can be just a picture, just text, or any mix."
+            fields:
+              - { label: "Show this panel", name: "visible", widget: "boolean", default: true, required: false, hint: "Turn off to hide this panel without deleting it" }
+              - { label: "Heading", name: "heading", widget: "string", required: false, hint: "Title shown at the top of the panel — also the name of this row in the list above" }
+              - { label: "Image", name: "image", widget: "image", required: false, hint: "Optional image shown above the text" }
+              - { label: "Text", name: "body", widget: "markdown", required: false, hint: "Write whatever you like here — appears under the image" }
+              - { label: "Link label", name: "link_label", widget: "string", required: false, hint: "Optional link text, e.g. 'Read more' (leave empty for no link)" }
+              - { label: "Link URL", name: "link_url", widget: "string", required: false, hint: "Where the link goes, e.g. /shop/ (only used if a link label is set)" }
 
       - name: "socials"
         label: "Social Media URLs"

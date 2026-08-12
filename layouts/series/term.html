@@ -19,7 +19,7 @@
   <div class="series-hero">
     <div class="series-hero-inner">
       <div class="series-hero-content">
-        <div class="series-badge">📚 Series &nbsp;·&nbsp; {{ $postCount }} {{ cond (eq $postCount 1) "story" "stories" }}</div>
+        <div class="series-badge">📚 Series &nbsp;·&nbsp; {{ $postCount }} {{ cond (eq $postCount 1) "blog" "blogs" }}</div>
         <h1 class="series-title">{{ $emoji }} {{ .Title }}</h1>
         {{ with .Content }}
           <div class="series-excerpt" id="series-excerpt">{{ . }}</div>
@@ -32,7 +32,7 @@
             <span>Updated <strong>{{ .Date.Format "January 2, 2006" }}</strong></span>
             <span>·</span>
           {{- end }}
-          <span><strong>{{ $postCount }}</strong> {{ cond (eq $postCount 1) "post" "posts" }}</span>
+          <span><strong>{{ $postCount }}</strong> {{ cond (eq $postCount 1) "blog" "blogs" }}</span>
         </div>
       </div>
       <div class="series-hero-image">
@@ -80,10 +80,10 @@
   {{- $pager := .Paginate $posts 9 -}}
   <div class="posts-header">
     <div>
-      <span class="posts-title">Stories in this series</span>
+      <span class="posts-title">Blogs in this series</span>
     </div>
     <div style="display:flex;align-items:center;gap:10px;">
-      <span class="posts-count">{{ $postCount }} {{ cond (eq $postCount 1) "post" "posts" }} · Page {{ $pager.PageNumber }} of {{ $pager.TotalPages }}</span>
+      <span class="posts-count">{{ $postCount }} {{ cond (eq $postCount 1) "blog" "blogs" }} · Page {{ $pager.PageNumber }} of {{ $pager.TotalPages }}</span>
       <select class="sort-select" disabled>
         <option>Newest first ▾</option>
       </select>
