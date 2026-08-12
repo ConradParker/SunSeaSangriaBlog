@@ -38,7 +38,7 @@ Because every proper terrace needs a coaster that looks the part.
 
 More pieces will be added soon (including a few treats for the four-legged members of the Terrace Crew), so keep an eye on the shop.
 
-### **Shop now**
+**Shop now**
 
 Everything is available in the official Sun Sea Sangria shop:
 
@@ -53,5 +53,9 @@ With sun, sea, and plenty of sangria,
 **Joanne**
 
 Founder, Sun Sea Sangria
+
+
+
+
 
 {{< image-caption src="/images/image-10-.jpg" >}}{{< /image-caption >}}
