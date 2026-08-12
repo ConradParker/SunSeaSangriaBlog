@@ -2,7 +2,7 @@
 title: Sun Sea Foodie
 date: 2026-03-04T12:21:00.000+01:00
 draft: false
-image: sun-sea-foodie.jpg
+image: image-13-.jpg
 weight: 2
 menu_weight: ""
 nav_emoji: 🍝
