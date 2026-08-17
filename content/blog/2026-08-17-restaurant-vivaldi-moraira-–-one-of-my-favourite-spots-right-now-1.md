@@ -33,8 +33,6 @@ Everything comes out looking carefully put together without being pretentious. P
 
 {{< image-compare src1="/images/whatsapp-image-2026-08-17-at-09.23.01-3-.jpeg" src2="/images/whatsapp-image-2026-08-17-at-09.23.02-4-.jpeg" caption1="Pork Shawarma" caption2="Tuna Tartar" >}}
 
-
-
 **The vibe**
 
 What I really like about Vivaldi is the atmosphere. It’s relaxed enough that you can turn up in shorts and flip-flops, but the food and presentation still feel special. Service has always been friendly and unhurried when we have been there.
@@ -51,8 +49,6 @@ Let me know in the comments below
 
 Joanne x
 
-
-
 ***Restaurant Details***
 
 **Address**: Paseo Senillar, 25, 03724 Moraira, Alicante
@@ -63,4 +59,4 @@ Joanne x
 
 **Price Range**: €20 – €30 per person 
 
-[Check out the Tripadvisor comments ](https://www.tripadvisor.com/Restaurant_Review-g736284-d4242174-Reviews-Brasserie_Vivaldi-Moraira_Costa_Blanca_Province_of_Alicante_Valencian_Community.html)
+[You can see more reviews on Tripadvisor here](https://www.tripadvisor.com/Restaurant_Review-g736284-d4242174-Reviews-Brasserie_Vivaldi-Moraira_Costa_Blanca_Province_of_Alicante_Valencian_Community.html)
