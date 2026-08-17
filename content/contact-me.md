@@ -29,13 +29,15 @@ I always write these in my normal voice so they feel friendly and real, not like
 
 Introductory rates start from €40.
 
-If this sounds interesting, just drop me a message through the Contact page or email me at **jo@sunseasolutions.com**. No pressure — we can have a proper chat and see if it feels right.
+If this sounds interesting, just drop me a message through the Contact page or email me at **jo@sunseasolutions.com**. No pressure — we can have a chat or meet and see if it feels right.
 
 Looking forward to it.
 
 Joanne
 
 Founder, Sun Sea Sangria
+
+
 
 ✉️"
 
