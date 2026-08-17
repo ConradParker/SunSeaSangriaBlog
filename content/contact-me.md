@@ -12,28 +12,28 @@ Whether you’re dreaming of making the big move to Spain, hunting for hidden co
 
 We’ve got a little collection of Sun Sea Sangria merch ready for you — soft tees, mugs, totes and a few other bits that feel like home under the Spanish sun. Pop over to the[ Shop](https://sunseasangria.com/shop/) whenever you’re ready.
 
-**Interested in advertising or collaborating?**
+**Advertise & Collaborate**
 
-If you’d like to advertise with Sun Sea Sangria, feature a local business, or explore a collaboration (sponsored posts, newsletter mentions, etc.), please get in touch. I’d love to hear from you and see if we’re a good fit.
+I’m starting to open a few advertising and collaboration spots for local businesses that feel like a natural fit for Sun Sea Sangria.
 
-**Let’s Chat**
+If you run something in the Costa Blanca North — or offer services that genuinely help people living here or planning the move — I’d love to hear from you.
 
-Drop me a message using the form below or email me directly at **jo@sunseasolutions.com**.
+Options include:
 
-Tell me:
+* A feature on the website
+* A mention in the Friday Terrace Newsletter
+* Combined packages
+* A bit of Instagram support if it suits
 
-* Your questions about moving to the Costa Blanca North
-* Recommendations or tips you’d like to share
-* Advertising or collaboration ideas
-* Or just say hola if you’re passing through Jávea, Moraira, Calpe or Benissa!
+I always write these in my normal voice so they feel friendly and real, not like a hard sell.
 
-I reply personally (usually within a day or two — unless I’m chasing a sunset with a glass of sangria in hand 😉).
+Introductory rates start from €40.
 
-Can’t wait to hear from you!
+If this sounds interesting, just drop me a message through the Contact page or email me at **jo@sunseasolutions.com**. No pressure — we can have a proper chat and see if it feels right.
 
-With sun, sea, and plenty of sangria,
+Looking forward to it.
 
-**Joanne xx**
+Joanne
 
 Founder, Sun Sea Sangria
 
