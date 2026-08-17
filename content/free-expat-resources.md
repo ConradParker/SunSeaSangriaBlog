@@ -12,6 +12,8 @@ menu_weight: 40
 
 I’ve put together a few free guides to make life on the Costa Blanca North a bit easier and a lot more enjoyable. Everything is written from real experience living here in the Marina Alta — no fluff, just the useful stuff.
 
+{{< image-caption src="/images/bm8yl.jpg" >}}Free Guides - Sun Sea Sangria{{< /image-caption >}}
+
 
 
 **Sun Sea Sangria Free Expat Starter Pack 2026**
@@ -28,7 +30,21 @@ This is the guide I wish someone had handed me when we first settled here. It’
 * Everyday living tips (banks, markets, making friends)
 * Honest notes on what life here is really like
 
-**[Click for your free copy here](https://drive.google.com/file/d/1u1xR3Qj80TBnK4-p3lQnHfaPOKHeE2Kg/view)**
+**[Click here for your free copy](https://drive.google.com/file/d/1u1xR3Qj80TBnK4-p3lQnHfaPOKHeE2Kg/view)**
+
+
+
+
+
+**Costa Blanca North: Autumn & Winter Guide 2026/27**
+
+**Your free seasonal guide to the quieter, cosier side of the Costa Blanca North**
+
+Summer gets all the attention, but autumn and winter here have their own special rhythm — softer light, fewer crowds, cooler evenings, and some of the best local events of the year.
+
+This free guide gives you a clear, honest look at what life (and what’s on) really feels like from September through to March.
+
+[Click for your free guide here.](https://drive.google.com/file/d/1WDGY3p-cbOwVic74Hi8nY92RucQHY18_/view?usp=drive_link)
 
 
 
@@ -40,7 +56,7 @@ A practical walking guide for exploring with your dog.
 
 I’ve included 7 carefully chosen trails (easy to moderate), with clear details on distance, difficulty, parking, and how dog-friendly each one really is — plus a few after-hike recommendations.
 
-**[Download the free guide here](https://drive.google.com/file/d/1MS6P-46lijBDWzAaLowUXhhHwyesBeI6/view)**
+**[Click for your free guide here.](https://drive.google.com/file/d/1MS6P-46lijBDWzAaLowUXhhHwyesBeI6/view)**
 
 
 
@@ -52,11 +68,13 @@ A lovely visual introduction to the region — beaches, hidden coves, local food
 
 Perfect if you want a feel for the area before you arrive or while you’re planning your days.
 
-**[Download the free guide here](https://drive.google.com/file/d/1oJyQnLdf8PdTiryYlxZFPXKBVeK-dRs9/view)**
+**[Click for the free guide here.](https://drive.google.com/file/d/1oJyQnLdf8PdTiryYlxZFPXKBVeK-dRs9/view)**
 
 
 
-***A quick note***
+
+
+**A quick note**
 
 All information is up to date as of August 2026. Rules and procedures (especially around paperwork) can change, so please always double-check with official sources or a trusted gestor. These guides are here to help — they’re not a substitute for official advice.
 
