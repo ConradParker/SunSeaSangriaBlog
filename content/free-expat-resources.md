@@ -1,67 +1,69 @@
 ---
-title: Free Guide
+title: Free Guides
 date: 2026-05-19T11:13:00.000+02:00
 draft: false
 menu_weight: 40
 ---
-Free Resources & Guides
 
-**🌞 Helpful Guides from the Terrace**
 
-Hello and welcome.
+**Free Guides from the Terrace**
 
-I’ve created these free guides to make your time in Costa Blanca North easier, more enjoyable, and a little more magical. Everything is written from real experience living here in the Marina Alta.
+¡Hola and welcome.
 
-Whether you’re moving here, planning a long stay, or simply want to explore with your dog, these guides are here to help.
+I’ve put together a few free guides to make life on the Costa Blanca North a bit easier and a lot more enjoyable. Everything is written from real experience living here in the Marina Alta — no fluff, just the useful stuff.
 
-**📥 Sun Sea Sangria Free Expat Starter Pack 2026**
 
-Your complete welcome guide to Costa Blanca North.
 
-This is our flagship guide for anyone moving to (or spending a long time in) the area. It covers the practical side of settling in with warmth and honesty.
+**Sun Sea Sangria Free Expat Starter Pack 2026**
+
+**Your practical welcome guide to Costa Blanca North**
+
+This is the guide I wish someone had handed me when we first settled here. It’s designed for anyone moving to the area, planning a long stay, or just wanting to feel more confident about the practical side of life.
 
 **Inside you’ll find:**
 
-* Clear 30-day checklist for your first week
-* Step-by-step help with NIE, TIE and SIP applications
-* Healthcare guidance and English-speaking doctors
+* A clear 30-day checklist for your first weeks
+* Simple step-by-step help with NIE, TIE and SIP
+* Healthcare guidance and finding English-speaking doctors
 * Everyday living tips (banks, markets, making friends)
-* Honest advice on the real Costa Blanca lifestyle
+* Honest notes on what life here is really like
 
-**[Download your free copy here ](https://drive.google.com/file/d/1u1xR3Qj80TBnK4-p3lQnHfaPOKHeE2Kg/view?usp=drive_link)**
+**[Click for your free copy here](https://drive.google.com/file/d/1u1xR3Qj80TBnK4-p3lQnHfaPOKHeE2Kg/view)**
 
-**🥾 Best Dog-Friendly Hikes & Trails in Marina Alta 2026**
 
-A complete walking guide for exploring with your dog.
 
-Whether you want an easy flat path or a proper mountain adventure, this guide highlights the best trails we’ve walked ourselves — with honest details on distance, difficulty, parking, and dog-friendly notes.
 
-**Inside you’ll find:**
 
-7 carefully chosen dog-friendly trails (easy to moderate)
+**Best Dog-Friendly Hikes & Trails in the Marina Alta 2026**
 
-Clear stats tables and practical tips
+A practical walking guide for exploring with your dog.
 
-Parking, permits, and seasonal advice
+I’ve included 7 carefully chosen trails (easy to moderate), with clear details on distance, difficulty, parking, and how dog-friendly each one really is — plus a few after-hike recommendations.
 
-After-hike recommendations (including sangria spots!)
+**[Download the free guide here](https://drive.google.com/file/d/1MS6P-46lijBDWzAaLowUXhhHwyesBeI6/view)**
 
-**[Download your free copy here](https://drive.google.com/file/d/1MS6P-46lijBDWzAaLowUXhhHwyesBeI6/view?usp=drive_link)**
 
-**🌊 Costa Blanca North Guide**
 
-A beautiful visual introduction to the region.
 
-This guide gives you a lovely taste of what makes Costa Blanca North so special — from stunning beaches and hidden coves to local food, fiestas, history, and that relaxed Mediterranean way of life.
 
-Perfect if you want inspiration and a feel for the area before you arrive or while you’re planning your days.
+**Costa Blanca North Guide**
 
-**[Download your free copy here: ](https://drive.google.com/file/d/1oJyQnLdf8PdTiryYlxZFPXKBVeK-dRs9/view?usp=drive_link)**
+A lovely visual introduction to the region — beaches, hidden coves, local food, fiestas, and that relaxed Mediterranean pace of life.
 
-**Important Note:** All information in these guides is up to date as of May/June 2026. Rules and procedures (especially around paperwork) can change, so please always double-check with official sources, your local Town Hall, or a trusted gestor before taking any action. These guides are here to help and guide you — they are not a substitute for official advice.
+Perfect if you want a feel for the area before you arrive or while you’re planning your days.
 
-Feel free to leave a comment below if you have any questions — I reply to every single one.
+**[Download the free guide here](https://drive.google.com/file/d/1oJyQnLdf8PdTiryYlxZFPXKBVeK-dRs9/view)**
 
-Thank you for being part of the Sun Sea Sangria family. Pull up a chair… the sangria is chilled, and the view is waiting.
 
-— Joanne 🌴🍷
+
+***A quick note***
+
+All information is up to date as of August 2026. Rules and procedures (especially around paperwork) can change, so please always double-check with official sources or a trusted gestor. These guides are here to help — they’re not a substitute for official advice.
+
+If you have any questions, just leave a comment or drop me a message. I reply to everyone.
+
+Thank you for being part of the Sun Sea Sangria family.
+
+Pull up a chair — the view is waiting.
+
+Joanne 🌴🍷
