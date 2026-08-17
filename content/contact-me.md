@@ -10,11 +10,11 @@ Whether you’re dreaming of making the big move to Spain, hunting for hidden be
 
 **The Terrace Shop is open!**
 
-We’ve got a little collection of Sun Sea Sangria merch ready for you — soft tees, mugs, totes and a few other bits that feel like home under the Spanish sun.
+We’ve got a little collection of Sun Sea Sangria merch ready for you: soft tees, mugs, totes and a few other bits that feel like home under the Spanish sun.
 
 Pop over to the[ Shop](https://sunseasangria.com/shop/) whenever you’re ready.
 
-
+{{< image-caption src="/images/image-10-.jpg" >}}{{< /image-caption >}}
 
 **Advertise & Collaborate**
 
@@ -28,7 +28,7 @@ Introductory rates start from €40.
 
 Just drop me a message below or email **jo@sunseasolutions.com** and we can have a coffee or chat.
 
-
+{{< image-caption src="/images/6ziid.jpg" >}}{{< /image-caption >}}
 
 **Let’s Chat**
 
@@ -48,9 +48,6 @@ Can’t wait to hear from you!
 With sun, sea, and plenty of sangria,
 
 Joanne xx
-
-
-
 
 ✉️"
 
