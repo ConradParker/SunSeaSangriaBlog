@@ -8,9 +8,9 @@ menu_weight: 40
 
 ¡Hola and welcome.
 
-I’ve put together a few free guides to make life on the Costa Blanca North a bit easier and a lot more enjoyable. Everything is written from real experience living here in the Marina Alta — no fluff, just the useful stuff.
+I’ve put together a few free guides to make life on the Costa Blanca North a bit easier and a lot more enjoyable. Everything is written from real experience living here in the Marina Alta, no fluff, just the useful stuff.
 
-{{< image-caption src="/images/d2n5j.jpg" >}}Free Guides - Sun Sea Sangria{{< /image-caption >}}
+{{< image-caption src="/images/sun-sea-sangria-free-guides.png" >}}Free Guides - Sun Sea Sangria{{< /image-caption >}}
 
 **Sun Sea Sangria Free Expat Starter Pack 2026**
 
