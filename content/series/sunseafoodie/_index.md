@@ -2,7 +2,7 @@
 title: Sun Sea Foodie
 date: 2026-03-04T12:21:00.000+01:00
 draft: false
-image: image-13-.jpg
+image: riu8b-1-.jpg
 weight: 2
 menu_weight: ""
 nav_emoji: 🍝
