@@ -15,13 +15,15 @@ Pull up a lounger, pour something cold (the fridge has been working overtime aga
 
 It’s been a rollercoaster of a week from weather to fires and so much more.=Midweek we were under red heat alerts, with temperatures still hanging around 39–40 °C at midnight in places like Dénia. Parks and high-risk zones (Montgó, Peñón de Ifach and others) were closed, outdoor activities got restricted, and Dénia even opened some museums as climate refuges. The sea was bath-warm too, 27–29 °C in many spots.
 
-
+{{< image-caption src="/images/6ziid.jpg" >}}Want to work with me and advertise? Send me a message {{< /image-caption >}}
 
  Storms rolled through, temperatures dropped sharply (some reports of a 20-degree plunge), lightning struck (one hit a palm on Xàbia’s Vía Augusta, another sparked a quick fire in Llíber), and we had road chaos including a car fire that closed part of the N-332 near Gata. A bit of relief after those sticky nights, even if it brought its own drama.
 
 **Calpe**
 
 The rubbish strike finally wrapped up, but Acciona was slow with the paperwork needed to get everything properly back to normal. A few piles still lingered and the town hall kept the pressure on. Elsewhere there was a burglary that turned nasty (owner injured, two arrests), some political back-and-forth, and a nice bit of joint youth enterprise work with neighbouring towns.
+
+{{< image-caption src="/images/a-great-start-to-the-week-1-.png" >}}{{< /image-caption >}}
 
 **Dénia**
 
