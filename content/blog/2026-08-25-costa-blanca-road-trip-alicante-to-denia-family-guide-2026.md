@@ -13,17 +13,15 @@ popular: true
 ---
 **Hola Terrace Crew,**
 
-The fierce summer heat is finally starting to ease, and the busiest tourist crowds are packing up. That means it’s almost the perfect moment to get out and about again, windows down, Mediterranean breeze in your hair, and a cold glass of sangria waiting at the end of the day.
+The fierce summer heat is finally easing, and the busiest tourist crowds are packing up. That means it’s almost the perfect moment to get out and about again, windows down, Mediterranean breeze in your hair, and a cold glass of sangria waiting at the end of the day.
 
 If you’re dreaming of that classic Costa Blanca road trip, the stretch from Alicante up to Dénia is pure gold: golden beaches, dramatic cliffs, pretty inland villages and enough theme-park thrills to keep the whole family grinning from ear to ear.
 
-I’ve put together a family-friendly things-to-do list, plus the practical bits, opening times and approximate prices per person or for a family. Prices and hours are based on the 2026 summer season and can change a little, **so always double-check the official websites** before you go. Booking online almost always saves a few euros and lets you skip the queues.
+I’ve put together a family-friendly things-to-do list, plus the practical bits, opening times and approximate prices per person or for a family. Prices and hours are based on the 2026 summer season and may change, **so always double-check the official websites** before you go. Booking online almost always saves a few euros and lets you skip the queues.
 
 *Ready? Let’s hit the road!*
 
 {{< image-caption src="/images/terramitica.jfif" >}}Terra Mitica - Benidorm{{< /image-caption >}}
-
-
 
 **Alicante: Start High with Castle Views**
 
@@ -31,13 +29,13 @@ Kick things off in Alicante itself with the **Castillo de Santa Bárbara**. Perc
 
 Entry to the castle is completely free (yes, really!). The lift that whisks you up through the mountain tunnel costs about €2.70 per person (free for over-65s).
 
-In peak summer (roughly mid-June to early September), it’s open daily 10:00–23:00 — perfect for a sunset visit with the city lights twinkling below. Outside those dates, the hours are a bit shorter. Allow 1–2 hours.
+In peak summer (roughly mid-June to early September), it’s open daily 10:00–23:00, perfect for a sunset visit with the city lights twinkling below. Outside those dates, the hours are a bit shorter. Allow 1–2 hours.
 
 **Tip:** Walk up if you’re feeling energetic, or grab the lift and save your legs for sangria later.
 
 Beaches like Postiguet and the long San Juan stretch are free and fabulous for a morning dip before heading north.
 
-[Castle Tickets and Details Here](https://castillodesantabarbara.com/en/)
+[Book your tickets online in advance — it’s usually cheaper and skips the queues.](https://castillodesantabarbara.com/en/)
 
 **Benidorm: Theme-Park Heaven (Terra Mítica, Terra Natura & More)**
 
@@ -61,7 +59,7 @@ A gorgeous “zoo-immersion” park where you feel like you’re walking through
 
 • Prices: Adults (13–59) around €38 at the gate / from €33 online; children (4–12) €32 gate / from €27 online; seniors similar to child rate. Under-4s free. Family packs: 2 adults + 1 child ≈ €81; 2+2 ≈ €108. Extra for Aqua Natura access if not included.
 
-[Click for Cheap Tickets Here](http://disfrutalia.tixalia.com/Entradas-Terra-Natura-Benidorm)
+[Book online — you’ll save money and avoid queues.](https://disfrutalia.tixalia.com/Entradas-Terra-Natura-Benidorm)
 
 **Aqualandia**
 
@@ -71,7 +69,7 @@ One of Europe’s biggest water parks — slides, wave pools, kids’ zones, the
 
 • Prices: Adults €41 gate / from €35 online; juniors (4–12) & seniors €33 / from €28. Under-4s free. Afternoon tickets cheaper. Family deals available and often great value. Combo tickets with Mundomar save money if you’re doing both.
 
-[Check for Cheap tickets here](https://disfrutalia.tixalia.com/Entradas-Aqualandia-Benidorm)
+[Book online — you’ll save money and avoid queues.](https://disfrutalia.tixalia.com/Entradas-Aqualandia-Benidorm)
 
 **Mundomar**
 
@@ -80,6 +78,8 @@ Right next door — dolphins, sea lions, exotic birds and beautiful gardens. Sho
 • Hours: typically 10:00–18:00 (sometimes later in peak summer).
 
 • Prices: Adults from \~€26–€32; children/seniors from \~€21–€26. Under-4s free. Combos with Aqualandia are popular.
+
+[Book online — you’ll save money and avoid queues.](https://disfrutalia.tixalia.com/mundomar)
 
 **Pro tip for families:** Grab the combined tickets or look for multi-park deals. Arrive early, bring sunscreen and water, and claim a shaded spot for lunch. Parking is usually available (sometimes free or cheap).
 
@@ -97,7 +97,7 @@ Daylight hours only (no night climbing). The first section to the tunnel is fami
 
 Slow things down in beautiful white-and-blue Altea. Wander the old town’s steep streets up to the blue-domed church, people-watch on the promenade, and enjoy the beaches or rocky coves. Everything is free to explore — just budget for ice cream, a cold beer or a plate of fresh seafood. Perfect mid-trip pause for photos and a glass of something sparkling.
 
-{{< image-compare src1="/images/sun-sea-sangria-altea-160-.jpeg" src2="/images/sun-sea-sangria-altea-175-.jpeg" caption1="Altea Blue Dome Church" caption2="White Wash Village streets Altea" >}}
+{{< image-compare src1="/images/sun-sea-sangria-altea-160-.jpeg" src2="/images/sun-sea-sangria-altea-175-.jpeg" caption1="Altea Blue Dome Church" caption2="White-washed village streets Altea" >}}
 
 **Dénia: Castle, Coast & Finish in Style**
 
@@ -121,7 +121,7 @@ Montgó Natural Park offers great walks if you still have energy. Everything bea
 
 • Peñón de Ifach & Altea: free (just the reservation).
 
-Add food, parking and transport, of course. The tram runs along much of this coast if you don’t fancy driving the whole way.
+Add food, parking and transport, of course. The tram (L9)runs along much of this coast if you don’t fancy driving the whole way.
 
 There you have it — history, thrills, nature and pure Mediterranean magic all within an hour or so of each other. Pack the suncream, book those tickets online, and don’t forget the sangria for the sunset toast.
 
