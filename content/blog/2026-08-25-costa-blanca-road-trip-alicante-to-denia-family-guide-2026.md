@@ -69,7 +69,7 @@ One of Europe’s biggest water parks — slides, wave pools, kids’ zones, the
 
 • Prices: Adults €41 gate / from €35 online; juniors (4–12) & seniors €33 / from €28. Under-4s free. Afternoon tickets cheaper. Family deals available and often great value. Combo tickets with Mundomar save money if you’re doing both.
 
-[Book online — you’ll save money and avoid queues.](https://disfrutalia.tixalia.com/Entradas-Aqualandia-Benidorm)
+[Book online — you’ll save money and avoid queues.](https://www.aqualandiabenidorm.com/)
 
 **Mundomar**
 
