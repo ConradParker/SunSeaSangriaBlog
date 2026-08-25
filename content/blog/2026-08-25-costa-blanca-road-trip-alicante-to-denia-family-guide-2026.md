@@ -6,7 +6,7 @@ description: Discover the best family things to do on the Costa Blanca as summer
   heat and crowds ease. Alicante to Denia road trip with theme parks, castles,
   beaches + 2026 prices & hours.
 series: sss-town-guide
-image: /images/los_ícaros_por_la_noche-1-.jfif
+image: /images/costa-blanca-road-trip-alicante-to-denia-family-guide-2026.png
 comments: true
 socials: true
 popular: true
@@ -19,9 +19,11 @@ If you’re dreaming of that classic Costa Blanca road trip, the stretch from Al
 
 I’ve put together a family-friendly things-to-do list, plus the practical bits, opening times and approximate prices per person or for a family. Prices and hours are based on the 2026 summer season and can change a little, **so always double-check the official websites** before you go. Booking online almost always saves a few euros and lets you skip the queues.
 
-
-
 *Ready? Let’s hit the road!*
+
+{{< image-caption src="/images/terramitica.jfif" >}}Terra Mitica - Benidorm{{< /image-caption >}}
+
+
 
 **Alicante: Start High with Castle Views**
 
@@ -95,9 +97,7 @@ Daylight hours only (no night climbing). The first section to the tunnel is fami
 
 Slow things down in beautiful white-and-blue Altea. Wander the old town’s steep streets up to the blue-domed church, people-watch on the promenade, and enjoy the beaches or rocky coves. Everything is free to explore — just budget for ice cream, a cold beer or a plate of fresh seafood. Perfect mid-trip pause for photos and a glass of something sparkling.
 
-{{< image-compare src1="/images/sun-sea-sangria-altea-160-.jpeg" src2="/images/sun-sea-sangria-altea-167-.jpg" caption1="Altea Blue Dome Church" caption2="White Wash Village streets Altea" >}}
-
-
+{{< image-compare src1="/images/sun-sea-sangria-altea-160-.jpeg" src2="/images/sun-sea-sangria-altea-175-.jpeg" caption1="Altea Blue Dome Church" caption2="White Wash Village streets Altea" >}}
 
 **Dénia: Castle, Coast & Finish in Style**
 
@@ -111,11 +111,7 @@ Afterwards, hit the long sandy beaches (Les Marines, etc.), the lively marina, o
 
 Montgó Natural Park offers great walks if you still have energy. Everything beach- and promenade-related is free.
 
-
-
 {{< image-caption src="/images/sun-sea-sangria-denia-127-.webp" >}}Denia Castle{{< /image-caption >}}
-
-
 
 ***Quick Family Budget Snapshot (Summer 2026, approximate online prices)***
 
