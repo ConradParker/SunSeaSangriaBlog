@@ -49,7 +49,7 @@ The Mediterranean-themed adventure park with zones inspired by Egypt, Greece, Ro
 
 • Prices (high season): Adults (13–64) from about €43 online / €49 at the gate; juniors (4–12) & seniors from €37 online / €42 at the gate. Under-4s free. Afternoon tickets (from 15:00) are cheaper. Family packs (e.g. 2 adults + 1 or 2 kids) often come in around €110–€140 online depending on the deal.
 
-[Book online — you’ll save money and avoid queues.](https://disfrutalia.tixalia.com/Entradas-Terra-Mitica-Benidorm)
+[Book online — you’ll save money and avoid queues.](https://www.terramiticapark.com/)
 
 **Terra Natura**
 
@@ -59,7 +59,7 @@ A gorgeous “zoo-immersion” park where you feel like you’re walking through
 
 • Prices: Adults (13–59) around €38 at the gate / from €33 online; children (4–12) €32 gate / from €27 online; seniors similar to child rate. Under-4s free. Family packs: 2 adults + 1 child ≈ €81; 2+2 ≈ €108. Extra for Aqua Natura access if not included.
 
-[Book online — you’ll save money and avoid queues.](https://disfrutalia.tixalia.com/Entradas-Terra-Natura-Benidorm)
+[Book online — you’ll save money and avoid queues.](https://benidorm.terranatura.com/)
 
 **Aqualandia**
 
@@ -79,7 +79,7 @@ Right next door — dolphins, sea lions, exotic birds and beautiful gardens. Sho
 
 • Prices: Adults from \~€26–€32; children/seniors from \~€21–€26. Under-4s free. Combos with Aqualandia are popular.
 
-[Book online — you’ll save money and avoid queues.](https://disfrutalia.tixalia.com/mundomar)
+[Book online — you’ll save money and avoid queues.](https://www.mundomarbenidorm.com/)
 
 **Pro tip for families:** Grab the combined tickets or look for multi-park deals. Arrive early, bring sunscreen and water, and claim a shaded spot for lunch. Parking is usually available (sometimes free or cheap).
 
