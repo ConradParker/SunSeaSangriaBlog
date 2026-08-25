@@ -23,8 +23,6 @@ I’ve put together a family-friendly things-to-do list, plus the practical bits
 
 {{< image-caption src="/images/terramitica.jfif" >}}Terra Mitica - Benidorm{{< /image-caption >}}
 
-
-
 **Alicante: Start High with Castle Views**
 
 Kick things off in Alicante itself with the **Castillo de Santa Bárbara**. Perched high on Mount Benacantil, this huge fortress gives you the best panoramic views of the bay, the port and the sparkling Med.
@@ -37,7 +35,9 @@ In peak summer (roughly mid-June to early September), it’s open daily 10:00–
 
 Beaches like Postiguet and the long San Juan stretch are free and fabulous for a morning dip before heading north.
 
-[Castle Tickets and Details Here](https://castillodesantabarbara.com/en/)
+[Book your tickets online in advance — it’s usually cheaper and skips the queues](https://castillodesantabarbara.com/en/)
+
+
 
 **Benidorm: Theme-Park Heaven (Terra Mítica, Terra Natura & More)**
 
@@ -61,7 +61,7 @@ A gorgeous “zoo-immersion” park where you feel like you’re walking through
 
 • Prices: Adults (13–59) around €38 at the gate / from €33 online; children (4–12) €32 gate / from €27 online; seniors similar to child rate. Under-4s free. Family packs: 2 adults + 1 child ≈ €81; 2+2 ≈ €108. Extra for Aqua Natura access if not included.
 
-[Click for Cheap Tickets Here](http://disfrutalia.tixalia.com/Entradas-Terra-Natura-Benidorm)
+[Book online — you’ll save money and avoid queues.](https://disfrutalia.tixalia.com/Entradas-Terra-Natura-Benidorm)
 
 **Aqualandia**
 
@@ -71,7 +71,7 @@ One of Europe’s biggest water parks — slides, wave pools, kids’ zones, the
 
 • Prices: Adults €41 gate / from €35 online; juniors (4–12) & seniors €33 / from €28. Under-4s free. Afternoon tickets cheaper. Family deals available and often great value. Combo tickets with Mundomar save money if you’re doing both.
 
-[Check for Cheap tickets here](https://disfrutalia.tixalia.com/Entradas-Aqualandia-Benidorm)
+[Book online — you’ll save money and avoid queues.](https://disfrutalia.tixalia.com/Entradas-Aqualandia-Benidorm)
 
 **Mundomar**
 
@@ -80,6 +80,8 @@ Right next door — dolphins, sea lions, exotic birds and beautiful gardens. Sho
 • Hours: typically 10:00–18:00 (sometimes later in peak summer).
 
 • Prices: Adults from \~€26–€32; children/seniors from \~€21–€26. Under-4s free. Combos with Aqualandia are popular.
+
+[Book online — you’ll save money and avoid queues.](https://disfrutalia.tixalia.com/mundomar)
 
 **Pro tip for families:** Grab the combined tickets or look for multi-park deals. Arrive early, bring sunscreen and water, and claim a shaded spot for lunch. Parking is usually available (sometimes free or cheap).
 
