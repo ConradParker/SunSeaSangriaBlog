@@ -5,14 +5,16 @@
 */}}
 {{ $variant := .variant | default "nav" }}
 {{ $socials := .context.Site.Data.socials }}
+{{ $labels := dict "tiktok" "TikTok" "youtube" "YouTube" }}
 
 <div class="socials socials--{{ $variant }}">
   {{ range $platform, $url := $socials }}
     {{ if $url }}
+      {{ $label := index $labels $platform | default ($platform | title) }}
       <a href="{{ $url }}" target="_blank" rel="noopener noreferrer"
          class="social-link icon-{{ $platform }}"
-         title="{{ $platform | title }}"
-         aria-label="{{ $platform | title }}">
+         title="{{ $label }}"
+         aria-label="{{ $label }}">
         {{ partial (printf "icons/%s.svg" $platform) . }}
       </a>
     {{ end }}

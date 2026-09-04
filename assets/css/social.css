@@ -34,6 +34,7 @@
 .social-nav .social-icon--instagram:hover { color: #E1306C; }
 .social-nav .social-icon--facebook:hover  { color: #1877F2; }
 .social-nav .social-icon--x:hover         { color: #fff; }
+.social-nav .social-icon--tiktok:hover    { color: #EE1D52; }
 
 /* Mobile: remove border, center with nav items */
 @media (max-width: 767.98px) {
@@ -105,6 +106,7 @@
 .social-bar__links .social-icon--instagram:hover { color: #E1306C; }
 .social-bar__links .social-icon--facebook:hover  { color: #1877F2; }
 .social-bar__links .social-icon--x:hover         { color: #111; }
+.social-bar__links .social-icon--tiktok:hover    { color: #EE1D52; }
 
 /* ==========================================================================
    Footer Social Icons (Placement 3)
@@ -131,6 +133,7 @@
 .social-footer .social-icon--instagram:hover { color: #E1306C; }
 .social-footer .social-icon--facebook:hover  { color: #1877F2; }
 .social-footer .social-icon--x:hover         { color: #111; }
+.social-footer .social-icon--tiktok:hover    { color: #EE1D52; }
 
 /* Dark mode: footer icons need light colours */
 @media (prefers-color-scheme: dark) {

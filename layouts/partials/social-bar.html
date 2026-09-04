@@ -7,13 +7,15 @@
     <div class="social-bar__sub">Follow Sun Sea Sangria for more Costa Blanca life</div>
   </div>
   <div class="social-bar__links">
+    {{ $labels := dict "tiktok" "TikTok" "youtube" "YouTube" }}
     {{ range $platform, $url := .Site.Data.socials }}
       {{ if $url }}
+        {{ $label := index $labels $platform | default ($platform | title) }}
         <a href="{{ $url }}" target="_blank" rel="noopener noreferrer"
            class="social-icon social-icon--{{ $platform }}"
-           title="{{ $platform | title }}">
+           title="{{ $label }}">
           {{ partial (printf "icons/%s.svg" $platform) . }}
-          <span>{{ $platform | title }}</span>
+          <span>{{ $label }}</span>
         </a>
       {{ end }}
     {{ end }}
