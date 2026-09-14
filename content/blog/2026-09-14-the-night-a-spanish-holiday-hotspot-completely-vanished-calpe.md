@@ -31,6 +31,8 @@ There were not many defenders left in the citadel. A lot of the men were out on 
 
 People ran for the tower. That is where most of them were taken.
 
+{{< image-caption src="/images/sun-sea-sangria-calpe-y-benissa-67-.jpg" >}}costar més que la presa de Calp{{< /image-caption >}}
+
 **The number**
 
 First count from the night: **296**. It was later raised to **302**. Calpe’s own town history now often says about **315**. The point is the same. For a small walled village in 1637, that *was* the town.
@@ -47,7 +49,7 @@ The name that sits on the raid is **Alí Bitchín** (born Piccini, an Italian wh
 
 Historian **Abel Soler**, working in the Archive of the Crown of Aragon, is the person who pinned the local phrase to this night:
 
-***costar més que la presa de Calp -** to cost more than the taking of Calpe.*
+**\*costar més que la presa de Calp -** to cost more than the taking of Calpe.*
 
 Getting people back took years and a fortune: gold, haggling, prisoner exchanges. Calpe’s municipal history talks of about five years in Algiers before many came home. Some never did. Forty years later the town was still asking the crown for tax relief and money to mend the walls.
 
