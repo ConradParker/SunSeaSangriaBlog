@@ -61,6 +61,8 @@ That is why the sentence survived. It means: this bill is ridiculous. It also me
 
 1637 is the hole in the street. No boats to cheer. A village that woke up missing.
 
+{{< image-caption src="/images/sun-sea-sangria-calpe-pueblo-3-.jpeg" >}}{{< /image-caption >}}
+
 **If you walk it**
 
 Stand by the **Torreó de la Peça**. The old citadel was smaller than the Calpe you walk in now. The second belt of walls after 1744 wrapped the suburbs; a lot of that later came down for streets. The raid you are standing in is the earlier, tighter town, the one that could be emptied in a night.
