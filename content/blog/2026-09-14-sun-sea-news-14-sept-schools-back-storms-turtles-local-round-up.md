@@ -6,6 +6,7 @@ description: "Costa Blanca North this week: first school run in the rain, record
   September heat then orange-alert storms, Dénia fire and turtle hatchlings,
   Polop blaze, Calpe fiestas and what’s on from Alicante to Dénia."
 series: sun-sea-news
+image: /images/sun-sea-news.png
 comments: false
 socials: true
 popular: true
