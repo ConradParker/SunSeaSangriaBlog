@@ -15,9 +15,11 @@ Hola Terrace Crew! ☀️🍷
 
 Pull up a lounger, pour something that isn’t quite summer-cold anymore, and let’s talk about the stretch of the year I secretly like best.
 
-August has packed the suitcase. September has exhaled. October and November are when this coast, Alicante up to Dénia, gets its proper clothes on. Still enough sun for a late swim if you’re brave, evenings that want a jumper, and a diary that fills with fiestas, food fairs and the kind of local noise the brochures forget to mention.
+August has packed the suitcase and September is passing by very quickly. October and November are when this coast, Alicante up to Dénia, gets its interesting. Still enough sun for a late swim if you’re brave, evenings that want a jumper, and a diary that fills with fiestas, food fairs and the kind of local noise the brochures forget to mention.
 
-Here’s the run from the city up our stretch. Dates checked 16 September 2026 against official tourist boards and town calendars. If a council moves a parade by 24 hours, and they will, use the link, not a WhatsApp forward.
+*Here’s the run from the city up our stretch.*
+
+*Dates checked 16 September 2026 against official tourist boards and town calendars, please check links for later dates that could be changed due to weather etc.*
 
 {{< image-caption src="/images/img_8492.jpeg" >}}Altea Festes Majors and Moros y Cristianos.{{< /image-caption >}}
 
