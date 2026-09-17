@@ -1,5 +1,7 @@
 ---
 title: "About "
+seo_title: "About Joanne — Sun Sea Sangria"
+description: "Joanne has lived on the Costa Blanca North for 20 years. Honest Marina Alta guides — Dénia, Jávea, Calpe — news, food, red tape and terrace talk."
 date: 2026-05-19T09:55:00.000+02:00
 draft: false
 menu_weight: 50

@@ -20,6 +20,21 @@ copyright = '© 2025 Sun Sea Sangria. All rights reserved.'
   disable_breadcrumbs = true
   disable_credit = true
 
+# Top-level static pages (About, Contact, Shop, legal...) share the default
+# single layout with blog posts, so Paige would stamp them with a date, word
+# count and reading time. Turn that off for root-level pages only; blog posts
+# under /blog/ are unaffected. Description stays in <meta> but isn't repeated
+# as a lead paragraph under the H1.
+[[cascade]]
+  [cascade.params.paige.pages]
+    disable_date = true
+    disable_word_count = true
+    disable_reading_time = true
+    disable_description = true
+  [cascade.target]
+    kind = "page"
+    path = "/*"
+
 # Home and Blog have no editable content pages with `menu_weight`, so they
 # live here. Everything else is driven by the `menu_weight` field on each
 # page or series (set via the CMS).

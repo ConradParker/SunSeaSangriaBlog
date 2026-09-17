@@ -4,13 +4,19 @@
      verbatim, with no " · <site title>" suffix. The home title in
      content/_index.md already carries the brand ("Sun Sea Sangria | ..."), so
      the theme's suffix would repeat it. Inner pages keep the theme's
-     "<page> · <site>" behaviour. Keep in sync if the theme is updated. */}}
+     "<page> · <site>" behaviour.
+
+     Project addition: any page can set `seo_title` in front matter to supply the
+     full <title> verbatim (no suffix), leaving `title` free for the nav label and
+     H1. Keep in sync if the theme is updated. */}}
 
 {{ $page := . }}
 
 {{ $titles := slice }}
 
-{{ if $page.IsHome }}
+{{ if $page.Params.seo_title }}
+    {{ $titles = slice ($page.Params.seo_title | markdownify | plainify | htmlUnescape) }}
+{{ else if $page.IsHome }}
     {{ $titles = slice ($page.Title | default site.Title | markdownify | plainify | htmlUnescape) }}
 {{ else }}
     {{ with $page.Title }}
