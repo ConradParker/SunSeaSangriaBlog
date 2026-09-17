@@ -51,15 +51,15 @@ August has packed the suitcase and September is passing by very quickly. October
 
 **El Campello Moros y Cristianos.** Full run **8–15 October**; the spectator core is **11–15**, with the desembarco at dawn on **12 October** on Carrer la Mar beach. Check:[ Comunitat Valenciana – El Campello](https://www.comunitatvalenciana.com/en/alacant-alicante/el-campello/events/moors-christians-fiestas-el-campello)
 
-Jávea stays in resident mode: weekend craft markets on the promenade, Thursday market as usual. Local groups usually run a walk against cancer and a windsurf championship late in the month — confirm with the yacht club and the association, not with me three weeks out. Arenal in late October is still one of my favourite cheap pleasures, light like honey, hardly anyone in the water, chiringuitos still pretending it’s summer.
+Jávea stays in resident mode: weekend craft markets on the promenade, Thursday market as usual. Local groups usually run a walk against cancer and a windsurf championship late in the month, confirm with the yacht club and the association,. Arenal in late October is still one of my favourite cheap pleasures, light like honey, hardly anyone in the water, chiringuitos still holding on if the weather stays nice.
 
-**Halloween, 31 October.** Moraira puts on a festival (on the official town calendar). Orihuela Costa and the usual suspects do parades. More “kids in the plaza and a themed cocktail” than American horror unless you go looking. Pumpkins in Mercadona from mid-month. You have been warned.
+**Halloween, 31 October.** Moraira puts on a festival (on the official town calendar). Orihuela Costa and the usual suspects do parades. More “kids in the plaza and a themed cocktail” than American horror unless you go looking. Pumpkins in Mercadona from mid-month, all good fun.
 
 **Into November, All Saints and the fair you should actually go to**
 
 **Cocentaina Fira de Tots Sants.** Official fira calendar: **30–31 October and 1 November** (exhibitors can open from the evening of the 29th). Tourist board still shows 31 October–2 November; local press this week is talking a longer run into early November with hundreds of stalls. Either way: go midweek if you hate queues, take cash, wear shoes you don’t love, leave the good car at home. Check:[ Fira de Tots Sants](https://www.firadecocentaina.org/es/) and[ Comunitat Valenciana listing](https://www.comunitatvalenciana.com/en/alacant-alicante/cocentaina/festivals/fira-de-tots-sants)
 
-**All Saints / All Souls (1–2 November).** Cemeteries fill with flowers. Quiet, local, worth understanding if you live here.
+**All Saints / All Souls (1–2 November).** Cemeteries fill with flowers. Quiet, local, worth understanding if you live here. Last year me and my husband a good friend bought flowers in remebarance of our mams and said a prayer an threw them in the sea, its nice to remember our love ones who are not with anymore.
 
 **Benidorm Festes Majors Patronals: 6–11 November.** Locked on Visit Benidorm — Virgen del Sufragio and Sant Jaume. Check:[ Visit Benidorm – Patron Saint Festivities](https://en.visitbenidorm.es/ver/9623/benidorm-major-patron-saint-festivities-2026.html)
 
