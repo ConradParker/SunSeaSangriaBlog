@@ -6,6 +6,12 @@ date: 2026-05-19T09:55:00.000+02:00
 draft: false
 menu_weight: 50
 ---
+
+
+{{< image-caption src="/images/54518626_10155745709601642_8671203847210795008_n.jpg" >}}{{< /image-caption >}}
+
+
+
 I’m Joanne. I’ve lived on the Costa Blanca North for 20 years, in Dénia, Jávea, Calpe and the towns in between.
 
 We came for a holiday home and never went back. For 14 years my husband and I ran two apartments, Cumbre del Sol and Golden Beach 2, under the name Sun Sea Sangria. Guests arrived for the view and left talking about evenings on the terrace. Those years were the real education: markets, neighbours, schools, and the paperwork nobody puts on the brochure.
@@ -26,13 +32,6 @@ I’ve also cleaned villas, poured candles, and taught English online while fire
 
 **Paws & Mischief, hikes, weekend trips** — when we get out of the house at weekends
 
-
-
-
-
-
-{{< image-caption src="/images/54518626_10155745709601642_8671203847210795008_n.jpg" >}}Me with Missy and our "Paws & Mischief" star Snoopy{{< /image-caption >}}
-
 **Come and say hello**
 
 On Holiday, moving, or already on this stretch, pull up a chair; this might be the place for you. 
@@ -40,9 +39,3 @@ On Holiday, moving, or already on this stretch, pull up a chair; this might be t
 Subscribe to the Friday newsletter, or reply when something on the coast doesn’t match what you were told.
 
 Joanne x Sun Sea Sangria — Costa Blanca North
-
-
-
-
-
-{{< image-caption src="/images/whatsapp-image-2026-05-11-at-08.39.21-2-.jpeg" >}}{{< /image-caption >}}
