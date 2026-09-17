@@ -59,7 +59,7 @@ Jávea stays in resident mode: weekend craft markets on the promenade, Thursday 
 
 **Cocentaina Fira de Tots Sants.** Official fira calendar: **30–31 October and 1 November** (exhibitors can open from the evening of the 29th). Tourist board still shows 31 October–2 November; local press this week is talking a longer run into early November with hundreds of stalls. Either way: go midweek if you hate queues, take cash, wear shoes you don’t love, leave the good car at home. Check:[ Fira de Tots Sants](https://www.firadecocentaina.org/es/) and[ Comunitat Valenciana listing](https://www.comunitatvalenciana.com/en/alacant-alicante/cocentaina/festivals/fira-de-tots-sants)
 
-**All Saints / All Souls (1–2 November).** Cemeteries fill with flowers. Quiet, local, worth understanding if you live here. Last year me and my husband a good friend bought flowers in remebarance of our mams and said a prayer an threw them in the sea, its nice to remember our love ones who are not with anymore.
+**All Saints / All Souls (1–2 November).** Cemeteries fill with flowers. Quiet, local, worth understanding if you live here. Last year me and my husband a good friend bought flowers in remembrance of our mams and said a prayer an threw them in the sea, its nice to remember our love ones who are not with anymore.
 
 **Benidorm Festes Majors Patronals: 6–11 November.** Locked on Visit Benidorm — Virgen del Sufragio and Sant Jaume. Check:[ Visit Benidorm – Patron Saint Festivities](https://en.visitbenidorm.es/ver/9623/benidorm-major-patron-saint-festivities-2026.html)
 
@@ -73,10 +73,24 @@ That’s the spine of the next six weeks from Alicante up to Dénia. I’ll drop
 
 If you’re visiting in October and only have one free day: Altea fiesta or Calpe desembarco if it coincides, D*na if you eat for a hobby, Cocentaina if you like a proper fair. If you live here: pick two, wear comfortable shoes, and leave room for a Tuesday night when nothing is on, and the Peñón just sits there looking pleased with itself.
 
-Have a good one, 
+Have a good one,
 
 Joanne x
 
-Sun Sea Sangria
+Sun Sea Sangria — Costa Blanca North
 
-Costa Blanca North
+
+
+**Don’t forget to subscribe**
+
+Get the next fiesta calendar, market notes and Red Tape & Tears posts by email — sunseasangria.com
+
+**Check before you go**
+
+Town halls move parades. Use the official link in the post, do not rely social media posts, dates change very often due to weather etc.
+
+**More from Sun Sea Sangria**
+
+* [Sun Sea News - Every Monday](https://sunseasangria.com/series/sun-sea-news/)
+* [Sun Sea History - Going back to the past and the real story of the Costa Blanca](https://sunseasangria.com/series/sun-sea-history/)
+* [Sun Sea Foodie - Restaurant Guides from around the coast](https://sunseasangria.com/series/sunseafoodie/)
