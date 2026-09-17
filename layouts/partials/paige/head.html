@@ -1,0 +1,46 @@
+{{/* Override of themes/paige/layouts/partials/paige/head.html.
+
+     Only change from the theme: on the home page the <title> is the page title
+     verbatim, with no " · <site title>" suffix. The home title in
+     content/_index.md already carries the brand ("Sun Sea Sangria | ..."), so
+     the theme's suffix would repeat it. Inner pages keep the theme's
+     "<page> · <site>" behaviour. Keep in sync if the theme is updated. */}}
+
+{{ $page := . }}
+
+{{ $titles := slice }}
+
+{{ if $page.IsHome }}
+    {{ $titles = slice ($page.Title | default site.Title | markdownify | plainify | htmlUnescape) }}
+{{ else }}
+    {{ with $page.Title }}
+        {{ $titles = slice (. | markdownify | plainify | htmlUnescape) }}
+    {{ end }}
+
+    {{ range .Ancestors }}
+        {{ $title := cond .IsHome (site.Title | default .Title) .Title }}
+
+        {{ with $title }}
+            {{ $titles = $titles | append (. | markdownify | plainify | htmlUnescape) }}
+        {{ end }}
+    {{ end }}
+{{ end }}
+
+{{ $title := delimit $titles " · " }}
+
+<head>
+    {{ partial "paige/func-include.html" (dict "name" "head-first%s.html" "page" $page) | safeHTML }}
+    {{ partial "paige/metas.html" $page }}
+
+    {{ with $title }}
+        <title>{{ . }}</title>
+    {{ end }}
+
+    {{ partial "paige/links.html" $page }}
+
+    {{ with $page.Param "paige.style" }}
+        <style>{{ . | safeCSS }}</style>
+    {{ end }}
+
+    {{ partial "paige/func-include.html" (dict "name" "head-last%s.html" "page" $page) | safeHTML }}
+</head>

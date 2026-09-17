@@ -1,0 +1,55 @@
+{{/* Override of themes/paige/layouts/partials/paige/metas.html.
+
+     Only change from the theme: when a page has no `description` front matter,
+     fall back to its summary (the first ~70 words) instead of emitting no
+     <meta name="description"> at all. Most blog posts leave the CMS Description
+     field blank, so without this Google writes its own snippet by scraping the
+     page. The OG and Twitter tags already fall back to .Summary via Hugo's
+     internal templates — this just brings the plain meta tag in line.
+
+     A hand-written description always wins; this is only the safety net. Keep
+     in sync if the theme is updated. */}}
+
+{{ $page := . }}
+
+{{ $author := slice }}
+{{ $authors := partial "paige/func-authors.html" $page }}
+{{ $color := $page.Param `paige.site.color` | default `#0d6efd` }}
+{{ $description := cond $page.IsHome ($page.Description | default ($page.Param "paige.site.description")) $page.Description | markdownify | plainify | htmlUnescape }}
+{{ $keywords := partial "paige/func-keywords.html" $page }}
+
+{{/* Project addition: summary fallback, collapsed to one line and trimmed to a
+     length search engines will actually show. */}}
+{{ if not $description }}
+    {{ with $page.Summary }}
+        {{ $summary := . | plainify | htmlUnescape | replaceRE `\s+` " " }}
+        {{ $description = trim $summary " " | truncate 160 }}
+    {{ end }}
+{{ end }}
+
+{{ range $authors }}
+    {{ $author = $author | append (.Params.paige.author.name | default (.Title | markdownify | plainify | htmlUnescape)) }}
+{{ end }}
+
+{{ $author = delimit $author ", " }}
+
+<meta charset="utf-8">
+<meta content="{{ site.Title | markdownify | plainify | htmlUnescape }}" name="apple-mobile-web-app-title">
+
+{{ with $author }}
+    <meta content="{{ . }}" name="author">
+{{ end }}
+
+{{ with $description }}
+    <meta content="{{ . }}" name="description">
+{{ end }}
+
+{{ with $keywords }}
+    <meta content="{{ . }}" name="keywords">
+{{ end }}
+
+<meta content="{{ $color }}" name="theme-color">
+<meta content="width=device-width, initial-scale=1" name="viewport">
+
+{{ template "_internal/opengraph.html" $page }}
+{{ template "_internal/twitter_cards.html" $page }}

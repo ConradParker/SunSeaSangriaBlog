@@ -1,5 +1,6 @@
 ---
-title: "Welcome, Everyone! "
+title: "Sun Sea Sangria | Real life on the Costa Blanca North (Dénia, Jávea, Calpe)"
+description: "Honest Marina Alta guides from someone who’s lived here 20 years — local news, beaches, red tape, food and terrace life. Free Friday newsletter."
 date: 2026-02-17T09:22:00.000+01:00
 draft: false
 paige:
