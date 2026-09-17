@@ -19,7 +19,7 @@ August has packed the suitcase and September is passing by very quickly. October
 
 *Here’s the run from the city up our stretch.*
 
-*Dates checked 16 September 2026 against official tourist boards and town calendars, please check links for later dates that could be changed due to weather etc.*
+***Dates checked 16 September 2026 against official tourist boards and town calendars, please check links for later dates that could be changed due to weather etc.***
 
 {{< image-caption src="/images/img_8492.jpeg" >}}Altea Festes Majors and Moros y Cristianos.{{< /image-caption >}}
 
@@ -78,8 +78,6 @@ Have a good one,
 Joanne x
 
 Sun Sea Sangria — Costa Blanca North
-
-
 
 **Don’t forget to subscribe**
 
