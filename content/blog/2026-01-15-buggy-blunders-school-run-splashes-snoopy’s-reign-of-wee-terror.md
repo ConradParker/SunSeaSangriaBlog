@@ -9,22 +9,20 @@ comments: true
 socials: true
 ---
 \
+***Paws & Mischief gathers Snoopy’s stories so children (and the grown-ups who loved him) can read them together.***
+
+***Get the book on Amazon***
+
+***A tiny taste:***
+
 ***Chapter 2***
 
-The summer flew by in a blur of apartment clean-ups, heroic potty-training attempts (with about 60% success rate—progress!), and the occasional sneaky “little splash” that reminded us perfection was still a work in progress. Then boom—early September arrived, kids were back-to-school bound, and suddenly we were part of the daily morning ritual.
+This school-run splash now lives in the book.
 
-My daughter’s school was out on the outskirts of Villajoyosa (you know, that gorgeous, colourful town on the Costa Blanca). Every day, she caught the bus from Main Street. Picture the scene: a parade of Spanish mammas and dads rolling up with their pristine buggies, with that effortless Mediterranean vibe. And then there’s me—buggy in one hand, enthusiastic dog on the lead in the other, armed with an industrial-sized pack of baby wipes, disinfectant spray, and pure determination.
+[Read *Paws & Mischief* on Amazon](https://www.amazon.com/dp/B0H5TKLSSP)
 
-The other mums? They gave me the classic side-eye: “Keep that furry menace away from our spotless buggies, por favour.” And honestly? I couldn’t blame them.
+*A tiny taste:* First morning at the Villajoyosa bus stop. Fancy buggies. Side-eye from the other parents. Then Snoopy chose one particularly smart pram, lifted his leg, and made our entrance unforgettable.
 
-Because on Day One—the very first morning—we made an unforgettable entrance. My little four-legged troublemaker struts up, spots a particularly fancy buggy, lifts his leg like he’s claiming territory in the most dramatic way possible… and unleashes. Right there. In front of everyone. A perfect golden arc. The poor dad attached to that buggy froze. I froze. The whole bus stop froze.
+The rest of the legend — wipes, tomato-red cheeks, and the human shield — is in *Paws & Mischief*.
 
-{{< image-caption src="/images/img_8418.jpeg" >}}Nooo Snoopy, don’t you dare{{< /image-caption >}}
-
-I mumbled something like “¡Lo siento mucho! while frantically spraying and wiping, my face the colour of a ripe tomato. Snoopy  just wagged his tail like “Job well done, team!”
-
-From that moment on, we were officially not welcome at the bus stop. The other parents formed a human shield around their buggies whenever we appeared—like we were walking biohazards. I swear they’d shuffle sideways, eyes wide, as if one wrong move and the pee apocalypse would strike again.
-
-Moral of the story? Potty training a toddler is hard… but potty training your dog while trying to blend in with the school-run crowd? That’s next-level chaos. And somehow, it’s become one of our family’s favourite embarrassing legends.
-
-© Joanne Parker 2026
+{{< image-caption src="/images/37293_402319836641_5317041_n_402319836641.jpg" >}}Read Paws & Mischief on Amazon{{< /image-caption >}}
