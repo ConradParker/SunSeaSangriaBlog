@@ -38,8 +38,4 @@ This adventure is in the book now.
 
 [Get the book on Amazon](https://www.amazon.com/dp/B0H5TKLSSP)
 
-
-
-
-
-{{< image-caption src="/images/img_8419.jpeg" >}}The Great Puddle Mystery : Paws and Mischief{{< /image-caption >}}
+{{< image-caption src="/images/whatsapp-image-2026-01-16-at-14.38.34.jpeg" >}}The Great Puddle Mystery : Paws and Mischief{{< /image-caption >}}
