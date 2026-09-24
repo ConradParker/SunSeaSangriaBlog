@@ -5,7 +5,7 @@ draft: false
 description: What the Civil War did to ordinary families between Dénia and
   Xàbia,and why a stone cross and a cemetery wall still matter
 series: sun-sea-history
-image: /images/olod0.jpg
+image: /images/two-novembers-on-the-same-mountain-1-.png
 comments: true
 socials: true
 popular: true
@@ -20,6 +20,10 @@ I have lived here long enough to know we talk easily about pirates and fiestas a
 
 This is that story. Both sides of it. Because pretending only one kind of cruelty happened on this mountain is another kind of forgetting.
 
+{{< image-caption src="/images/two-novembers-on-the-same-mountain.png" >}}Two Novembers on the Same Mountain{{< /image-caption >}}
+
+
+
 ***The summer the rules fell off***
 
 The Marina Alta stayed on the Republican side of the war. There was no front line crashing through Calpe or Jávea. That did not mean peace. It meant something more intimate: fear inside the same streets.
@@ -30,7 +34,7 @@ On 16 August, feast of Sant Roc, twenty-seven prisoners were put on a train to A
 
 The killings that did happen were not a tidy army action. They were local. A student falangist. A court secretary. A judge who was himself a Republican. A vicar murdered in Gata. An industrialist. In the records there is even one woman, Isidora Sánchez. Teresa Ballester, who has spent decades on this history, has counted dozens of people from Dénia killed on roads and tracks across the comarca in those first months. Fathers and sons from Ondara were shot together in Benissa’s term. Priests. Farmers. People whose “crime” was a party card, a farm, a collar, or a neighbour’s grudge.
 
-Plenty of Republicans were sickened by it. The socialist Juan Bertomeu wrote of hooded men marched out in silence, and of a wife saying goodbye. The official town wanted courts. 
+Plenty of Republicans were sickened by it. The socialist Juan Bertomeu wrote of hooded men marching out in silence, and of a wife saying goodbye. The official town wanted courts. 
 
 ***The deadly Mountain history***
 
@@ -40,11 +44,13 @@ There is a shaft in the limestone, l’Avenc, dropping close to seventy metres. 
 
 Numbers in the old papers wobble between thirteen and twenty-one. The figure that keeps returning is fifteen. Landowners, a lawyer, a sea captain, shopkeepers, a student, farmhands. Some of the men thrown in that night were not even from the political right: a labourer, a worker, caught in the same net. Later cavers found bones mixed with shoes, belts, a shotgun, scraps of clothing. There are accounts, hard to prove and harder to forget, that not everyone died at once.
 
-When the war ended, the hole was sealed with concrete. In 1953 speleologists from Alcoy broke through and saw what the mountain had been asked to hide. Decades later, people from Xàbia went down again with the town archaeologist. Then the shaft was closed once more. A wildfire in 2014 stripped the trees and left the cross standing in the open.
+When the war ended, the hole was sealed with concrete. In 1953, speleologists from Alcoy broke through and saw what the mountain had been asked to hide. Decades later, people from Xàbia went down again with the town archaeologist. Then the shaft was closed once more. A wildfire in 2014 stripped the trees and left the cross standing in the open.
 
 Families used to come quietly with flowers. A grave with no bodies to dress. Grandchildren who grew up knowing only that el abuelo no volvió.
 
 *If you go, go softly. It is not content. It is someone’s last road.*
+
+{{< image-caption src="/images/olod0.jpg" >}}Two Novembers on the Same Mountain{{< /image-caption >}}
 
 ***The years in between***
 
@@ -62,6 +68,8 @@ Dénia became a holding centre for the whole comarca. Hundreds were jailed. Coun
 
 Among them were three socialist mayors: Salvador Beltrán of Dénia, the same man who had tried to keep order in 1936, Jeremías Andrés Morales of Pedreguer, and José Ordines of Xaló. Aquilino Barrachina, mayor of Pego, was shot later in Alicante. The dead were labourers, drivers, barbers, electricians, clerks. Not monsters, just men and neighbours. 
 
+{{< image-caption src="/images/img_8505.jpeg" >}}Two Novembers on the Same Mountain{{< /image-caption >}}
+
 **The wall still shows the pockmarks.**
 
 Last November, at the annual homage, María Victoria stood there as the names were read. Her grandfather was Jeremías, the mayor of Pedreguer. After they shot him, she said, they gave her grandmother and her father, then seventeen, twenty-four hours to leave the house. The Falange made a barracks of it. “Nos lo quitaron todo.” They took everything from us. 
@@ -76,9 +84,11 @@ This is the part that does not fit in a monument.
 
 I really cannot get my head around how we humans can do this to one another, yet history shows this time after time. A woman who never knew whether to light a candle for a husband in the trenches or to hope he had somehow walked to France. Children told not to say the name at school. A priest’s family packing a bag at night. A socialist’s widow selling the tools from the workshop because nobody would hire her. Brothers who had voted differently and never sat at the same table again. Mallorcan families who had come after the Morisco expulsion, three centuries earlier, now watching another emptying, not of a faith this time, but of a generation.
 
-Xàbia has its own list: people from the town killed by one side or the other, a young falangist on the Teulada road, a priest on the Benissa road, later men who died in Franco’s prisons or in the camps over the French border. Eighteen names in one local tally. Multiply that by every village from Pego to Calpe and you start to understand why older people here still change the subject when the war comes up over coffee. 
+Xàbia has its own list: people from the town killed by one side or the other, a young man on the Teulada road, a priest on the Benissa road, later men who died in Franco’s prisons or in the camps over the French border. Eighteen names in one local tally. Multiply that by every village from Pego to Calpe, and you start to understand why older people here still change the subject when the war comes up over coffee. 
 
 Silence was not always cowardice. Sometimes it was how you kept the rest of the family alive.
+
+{{< image-caption src="/images/two-novembers-on-the-same-mountain-2-.png" >}}Two Novembers on the Same Mountain{{< /image-caption >}}
 
 **Why tell this history on my blog?**
 
@@ -126,7 +136,5 @@ Some details in wartime memory are hard to prove: who exactly was in the truck, 
 I am not a historian. I am very interested in all history from England to Spain, who happens to have a blog. If a family wants a name added, corrected or left in peace, that matters more than a tidy Saturday post. Write to the terrace, and I will change any piece into facts.
 
 Further reading if you want the serious work, not mine: Ballester’s studies; the Dénia municipal archive; the Comunitat Valenciana map of Civil War graves; the yearly gathering at Dénia cemetery each November.
-
-
 
 Joanne xx
