@@ -23,6 +23,6 @@ This school-run splash now lives in the book.
 
 *A tiny taste:* First morning at the Villajoyosa bus stop. Fancy buggies. Side-eye from the other parents. Then Snoopy chose one particularly smart pram, lifted his leg, and made our entrance unforgettable.
 
-The rest of the legend — wipes, tomato-red cheeks, and the human shield — is in *Paws & Mischief*.
+The rest of the legend- baby wipes, tomato-red cheeks, and the human shield- it's all in  *Paws & Mischief*.
 
 {{< image-caption src="/images/37293_402319836641_5317041_n_402319836641.jpg" >}}Read Paws & Mischief on Amazon{{< /image-caption >}}
