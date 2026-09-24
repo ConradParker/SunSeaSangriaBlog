@@ -9,8 +9,6 @@ nav_emoji: 🐾
 nav_desc: Snoopy tales & memories
 nav_color: "#8e44ad"
 ---
-
-
 **Snoopy’s book is out.**
 
 The full story is now *Paws & Mischief: Tales of a Tale Wagging Troublemaker* on Amazon.
@@ -19,7 +17,7 @@ The full story is now *Paws & Mischief: Tales of a Tale Wagging Troublemaker* on
 
 You can still read Chapter 1 here. The rest is in the book; that’s how we keep his whole adventure in one place.
 
-{{< image-caption src="whatsapp-image-2026-09-19-at-21.28.56.jpeg" >}}Paws & Mischief: Tales of a Tale Wagging Troublemaker{{< /image-caption >}}
+{{< image-caption src="img_8392_hu_a7891acdb462ec43.55242977ba4a5bb27eb804b3087adc333daed38699980738ea3443d2445adadf.webp" >}}Paws & Mischief: Tales of a Tale Wagging Troublemaker{{< /image-caption >}}
 
 Meet Snoopy, our pint-sized rescue dog who crash-landed into our lives straight from a little town in Andalucía.
 
