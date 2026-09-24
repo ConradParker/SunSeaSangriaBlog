@@ -7,26 +7,16 @@ image: /images/img_8420.jpeg
 comments: true
 socials: true
 ---
-***Chapter 7***
+This last chapter lives in the book now.
 
-After those really tough months, Missy finally settled into her calmer self. She still loved her little game of sneaking Snoopy’s collar off whenever we weren’t looking—pure mischief, her way of saying “you’re still my big brother.” Snoopy, growing older and quieter, spent more days napping in the sunshine or curled up in his bed.
+[Read *Paws & Mischief* on Amazon](https://www.amazon.com/dp/B0H5TKLSSP)
 
-When the dementia began, it broke our hearts to see the confusion settle in—those moments when he’d pause and look around, as if searching for something he couldn’t quite place, or forget the path to his usual spot. Yet even then, his tail would give the softest wag at the sound of my voice or Missy’s gentle nudge, reminding us that love still cut through the fog.
+Snoopy isn’t with us anymore. He left a Snoopy-shaped hole and a house full of stories.
 
-We filled his days with kindness: short, slow walks so he could take in the scents at his own pace, treats tucked in easy spots, and endless gentle pets while I whispered how good he was, how loved he’d always been.
+Chapter 7 is the goodbye, quiet, loving, and still his. I kept it for the book, so children and grown-ups can read the whole of his life in one place: the puddles, the bus stop, the mountain, and the rainbow bridge.
 
-As the illness deepened, we knew the kindest thing was to let him go peacefully. 
+Thank you, Snoopy. I hope I've done you proud and kept your adventures alive. xxxx
 
-{{< image-caption src="/images/img_8420.jpeg" >}}Goodnight old friend, sweet dreams{{< /image-caption >}}
 
-Snoopy slipped away so gently, without pain – his breathing slowing until it became the softest sigh, like he was simply drifting into the deepest, most restful sleep of his life. In that moment, the room overflowed with love rather than emptiness. He looked so peaceful, so content, as if he’d fallen asleep dreaming of new adventures or marking the perfect unsuspecting target.
-
-We still talk about Snoopy all the time, and we laugh – because he was such a lovable rogue, full of mischief and adventure right to his core. His big heart, goofy grin, and gentle spirit live on in every story we share.
-
-Goodnight, Snoopy. Until we meet again… woo woo wooooooo. 🌈🐾❤️
-
-**Got your own pet legend story? Share in the comments or newsletter reply – let's keep the mischief alive! 💛"**
-
-© Joanne Parker 2026 
 
 {{< image-compare src1="/images/img_8391.jpeg" src2="/images/img_8380.jpeg" caption1="Snoopy the Adventurer  " caption2="Goodnight old friend x" >}}
