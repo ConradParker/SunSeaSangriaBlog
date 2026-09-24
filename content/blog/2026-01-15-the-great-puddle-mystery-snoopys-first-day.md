@@ -32,4 +32,14 @@ Welcome to the family, you wee-marking menace. We had no idea what we were in fo
 
 © Joanne Parker 2026
 
+This adventure is in the book now.
+
+**Paws & Mischief** gathers Snoopy’s stories so children (and the grown-ups who loved him) can read them together.
+
+[Get the book on Amazon](https://www.amazon.com/dp/B0H5TKLSSP)
+
+
+
+
+
 {{< image-caption src="/images/img_8419.jpeg" >}}The Great Puddle Mystery : Paws and Mischief{{< /image-caption >}}
