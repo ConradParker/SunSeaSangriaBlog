@@ -14,7 +14,7 @@ This mountain adventure is in the book now.
 
 *A tiny taste:* One ordinary lunchtime walk on Montgó turned into the quietest, scariest hour of our lives. No Snoopy on the path. No Snoopy answering his name.
 
-Then came a knock at the door — and a neighbour holding a very pleased little dog who had taken himself to Mercadona and sat there, as if to say, “Well? Where’s the shopping?”
+Then came a knock at the door, and a neighbour holding a very pleased little dog who had taken himself to Mercadona and sat there, as if to say, “Well? Where’s the shopping?”
 
 The rest of that day is in *Paws & Mischief*.
 
