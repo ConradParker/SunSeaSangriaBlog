@@ -1,5 +1,5 @@
 ---
-title: "SunSeaNews 5 Oct: Dénia, Calp, housing and Terra Mítica"
+title: "SunSeaNews 5 Oct: Dénia, Calp, housing and Terra Mítica discounts"
 date: 2026-10-05T07:20:00.000+02:00
 draft: false
 series: sun-sea-news
