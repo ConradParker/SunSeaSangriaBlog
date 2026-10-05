@@ -39,6 +39,8 @@ Benidorm was declared a day of official mourning after a woman was killed in the
 
 Terra Mítica, and then I will stop punishing myself. Halloween runs there from 3 October to 1 November, with the 31st open until 1 am. Horror Nights are on the Saturday evenings, 3, 10, 17 and 24, Iberia after dark, not for under-14s. The Sunday deal is the one I missed. Adult tickets 2-for-1 every Sunday in October if you type MEDUSATM on the promotions tab before you pay. I bought two full-price tickets and found the code afterwards, in the car park, like a woman who does not read the small poster. Sundays left in the month are still on it. Check the park page. I will be here, slightly poorer, not mentioning it again. Much.
 
+[TerraMitica Tickets ](https://themeparks-eu.com/tickets/terra-mitica-tickets)
+
 {{< image-caption src="/images/your-paragraph-text.jpg" >}}{{< /image-caption >}}
 
 Right. That is the week, damp terrace and all.
