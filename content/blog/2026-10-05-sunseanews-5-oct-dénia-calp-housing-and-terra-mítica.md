@@ -1,5 +1,5 @@
 ---
-title: "SunSeaNews 5 Oct: Dénia, Calp, housing and Terra Mítica"
+title: "SunSeaNews 5 Oct: Dénia, Calp, housing and Terra Mítica discounts"
 date: 2026-10-05T07:20:00.000+02:00
 draft: false
 series: sun-sea-news
@@ -38,6 +38,8 @@ Benissa has extended the public showing of its new structural plan to 30 Novembe
 Benidorm was declared a day of official mourning after a woman was killed in the city. Dénia held a minute’s silence for her. I am leaving it there. Separately, the eviction of Pedro, 95, due this Monday, has been put back a month. The flat was in his daughter’s name. She died. He and his wife are on non-contributory pensions and could not clear what the bank says is owed. A month is not a home. It is a month.
 
 Terra Mítica, and then I will stop punishing myself. Halloween runs there from 3 October to 1 November, with the 31st open until 1 am. Horror Nights are on the Saturday evenings, 3, 10, 17 and 24, Iberia after dark, not for under-14s. The Sunday deal is the one I missed. Adult tickets 2-for-1 every Sunday in October if you type MEDUSATM on the promotions tab before you pay. I bought two full-price tickets and found the code afterwards, in the car park, like a woman who does not read the small poster. Sundays left in the month are still on it. Check the park page. I will be here, slightly poorer, not mentioning it again. Much.
+
+[TerraMitica Tickets ](https://themeparks-eu.com/tickets/terra-mitica-tickets)
 
 {{< image-caption src="/images/your-paragraph-text.jpg" >}}{{< /image-caption >}}
 
