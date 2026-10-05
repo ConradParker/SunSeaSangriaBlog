@@ -167,6 +167,7 @@
   max-width: 44ch;
 }
 .footer-social .socials { margin-top: 0.25rem; }
+.footer-bmc { margin-top: var(--space-lg); }
 .site-footer-bottom {
   border-top: 1px solid rgba(255,255,255,0.12);
 }
