@@ -12,10 +12,6 @@ comments: false
 socials: false
 popular: false
 ---
-
-
-
-
 Costa Blanca North round-up – Alicante up to Dénia – 12 October 2026
 
 Good morning, Terrace Crew. ☀️
@@ -70,10 +66,20 @@ Roads have been busy all weekend and will stay that way into this afternoon as p
 
 If you’re heading out for the landing in El Campello, the giants in Dénia, or just a quiet walk, it’s been a good weekend for it.
 
-Right, that’s the round-up. Enjoy the rest of the day; the terrace is open if you need it.
+See you next Monday for more Sun Sea News
 
-I'm off for some rest before another busy week starts,
+Joanne xxx
 
-Joanne xx
 
-Sun Sea Sangria
+
+I’m Joanne from Sun Sea Sangria.com, the Terrace Crew’s weekly notes from the Costa Blanca North. Real life from Alicante up to Dénia: local events, practical bits, terrace weather, and the odd glass of sangria. No brochure.
+
+If you want next week’s news straight to you,[ subscribe free here](https://sunseasangria.substack.com/). Like or comment if something in the post was useful; it helps more people find the round-ups.
+
+While you’re here:
+
+Free guides from the terrace →[ sunseasangria.com/free-expat-resources](https://sunseasangria.com/free-expat-resources/)Snoopy’s book, *Paws & Mischief* →[ Amazon UK](https://www.amazon.co.uk/dp/B0H5TKLSSP) or[ Amazon.com](https://www.amazon.com/dp/B0H5TKLSSP) (Chapter 1 is still free on the site)
+
+See you next week. The terrace is open if you need it.
+
+Joanne xx Sun Sea Sangria
