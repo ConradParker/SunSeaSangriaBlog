@@ -8,7 +8,7 @@ description: "Time to leave the beach for a bit. Jalón Valley, Polop, Jesús
   Dénia. Markets, wine and proper lunch — the Costa Blanca North once you get
   off the N-332. "
 series: sss-town-guide
-image: /images/jalon-xalo.png
+image: /images/hljir.jpg
 comments: true
 socials: true
 popular: true
