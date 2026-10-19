@@ -13,8 +13,6 @@ comments: true
 socials: true
 popular: true
 ---
-
-
 Pull up a lounger. This one is not the usual chat about beaches or the next fiesta. It is about driving inland from Dénia or Jávea, into valleys most of us only notice when we are heading somewhere else, and a story that still sits under the surface of places we pass without a second thought.
 
 I have lived around this stretch long enough to know the version of history that usually gets told. Moors and Christians festivals, the Peñón looking dramatic, a few pirate towers, the odd Civil War cross in a cemetery wall. What does not come up much is what happened in 1609, when Philip III ordered the expulsion of the Moriscos. These were people whose families had been Muslim, then forced to convert decades earlier, and who were still farming the mountains and valleys of the Marina Alta in large numbers. In some of those inland places they made up most of the population. When the decree went out they did not all pack up and leave quietly.
@@ -35,7 +33,7 @@ Al-Azraq sits behind a lot of this. He was the blue eyed Muslim lord from the Va
 
 None of this is secret if you go looking in the right places, but it is not the story that gets told when people talk about the history of the Costa Blanca. It is quieter. The villages are still small. The steps are still there. The port at Dénia, which most of us know for summer ferries and the odd cruise ship, was once the place where tens of thousands left for good.
 
-![](/images/4314.jpg "The Port of Denia ")
+{{< image-caption src="/images/img_8563.jpeg" >}}The Port of Denia{{< /image-caption >}}
 
 If you fancy the walk, the Barranc de l’Infern circuit is a good walk, circular, plenty of elevation, and those steps will make their presence felt in your legs by the end. Cooler months are kinder. The villages themselves are worth a slow look any time, they are not set up for crowds. Cherry blossom season in nearby Gallinera pulls more people, but outside that it is quiet enough that you can still hear the place. And if you stand in Fleix or Campell and look up at the ridges, it is not hard to understand why someone might have thought they could hold out there.
 
@@ -47,15 +45,9 @@ Thank you for reading,
 
 Joanne xx
 
-
-
-
-
 I’m Joanne from Sun Sea Sangria — the Terrace Crew’s notes from the Costa Blanca North. Real life from Alicante up to Dénia: local spots, practical bits, and the older stories that sit under the sangria. No brochure.
 
 If you want the next one straight to you,[ subscribe free here](https://sunseasangria.substack.com/).
-
-
 
 Like or comment if this was useful — it helps more people find the round-ups.
 
@@ -67,7 +59,5 @@ While you’re here:
 See you next time. The terrace is open if you need it.
 
 Joanne xx
-
-
 
 Sun Sea Sangria
