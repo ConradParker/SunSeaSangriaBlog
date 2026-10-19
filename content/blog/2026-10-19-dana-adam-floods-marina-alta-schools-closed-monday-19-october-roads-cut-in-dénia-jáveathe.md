@@ -1,11 +1,13 @@
 ---
-title: ": Schools Closed Monday 19 October, Roads Cut in Dénia & JáveaThe "
-date: 2026-10-19T09:03:00.000+02:00
+title: "DANA Adam Floods Marina Alta: Schools Closed Monday 19 October, Roads
+  Cut in Dénia & Jávea"
+date: 2026-10-19T09:26:00.000+02:00
 draft: false
 description: Heavy rain from DANA Adam leaves the Marina Alta under alert, with
   schools closed across Dénia, Jávea, Calp and the comarca on Monday 19 October.
   Flooded roads, high rainfall totals and practical advice for the Northern
   Costa Blanca.
+series: sun-sea-news
 image: /images/dana-adam-floods-marina-alta.png
 comments: true
 socials: true
