@@ -27,6 +27,8 @@ After the valleys emptied, the land was repopulated in 1611 with families from M
 
 You have probably seen photos of the Cathedral of Hiking route, the PR-CV 147. Thousands of stone steps zigzagging down into the ravine and back up the other side, people say over 6,000, some count closer to 6,800. Local stories say the Moriscos cut them so they could reach the fields on the far side without going the long way round the barranco. Whether every single step dates from exactly that period or not, the path has been used by people working that land for centuries. Walking it now, with the river way below and the walls of the barranco rising on either side, it is easy enough to picture the traffic of mules and farmers that used to be there. Harder to picture the last weeks of 1609, when the same ridges became a place people went to hide.
 
+<https://hiiker.app/hikes/spain/la-vall-de-laguar/the-cathedral-of-hiking-pr-cv-147>
+
 ![](/images/img_5752.jpg)
 
 Al-Azraq sits behind a lot of this. He was the blue eyed Muslim lord from the Vall d’Alcalà who spent decades in the thirteenth century holding the high valleys against Jaime I. In 1245 he and the king signed the Pact of the Pouet, trying to sort out which castles stayed with whom. Al-Azraq kept Alcalà and Perputxent for a while, and handed over others. He led three uprisings. In one week in 1258 he took sixteen castles and defeated a Christian force of about 3,000. He died in 1276 during an assault on Alcoy. The later Morisco rebellion in Laguar feels like an echo of that earlier resistance, different century, same difficult country, same refusal to just hand it over. 2026 has even been marked locally as the Year of Al-Azraq, with events in the valleys.
