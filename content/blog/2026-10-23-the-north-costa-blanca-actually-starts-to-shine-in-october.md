@@ -26,15 +26,13 @@ The walks that actually make sense now are the ones that do not involve queues. 
 
 Markets and food feel more local too. Jávea’s Thursday market in the old town runs as usual. On the 31st the Mercat d’Origen de la Marina Alta is back at the Riurau d’Arnauda with local produce, crafts and a bit of music. It is a proper morning out rather than a tourist rush. Down in Dénia, the XXVIII Ruta de Tapas is underway from 22 October to 22 November, 48 places, tapa plus drink for 4.50 euros. Details and the list of spots are on[ denia.net](https://denia.net/agenda/xxviii-ruta-de-tapas-2/). It is a good excuse to wander the centre and try something new without the August queues.
 
-{{< image-caption src="/images/albir.jpg" >}}Walks on October {{< /image-caption >}}
+{{< image-caption src="/images/2827.jpg" >}}Walks on October{{< /image-caption >}}
 
 Calpe is in the middle of its Moros y Cristianos, running 21 to 26 October this year (50th anniversary and now a national tourist interest festival). You can see the full programme on the[ official fiestas site](https://morosycristianos.calpe.es/en/). Dénia is running its Nit de les Ànimes from mid-October into early November, which feels about right for the place.
 
 Hotel occupancy across the Costa Blanca outside Benidorm was still high in the first half of October, around 82 per cent, so pure bargain basement rooms are not everywhere. What you do get is space. Easier parking, shorter waits for tables, quieter beaches you can actually walk on, and the last of the decent park tickets if that is your thing. Villas and apartments often feel more available and better value than peak summer, especially midweek. The sea is still swimmable on the warmer days for a lot of people. The evenings just need a light layer.
 
-{{< image-caption src="/images/whatsapp-image-2026-03-23-at-08.47.46.jpeg" >}}Hotel occupancy across the Costa Blanca {{< /image-caption >}}
-
-
+{{< image-caption src="/images/whatsapp-image-2026-03-23-at-08.47.46.jpeg" >}}Hotel occupancy across the Costa Blanca{{< /image-caption >}}
 
 This is the stretch a lot of us who live here quietly prefer. The park's closing does not mean the season is over. It means the North can breathe again. The views from Montgó or the Peñón, a market morning, a terrace sangria that does not need booking two weeks out, and the sense that the place belongs to the people who actually drive the N-332 most of the year.
 
@@ -43,10 +41,6 @@ If you are here now or planning a late October escape, this is when it shows its
 Right, I’m off for my afternoon walk; it’s Friday so I might add in a cheeky beer watching the world go by.
 
 Joanne xx
-
-
-
-
 
 I’m Joanne from Sun Sea Sangria — the Terrace Crew’s notes from the Costa Blanca North. Real life from Alicante up to Dénia: local spots, practical bits, terrace weather, and the odd glass of sangria. No brochure.
 
