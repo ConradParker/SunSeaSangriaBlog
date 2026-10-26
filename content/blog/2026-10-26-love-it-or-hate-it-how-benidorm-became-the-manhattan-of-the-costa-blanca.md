@@ -6,7 +6,7 @@ description: Ever wonder why Benidorm looks like Manhattan while the rest of the
   Costa Blanca stayed low-rise? Discover the Vespa ride and the bold plan that
   changed it all.
 series: sun-sea-history
-image: /images/love-it-or-hate-it-how-benidorm-became-the-manhattan-of-the-costa-blanca.png
+image: /images/image_243321de.jpg
 comments: true
 socials: true
 popular: true
