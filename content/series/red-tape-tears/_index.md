@@ -2,7 +2,7 @@
 title: Red Tape & Tears
 date: 2026-02-05T08:50:00.000+01:00
 draft: false
-image: image-14-.jpg
+image: work-struggles.png
 weight: 3
 menu_weight: ""
 nav_emoji: 📄
