@@ -6,7 +6,7 @@ description: "Monday terrace notes: a midnight car fire in Dénia, the local
   police had a busy Saturday on e-scooters, Calpe’s 50th Moros close tonight,
   and the fair at Torrecremada is still running."
 series: sun-sea-news
-image: /images/img_8828.jpeg
+image: /images/image_a57ad5-1-.jpg
 comments: true
 socials: true
 popular: true
