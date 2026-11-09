@@ -41,7 +41,7 @@ Dénia Stock filled Marqués de Campo over the weekend with 45 local shops and a
 
 A young Balearic band and choir put on a Mediterranean-themed concert on Saturday, and there’s a contemporary dance festival at the Teatre Auditori from 11–15 November. The housing conversation continues hard here — another 22 affordable rental homes under the Casa 47 scheme are coming available across the comarca (including spots in Dénia, Pedreguer and Beniarbeig). Rents are meant to stay under 30% of household income with long contracts. There’s a general housing strike and demonstration planned for 11 November — three pickets around town and a bigger comarcal march.
 
-{{< image-caption src="/images/c6r3v.jpg" >}}Sun Sea News {{< /image-caption >}}
+{{< image-caption src="/images/c6r3v.jpg" >}}Sun Sea News{{< /image-caption >}}
 
 **Jávea (Xàbia)**
 
@@ -72,3 +72,25 @@ Until next Monday.
 Joanne xx
 
 Sun Sea Sangria ☀️🍷
+
+
+
+I’m Joanne from Sun Sea Sangria — the Terrace Crew’s notes from the Costa Blanca North.
+
+Real life from Alicante up to Dénia: local spots, practical bits, terrace weather, and the odd glass of sangria. No brochure.
+
+Enjoyed this post?
+
+* 📩 Subscribe free: Get the next round-up sent straight to your inbox here.
+* 💬 Support the blog: Please like or comment below — it helps more people find us!
+
+While you’re here:
+
+* 🌴 Free Guides from the Terrace: Grab your expat resources at sunseasangria.com/free-expat-resources.
+* 🐾 Snoopy’s Book: Check out *Paws & Mischief* on Amazon UK or Amazon.com (Chapter 1 is still free on the site!).
+
+See you next time. The terrace is open if you need it.
+
+Joanne xx
+
+Sun Sea Sangria
