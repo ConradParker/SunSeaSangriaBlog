@@ -1,5 +1,5 @@
 ---
-title: " The October Paperwork Update (TIE Appointments & Tax 2026)"
+title: " Spain TIE automatic appointment Modelo 210 changes 2026"
 date: 2026-11-09T08:41:00.000+01:00
 draft: false
 description: A practical look at the new automatic TIE appointment pilot in
