@@ -55,8 +55,6 @@ Not every town has the same winter personality. Here’s how they feel once the 
 
 {{< image-caption src="/images/whatsapp-image-2026-03-30-at-11.32.32-4-.jpeg" >}}Winter in Moraira{{< /image-caption >}}
 
-
-
 **Coming in a van or motorhome?**
 
 A lot of people turn up here for the winter in a van, and the North works well for it once you know the options. Many of the proper campsites stay open year-round (or at least through the main winter months), and some offer monthly rates once the summer peak has gone. A few of the ones locals and regulars actually use:
@@ -72,7 +70,7 @@ A lot of people turn up here for the winter in a van, and the North works well f
 
 Reality check: even in winter you still need to book the better-known sites if you want a decent pitch for more than a few nights. Some places also have dedicated motorhome service areas if you just need a night or two. Always double-check opening dates and whether they do long-stay rates; they can change.
 
-{{< image-caption src="/images/camping-in-the-costa-blanca.png" >}}Camping on the Costa Blanca {{< /image-caption >}}
+{{< image-caption src="/images/camping-in-the-costa-blanca.png" >}}Camping on the Costa Blanca{{< /image-caption >}}
 
 **Practical tips before you book**
 
