@@ -6,6 +6,12 @@ publish_mode: editorial_workflow
 
 site_url: https://sunseasangria.com
 
+# Keep new URLs plain: strip emoji, curly quotes and accents (é -> e) from
+# generated slugs. Only affects new entries; existing URLs are unchanged.
+slug:
+  encoding: "ascii"
+  clean_accents: true
+
 media_folder: assets/images
 public_folder: /images
 

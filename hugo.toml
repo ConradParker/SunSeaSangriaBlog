@@ -1,4 +1,7 @@
-baseURL = '/'
+# Must be absolute: sitemap <loc>, canonical and og:url are built from it.
+# Netlify preview/branch builds override it with -b $DEPLOY_PRIME_URL.
+baseURL = 'https://sunseasangria.com/'
+enableRobotsTXT = true
 languageCode = 'en-us'
 title = 'Sun Sea Sangria'
 theme = 'paige'
