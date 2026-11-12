@@ -70,6 +70,20 @@ A lot of people turn up here for the winter in a van, and the North works well f
 
 Reality check: even in winter you still need to book the better-known sites if you want a decent pitch for more than a few nights. Some places also have dedicated motorhome service areas if you just need a night or two. Always double-check opening dates and whether they do long-stay rates; they can change.
 
+{{< image-caption src="/images/img_8369.jpeg" >}}Private Rentals are a good option{{< /image-caption >}}
+
+**Private villas & apartments**
+
+Around the Costa Blanca North you’ll also find plenty of private villas and apartments with winter long-stay deals. Weekly and monthly rates drop a lot once summer ends, and many owners are happy to do 1–3 month lets. It’s a good middle option if you want your own space but don’t fancy a campsite.
+
+One practical note: always check that the rental is properly registered with the Valencian tourist board, and take a good look at recent reviews before you book. A few extra minutes of checking saves a lot of hassle later.
+
+
+
+[Villa & Apartment Winter Deals](https://www.airbnb.com/a/villas/Costa-Blanca--Spain?place_id=ChIJK13NN0MPYw0RLSUjAo7ehEE&gclsrc=aw.ds&&c=.pi0.pk23374495626_204471264121&gad_source=1&gad_campaignid=23374495626&gbraid=0AAAAADz55LljaY6yDssgbLMSxbb3AsEr4&gclid=Cj0KCQiAwdDXBhDuARIsAFdLuklFxEwwVeL-8fhwPen0S2FuTr-O9mc7_xxMsFWQFDR6hTqAMlOsy64aApp0EALw_wcB)
+
+
+
 {{< image-caption src="/images/camping-in-the-costa-blanca.png" >}}Camping on the Costa Blanca{{< /image-caption >}}
 
 **Practical tips before you book**
