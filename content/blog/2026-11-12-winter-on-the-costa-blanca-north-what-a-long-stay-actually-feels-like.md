@@ -2,9 +2,9 @@
 title: "Winter on the Costa Blanca North: What a Long Stay Actually Feels Like"
 date: 2026-11-12T08:57:00.000+01:00
 draft: false
-description: When the Crowds are gone, the sun is still out, long-stay pricesare
-  cheaper. An honest look at winter on the Costa Blanca North in Dénia, Jávea,
-  Calpe and Moraira.
+description: When the crowds are gone, the sun is still out, long-stay prices
+  are cheaper. An honest look at winter on the Costa Blanca North in Dénia,
+  Jávea, Calpe and Moraira.
 series: sun-sea-lifestyle
 image: /images/winter-on-the-costa-blanca.png
 comments: true
@@ -29,7 +29,7 @@ Whether you’re escaping the grey for 90 days, testing the waters before thinki
 
 Unlike parts of the southern coast that either shut down completely or turn into empty concrete resort towns, the Marina Alta stays genuinely alive because these are real working towns.
 
-* The weather: Crisp, sunny days averaging 16–20°C, bright skies, and beaches you can actually walk on. Local reality check: once the sun drops around 5:30 p,m the temperature falls fast, st and those Spanish-tiled floors get cold. Pack layers and decent slippers. You’ll thank me.
+* The weather: Crisp, sunny days averaging 16–20°C, bright skies, and beaches you can actually walk on. Local reality check: once the sun drops around 5:30 pm the temperature falls fast and those Spanish-tiled floors get cold. Pack layers and decent slippers. You’ll thank me.
 * A slower rhythm: Restaurants have time to chat, parking is free and easy in spots that are impossible in July, and the weekly markets feel relaxed rather than like a contact sport.
 * Walking and cycling: Without the summer humidity, this is prime time for Montgó, the coastal path around Moraira and Benissa, or the quiet inland valleys through the orange groves.
 
@@ -103,13 +103,13 @@ Public transport works, but it’s not seamless if you’re basing yourself for 
 
 If a winter stretch starts to feel like it could become something more permanent, grab my free Costa Blanca North Expat Starter Pack. It covers the practical stuff, healthcare, NIE/TIE basics, and the things we wish someone had told us on day one.
 
-Right, I’m off for a walk and a café con lech . It’s the best time of year for it.
+Right, I’m off for a walk and a café con leche.
+
+
 
 Joanne xx
 
-{{< image-caption src="/images/winter-on-the-costa-blanca.png" >}}Winter on he Costa Blanca North - Sun Sea Sangria{{< /image-caption >}}
-
-
+{{< image-caption src="/images/winter-on-the-costa-blanca.png" >}}Winter on the Costa Blanca North - Sun Sea Sangria{{< /image-caption >}}
 
 Disclaimer: This post contains affiliate links (including Stay22 links). If you book through them, I may earn a small commission at no extra cost to you. It helps keep the site running and the terrace lights on. I only link to places I’d actually recommend.
 
