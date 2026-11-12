@@ -60,13 +60,9 @@ Not every town has the same winter personality. Here’s how they feel once the 
 A lot of people turn up here for the winter in a van, and the North works well for it once you know the options. Many of the proper campsites stay open year-round (or at least through the main winter months), and some offer monthly rates once the summer peak has gone. A few of the ones locals and regulars actually use:
 
 * [**Camping Los Pinos (Dénia)** ](https://www.lospinosdenia.com/)— Small, friendly, close to Montgó and the coast. Popular with people who want quiet and a bit of nature without being in the middle of nowhere.
-
 * **[Camping Jávea & Camping El Naranjal (Jávea)](https://www.campingelnaranjal.com/)** — Handy for the Arenal, the old town and the walking trails. Good facilities and a decent winter crowd.
-
 * [**Paraíso Camper or Camping CalpeMar (Calpe)** ](https://www.pitchup.com/campsites/spain/comunidad-valenciana/alicante/calpe/paraiso_camper/)— Flat and practical, with easy access to town and the promenade. Calpe’s winter sun and the Peñón views make it an easy base.
-
 * **[Camping Cap Blanch (Altea)](https://www.camping-capblanch.com/)** — Right by the beach if you like rolling out of the van onto the sand. Quieter in winter than further south.
-
 
 Reality check: even in winter you still need to book the better-known sites if you want a decent pitch for more than a few nights. Some places also have dedicated motorhome service areas if you just need a night or two. Always double-check opening dates and whether they do long-stay rates; they can change.
 
@@ -89,6 +85,8 @@ One practical note: always check that the rental is properly registered with the
 3. **Rent a car for off-season rates**. Winter car hire from Alicante or Valencia airport is a fraction of summer prices, often just a few euros a day plus insurance. Perfect for heading inland to Jalón (Xaló) when the almond blossom appears in late January and February.
    [ Winter Car Rental Deals](https://www.travelsupermarket.com/en-gb/car-hire/spain/)
 4. **Get into the markets**. Dénia on Mondays, Jávea on Thursdays, Calpe on Saturdays. Fresh winter oranges, avocados and local produce for almost nothing.
+
+
 
 **Thinking about turning a long stay into a move?**
 
