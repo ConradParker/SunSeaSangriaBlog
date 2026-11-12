@@ -61,14 +61,28 @@ A lot of people turn up here for the winter in a van, and the North works well f
 
 * [**Camping Los Pinos (Dénia)** ](https://www.lospinosdenia.com/)— Small, friendly, close to Montgó and the coast. Popular with people who want quiet and a bit of nature without being in the middle of nowhere.
   [ Los Pinos Winter Pitch](https://go.stay22.com/sunseasangria1/LOSPINOSPLACEHOLDER)
-* **Camping Jávea & Camping El Naranjal (Jávea)** — Handy for the Arenal, the old town and the walking trails. Good facilities and a decent winter crowd.
+* **[Camping Jávea & Camping El Naranjal (Jávea)](https://www.campingelnaranjal.com/)** — Handy for the Arenal, the old town and the walking trails. Good facilities and a decent winter crowd.
   [ Jávea Campsite Deals](https://www.campingelnaranjal.com/)
-* **Paraíso Camper or Camping CalpeMar (Calpe)** — Flat and practical, with easy access to town and the promenade. Calpe’s winter sun and the Peñón views make it an easy base.
+* [**Paraíso Camper or Camping CalpeMar (Calpe)** ](https://www.pitchup.com/campsites/spain/comunidad-valenciana/alicante/calpe/paraiso_camper/)— Flat and practical, with easy access to town and the promenade. Calpe’s winter sun and the Peñón views make it an easy base.
   [ Calpe Camper Pitches](https://www.campingcalpemar.com/en/)
-* **Camping Cap Blanch (Altea)** — Right by the beach if you like rolling out of the van onto the sand. Quieter in winter than further south.
+* **[Camping Cap Blanch (Altea)](https://www.camping-capblanch.com/)** — Right by the beach if you like rolling out of the van onto the sand. Quieter in winter than further south.
   [ Cap Blanch Winter Stay](https://www.camping-capblanch.com/)
 
 Reality check: even in winter you still need to book the better-known sites if you want a decent pitch for more than a few nights. Some places also have dedicated motorhome service areas if you just need a night or two. Always double-check opening dates and whether they do long-stay rates; they can change.
+
+{{< image-caption src="/images/img_8369.jpeg" >}}Private Rentals are a good option{{< /image-caption >}}
+
+**Private villas & apartments**
+
+Around the Costa Blanca North you’ll also find plenty of private villas and apartments with winter long-stay deals. Weekly and monthly rates drop a lot once summer ends, and many owners are happy to do 1–3 month lets. It’s a good middle option if you want your own space but don’t fancy a campsite.
+
+One practical note: always check that the rental is properly registered with the Valencian tourist board, and take a good look at recent reviews before you book. A few extra minutes of checking saves a lot of hassle later.
+
+
+
+[Villa & Apartment Winter Deals](https://www.airbnb.com/a/villas/Costa-Blanca--Spain?place_id=ChIJK13NN0MPYw0RLSUjAo7ehEE&gclsrc=aw.ds&&c=.pi0.pk23374495626_204471264121&gad_source=1&gad_campaignid=23374495626&gbraid=0AAAAADz55LljaY6yDssgbLMSxbb3AsEr4&gclid=Cj0KCQiAwdDXBhDuARIsAFdLuklFxEwwVeL-8fhwPen0S2FuTr-O9mc7_xxMsFWQFDR6hTqAMlOsy64aApp0EALw_wcB)
+
+
 
 {{< image-caption src="/images/camping-in-the-costa-blanca.png" >}}Camping on the Costa Blanca{{< /image-caption >}}
 
@@ -79,6 +93,8 @@ Reality check: even in winter you still need to book the better-known sites if y
 3. **Rent a car for off-season rates**. Winter car hire from Alicante or Valencia airport is a fraction of summer prices, often just a few euros a day plus insurance. Perfect for heading inland to Jalón (Xaló) when the almond blossom appears in late January and February.
    [ Winter Car Rental Deals](https://www.travelsupermarket.com/en-gb/car-hire/spain/)
 4. **Get into the markets**. Dénia on Mondays, Jávea on Thursdays, Calpe on Saturdays. Fresh winter oranges, avocados and local produce for almost nothing.
+
+
 
 **Thinking about turning a long stay into a move?**
 
