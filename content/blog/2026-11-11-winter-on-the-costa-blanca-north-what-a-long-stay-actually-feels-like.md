@@ -94,6 +94,8 @@ One practical note: always check that the rental is properly registered with the
    [ Winter Car Rental Deals](https://www.travelsupermarket.com/en-gb/car-hire/spain/)
 4. **Get into the markets**. Dénia on Mondays, Jávea on Thursdays, Calpe on Saturdays. Fresh winter oranges, avocados and local produce for almost nothing.
 
+
+
 **Thinking about turning a long stay into a move?**
 
 If a winter stretch starts to feel like it could become something more permanent, grab my free Costa Blanca North Expat Starter Pack. It covers the practical stuff, healthcare, NIE/TIE basics, and the things we wish someone had told us on day one.
