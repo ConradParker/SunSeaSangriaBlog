@@ -29,7 +29,7 @@ Whether you’re escaping the grey for 90 days, testing the waters before thinki
 
 Unlike parts of the southern coast that either shut down completely or turn into empty concrete resort towns, the Marina Alta stays genuinely alive because these are real working towns.
 
-* The weather: Crisp, sunny days averaging 16–20°C, bright skies, and beaches you can actually walk on. Local reality check: once the sun drops around 5:30 pm the temperature falls fast and those Spanish-tiled floors get cold. Pack layers and decent slippers. You’ll thank me.
+* The weather: Crisp, sunny days averaging 16–20°C, bright skies, and beaches you can actually walk on. Local reality check: once the sun drops around 5:30 pm, the temperature falls fast, and those Spanish-tiled floors get cold. Pack layers and decent slippers. You’ll thank me.
 * A slower rhythm: Restaurants have time to chat, parking is free and easy in spots that are impossible in July, and the weekly markets feel relaxed rather than like a contact sport.
 * Walking and cycling: Without the summer humidity, this is prime time for Montgó, the coastal path around Moraira and Benissa, or the quiet inland valleys through the orange groves.
 
@@ -74,16 +74,16 @@ One practical note: always check that the rental is properly registered with the
 
 **Practical tips before you book**
 
-1. Check heating and orientation. Never book a winter rental without asking two things: does it get direct afternoon sun (south-facing is ideal)? And what kind of heating does it have? Air-con units with a heat pump (*bomba de calor*) are the gold standard. Be careful if it’s only log or pellet; wood and pellets can be surprisingly hard to find depending on the exact location, and your first night can feel chilly.
+1. Check heating and orientation. Never book a winter rental without asking two things: does it get direct afternoon sun (south-facing is ideal)? And what kind of heating does it have? Air-con units with a heat pump (*bomba de calor*) are the gold standard. Be careful if it’s only log or pellet; depending on the exact location, wood and pellets can be surprisingly hard to find, and your first night can feel chilly.
 2. Mind the 90/180-day rule. If you’re coming from the UK or outside the EU, keep a close eye on your Schengen days so you don’t accidentally overstay.
-3. Rent a car for off-season rates. Winter car hire from Alicante or Valencia airport is a fraction of summer prices, often just a few euros a day plus insurance. Perfect for heading inland to Jalón (Xaló) when the almond blossom appears in late January and February. Winter Car Rental Deals
+3. Rent a car for off-season rates. Winter car hire from Alicante or Valencia airport is a fraction of summer prices, often just a few euros a day plus insurance. Perfect for heading inland to Jalón (Xaló) when almond blossoms appear in late January and February. [Winter Car Rental Deals](https://www.travelsupermarket.com/en-gb/car-hire/spain/alicante/)
 4. Get into the markets. Dénia on Mondays, Jávea on Thursdays, Calpe on Saturdays. Fresh winter oranges, avocados and local produce for almost nothing.
 
 **Local transport (winter reality check)**
 
 Public transport works, but it’s not seamless if you’re basing yourself for weeks or months. A car (or a van) still makes life much easier, especially once you’re off the main strip.
 
-**TRAM d’Alacant** (the best option) Line 9 runs from Benidorm to Dénia, stopping at Altea, Calpe, Benissa, Teulada and Gata. Roughly hourly in both directions. To get further south to Alicante, you change at Benidorm onto Line 1. Scenic, cheap (a few euros depending on zones), and reliable. Reality check: Calpe station is a walk (or local bus) from the centre. Moraira has no station; you have to go to Teulada. Frequencies drop a bit in the evening and on Sundays. Always check the FGV/TRAM app or site for the exact day.
+**TRAM d’Alacant** (the best option) Line 9 runs from Benidorm to Dénia, stopping at Altea, Calpe, Benissa, Teulada and Gata. It runs roughly hourly in both directions. To get further south to Alicante, you change at Benidorm onto Line 1. Scenic, cheap (a few euros depending on zones), and reliable. Reality check: Calpe station is a walk (or local bus) from the centre. Moraira has no station; you have to go to Teulada. Frequencies drop a bit in the evening and on Sundays. Always check the FGV/TRAM app or site for the exact day.
 
 [Tram Alacant Schedule and Destinations](https://www.tramalacant.es/)
 
