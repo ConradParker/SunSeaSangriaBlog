@@ -76,7 +76,7 @@ One practical note: always check that the rental is properly registered with the
 
 1. Check heating and orientation. Never book a winter rental without asking two things: does it get direct afternoon sun (south-facing is ideal)? And what kind of heating does it have? Air-con units with a heat pump (*bomba de calor*) are the gold standard. Be careful if it’s only log or pellet; wood and pellets can be surprisingly hard to find depending on the exact location, and your first night can feel chilly.
 2. Mind the 90/180-day rule. If you’re coming from the UK or outside the EU, keep a close eye on your Schengen days so you don’t accidentally overstay.
-3. Rent a car for off-season rates. Winter car hire from Alicante or Valencia airport is a fraction of summer prices, often just a few euros a day plus insurance. Perfect for heading inland to Jalón (Xaló) when the almond blossom appears in late January and February. Winter Car Rental Deals
+3. Rent a car for off-season rates. Winter car hire from Alicante or Valencia airport is a fraction of summer prices, often just a few euros a day plus insurance. Perfect for heading inland to Jalón (Xaló) when the almond blossom appears in late January and February. [Winter Car Rental Deals](https://www.travelsupermarket.com/en-gb/car-hire/spain/alicante/)
 4. Get into the markets. Dénia on Mondays, Jávea on Thursdays, Calpe on Saturdays. Fresh winter oranges, avocados and local produce for almost nothing.
 
 **Local transport (winter reality check)**
