@@ -55,7 +55,7 @@ A lot of people turn up here for the winter in a van, and the North works well f
 
 * [Camping Los Pinos (Dénia)](https://www.lospinosdenia.com/) — Small, friendly, close to Montgó and the coast. Popular with people who want quiet and a bit of nature without being in the middle of nowhere.
 * [Camping El Naranjal Javea ](https://www.campingelnaranjal.com/)— Handy for the Arenal, the old town and the walking trails. Good facilities and a decent winter crowd.
-* [Camping Parisio Calpe](https://go.stay22.com/sunseasangria1/LYlwy06JHh)— Flat and practical, with easy access to town and the promenade. Calpe’s winter sun and the Peñón views make it an easy base.
+* [Paraíso Camper (Calpe)](https://www.paraisocamper.com/)— Flat and practical, with easy access to town and the promenade. Calpe’s winter sun and the Peñón views make it an easy base.
 * [Camping Cap Blanch (Altea) ](https://www.camping-capblanch.com/)— Right by the beach if you like rolling out of the van onto the sand. Quieter in winter than further south.
 
 Reality check: even in winter you still need to book the better-known sites if you want a decent pitch for more than a few nights. Some places also have dedicated motorhome service areas if you just need a night or two. Always double-check opening dates and whether they do long-stay rates; they can change.
@@ -109,7 +109,7 @@ Joanne xx
 
 {{< image-caption src="/images/winter-on-the-costa-blanca.png" >}}Winter on the Costa Blanca North - Sun Sea Sangria{{< /image-caption >}}
 
-Disclaimer: This post contains affiliate links (including Stay22 links). If you book through them, I may earn a small commission at no extra cost to you. It helps keep the site running and the terrace lights on. I only link to places I’d actually recommend.
+**Disclaimer:** This post contains affiliate links (including Stay22 links). If you book through them, I may earn a small commission at no extra cost to you. It helps keep the site running and the terrace lights on. I only link to places I’d actually recommend.
 
 I’m Joanne from Sun Sea Sangria — the Terrace Crew’s notes from the Costa Blanca North. Real life from Alicante up to Dénia: local spots, practical bits, terrace weather, and the odd glass of sangria. No brochure.
 
