@@ -6,6 +6,7 @@ description: Everyone knows Calpe’s Peñón de Ifach, but few notice the aband
   13th-century ghost town at its feet. Step inside the fascinating history of
   Pobla d'Ifac.
 series: sun-sea-history
+image: /images/14692.jpg
 comments: true
 socials: true
 popular: true
