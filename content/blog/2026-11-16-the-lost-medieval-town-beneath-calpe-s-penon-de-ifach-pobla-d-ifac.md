@@ -15,7 +15,7 @@ popular: true
 
 On Saturday morning Conrad and I did the walk up the Peñón de Ifach,  not the full steep slog to the top; my hip wouldn't make it that far, just as far as the tunnel. It’s one of those easy-enough routes that still feels like you’ve earned the view. When we reached the flatter stretch before the tunnel, we stopped. Right there in the grass are low stone walls, the clear outline of old buildings, and a scatter of graves. I’d walked past them before without really stopping, but this time we did. Standing among them made me want to know where it all began.
 
-{{< image-caption src="/images/14673.jpg" >}}Penon de Ifach{{< /image-caption >}}
+{{< image-caption src="/images/14692.jpg" >}}Penon de Ifach{{< /image-caption >}}
 
 Spain is full of these places. You can drive past the same stretch of coast for years and never realise there’s a whole abandoned medieval town sitting quietly in the grass until you get out and walk. The Peñón has always been the big landmark, but the little settlement at its feet is easy to miss until you’re right on top of it.
 
@@ -54,3 +54,5 @@ Information sourced:
  [https://www.marqalicante.com/ ](https://www.marqalicante.com/)
 
 <https://www.calpe.es/>
+
+{{< image-compare src1="/images/20261114_090355_original.jpeg" src2="/images/20261114_090615_original.jpeg" caption1="The Lost Medieval Town Beneath Calpe’s Peñón de Ifach" caption2="The Lost Medieval Town Beneath Calpe’s Peñón de Ifach" >}}
