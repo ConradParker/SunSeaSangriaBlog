@@ -1,6 +1,6 @@
 ---
 title: The Lost Medieval Town Beneath Calpe’s Peñón de Ifach, Pobla d’Ifac
-date: 2026-11-16T10:03:00.000+01:00
+date: 2026-11-16T10:43:00.000+01:00
 draft: false
 description: Everyone knows Calpe’s Peñón de Ifach, but few notice the abandoned
   13th-century ghost town at its feet. Step inside the fascinating history of
@@ -27,13 +27,13 @@ Human occupation goes back at least to the Iberian period. On the western slope 
 
 The medieval Christian town, the Pobla d’Ifac, sits on the northern flank, roughly where the path levels out before the tunnel. It was not the first attempt. In 1282, Peter III ordered a settlement built there to secure the coast, but little came of it. The lasting foundation came a generation later. In 1297–1298, James II granted Calpe and Altea to Admiral Roger de Llúria (the Calabrian-born commander who had dominated the western Mediterranean for the Crown of Aragon). Llúria already held large inland lordships around Cocentaina and Alcoi; he wanted a strong coastal outlet and a place to concentrate the Christian colonists who were still scattered in small farmsteads. Royal permission was given to build a strongly walled pobla at the foot of the rock.
 
-{{< image-caption src="/images/20261114_090355.jpg" >}}{{< /image-caption >}}
+{{< image-caption src="/images/20261114_090355.jpg" >}}Views from Penon de Ifach {{< /image-caption >}}
 
 Work began under Llúria. He died in 1305, before the town was finished. His widow, Saurina d’Entença, and then their daughter, Margarita de Llúria, carried the project on, an unusually clear case of two successive women effectively governing the place in a feudal society. Margarita in particular pushed the construction of the church of Nuestra Señora de los Ángeles (with dedications to the Virgin, St Michael and St Nicholas). At its height, the settlement covered some 40,000–70,000 m², enclosed by roughly 800 metres of wall with multiple towers (one still standing about 10 metres high), three main gates, a two-storey domus for the lord’s household, warehouses, and ordinary houses. Documentary evidence of “a hundred hearths” suggests a population of roughly 300–400 people, colonists mainly from Catalonia and Aragon.
 
+{{< image-caption src="/images/14688.jpg" >}}{{< /image-caption >}}
+
 Its life was short. During the War of the Two Peters,s a Castilian-Genoese fleet attacked and damaged the town in 1359. Archaeological evidence points to further serious destruction during a siege in 1365. The walls and buildings suffered irreparable harm; the population gradually drifted away to the higher, more defensible hill where the historic centre of Calpe still stands, and also toward Benissa and Teulada. By around 1400, the Pobla was abandoned. There were later attempts at resettlement (including one recorded in 1418), but none restored it. Because nothing was ever built on top of the ruins, the layout survived almost intact, a rare “fossilised” medieval pobla.
-
-
 
 Since the mid-2000s, the MARQ (Museo Arqueológico de Alicante) has been excavating the site systematically. The work has revealed the full circuit of walls, the gates, substantial stretches of the church, residential buildings, and a large cemetery with well over a hundred burials. The finds document both everyday life and the violence of the final decades. The rock itself, after centuries of private ownership, became a Natural Park in 1987; the tunnel that now takes walkers through the rock was cut in 1918 to make the ascent safer.
 
