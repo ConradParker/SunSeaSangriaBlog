@@ -54,3 +54,5 @@ Information sourced:
  [https://www.marqalicante.com/ ](https://www.marqalicante.com/)
 
 <https://www.calpe.es/>
+
+{{< image-compare src1="/images/20261114_090355_original.jpeg" src2="/images/20261114_090615_original.jpeg" >}}
