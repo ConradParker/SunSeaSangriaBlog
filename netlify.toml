@@ -13,3 +13,10 @@
 
 [context.branch-deploy]
   command = "export DART_SASS_VERSION=1.94.2 && curl -LJO https://github.com/sass/dart-sass/releases/download/${DART_SASS_VERSION}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz && tar -xvf dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz && export PATH=$PATH:$PWD/dart-sass && hugo --gc --minify -b $DEPLOY_PRIME_URL"
+
+# Keep the Decap CMS out of search results. It is deliberately not blocked in
+# robots.txt: Google has to crawl these URLs to see the noindex.
+[[headers]]
+  for = "/admin/*"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow"
