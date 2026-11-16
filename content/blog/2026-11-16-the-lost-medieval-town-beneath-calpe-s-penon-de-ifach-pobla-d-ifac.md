@@ -15,6 +15,8 @@ popular: true
 
 On Saturday morning Conrad and I did the walk up the Peñón de Ifach,  not the full steep slog to the top; my hip wouldn't make it that far, just as far as the tunnel. It’s one of those easy-enough routes that still feels like you’ve earned the view. When we reached the flatter stretch before the tunnel, we stopped. Right there in the grass are low stone walls, the clear outline of old buildings, and a scatter of graves. I’d walked past them before without really stopping, but this time we did. Standing among them made me want to know where it all began.
 
+{{< image-caption src="/images/14673.jpg" >}}{{< /image-caption >}}
+
 Spain is full of these places. You can drive past the same stretch of coast for years and never realise there’s a whole abandoned medieval town sitting quietly in the grass until you get out and walk. The Peñón has always been the big landmark, but the little settlement at its feet is easy to miss until you’re right on top of it.
 
 The Peñón itself is far older than the medieval town that briefly clung to its lower slopes. Geologically, it is a massive block of Eocene limestone, an olistolith that slid away from the Sierra de Oltà (itself linked to the Sierra de Bernia) millions of years ago. For a long time it stood as an offshore island; only later did coastal currents build the sandy tombolo that now ties it to the mainland, creating the double beach and the lagoon of the old salinas behind it. Its sheer bulk, rising more than 330 metres straight out of the sea, has always made it a natural landmark for sailors and a natural fortress for anyone who held the coast.
