@@ -42,11 +42,11 @@ The historic fair is running 14–22 November, concentrated into two weekends th
 * Jávea’s week-long padel tournament (Go With The Flow x Club de Tenis Jávea) kicks off today and runs through the 22nd — group stages, flexible timing so it fits around normal life.
 * Housing remains the hot topic everywhere. Rents for a decent 80 m² place in Dénia, Jávea or Calpe can still swallow a big chunk of the minimum wage, which is why the protected schemes and the ongoing “zona tensionada” push matter so much.
 
-  {{< image-caption src="/images/image-10-.jpg" >}}Sun Sea Sangria - Shop {{< /image-caption >}}
+  {{< image-caption src="/images/image-10-.jpg" >}}Sun Sea Sangria - Shop{{< /image-caption >}}
 
 That’s the round-up from our little corner of the coast. The sun’s trying, the sea is still inviting, the terrace is open, and the sangria is always an option.
 
-Just uploaded two new videos to YouTube and Ingragram reels from the weekend — one exploring the medieval village on the Peñón de Ifach, and another of the sunrise I caught this morning at La Fustera Beach in Benissa.
+Just uploaded two new videos to YouTube and Instagram Reels from the weekend — one exploring the medieval village on the Peñón de Ifach, and another of the sunrise I caught this morning at La Fustera Beach in Benissa.
 
 Later this week I’ll be writing a Sun Sea History piece about the graves and the old village up on the Peñón.
 
