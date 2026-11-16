@@ -55,4 +55,4 @@ Information sourced:
 
 <https://www.calpe.es/>
 
-{{< image-compare src1="/images/20261114_090355_original.jpeg" src2="/images/20261114_090615_original.jpeg" >}}
+{{< image-compare src1="/images/20261114_090355_original.jpeg" src2="/images/20261114_090615_original.jpeg" caption1="The Lost Medieval Town Beneath Calpe’s Peñón de Ifach" caption2="The Lost Medieval Town Beneath Calpe’s Peñón de Ifach" >}}
