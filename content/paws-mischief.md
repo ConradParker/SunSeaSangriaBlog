@@ -8,15 +8,10 @@ date: 2026-11-20T08:55:00.000+01:00
 draft: false
 menu_weight: 70
 ---
-
-
 **Paws & Mischief**
 
 **Tales of a Tail Wagging Troublemaker**
 *By Joanne Maddison · Illustrated by Isabella Parker*
-
-
-
 
 {{< image-caption src="/images/71gyayfcazl._sl1500_.jpg" >}}Paws & Mischief - Tales of a Tail-Wagging Troublemaker{{< /image-caption >}}
 
@@ -39,9 +34,9 @@ Somewhere between the chaos and the cuddles — the puddles, the supermarket esc
 
 It’s a short illustrated book (Isabella did the drawings). Perfect for little ones, dog lovers, or anyone who’s ever lived with a small dog who was absolutely convinced they ran the house.
 
-### **Get your copy on Amazon.**
+###### **Get your copy on Amazon.**
 
-Free to read with Kindle Unlimited, or available to buy on:
+###### Free to read with Kindle Unlimited, or available to buy on:
 
 * **Amazon.co.uk (UK)** — £1.99
   [ amazon.co.uk/dp/B0H5TKLSSP](https://www.amazon.co.uk/dp/B0H5TKLSSP)
@@ -54,7 +49,7 @@ Free to read with Kindle Unlimited, or available to buy on:
 
 If you do read it, a short review on Amazon would mean the world right now. Those early ones make a real difference.
 
-### **Not sure yet? Read Chapter 1 for free**
+###### **Not sure yet? Read Chapter 1 for free**
 
 You can still read the first chapter right here on the blog.
 [Read Chapter 1 here for free](https://sunseasangria.com/blog/2026-01-15-the-great-puddle-mystery-snoopys-first-day/)
