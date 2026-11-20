@@ -29,14 +29,23 @@ Somewhere between the chaos and the cuddles, this little Spanish rescue complete
 
 If you’ve ever fallen for a rescue, survived a small-dog takeover, or just need a feel-good dose of four-legged mischief, this one’s for you.
 
-***Get Your Copy on Amazon:***
 
 
-**[Buy on Amazon.es (Spain) ](https://www.amazon.es/-/en/Paws-Mischief-Wagging-Troublemaker-English-ebook/dp/B0H5TKLSSP/ref=sr_1_1?crid=53BLTW2Y5IID&dib=eyJ2IjoiMSJ9.EBrlulVd0-FszUACYvIXFetdxyCuYkXIjyDivmCkSXI.HmU03UYeC0ZaDAd5wllkagK-hb-e4yckRb2L1mRNFJk&dib_tag=se&keywords=Paws+%26+Mischief+%3A+Tales+of+a+Tale+Wagging+Troublemaker&qid=1795161671&sprefix=paws+%26+mischief+tales+of+a+tale+wagging+troublemaker%2Caps%2C193&sr=8-1)**
+* UK: 
 
-**[Buy on Amazon.co.uk (UK) ](https://www.amazon.co.uk/Paws-Mischief-Tales-Wagging-Troublemaker-ebook/dp/B0H5TKLSSP/ref=sr_1_1?crid=CNQEXE54OO3L&dib=eyJ2IjoiMSJ9.h8rpzkkFtARs10r-cERD1w.1lJ0FN2BNT0htNWMMceT21gOnK0uZ1ZpyH7Fxl5hhb4&dib_tag=se&keywords=Paws+%26+Mischief+tales+of+a+Wagging-Troublemaker&qid=1795161740&sprefix=paws+%26+mischief+tales+of+a+wagging-troublemaker%2Caps%2C155&sr=8-1)**
+  [amazon.co.uk/dp/B0H5TKLSSP](https://www.amazon.co.uk/dp/B0H5TKLSSP)
 
-**[Buy on Amazon.com (US) ](https://www.amazon.com/Paws-Mischief-Tales-Wagging-Troublemaker-ebook/dp/B0H5TKLSSP/ref=sr_1_1?dib=eyJ2IjoiMSJ9.h8rpzkkFtARs10r-cERD1w._KlWMuL_9AsxJ2mv5hrU_yAjNI4Vxkvuz_jaQyfBtCg&dib_tag=se&keywords=paws+%26+mischief+joanne+maddison&qid=1795161788&s=books&sr=1-1)**
+
+* US: 
+
+  [amazon.com/dp/B0H5TKLSSP](https://www.amazon.com/dp/B0H5TKLSSP)
+
+
+* Spain: 
+
+  [amazon.es/dp/B0H5TKLSSP](https://www.amazon.es/dp/B0H5TKLSSP)
+
+
 
 *(Available on Kindle & Kindle Unlimited—no Kindle device required; read on any phone, tablet, or computer!* **Not Sure Yet? Read Chapter 1 for Free!**
 *(Paste your Chapter 1 text and illustrations right below this heading!)*
