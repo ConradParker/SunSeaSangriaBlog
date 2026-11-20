@@ -43,7 +43,7 @@ collections:
         name: "menu_weight"
         widget: "number"
         required: false
-        hint: "Home=10, Blog=20. Set 30+ to appear after Blog."
+        hint: "Blog=20. Set 30+ to appear after Blog (under 20 puts it first)."
       - label: "Nav Card Emoji"
         name: "nav_emoji"
         widget: "string"
@@ -109,7 +109,7 @@ collections:
         name: "menu_weight"
         widget: "number"
         required: false
-        hint: "Home=10, Blog=20. Set 30+ to appear after Blog."
+        hint: "Blog=20. Set 30+ to appear after Blog (under 20 puts it first)."
       - { label: "Body", name: "body", widget: "markdown" }
 
   - name: "settings"
@@ -150,6 +150,17 @@ collections:
               - { label: "Description", name: "body", widget: "text" }
               - { label: "Button label", name: "cta_label", widget: "string" }
               - { label: "Substack URL", name: "url", widget: "string" }
+          - label: "YouTube section"
+            name: "youtube"
+            widget: "object"
+            required: false
+            hint: "Shown under 'Latest from the Blog'. Videos come from the YouTube channel in Site Settings → Socials automatically and refresh whenever the site is rebuilt (any CMS save does that)."
+            fields:
+              - { label: "Show on homepage", name: "enabled", widget: "boolean", default: true, required: false }
+              - { label: "Heading", name: "heading", widget: "string", default: "On YouTube", required: false }
+              - { label: "Number of Shorts", name: "shorts_count", widget: "number", value_type: "int",
+                  default: 4, min: 2, max: 8, required: false,
+                  hint: "4 fills one row on desktop. The newest full-length video is shown above them; if there aren't enough recent Shorts, more full-length videos fill the gap." }
 
       - name: "blogpage"
         label: "Blog Page"

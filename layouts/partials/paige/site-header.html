@@ -53,12 +53,51 @@
 
 <script>
   (function () {
-    var btn = document.querySelector('.nav-toggle');
-    var wrap = document.querySelector('.nav-wrap');
-    if (!btn || !wrap) return;
-    btn.addEventListener('click', function () {
-      var open = wrap.classList.toggle('is-open');
+    var header = document.querySelector('.site-header');
+    var inner = header && header.querySelector('.site-header-inner');
+    var btn = header && header.querySelector('.nav-toggle');
+    var wrap = header && header.querySelector('.nav-wrap');
+    if (!inner || !btn || !wrap) return;
+    var brand = inner.querySelector('.brand');
+    var nav = inner.querySelector('.primary-nav');
+    var socials = inner.querySelector('.socials--nav');
+
+    function setOpen(open) {
+      wrap.classList.toggle('is-open', open);
       btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+    }
+    btn.addEventListener('click', function () {
+      setOpen(!wrap.classList.contains('is-open'));
     });
+
+    // Does element a's right edge (plus the grid gap) run into b's left edge?
+    function collides(a, b, gap) {
+      if (!a || !b) return false;
+      return a.getBoundingClientRect().right + gap > b.getBoundingClientRect().left + 1;
+    }
+
+    // Lay out in desktop mode, measure, then switch to the hamburger if
+    // anything collides. Runs synchronously so the user never sees the overlap.
+    function fit() {
+      header.classList.remove('is-compact');
+      var gap = parseFloat(getComputedStyle(inner).columnGap) || 0;
+      var compact = collides(brand, nav, gap) || collides(nav, socials, gap);
+      header.classList.toggle('is-compact', compact);
+      if (!compact) setOpen(false);
+    }
+
+    var queued = false;
+    function queueFit() {
+      if (queued) return;
+      queued = true;
+      requestAnimationFrame(function () { queued = false; fit(); });
+    }
+
+    fit();
+    window.addEventListener('resize', queueFit);
+    // Web fonts and the logo change widths after first paint.
+    if (document.fonts && document.fonts.ready) document.fonts.ready.then(queueFit);
+    var logo = header.querySelector('.brand-logo');
+    if (logo && !logo.complete) logo.addEventListener('load', queueFit);
   })();
 </script>

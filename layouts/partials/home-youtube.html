@@ -1,0 +1,115 @@
+{{/* "On YouTube" homepage section.
+
+     Pulls the channel's public Atom feed at build time (no API key) — so it
+     refreshes whenever the site rebuilds. The channel id comes from
+     data/socials.yaml so there is one source of truth; it must be a
+     /channel/UC… URL (the feed doesn't accept @handles).
+
+     The feed only carries the latest ~15 uploads, mostly Shorts. Layout:
+     the newest regular video (16:9) as a feature, then a row of the newest
+     Shorts (9:16). Either part is skipped if the feed has none.
+
+     Thumbnails link to YouTube (works without JS); youtube-facade.js swaps in
+     the iframe on click so the page doesn't load several players up front.
+
+     A failed fetch logs a warning and renders nothing — it must never break
+     the build. */}}
+
+{{ $cfg := site.Data.homepage.youtube | default dict }}
+{{ if ne $cfg.enabled false }}
+{{ $channelURL := site.Data.socials.youtube | default "" }}
+{{ $m := findRESubmatch `/channel/(UC[\w-]+)` $channelURL 1 }}
+{{ with $m }}
+  {{ $channelID := index (index . 0) 1 }}
+  {{ $feedURL := printf "https://www.youtube.com/feeds/videos.xml?channel_id=%s" $channelID }}
+  {{ $shortsCount := $cfg.shorts_count | default 4 }}
+
+  {{ $entries := slice }}
+  {{ with try (resources.GetRemote $feedURL) }}
+    {{ with .Err }}
+      {{ warnf "home-youtube: could not fetch %s: %s" $feedURL . }}
+    {{ else with .Value }}
+      {{ with try (. | transform.Unmarshal) }}
+        {{ with .Err }}
+          {{ warnf "home-youtube: could not parse feed: %s" . }}
+        {{ else with .Value }}
+          {{ $raw := .entry }}
+          {{/* A feed with a single entry unmarshals to a map, not a list. */}}
+          {{ if reflect.IsMap $raw }}{{ $raw = slice $raw }}{{ end }}
+          {{ $entries = $raw | default slice }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  {{ $videos := slice }}
+  {{ $shorts := slice }}
+  {{ range $entries }}
+    {{ $id := .videoId }}
+    {{ $href := .link | default dict }}
+    {{ $href = index $href "-href" | default "" }}
+    {{/* Titles are full of hashtags; they read badly as captions. */}}
+    {{ $title := .title | replaceRE `\s*#[\p{L}\p{N}_]+` "" | strings.TrimSpace }}
+    {{ $v := dict "id" $id "title" $title "url" $href }}
+    {{ if strings.Contains $href "/shorts/" }}
+      {{ $shorts = $shorts | append $v }}
+    {{ else }}
+      {{ $videos = $videos | append $v }}
+    {{ end }}
+  {{ end }}
+  {{ $shorts = first $shortsCount $shorts }}
+
+  {{/* Fill the space if the channel's recent mix is light on Shorts:
+       a short Shorts row gets one extra row of 2 regular videos, no Shorts
+       at all gets two rows (4). The first regular video is the feature. */}}
+  {{ $featured := index $videos 0 }}
+  {{ $moreCount := 0 }}
+  {{ if eq (len $shorts) 0 }}
+    {{ $moreCount = 4 }}
+  {{ else if lt (len $shorts) $shortsCount }}
+    {{ $moreCount = 2 }}
+  {{ end }}
+  {{ $more := slice }}
+  {{ if gt (len $videos) 1 }}
+    {{ $more = first $moreCount (after 1 $videos) }}
+  {{ end }}
+
+  {{ if or $videos $shorts }}
+  <section class="home-youtube" aria-labelledby="home-youtube-heading">
+    <div class="home-youtube-head">
+      <h2 id="home-youtube-heading">{{ $cfg.heading | default "On YouTube" }}</h2>
+      <a class="home-youtube-subscribe" href="{{ $channelURL }}?sub_confirmation=1" target="_blank" rel="noopener">
+        {{ partial "icons/youtube.svg" . }}<span>Subscribe</span>
+      </a>
+    </div>
+
+    {{ with $featured }}
+      {{ partial "home-youtube-card.html" (dict "v" . "kind" "video") }}
+    {{ end }}
+
+    {{ with $shorts }}
+      <div class="home-youtube-shorts">
+        {{ range . }}
+          {{ partial "home-youtube-card.html" (dict "v" . "kind" "short") }}
+        {{ end }}
+      </div>
+    {{ end }}
+
+    {{ with $more }}
+      <div class="home-youtube-videos">
+        {{ range . }}
+          {{ partial "home-youtube-card.html" (dict "v" . "kind" "video") }}
+        {{ end }}
+      </div>
+    {{ end }}
+  </section>
+
+  {{ with resources.Get "js/youtube-facade.js" }}
+    {{ $js := . | minify | fingerprint }}
+    <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" crossorigin="anonymous" defer></script>
+  {{ end }}
+  {{ end }}
+{{ else }}
+  {{ with $channelURL }}{{ warnf "home-youtube: socials.youtube must be a /channel/UC… URL, got %q" . }}{{ end }}
+{{ end }}
+{{ end }}

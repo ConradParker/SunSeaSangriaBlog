@@ -80,6 +80,7 @@
   color: var(--color-text);
   text-decoration: none;
   font-family: 'Lato', sans-serif;
+  white-space: nowrap; /* keep "Paws & Mischief" on one line so fit-detection is honest */
 }
 .primary-nav a:hover,
 .primary-nav a.is-active { color: var(--color-terracotta); }
@@ -99,42 +100,43 @@
   display: block;
 }
 
-@media (max-width: 720px) {
+/* Compact (hamburger) mode. Toggled by the script in site-header.html when
+   brand / nav / socials no longer fit side by side — the menu is CMS-driven,
+   so a fixed breakpoint would go stale whenever an item is added. */
+.site-header.is-compact .site-header-inner {
   /* Revert from desktop grid to flex; the wrapper becomes a real dropdown */
-  .site-header-inner {
-    display: flex;
-    justify-content: space-between;
-    position: relative;
-  }
-  .nav-toggle { display: flex; }
-  .nav-wrap {
-    display: none;
-    position: absolute;
-    top: 100%;
-    left: 0; right: 0;
-    background: var(--color-white);
-    border-bottom: 1px solid var(--color-border);
-    padding: var(--space-md) var(--space-xl);
-    flex-direction: column;
-    align-items: flex-start;
-    gap: var(--space-md);
-    box-shadow: var(--shadow-md);
-  }
-  .nav-wrap.is-open { display: flex; }
-  .primary-nav {
-    flex-direction: column;
-    gap: var(--space-md);
-    width: 100%;
-    justify-self: stretch;
-  }
-  .socials--nav {
-    padding-left: 0;
-    border-left: none;
-    padding-top: var(--space-md);
-    border-top: 1px solid var(--color-border);
-    width: 100%;
-    justify-self: stretch;
-  }
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}
+.site-header.is-compact .nav-toggle { display: flex; }
+.site-header.is-compact .nav-wrap {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0; right: 0;
+  background: var(--color-white);
+  border-bottom: 1px solid var(--color-border);
+  padding: var(--space-md) var(--space-xl);
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--space-md);
+  box-shadow: var(--shadow-md);
+}
+.site-header.is-compact .nav-wrap.is-open { display: flex; }
+.site-header.is-compact .primary-nav {
+  flex-direction: column;
+  gap: var(--space-md);
+  width: 100%;
+  justify-self: stretch;
+}
+.site-header.is-compact .socials--nav {
+  padding-left: 0;
+  border-left: none;
+  padding-top: var(--space-md);
+  border-top: 1px solid var(--color-border);
+  width: 100%;
+  justify-self: stretch;
 }
 
 /* ── Footer ─────────────────────────────────────────────────────────────── */

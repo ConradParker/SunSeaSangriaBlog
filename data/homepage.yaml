@@ -22,3 +22,7 @@ newsletter:
     the real story straight to their inbox
   cta_label: Pull Up a Lounger — Join Free
   url: https://sunseasangria.substack.com
+youtube:
+  enabled: true
+  heading: On YouTube
+  shorts_count: 4

@@ -7,6 +7,19 @@ title = 'Sun Sea Sangria'
 theme = 'paige'
 copyright = '© 2025 Sun Sea Sangria. All rights reserved.'
 
+# resources.GetRemote (homepage YouTube feed) caches forever by default, which
+# would freeze the feed in local dev. Netlify builds start with no cache.
+[caches.getresource]
+  dir = ":cacheDir/:project"
+  maxAge = "1h"
+
+# Paige registers application/atom+xml with suffix "xml", which makes Hugo's
+# GetRemote fail to resolve ANY remote XML ("failed to resolve media type") —
+# that broke the homepage YouTube feed. The site doesn't emit Atom (feeds are
+# rss.xml via application/rss+xml), so moving Atom off "xml" is safe.
+[mediaTypes."application/atom+xml"]
+  suffixes = ["atom"]
+
 [taxonomies]
   series = "series"
 
@@ -38,14 +51,9 @@ copyright = '© 2025 Sun Sea Sangria. All rights reserved.'
     kind = "page"
     path = "/*"
 
-# Home and Blog have no editable content pages with `menu_weight`, so they
-# live here. Everything else is driven by the `menu_weight` field on each
-# page or series (set via the CMS).
-[[menu.main]]
-  name = "Home"
-  url = "/"
-  weight = 10
-
+# Blog has no editable content page with `menu_weight`, so it lives here.
+# Everything else is driven by the `menu_weight` field on each page or series
+# (set via the CMS). There's deliberately no Home item: the logo links home.
 [[menu.main]]
   name = "Blog"
   url = "/blog/"

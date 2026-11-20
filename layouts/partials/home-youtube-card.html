@@ -1,0 +1,13 @@
+{{/* One YouTube card. Usage:
+       {{ partial "home-youtube-card.html" (dict "v" $video "kind" "video"|"short") }}
+     $video = dict id/title/url from home-youtube.html.
+     For Shorts, hqdefault is 4:3 with the vertical frame centred; object-fit:
+     cover in the 9:16 box crops exactly to that frame. */}}
+{{ $v := .v }}
+<a class="yt-card yt-card--{{ .kind }}" href="{{ $v.url }}" data-yt-id="{{ $v.id }}" target="_blank" rel="noopener">
+  <span class="yt-card-media">
+    <img src="https://i.ytimg.com/vi/{{ $v.id }}/hqdefault.jpg" alt="" loading="lazy" width="480" height="360">
+    <span class="yt-card-play" aria-hidden="true"></span>
+  </span>
+  <span class="yt-card-title">{{ $v.title }}</span>
+</a>
