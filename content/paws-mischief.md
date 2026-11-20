@@ -36,7 +36,7 @@ It’s a short illustrated book (Isabella did the drawings). Perfect for little 
 
 ###### **Get your copy on Amazon.**
 
-###### Free to read with Kindle Unlimited, or available to buy on:
+Free to read with Kindle Unlimited, or available to buy on:
 
 * **Amazon.co.uk (UK)** — £1.99
   [ amazon.co.uk/dp/B0H5TKLSSP](https://www.amazon.co.uk/dp/B0H5TKLSSP)
