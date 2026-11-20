@@ -36,7 +36,7 @@ It’s a short illustrated book (Isabella did the drawings). Perfect for little 
 
 ###### **Get your copy on Amazon.**
 
-###### Free to read with Kindle Unlimited, or available to buy on:
+Free to read with Kindle Unlimited, or available to buy on:
 
 * **Amazon.co.uk (UK)** — £1.99
   [ amazon.co.uk/dp/B0H5TKLSSP](https://www.amazon.co.uk/dp/B0H5TKLSSP)
@@ -49,7 +49,7 @@ It’s a short illustrated book (Isabella did the drawings). Perfect for little 
 
 If you do read it, a short review on Amazon would mean the world right now. Those early ones make a real difference.
 
-###### **Not sure yet? Read Chapter 1 for free**
+**Not sure yet? Read Chapter 1 for free**
 
 You can still read the first chapter right here on the blog.
 [Read Chapter 1 here for free](https://sunseasangria.com/blog/2026-01-15-the-great-puddle-mystery-snoopys-first-day/)
