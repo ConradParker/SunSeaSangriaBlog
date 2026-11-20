@@ -10,10 +10,11 @@ menu_weight: 70
 ---
 
 
-# **Paws & Mischief**
+**Paws & Mischief**
 
-**Tales of a Tail-Wagging Troublemaker**
- *By Joanne Maddison · Illustrated by Isabella Parker*
+**Tales of a Tail Wagging Troublemaker**
+*By Joanne Maddison · Illustrated by Isabella Parker*
+
 
 
 
