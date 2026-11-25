@@ -18,6 +18,8 @@ Pull up a lounger (and maybe a light jumper). The Christmas lights are starting 
 
 I’ve pulled together the confirmed dates we know so far for the main markets, special nights and shows. Programmes are still being finalised in a few towns,** *so always double-check the official tourist office or ayuntamiento page before you set off*.** Things can shift by a day or two.
 
+*I will update this blog when I receive more dates and events during the next few weeks. I'll add some more photos of the lights when they are switched on,*
+
 {{< image-caption src="/images/1.png" >}}Our fun Christmas a few years ago{{< /image-caption >}}
 
 **Early December markets (the busy weekend)**
