@@ -16,7 +16,9 @@ Hola, Jolly Holly Terrace Crew! ☀️🎄
 
 Pull up a lounger and dig out a light jumper. The first Christmas lights are flickering on, markets are starting to pop up, and the Costa Blanca North is doing what it does best, blending real local traditions with that easy seaside feel we all love.
 
-I’ve rounded up the dates we know so far for the main markets, special nights and shows. A few programmes are still being finalised, so always double-check the official tourist office or ayuntamiento page before you set off. Things can shift by a day or two. I’ll keep updating this as more details land, and I’ll add photos of the lights once they’re properly switched on.
+I’ve rounded up the dates we know so far for the main markets, special nights and shows. A few programmes are still being finalised, so always double-check the official tourist office or ayuntamiento page before you set off. Things can shift by a day or two.
+
+ *I’ll keep updating this as more details land, and I’ll add photos of the lights once they’re switched on.*
 
 {{< image-caption src="/images/costa-blanca-christmas.png" >}}Christmas on the Costa Blanca North{{< /image-caption >}}
 
