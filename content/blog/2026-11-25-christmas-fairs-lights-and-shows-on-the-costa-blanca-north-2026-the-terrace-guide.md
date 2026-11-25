@@ -90,7 +90,7 @@ If you’re looking for a real English-style panto, keep an eye on Benidorm venu
 
 That’s the current terrace picture. Have you spotted a local market or show I should add? Drop it in the comments, and I’ll keep the list updated.
 
-Have a lovely jolly one,
+Have a lovely jolly one, you filthy animals. (Home Alone is a must this Christmas) 
 
 Joanne 🌊🎄
 
