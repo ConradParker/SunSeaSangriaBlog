@@ -20,7 +20,7 @@ I’ve pulled together the confirmed dates we know so far for the main markets, 
 
 *I will update this blog when I receive more dates and events during the next few weeks. I'll add some more photos of the lights when they are switched on,*
 
-{{< image-caption src="/images/1.png" >}}Our fun Christmas a few years ago{{< /image-caption >}}
+{{< image-caption src="/images/costa-blanca-christmas.png" >}}Christmas on the Costa Blanca North{{< /image-caption >}}
 
 **Early December markets (the busy weekend)**
 
@@ -48,7 +48,7 @@ The long bank holiday around the 6th is when a lot of the North lights up at onc
 
 •  Calpe — Lights switch-on Friday 27 November at 19:00 in Plaza de la Sort, with a pasacalle and a merienda in Plaza de la Villa. Christmas concert by the Unión Musical Calp Ifach on Saturday 19 December at 19:30 in the Casa de Cultura (free until full). Other concerts and shows at the Casa de Cultura through December — check**[ cultura.calp.es](cultura.calp.es)**.
 
-{{< image-caption src="/images/christmas-.png" >}}Christmas Markets on the Costa Blanca North {{< /image-caption >}}
+{{< image-caption src="/images/christmas-.png" >}}Christmas Markets on the Costa Blanca North{{< /image-caption >}}
 
 **Shows and special nights**
 
