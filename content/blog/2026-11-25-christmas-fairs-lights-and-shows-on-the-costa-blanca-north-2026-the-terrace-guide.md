@@ -18,7 +18,9 @@ Pull up a lounger (and maybe a light jumper). The Christmas lights are starting 
 
 I’ve pulled together the confirmed dates we know so far for the main markets, special nights and shows. Programmes are still being finalised in a few towns,** *so always double-check the official tourist office or ayuntamiento page before you set off*.** Things can shift by a day or two.
 
-{{< image-caption src="/images/142196081_10157387378531642_4982254106382501893_n.jpg" >}}Our fun Christmas a few years ago{{< /image-caption >}}
+*I will update this blog when I receive more dates and events during the next few weeks. I'll add some more photos of the lights when they are switched on,*
+
+{{< image-caption src="/images/1.png" >}}Our fun Christmas a few years ago{{< /image-caption >}}
 
 **Early December markets (the busy weekend)**
 
@@ -34,7 +36,7 @@ The long bank holiday around the 6th is when a lot of the North lights up at onc
 
 •  Confrides (Guadalest Valley) — Christmas market with a proper ice rink and Father Christmas’s house, 4–6 December. Great family day out in the hills.
 
-{{< image-caption src="/images/916642443_10162879382176642_1231546743421779529_n.jpg" >}}Missy at Christmas{{< /image-caption >}}
+{{< image-caption src="/images/1.png" >}}Christmas with the Sun Sea Sangria family{{< /image-caption >}}
 
 **Later in December**
 
@@ -46,7 +48,7 @@ The long bank holiday around the 6th is when a lot of the North lights up at onc
 
 •  Calpe — Lights switch-on Friday 27 November at 19:00 in Plaza de la Sort, with a pasacalle and a merienda in Plaza de la Villa. Christmas concert by the Unión Musical Calp Ifach on Saturday 19 December at 19:30 in the Casa de Cultura (free until full). Other concerts and shows at the Casa de Cultura through December — check**[ cultura.calp.es](cultura.calp.es)**.
 
-{{< image-caption src="/images/511114619_10160742468741642_8535359557671766798_n.jpg" >}}{{< /image-caption >}}
+{{< image-caption src="/images/christmas-.png" >}}Christmas Markets on the Costa Blanca North {{< /image-caption >}}
 
 **Shows and special nights**
 
@@ -88,15 +90,11 @@ If you’re looking for a real English-style panto, keep an eye on Benidorm venu
 
 That’s the current terrace picture. Have you spotted a local market or show I should add? Drop it in the comments, and I’ll keep the list updated.
 
-Have a lovely jolly one,
+Have a lovely jolly one, you filthy animals. (The Home Alone Movie is a must this Christmas) 
 
 Joanne 🌊🎄
 
 Sun Sea Sangria — Costa Blanca North
-
-{{< image-caption src="/images/514416991_10160794492741642_5083153415045249665_n.jpg" >}}Christmas with the family{{< /image-caption >}}
-
-
 
 **I’m Joanne from Sun Sea Sangria** — the Terrace Crew’s notes from the Costa Blanca North.
 
