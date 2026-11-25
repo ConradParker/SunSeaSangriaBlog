@@ -18,7 +18,7 @@ Pull up a lounger (and maybe a light jumper). The Christmas lights are starting 
 
 I’ve pulled together the confirmed dates we know so far for the main markets, special nights and shows. Programmes are still being finalised in a few towns,** *so always double-check the official tourist office or ayuntamiento page before you set off*.** Things can shift by a day or two.
 
-{{< image-caption src="/images/142196081_10157387378531642_4982254106382501893_n.jpg" >}}Our fun Christmas a few years ago{{< /image-caption >}}
+{{< image-caption src="/images/1.png" >}}Our fun Christmas a few years ago{{< /image-caption >}}
 
 **Early December markets (the busy weekend)**
 
@@ -95,8 +95,6 @@ Joanne 🌊🎄
 Sun Sea Sangria — Costa Blanca North
 
 {{< image-caption src="/images/514416991_10160794492741642_5083153415045249665_n.jpg" >}}Christmas with the family{{< /image-caption >}}
-
-
 
 **I’m Joanne from Sun Sea Sangria** — the Terrace Crew’s notes from the Costa Blanca North.
 
