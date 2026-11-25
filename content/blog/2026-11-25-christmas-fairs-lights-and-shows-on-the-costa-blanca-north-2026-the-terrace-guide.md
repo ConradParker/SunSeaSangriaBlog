@@ -14,7 +14,7 @@ popular: true
 ---
 Hola, Jolly Holly Terrace Crew! ☀️🎄
 
-Pull up a lounger and dig out a light jumper. The first Christmas lights are flickering on, markets are starting to pop up, and the Costa Blanca North is doing what it does best, blending proper local traditions with that easy seaside feel we all love.
+Pull up a lounger and dig out a light jumper. The first Christmas lights are flickering on, markets are starting to pop up, and the Costa Blanca North is doing what it does best, blending real local traditions with that easy seaside feel we all love.
 
 I’ve rounded up the dates we know so far for the main markets, special nights and shows. A few programmes are still being finalised, so always double-check the official tourist office or ayuntamiento page before you set off. Things can shift by a day or two. I’ll keep updating this as more details land, and I’ll add photos of the lights once they’re properly switched on.
 
@@ -53,7 +53,7 @@ For a wider look across the Costa Blanca, the[ Costa Blanca Magazine Christmas M
 
 Most markets are free to wander (the Pedreguer garden is the main paid entry). Parking gets busier on the 4–6 December weekend, so go earlier in the day or walk from a side street. Take a jacket — it cools quickly once the sun drops. Many events are outdoors, so a jumper or scarf is sensible even if the day has been mild.
 
-The big Three Kings parades (Cabalgatas de Reyes) are still being confirmed in most towns; they usually happen on 5 January and arrive by sea in places like Moraira and Jávea. I’ll update once the full programmes land.
+The big Three Kings parades (Cabalgatas de Reyes) are still being confirmed in most towns; they usually happen on the 5th of  January and arrive by sea in places like Moraira and Jávea. I’ll update once the full programmes land.
 
 If you’re looking for a real English-style panto, keep an eye on Benidorm venues and local English theatre groups; they often pop up closer to the date. The Spanish side of Christmas here is more markets, belenes, concerts and that lovely candlelit night in Dénia.
 
@@ -63,6 +63,8 @@ Have a lovely jolly one, you filthy animals. (The Home Alone Movie is a must thi
 
 Joanne 🌊🎄
  Sun Sea Sangria — Costa Blanca North
+
+{{< image-caption src="" >}}{{< /image-caption >}}
 
 **I’m Joanne from Sun Sea Sangria** — the Terrace Crew’s notes from the Costa Blanca North.
 
