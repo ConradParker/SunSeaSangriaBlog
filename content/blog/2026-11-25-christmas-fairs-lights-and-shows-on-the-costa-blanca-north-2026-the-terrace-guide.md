@@ -12,14 +12,13 @@ comments: true
 socials: true
 popular: true
 ---
-Hola Jolly Holly Terrace Crew! ☀️🎄
+Hola, Jolly Holly Terrace Crew! ☀️🎄
 
-Pull up a lounger and dig out a light jumper. The first Christmas lights are flickering on, markets are starting to pop up, and the Costa Blanca North is doing what it does best, blending proper local traditions with that easy seaside feel we all love.
+Pull up a lounger and dig out a light jumper. The first Christmas lights are flickering on, markets are starting to pop up, and the Costa Blanca North is doing what it does best, blending real local traditions with that easy seaside feel we all love.
 
-I’ve rounded up the dates we know so far for the main markets, special nights and shows. A few programmes are still being finalised, so always double-check the official tourist office or ayuntamiento page before you set off. Things can shift by a day or two. I’ll keep updating this as more details land, and I’ll add photos of the lights once they’re properly switched on.
+I’ve rounded up the dates we know so far for the main markets, special nights and shows. A few programmes are still being finalised, so always double-check the official tourist office or ayuntamiento page before you set off. Things can shift by a day or two.
 
-
-
+ *I’ll keep updating this as more details land, and I’ll add photos of the lights once they’re switched on.*
 
 {{< image-caption src="/images/costa-blanca-christmas.png" >}}Christmas on the Costa Blanca North{{< /image-caption >}}
 
@@ -33,8 +32,6 @@ The long bank holiday around the 6th is when a lot of the North lights up at onc
 * **Pedreguer** (just inland) — Over 60 craftspeople at the lovely Jardín de l’Albarda, 28–29 November. Adults €9, children 7–13 €5, under 7s free. Saturday 10–14:30, Sunday 10–14:00. Perfect if you fancy a garden stroll while you shop. More info:[ jardinalbarda.com](https://www.jardinalbarda.com/visitar-el-jardin-de-lalbarda/)
 * **Confrides** (Guadalest Valley) — Christmas market with a proper ice rink and Father Christmas’s house, 4–6 December. Great family day out in the hills.
 
-
-
 {{< image-caption src="/images/1.png" >}}Christmas with the Sun Sea Sangria family{{< /image-caption >}}
 
 **Later in December**
@@ -43,8 +40,6 @@ The long bank holiday around the 6th is when a lot of the North lights up at onc
 * **Polop & Finestrat** — Markets in the historic centres, 11–13 December (Polop has Santa’s house and family activities).
 * **Dénia’s Nit de la Llum** — Saturday 12 December. Thousands of candles light up the old town, and shops stay open late (many until 21:30, Municipal Market until 23:00). Magical and very local. Free entry. Check[ Turismo de Dénia](https://denia.net/en/) or the[ Valencia Bonita preview](https://www.valenciabonita.es/2026/11/14/nit-de-la-llum-denia-2026/) closer to the date.
 * **Calpe** — Lights switch-on Friday 27 November at 19:00 in Plaza de la Sort, with a pasacalle and a merienda in Plaza de la Villa. Christmas concert by the Unión Musical Calp Ifach on Saturday 19 December at 19:30 in the Casa de Cultura (free until full). Other concerts and shows at the Casa de Cultura through December — check[ cultura.calp.es](https://cultura.calp.es/en/) or the[ Calp Digital announcement](https://calpdigital.es/art/12514/calp-encendido-luces-navidad-27-noviembre-2026).
-
-
 
 {{< image-caption src="/images/christmas-.png" >}}Christmas Markets on the Costa Blanca North{{< /image-caption >}}
 
@@ -60,7 +55,7 @@ For a wider look across the Costa Blanca, the[ Costa Blanca Magazine Christmas M
 
 Most markets are free to wander (the Pedreguer garden is the main paid entry). Parking gets busier on the 4–6 December weekend, so go earlier in the day or walk from a side street. Take a jacket — it cools quickly once the sun drops. Many events are outdoors, so a jumper or scarf is sensible even if the day has been mild.
 
-The big Three Kings parades (Cabalgatas de Reyes) are still being confirmed in most towns; they usually happen on 5 January and arrive by sea in places like Moraira and Jávea. I’ll update once the full programmes land.
+The big Three Kings parades (Cabalgatas de Reyes) are still being confirmed in most towns; they usually happen on the 5th of  January and arrive by sea in places like Moraira and Jávea. I’ll update once the full programmes land.
 
 If you’re looking for a real English-style panto, keep an eye on Benidorm venues and local English theatre groups; they often pop up closer to the date. The Spanish side of Christmas here is more markets, belenes, concerts and that lovely candlelit night in Dénia.
 
@@ -71,8 +66,7 @@ Have a lovely jolly one, you filthy animals. (The Home Alone Movie is a must thi
 Joanne 🌊🎄
  Sun Sea Sangria — Costa Blanca North
 
-
-
+{{< image-caption src="" >}}{{< /image-caption >}}
 
 **I’m Joanne from Sun Sea Sangria** — the Terrace Crew’s notes from the Costa Blanca North.
 
